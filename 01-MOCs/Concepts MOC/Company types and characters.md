@@ -6,3 +6,5 @@ dates:: 2025-02-12
 
 You don’t need to be traditional about your industry.
 It’s only important how your organization works in itself and if it’s efficient.
+
+Test

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Company types and characters",
+      "path": "01-MOCs/Concepts MOC/Company types and characters.md"
+    },
+    {
       "basename": "Taking a bet",
       "path": "01-MOCs/Belucid MOC ™/Taking a bet.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LOG BB",
       "path": "01-MOCs/Observation MOC/LOG BB.md"
-    },
-    {
-      "basename": "Intuition",
-      "path": "01-MOCs/Observation MOC/Intuition.md"
     }
   ],
   "omittedPaths": [],

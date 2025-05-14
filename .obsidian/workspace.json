@@ -67,8 +67,7 @@
               "title": "Release Notes 1.8.10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,6 +298,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01-MOCs/Concepts MOC/Company types and characters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -326,7 +326,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Company types and characters"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -342,6 +342,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
@@ -354,7 +355,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "7ce6e309a74fe25a",
   "lastOpenFiles": [
     "01-MOCs/Belucid MOC ™/Self Subset.md",
     "01-MOCs/Belucid MOC ™/Organization-zoom in- simulation.md",
