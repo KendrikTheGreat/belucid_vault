@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "cede0b627ebae1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2db9ad0ed3a85b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Creatures from a different dimension.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Creatures from a different dimension.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dreamventures MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Creatures from a different dimension.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Surprise & Tunnel Horror Slaughter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Creatures from a different dimension.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dreamventures MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Trust the process (Kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":179},\"to\":{\"line\":11,\"ch\":180}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/The Riddle of Two Paths (Kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dreamventures MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2022-09-23.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bills MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Start Here.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"My PKM Tags.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"My PKM Folders.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"LYT Projects 🏗.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"LYT Projects 🏗.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a2db9ad0ed3a85b2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/MOCs/Projects 🏗.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Creatures",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "82cc58494290ef52",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "000a94d7520611ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b5c6391f1b9b1d",
+        "type": "tabs",
+        "dimension": 58.64197530864199,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Creatures from a different dimension.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 41.35802469135801,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creatures from a different dimension.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "db24a37c2b64aa6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Creatures from a different dimension.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Creatures from a different dimension.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8835018712149804,
+                  "close": true
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "active": "a2db9ad0ed3a85b2",
+  "lastOpenFiles": [
+    "Dreamventures MOC.md",
+    "Creatures from a different dimension.md",
+    "The Surprise & Tunnel Horror Slaughter.md",
+    "Cards/Trust the process (Kit).md",
+    "Cards/The Riddle of Two Paths (Kit).md",
+    "Calendar/2022-09-23.md",
+    "Home.md",
+    "Bills MOC.md",
+    "+ Start Here.md",
+    "My PKM Tags.md"
+  ]
+}

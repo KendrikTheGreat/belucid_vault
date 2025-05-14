@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Home",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Dreamventures",
+      "color": {
+        "a": 1,
+        "rgb": 25086
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.98263157894737,
+  "lineSizeMultiplier": 1.85368421052632,
+  "collapse-forces": false,
+  "centerStrength": 0.289473684210526,
+  "repelStrength": 8.31578947368421,
+  "linkStrength": 0.721052631578947,
+  "linkDistance": 235,
+  "scale": 0.43812726516304235,
+  "close": true
+}

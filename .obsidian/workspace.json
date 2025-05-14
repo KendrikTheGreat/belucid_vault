@@ -1,0 +1,405 @@
+{
+  "main": {
+    "id": "cede0b627ebae1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7243ca69ab66e50d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ce6e309a74fe25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-MOCs/Concepts MOC/Company types and characters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Company types and characters"
+            }
+          },
+          {
+            "id": "42ebe6992bb1864a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-MOCs/Belucid MOC ™/Taking a bet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Taking a bet"
+            }
+          },
+          {
+            "id": "7534ec9cbc23c54b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d089504644aa450b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Media-Templates/Templates/Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template"
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "82cc58494290ef52",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5014d3386b528c0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b5c6391f1b9b1d",
+        "type": "tabs",
+        "dimension": 58.64197530864199,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Phil Jackson Concept.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Phil Jackson Concept"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "bc389560c3f17951",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 41.35802469135801,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extras/Templates/Template.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "db24a37c2b64aa6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extras/Templates/Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Template"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7563204169049468,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "82cc58494290ef52",
+  "lastOpenFiles": [
+    "01-MOCs/Belucid MOC ™/Self Subset.md",
+    "01-MOCs/Belucid MOC ™/Organization-zoom in- simulation.md",
+    "01-MOCs/Belucid MOC ™/Layers to visualize.md",
+    "01-MOCs/Belucid MOC ™/KPI’s.md",
+    "01-MOCs/Belucid MOC ™/Knowledge Alchemist.md",
+    "01-MOCs/Belucid MOC ™/Jigsaw Pieces.md",
+    "01-MOCs/Belucid MOC ™/How to iterate yourself to success.md",
+    "01-MOCs/Belucid MOC ™/Gametape™.md",
+    "01-MOCs/Belucid MOC ™/GAINXP.md",
+    "01-MOCs/Belucid MOC ™/Document everything!.md",
+    "01-MOCs/Belucid MOC ™/Divine.md",
+    "01-MOCs/Belucid MOC ™/Developing my own Big Toe.md",
+    "01-MOCs/Belucid MOC ™/Creating a new niche.md",
+    "01-MOCs/Belucid MOC ™/Character Attributes.md",
+    "01-MOCs/Belucid MOC ™/Bootstrapping Belucid.md",
+    "01-MOCs/Belucid MOC ™/Belucid MOC ™.md",
+    "01-MOCs/Belucid MOC ™/BELUCID CONCEPT.md",
+    "01-MOCs/Belucid MOC ™/Belucid as client-service-business.md",
+    "01-MOCs/Belucid MOC ™/Artists - styles, empty niches.md",
+    "01-MOCs/People MOC/Wim Hof.md",
+    "01-MOCs/People MOC/Thomas Campbell.md",
+    "01-MOCs/People MOC/Steve Jobs.md",
+    "01-MOCs/People MOC/Robert Green.md",
+    "01-MOCs/People MOC/People MOC.md",
+    "01-MOCs/People MOC/Merry.md",
+    "01-MOCs/People MOC/KendrikTheGreat.md",
+    "9 Auxiliary/Excalidraw",
+    "9 Auxiliary",
+    "Extras/Media/IMG_0163.jpeg",
+    "Extras/Media",
+    "Extras",
+    "Organization Fig..canvas",
+    "Untitled.canvas",
+    "04-Sketches - Canvas/Canvas/Untitled.canvas",
+    "04-Sketches - Canvas/Canvas",
+    "Untitled 1.canvas",
+    "04-Sketches - Canvas/Excalidraw",
+    "04-Sketches - Canvas",
+    "01-MOCs/Artifacts MOC 💠",
+    "01-MOCs/-isms MOC 💬",
+    "01-MOCs/Algorithms MOC",
+    "03-Media-Templates/Media/IMG_0127.jpeg",
+    "03-Media-Templates/Media/OODA.Boyd.svg",
+    "03-Media-Templates/Media/IMG_0110.jpeg",
+    "03-Media-Templates/Media/IMG_0069.jpeg"
+  ]
+}

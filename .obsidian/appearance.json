@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "translucency": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "file-explorer-no-line-wrap",
+    "Colored Sidebar Items",
+    "Notebook Backgrounds",
+    "image-adjustments-by-SIRvb"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "Transducer",
+  "theme": "obsidian",
+  "accentColor": "#ffffff",
+  "showRibbon": true
+}
