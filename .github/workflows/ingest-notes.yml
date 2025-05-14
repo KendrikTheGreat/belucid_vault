@@ -1,0 +1,47 @@
+name: Ingest Obsidian Notes
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Find notes to ingest
+        id: find_notes
+        run: |
+          files=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
+          echo "::set-output name=files::$files"
+
+      - name: Filter frontmatter & call Supabase
+        if: steps.find_notes.outputs.files != ''
+        run: |
+          sudo snap install yq
+          for file in ${{ steps.find_notes.outputs.files }}; do
+            if grep -q '^ingest: true' "$file"; then
+              persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
+              type=$(yq e '.type' "$file")
+              date=$(yq e '.date' "$file")
+              tags=$(yq e '.tags | @json' "$file")
+              content=$(awk '/^---$/{flag++;next}flag==2{exit}flag==1{print}' "$file" | sed '1d;$d' | sed ':a;N;$!ba;s/\n/\\n/g')
+              payload=$(jq -n \
+                --arg pid "$persona_id" \
+                --arg path "$file" \
+                --arg type "$type" \
+                --arg date "$date" \
+                --argjson tags "$tags" \
+                --arg content "$content" \
+                '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }')
+              curl -X POST https://<YOUR_PROJECT>.functions.supabase.co/ingest \
+                -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
+                -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" \
+                -H "Content-Type: application/json" \
+                -d "$payload"
+            fi
+          done
