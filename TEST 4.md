@@ -12,3 +12,4 @@ If you see this in your journal_entries table, it worked!
 Test baby test! Anoooother one.
 Anooooother one. Please work baby
 Come on..pleasseeeeeuuhhh
+Dude. come on, lets go...pleaseeee
