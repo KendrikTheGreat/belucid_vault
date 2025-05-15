@@ -66,8 +66,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.10"
             }
+          },
+          {
+            "id": "61b51f58bac1a69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEST"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -298,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-MOCs/Concepts MOC/Company types and characters.md",
+                "file": "TEST.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -326,7 +351,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Company types and characters"
+              "title": "Graph of TEST"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -355,8 +380,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ce6e309a74fe25a",
+  "active": "61b51f58bac1a69b",
   "lastOpenFiles": [
+    "TEST.md",
+    "03-Media-Templates/Templates/Template.md",
+    "01-MOCs/Concepts MOC/Company types and characters.md",
     "playbook-test-000.md",
     "01-MOCs/Belucid MOC ™/Self Subset.md",
     "01-MOCs/Belucid MOC ™/Organization-zoom in- simulation.md",
@@ -380,9 +408,6 @@
     "01-MOCs/People MOC/Wim Hof.md",
     "01-MOCs/People MOC/Thomas Campbell.md",
     "01-MOCs/People MOC/Steve Jobs.md",
-    "01-MOCs/People MOC/Robert Green.md",
-    "01-MOCs/People MOC/People MOC.md",
-    "01-MOCs/People MOC/Merry.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",

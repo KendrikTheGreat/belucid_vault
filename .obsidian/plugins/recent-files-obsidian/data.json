@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "TEST",
+      "path": "TEST.md"
+    },
+    {
+      "basename": "Template",
+      "path": "03-Media-Templates/Templates/Template.md"
+    },
+    {
       "basename": "Company types and characters",
       "path": "01-MOCs/Concepts MOC/Company types and characters.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Observations MOC",
       "path": "01-MOCs/Observation MOC/Observations MOC.md"
-    },
-    {
-      "basename": "LOG 2",
-      "path": "01-MOCs/Observation MOC/LOG 2.md"
-    },
-    {
-      "basename": "LOG BB",
-      "path": "01-MOCs/Observation MOC/LOG BB.md"
     }
   ],
   "omittedPaths": [],
