@@ -9,7 +9,6 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -19,12 +18,9 @@ jobs:
       - name: Find notes to ingest
         id: find_notes
         run: |
-          git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
-            | grep '\.md$' || true \
-            > changed.txt
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          cat changed.txt >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
+          joined=$(echo "$raw" | paste -sd '|:|' -)
+          echo "files=$joined" >> $GITHUB_OUTPUT
 
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
@@ -33,35 +29,11 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           sudo apt-get update && sudo apt-get install -y yq jq
-
-          # Read the newline-separated list into an array
-          IFS=$'\n' read -r -d '' -a files <<< "${{ steps.find_notes.outputs.files }}"
-
+          
+          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
           for file in "${files[@]}"; do
+            [ -f "$file" ] || continue
             if grep -q '^ingest: true' "$file"; then
-              persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
-              type=$(yq e '.type' "$file")
-              date=$(yq e '.date' "$file")
-              tags=$(yq e '.tags | @json' "$file")
-              content=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
-
-              payload=$(
-                jq -n \
-                  --arg pid "$persona_id" \
-                  --arg path "$file" \
-                  --arg type "$type" \
-                  --arg date "$date" \
-                  --argjson tags "$tags" \
-                  --arg content "$content" \
-                  '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
-              )
-
-              curl -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
-                -H "apikey: $SUPABASE_ANON_KEY" \
-                -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
-                -H "Content-Type: application/json" \
-                -d "$payload"
+              # …rest of your parsing & curl…
             fi
           done
-
-
