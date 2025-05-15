@@ -9,8 +9,8 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
-    steps:
 
+    steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
@@ -23,44 +23,44 @@ jobs:
           joined=$(echo "$raw" | paste -sd '|:|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
 
-      - name: Filter frontmatter & call Supabase (debug)
+      - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          set -xeuo pipefail
+          set -euxo pipefail
 
-          # Install parsers
-          sudo apt-get update
-          sudo apt-get install -y yq jq
-
-          # Rebuild the files array
+          # split the joined filenames into an array
           IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
-          echo ">>> Files to process: ${files[*]}"
 
           for file in "${files[@]}"; do
-            echo "---- Handling file: '$file' ----"
-            [[ -f "$file" ]] || { echo "File not found, skipping."; continue; }
+            # skip missing files
+            [[ -f "$file" ]] || { echo "File not found: $file"; continue; }
 
-            # Check the front-matter flag
-            if ! grep -q '^ingest: true' "$file"; then
-              echo "No ingest flag, skipping."
-              continue
-            fi
+            # extract frontmatter block
+            front=$(sed -n '1,/^---$/p' "$file" | sed '1d;$d')
+
+            # only continue if ingest:true
+            ingest_flag=$(echo "$front" | sed -n 's/^ingest:[[:space:]]*//p')
+            [[ "$ingest_flag" == "true" ]] || { echo "Skipping $file (no ingest:true)"; continue; }
 
             persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
-            echo "Parsing front-matter…"
 
-            type=$(yq e '.type' "$file"); echo "type=$type"
-            date=$(yq e '.date' "$file"); echo "date=$date"
-            tags=$(yq e '.tags | @json' "$file"); echo "tags=$tags"
+            # pull out type and date
+            type=$(echo "$front" | sed -n 's/^type:[[:space:]]*//p')
+            date=$(echo "$front" | sed -n 's/^date:[[:space:]]*//p')
 
-            echo "Extracting content…"
+            # build JSON array of tags
+            tags=$(echo "$front" \
+              | awk '/^tags:/,/^$/' \
+              | sed '1d;/^$/d;s/^- //g' \
+              | jq -R -s -c 'split("\n")')
+
+            # strip out the markdown body after frontmatter
             content=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
-            echo "content=${content:0:100}…"
 
-            echo "Building payload…"
+            # construct JSON payload
             payload=$(
               jq -n \
                 --arg pid "$persona_id" \
@@ -71,15 +71,13 @@ jobs:
                 --arg content "$content" \
                 '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
             )
-            echo "payload=${payload:0:100}…"
 
-            echo "Sending to Supabase…"
-            resp=$(curl -s -w "\nHTTP_CODE=%{http_code}" \
+            # POST to Supabase Edge Function
+            curl -s -w "\nHTTP_CODE=%{http_code}" \
               -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
               -H "apikey: $SUPABASE_ANON_KEY" \
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
-              -d "$payload")
-            echo "Response:"
-            echo "$resp"
+              -d "$payload"
           done
+
