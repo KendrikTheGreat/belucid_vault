@@ -1,7 +1,24 @@
+name: Ingest Obsidian Notes
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - name: Find notes to ingest
         id: find_notes
         run: |
-          # produce a newline-separated list of changed .md files
           git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
             | grep '\.md$' || true \
             > changed.txt
@@ -17,7 +34,7 @@
         run: |
           sudo apt-get update && sudo apt-get install -y yq jq
 
-          # read the newline-separated list into a bash array
+          # Read the newline-separated list into an array
           IFS=$'\n' read -r -d '' -a files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
@@ -46,4 +63,5 @@
                 -d "$payload"
             fi
           done
+
 
