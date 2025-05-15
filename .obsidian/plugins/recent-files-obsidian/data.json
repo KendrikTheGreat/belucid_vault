@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "TEST 2",
-      "path": "TEST 2.md"
+      "basename": "TEST 4",
+      "path": "TEST 4.md"
     },
     {
       "basename": "TEST",
       "path": "TEST.md"
+    },
+    {
+      "basename": "TEST 3",
+      "path": "TEST 3.md"
     },
     {
       "basename": "Template",
@@ -195,10 +199,6 @@
     {
       "basename": "Obsessed employ ordinary",
       "path": "01-MOCs/Observation MOC/Obsessed employ ordinary.md"
-    },
-    {
-      "basename": "Observations on \"The Prestige\"",
-      "path": "01-MOCs/Observation MOC/Observations on \"The Prestige\".md"
     }
   ],
   "omittedPaths": [],
