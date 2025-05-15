@@ -9,8 +9,8 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
-
     steps:
+
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
@@ -31,36 +31,35 @@ jobs:
         run: |
           set -euxo pipefail
 
-          # split the joined filenames into an array
+          # split the filenames into an array
           IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
-            # skip missing files
             [[ -f "$file" ]] || { echo "File not found: $file"; continue; }
 
-            # extract frontmatter block
+            # extract front-matter (lines 2 through the line before the second '---')
             front=$(sed -n '1,/^---$/p' "$file" | sed '1d;$d')
 
-            # only continue if ingest:true
+            # ingest flag
             ingest_flag=$(echo "$front" | sed -n 's/^ingest:[[:space:]]*//p')
             [[ "$ingest_flag" == "true" ]] || { echo "Skipping $file (no ingest:true)"; continue; }
 
             persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
-
-            # pull out type and date
             type=$(echo "$front" | sed -n 's/^type:[[:space:]]*//p')
             date=$(echo "$front" | sed -n 's/^date:[[:space:]]*//p')
 
-            # build JSON array of tags
+            # tags: grab lines under 'tags:' until indent ends
             tags=$(echo "$front" \
-              | awk '/^tags:/,/^$/' \
-              | sed '1d;/^$/d;s/^- //g' \
-              | jq -R -s -c 'split("\n")')
+              | awk '/^tags:/{flag=1; next} /^  - /{print $3} flag && !/^  - /{exit}' \
+              | jq -R -s -c 'split("\n")[:-1]')
 
-            # strip out the markdown body after frontmatter
-            content=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
+            # body: print everything after the second '---'
+            content=$(awk 'BEGIN{count=0}
+/^---$/ { count++; next }
+count>=2 { print }
+' "$file" | jq -Rs .)
 
-            # construct JSON payload
+            # build payload
             payload=$(
               jq -n \
                 --arg pid "$persona_id" \
@@ -72,7 +71,7 @@ jobs:
                 '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
             )
 
-            # POST to Supabase Edge Function
+            # send to Supabase
             curl -s -w "\nHTTP_CODE=%{http_code}" \
               -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
               -H "apikey: $SUPABASE_ANON_KEY" \
@@ -80,4 +79,5 @@ jobs:
               -H "Content-Type: application/json" \
               -d "$payload"
           done
+
 
