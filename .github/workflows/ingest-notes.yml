@@ -22,18 +22,68 @@ jobs:
           joined=$(echo "$raw" | paste -sd '|:|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
 
-      - name: Filter frontmatter & call Supabase
+           - name: Filter frontmatter & call Supabase (debug)
         if: steps.find_notes.outputs.files != ''
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          sudo apt-get update && sudo apt-get install -y yq jq
-          
+          set -xeuo pipefail
+
+          # Install parsers
+          sudo apt-get update
+          sudo apt-get install -y yq jq
+
+          # Rebuild the files array
           IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+          echo ">>> Files to process: ${files[*]}"
+
           for file in "${files[@]}"; do
-            [ -f "$file" ] || continue
-            if grep -q '^ingest: true' "$file"; then
-              # …rest of your parsing & curl…
+            echo "---- Handling file: '$file' ----"
+            # skip if somehow the file doesn't exist
+            if [[ ! -f "$file" ]]; then
+              echo "File not found, skipping."
+              continue
             fi
+
+            # Check the front-matter flag
+            if ! grep -q '^ingest: true' "$file"; then
+              echo "No ingest flag, skipping."
+              continue
+            fi
+
+            persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
+            echo "Parsing front-matter…"
+
+            type=$(yq e '.type' "$file"); echo "type=$type"
+            date=$(yq e '.date' "$file"); echo "date=$date"
+            tags=$(yq e '.tags | @json' "$file"); echo "tags=$tags"
+
+            echo "Extracting content…"
+            content=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
+            echo "content=${content:0:100}…"
+
+            echo "Building payload…"
+            payload=$(
+              jq -n \
+                --arg pid "$persona_id" \
+                --arg path "$file" \
+                --arg type "$type" \
+                --arg date "$date" \
+                --argjson tags "$tags" \
+                --arg content "$content" \
+                '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
+            )
+            echo "payload=${payload:0:100}…"
+
+            echo "Sending to Supabase…"
+            resp=$(curl -s -w "\nHTTP_CODE=%{http_code}" \
+              -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
+              -H "apikey: $SUPABASE_ANON_KEY" \
+              -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Content-Type: application/json" \
+              -d "$payload")
+            echo "Response:"
+            echo "$resp"
           done
+
