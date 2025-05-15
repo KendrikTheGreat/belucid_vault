@@ -2,42 +2,63 @@ name: Ingest Obsidian Notes
 
 on:
   push:
+    # Trigger when any markdown file changes
     paths:
       - '**/*.md'
 
 jobs:
   ingest:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      # 1) Checkout the latest code
+      - name: Checkout repo
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
+      # 2) Find changed markdown files
       - name: Find notes to ingest
         id: find_notes
         run: |
-          files=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
-          echo "::set-output name=files::$files"
+          files="$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)"
+          echo "files=$files" >> $GITHUB_OUTPUT
 
+      # 3) Filter & POST to Supabase
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         run: |
-          sudo snap install yq
+          # Install YAML and JSON parsers
+          sudo apt-get update
+          sudo apt-get install -y yq jq
+
+          # Loop through each changed file
           for file in ${{ steps.find_notes.outputs.files }}; do
+            # Only proceed if frontmatter contains 'ingest: true'
             if grep -q '^ingest: true' "$file"; then
               persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
+
+              # Parse frontmatter fields
               type=$(yq e '.type' "$file")
               date=$(yq e '.date' "$file")
               tags=$(yq e '.tags | @json' "$file")
-              content=$(awk '/^---$/{flag++;next}flag==2{exit}flag==1{print}' "$file" | sed '1d;$d' | sed ':a;N;$!ba;s/\n/\\n/g')
-              payload=$(jq -n \
-                --arg pid "$persona_id" \
-                --arg path "$file" \
-                --arg type "$type" \
-                --arg date "$date" \
-                --argjson tags "$tags" \
-                --arg content "$content" \
-                '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }')
+
+              # Extract content (strip frontmatter)
+              content=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
+
+              # Build JSON payload
+              payload=$(
+                jq -n \
+                  --arg pid "$persona_id" \
+                  --arg path "$file" \
+                  --arg type "$type" \
+                  --arg date "$date" \
+                  --argjson tags "$tags" \
+                  --arg content "$content" \
+                  '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
+              )
+
+              # Send to your Supabase ingest function
               curl -X POST https://<YOUR_PROJECT>.functions.supabase.co/ingest \
                 -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
                 -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" \
@@ -45,3 +66,4 @@ jobs:
                 -d "$payload"
             fi
           done
+
