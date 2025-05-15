@@ -90,9 +90,33 @@
               "icon": "lucide-file",
               "title": "TEST"
             }
+          },
+          {
+            "id": "bb30bc7810ffe9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEST 2"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -323,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEST.md",
+                "file": "TEST 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -351,7 +375,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TEST"
+              "title": "Graph of TEST 2"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -380,8 +404,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "61b51f58bac1a69b",
+  "active": "bb30bc7810ffe9a7",
   "lastOpenFiles": [
+    "TEST 2.md",
     "TEST.md",
     "03-Media-Templates/Templates/Template.md",
     "01-MOCs/Concepts MOC/Company types and characters.md",
@@ -407,7 +432,6 @@
     "01-MOCs/Belucid MOC ™/Artists - styles, empty niches.md",
     "01-MOCs/People MOC/Wim Hof.md",
     "01-MOCs/People MOC/Thomas Campbell.md",
-    "01-MOCs/People MOC/Steve Jobs.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",

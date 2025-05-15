@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TEST 2",
+      "path": "TEST 2.md"
+    },
+    {
       "basename": "TEST",
       "path": "TEST.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Observations on \"The Prestige\"",
       "path": "01-MOCs/Observation MOC/Observations on \"The Prestige\".md"
-    },
-    {
-      "basename": "Observations MOC",
-      "path": "01-MOCs/Observation MOC/Observations MOC.md"
     }
   ],
   "omittedPaths": [],
