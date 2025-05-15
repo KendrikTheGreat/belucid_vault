@@ -114,9 +114,33 @@
               "icon": "lucide-file",
               "title": "TEST RUN"
             }
+          },
+          {
+            "id": "d765e5d71afad854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Siedler - Settlers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Siedler - Settlers"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -347,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEST RUN.md",
+                "file": "Siedler - Settlers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -375,7 +399,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TEST RUN"
+              "title": "Graph of Siedler - Settlers"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -404,10 +428,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "411833cb3d38b991",
+  "active": "d765e5d71afad854",
   "lastOpenFiles": [
-    "TEST 5.md",
+    "Siedler - Settlers.md",
     "TEST RUN.md",
+    "TEST 5.md",
     "TEST.md",
     "TEST 3.md",
     "03-Media-Templates/Templates/Template.md",
@@ -431,7 +456,6 @@
     "01-MOCs/Belucid MOC ™/Belucid MOC ™.md",
     "01-MOCs/Belucid MOC ™/BELUCID CONCEPT.md",
     "01-MOCs/Belucid MOC ™/Belucid as client-service-business.md",
-    "01-MOCs/Belucid MOC ™/Artists - styles, empty niches.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",

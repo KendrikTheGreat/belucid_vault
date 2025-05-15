@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Siedler - Settlers",
+      "path": "Siedler - Settlers.md"
+    },
+    {
       "basename": "TEST RUN",
       "path": "TEST RUN.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "On Back to Black",
       "path": "01-MOCs/Observation MOC/On Back to Black.md"
-    },
-    {
-      "basename": "On \"The Last Dance\"",
-      "path": "01-MOCs/Observation MOC/On \"The Last Dance\".md"
     }
   ],
   "omittedPaths": [],
