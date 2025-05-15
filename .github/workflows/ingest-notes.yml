@@ -1,25 +1,13 @@
-name: Ingest Obsidian Notes
-
-on:
-  push:
-    paths:
-      - '**/*.md'
-
-jobs:
-  ingest:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
       - name: Find notes to ingest
         id: find_notes
         run: |
-          files="$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)"
-          echo "files=$files" >> $GITHUB_OUTPUT
+          # produce a newline-separated list of changed .md files
+          git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
+            | grep '\.md$' || true \
+            > changed.txt
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          cat changed.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
@@ -27,22 +15,19 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          # install parsers
           sudo apt-get update && sudo apt-get install -y yq jq
 
-          for file in ${{ steps.find_notes.outputs.files }}; do
+          # read the newline-separated list into a bash array
+          IFS=$'\n' read -r -d '' -a files <<< "${{ steps.find_notes.outputs.files }}"
+
+          for file in "${files[@]}"; do
             if grep -q '^ingest: true' "$file"; then
               persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
-
-              # parse frontmatter
               type=$(yq e '.type' "$file")
               date=$(yq e '.date' "$file")
               tags=$(yq e '.tags | @json' "$file")
-
-              # extract content (strip frontmatter)
               content=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
 
-              # build payload
               payload=$(
                 jq -n \
                   --arg pid "$persona_id" \
@@ -54,7 +39,6 @@ jobs:
                   '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
               )
 
-              # POST to Supabase
               curl -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
                 -H "apikey: $SUPABASE_ANON_KEY" \
                 -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
@@ -62,3 +46,4 @@ jobs:
                 -d "$payload"
             fi
           done
+
