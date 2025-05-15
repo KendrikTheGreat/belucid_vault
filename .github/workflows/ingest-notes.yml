@@ -10,6 +10,7 @@ jobs:
   ingest:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
@@ -22,7 +23,7 @@ jobs:
           joined=$(echo "$raw" | paste -sd '|:|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
 
-           - name: Filter frontmatter & call Supabase (debug)
+      - name: Filter frontmatter & call Supabase (debug)
         if: steps.find_notes.outputs.files != ''
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
@@ -40,11 +41,7 @@ jobs:
 
           for file in "${files[@]}"; do
             echo "---- Handling file: '$file' ----"
-            # skip if somehow the file doesn't exist
-            if [[ ! -f "$file" ]]; then
-              echo "File not found, skipping."
-              continue
-            fi
+            [[ -f "$file" ]] || { echo "File not found, skipping."; continue; }
 
             # Check the front-matter flag
             if ! grep -q '^ingest: true' "$file"; then
@@ -86,4 +83,3 @@ jobs:
             echo "Response:"
             echo "$resp"
           done
-
