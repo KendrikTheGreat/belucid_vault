@@ -17,61 +17,22 @@ jobs:
           fetch-depth: 0
 
       - name: Find notes to ingest
-        id: find_notes
-        run: |
-          raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
-          joined=$(echo "$raw" | paste -sd '|:|' -)
-          echo "files=$joined" >> $GITHUB_OUTPUT
-
-      - name: Filter frontmatter & call Supabase
-        if: steps.find_notes.outputs.files != ''
-        env:
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: |
-          set -euxo pipefail
-
-          # split the filenames into an array
-          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+   :contentReference[oaicite:0]{index=0}
+          echo "files=$joined" >> $GITHUB:contentReference[oaicite:1]{index=1}    env:
+          SUPABASE_ANON_K:contentReference[oaicite:2]{index=2}ts.SUPABASE_SERVICE_ROLE_KEY }}
+ :contentReference[oaicite:3]{index=3}          IFS='|:|':contentReference[oaicite:4]{index=4}iles }}"
 
           for file in "${files[@]}"; do
-            [[ -f "$file" ]] || { echo "File not found: $file"; continue; }
+          :contentReference[oaicite:5]{index=5}t-matter (between the f:contentReference[oaicite:6]{index=6} sed -n:contentReference[oaicite:7]{index=7}8-4631-:contentReference[oaicite:8]{index=8})
+     :contentReference[oaicite:9]{index=9}
+            # Buil:contentReference[oaicite:10]{index=10};/^---$/d;s/^- //p:contentReference[oaicite:11]{index=11}]')
 
-            # extract front-matter (lines 2 through the line before the second '---')
-            front=$(sed -n '1,/^---$/p' "$file" | sed '1d;$d')
-
-            # ingest flag
-            ingest_flag=$(echo "$front" | sed -n 's/^ingest:[[:space:]]*//p')
-            [[ "$ingest_flag" == "true" ]] || { echo "Skipping $file (no ingest:true)"; continue; }
-
-            persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
-            type=$(echo "$front" | sed -n 's/^type:[[:space:]]*//p')
-            date=$(echo "$front" | sed -n 's/^date:[[:space:]]*//p')
-
-            # tags: grab lines under 'tags:' until indent ends
-            tags=$(echo "$front" \
-              | awk '/^tags:/{flag=1; next} /^  - /{print $3} flag && !/^  - /{exit}' \
-              | jq -R -s -c 'split("\n")[:-1]')
-
-            # body: print everything after the second '---'
-            content=$(awk 'BEGIN{count=0}
-/^---$/ { count++; next }
-count>=2 { print }
-' "$file" | jq -Rs .)
-
-            # build payload
-            payload=$(
-              jq -n \
-                --arg pid "$persona_id" \
-                --arg path "$file" \
-                --arg type "$type" \
-                --arg date "$date" \
-                --argjson tags "$tags" \
-                --arg content "$content" \
-                '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
+            # Extr:contentReference[oaicite:12]{index=12}
+            content=$(aw:contentReference[oaicite:13]{index=13}              | jq -Rs:contentReference[oaicite:14]{index=14}yload=$(
+            :contentReference[oaicite:15]{index=15}         :contentReference[oaicite:16]{index=16}ate" :contentReference[oaicite:17]{index=17}h: $path, type: $type, date: $date, tags: $tags, content: $content }'
             )
 
-            # send to Supabase
+            # Send to Supabase
             curl -s -w "\nHTTP_CODE=%{http_code}" \
               -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
               -H "apikey: $SUPABASE_ANON_KEY" \
@@ -79,5 +40,6 @@ count>=2 { print }
               -H "Content-Type: application/json" \
               -d "$payload"
           done
+
 
 
