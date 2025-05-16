@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -371,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Siedler - Settlers.md",
+                "file": "TEST 5.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -399,7 +399,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Siedler - Settlers"
+              "title": "Graph of TEST 5"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -428,10 +428,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d765e5d71afad854",
+  "active": "aa7197e5f64a9a3b",
   "lastOpenFiles": [
-    "Aware Leaders.md",
     "Siedler - Settlers.md",
+    "Aware Leaders.md",
     "TEST RUN.md",
     "TEST 5.md",
     "TEST.md",
