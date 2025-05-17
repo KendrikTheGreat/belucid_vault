@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test 9",
+      "path": "Test 9.md"
+    },
+    {
       "basename": "Test 8",
       "path": "Test 8.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Theta logs",
       "path": "01-MOCs/Observation MOC/Theta logs.md"
-    },
-    {
-      "basename": "Playing against past versions of yourself",
-      "path": "01-MOCs/Observation MOC/Playing against past versions of yourself.md"
     }
   ],
   "omittedPaths": [],

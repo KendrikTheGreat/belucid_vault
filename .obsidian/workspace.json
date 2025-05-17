@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Test 8"
             }
+          },
+          {
+            "id": "a33989dff4b35930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test 9"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -383,7 +407,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test 8.md",
+                "file": "Test 9.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,7 +435,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test 8"
+              "title": "Graph of Test 9"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -440,8 +464,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "45abb0f35ec2b55c",
+  "active": "a33989dff4b35930",
   "lastOpenFiles": [
+    "Test 9.md",
     "Test 8.md",
     "Test 7.md",
     "TEST 6.md",
@@ -467,7 +492,6 @@
     "01-MOCs/Belucid MOC ™/Document everything!.md",
     "01-MOCs/Belucid MOC ™/Divine.md",
     "01-MOCs/Belucid MOC ™/Developing my own Big Toe.md",
-    "01-MOCs/Belucid MOC ™/Creating a new niche.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
