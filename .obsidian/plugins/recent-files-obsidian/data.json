@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test 10",
+      "path": "Test 10.md"
+    },
+    {
       "basename": "Test 9",
       "path": "Test 9.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Aura is the byproduct of obsession",
       "path": "01-MOCs/Obsession MOC/Aura is the byproduct of obsession.md"
-    },
-    {
-      "basename": "Theta logs",
-      "path": "01-MOCs/Observation MOC/Theta logs.md"
     }
   ],
   "omittedPaths": [],

@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Test 9"
             }
+          },
+          {
+            "id": "e54232134ac50192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test 10"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -407,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test 9.md",
+                "file": "Test 10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -435,7 +459,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test 9"
+              "title": "Graph of Test 10"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -464,8 +488,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a33989dff4b35930",
+  "active": "e54232134ac50192",
   "lastOpenFiles": [
+    "Test 10.md",
     "Test 9.md",
     "Test 8.md",
     "Test 7.md",
@@ -491,7 +516,6 @@
     "01-MOCs/Belucid MOC ™/GAINXP.md",
     "01-MOCs/Belucid MOC ™/Document everything!.md",
     "01-MOCs/Belucid MOC ™/Divine.md",
-    "01-MOCs/Belucid MOC ™/Developing my own Big Toe.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
