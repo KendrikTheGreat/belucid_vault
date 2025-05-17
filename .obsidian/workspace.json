@@ -56,24 +56,12 @@
             }
           },
           {
-            "id": "7534ec9cbc23c54b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "aa7197e5f64a9a3b",
+            "id": "cff3ca888a894f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST 5.md",
+                "file": "TEST 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TEST 5"
-            }
-          },
-          {
-            "id": "411833cb3d38b991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST RUN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TEST RUN"
+              "title": "TEST 6"
             }
           },
           {
@@ -140,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -371,7 +335,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEST RUN.md",
+                "file": "TEST 6.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -399,7 +363,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TEST RUN"
+              "title": "Graph of TEST 6"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -428,16 +392,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "411833cb3d38b991",
+  "active": "cff3ca888a894f3b",
   "lastOpenFiles": [
-    "TEST 5.md",
+    "TEST 6.md",
+    "01-MOCs/Belucid MOC ™/Taking a bet.md",
+    "01-MOCs/Concepts MOC/Company types and characters.md",
     "Siedler - Settlers.md",
-    "Aware Leaders.md",
     "TEST RUN.md",
+    "TEST 5.md",
+    "Aware Leaders.md",
     "TEST.md",
     "TEST 3.md",
     "03-Media-Templates/Templates/Template.md",
-    "01-MOCs/Concepts MOC/Company types and characters.md",
     "playbook-test-000.md",
     "01-MOCs/Belucid MOC ™/Self Subset.md",
     "01-MOCs/Belucid MOC ™/Organization-zoom in- simulation.md",
@@ -454,8 +420,6 @@
     "01-MOCs/Belucid MOC ™/Creating a new niche.md",
     "01-MOCs/Belucid MOC ™/Character Attributes.md",
     "01-MOCs/Belucid MOC ™/Bootstrapping Belucid.md",
-    "01-MOCs/Belucid MOC ™/Belucid MOC ™.md",
-    "01-MOCs/Belucid MOC ™/BELUCID CONCEPT.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "TEST 5",
-      "path": "TEST 5.md"
+      "basename": "TEST 6",
+      "path": "TEST 6.md"
+    },
+    {
+      "basename": "Taking a bet",
+      "path": "01-MOCs/Belucid MOC ™/Taking a bet.md"
+    },
+    {
+      "basename": "Company types and characters",
+      "path": "01-MOCs/Concepts MOC/Company types and characters.md"
+    },
+    {
+      "basename": "Siedler - Settlers",
+      "path": "Siedler - Settlers.md"
     },
     {
       "basename": "TEST RUN",
       "path": "TEST RUN.md"
     },
     {
-      "basename": "Siedler - Settlers",
-      "path": "Siedler - Settlers.md"
+      "basename": "TEST 5",
+      "path": "TEST 5.md"
     },
     {
       "basename": "TEST",
@@ -23,14 +35,6 @@
     {
       "basename": "Template",
       "path": "03-Media-Templates/Templates/Template.md"
-    },
-    {
-      "basename": "Company types and characters",
-      "path": "01-MOCs/Concepts MOC/Company types and characters.md"
-    },
-    {
-      "basename": "Taking a bet",
-      "path": "01-MOCs/Belucid MOC ™/Taking a bet.md"
     },
     {
       "basename": "Self Subset",
@@ -195,10 +199,6 @@
     {
       "basename": "Pattern recognition",
       "path": "01-MOCs/Observation MOC/Pattern recognition.md"
-    },
-    {
-      "basename": "On Back to Black",
-      "path": "01-MOCs/Observation MOC/On Back to Black.md"
     }
   ],
   "omittedPaths": [],
