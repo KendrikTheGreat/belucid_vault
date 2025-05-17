@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test 11.md",
+                "file": "Test 12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test 11"
+              "title": "Test 12"
             }
           }
         ],
@@ -431,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test 11.md",
+                "file": "Test 12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -459,7 +459,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test 11"
+              "title": "Graph of Test 12"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -490,7 +490,7 @@
   },
   "active": "e54232134ac50192",
   "lastOpenFiles": [
-    "Test 11.md",
+    "Test 12.md",
     "Test 9.md",
     "Test 8.md",
     "Test 7.md",
