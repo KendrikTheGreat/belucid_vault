@@ -42,10 +42,11 @@ jobs:
           sudo chmod +x /usr/local/bin/yq
 
           # 2) Split our files list back into an array
-          IFS=' ' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+           IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
 
-          for file in "${files[@]}"; do
-            [[ -f "$file" ]] || continue
+           for file in "${files[@]}"; do
+             [[ -f "$file" ]] || continue
+       
 
             # 3) Extract frontmatter block
             front=$(sed -n '1,/^---$/p; /^---$/q' "$file" | sed '1d;$d')
