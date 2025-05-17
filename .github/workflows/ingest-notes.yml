@@ -22,7 +22,6 @@ jobs:
         id: find_notes
         run: |
           raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
-          # join with a unique delimiter
           joined=$(echo "$raw" | paste -sd '|:|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
 
@@ -58,11 +57,14 @@ jobs:
             dt=$(yq e '.date' "$file")
             tg=$(yq e '.tags | @json' "$file")
 
-            # extract the body between the two '---' lines
-            ct=$(awk 'BEGIN{p=0}
-  /^---$/ { if(p==0){p=1;next} else exit }
-  /.*/     { if(p==1) print }
-  ' "$file" | jq -Rs .)
+            # extract the body between the two '---' lines in one quoted awk call
+            ct=$(
+              awk 'BEGIN { p=0 }
+                   /^---$/ { if (p==0) { p=1; next } else { exit } }
+                   p==1 && !/^---$/ { print }
+                  ' "$file" \
+              | jq -Rs .
+            )
 
             # build your payload
             payload=$(
