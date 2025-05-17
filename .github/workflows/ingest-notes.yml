@@ -30,7 +30,7 @@ jobs:
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:        https://sffsnpwqifdiwcepotdb.functions.supabase.co
+          SUPABASE_URL:        https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
           SUPABASE_ANON_KEY:   ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
@@ -78,5 +78,6 @@ jobs:
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
               -d "$payload"
+
           done
           
