@@ -27,62 +27,65 @@ jobs:
 
       # 3️⃣ For each changed file whose frontmatter has ingest: true, POST it to Supabase
       - name: Filter frontmatter & call Supabase
-        if: steps.find_notes.outputs.files != ''
-        env:
-          SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: |
-          set -euxo pipefail
+  if: steps.find_notes.outputs.files != ''
+  env:
+    SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+    SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+    SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+  run: |
+    set -euxo pipefail
 
-          # Install yq (v4) & jq
-          sudo wget -qO /usr/local/bin/yq \
-            https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
-          sudo chmod +x /usr/local/bin/yq
-          sudo apt-get update && sudo apt-get install -y jq
+    # Install yq v4 & jq
+    sudo wget -qO /usr/local/bin/yq \
+      https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
+    sudo chmod +x /usr/local/bin/yq
+    sudo apt-get update && sudo apt-get install -y jq
 
-          # split based on the same delimiter you joined with
-          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+    # Rebuild files array
+    IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+    for file in "${files[@]}"; do
+      [[ -f "$file" ]] || continue
 
-          for file in "${files[@]}"; do
-            [[ -f "$file" ]] || continue
+      echo "────────────────────────────────────"
+      echo "🔍 Processing file: $file"
+      echo "Front-matter block:"
+      sed -n '1,/^---$/p; /^---$/q' "$file" \
+        | sed '1d;$d' 
 
-            # read ingest flag directly with yq
-            ingest=$(yq e '.ingest' "$file")
-            [[ "$ingest" == "true" ]] || continue
-            echo "→ ingesting $file …"
+      ingest=$(yq e '.ingest' "$file")
+      echo "yq .ingest → $ingest"
 
-            # pull fields via yq
-            tp=$(yq e '.type' "$file")
-            dt=$(yq e '.date' "$file")
-            tg=$(yq e '.tags | @json' "$file")
+      if [[ "$ingest" != "true" ]]; then
+        echo "⚠️  Skipping $file; ingest flag is not true"
+        continue
+      fi
 
-            # extract the body between the two '---' lines in one quoted awk call
-            ct=$(
-              awk 'BEGIN { p=0 }
-                   /^---$/ { if (p==0) { p=1; next } else { exit } }
-                   p==1 && !/^---$/ { print }
-                  ' "$file" \
-              | jq -Rs .
-            )
+      echo "✅ ingest: true → posting to Supabase"
+      tp=$(yq e '.type'  "$file"); echo "  type: $tp"
+      dt=$(yq e '.date'  "$file"); echo "  date: $dt"
+      tg=$(yq e '.tags | @json' "$file"); echo "  tags: $tg"
+      ct=$(awk 'BEGIN{p=0}
+               /^---$/ { if(p==0){p=1; next} else exit }
+               p==1 && !/^---$/ { print }
+              ' "$file" | jq -Rs .)
+      echo "  content preview: ${ct:0:80}…"
 
-            # build your payload
-            payload=$(
-              jq -n \
-                --arg persona_id "48245528-5e58-4631-9755-cddd1a40a4a6" \
-                --arg doc_path   "$file" \
-                --arg type       "$tp" \
-                --arg date       "$dt" \
-                --argjson tags   "$tg" \
-                --arg content    "$ct" \
-                '{ persona_id, doc_path, type, date, tags, content }'
-            )
+      payload=$(
+        jq -n \
+          --arg persona_id "48245528-5e58-4631-9755-cddd1a40a4a6" \
+          --arg doc_path   "$file" \
+          --arg type       "$tp" \
+          --arg date       "$dt" \
+          --argjson tags   "$tg" \
+          --arg content    "$ct" \
+          '{ persona_id, doc_path, type, date, tags, content }'
+      )
+      echo "  payload built"
 
-            # POST to your edge function
-            curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
-              -X POST "$SUPABASE_URL/ingest" \
-              -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
-              -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
-              -H "Content-Type: application/json" \
-              -d "$payload"
-          done
+      curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
+        -X POST "$SUPABASE_URL/ingest" \
+        -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
+        -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
+        -H "Content-Type: application/json" \
+        -d "$payload"
+    done
