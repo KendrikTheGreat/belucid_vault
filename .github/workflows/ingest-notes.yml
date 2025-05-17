@@ -11,53 +11,72 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo so we can see what files changed
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
+      # 2️⃣ Grab the list of changed .md files
       - name: Find changed markdown files
         id: find_notes
         run: |
           raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
+          # join with a unique delimiter
           joined=$(echo "$raw" | paste -sd '|:|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
-          
+
+      # 3️⃣ For each changed file whose frontmatter has ingest: true, POST it to Supabase
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL:        https://sffsnpwqifdiwcepotdb.functions.supabase.co
+          SUPABASE_ANON_KEY:   ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          sudo apt-get update && sudo apt-get install -y yq jq
+          set -euxo pipefail
 
-          IFS='|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+          # install our little parsers
+          sudo apt-get update
+          sudo apt-get install -y yq jq
+
+          # rebuild our array from the joined string
+          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+
           for file in "${files[@]}"; do
+            # skip if it somehow doesn't exist
             [[ -f "$file" ]] || continue
+
+            # only ingest if frontmatter starts with ingest: true
             grep -q '^ingest: true' "$file" || continue
 
+            echo "→ ingesting $file …"
+
+            # pull out the fields
             pid="48245528-5e58-4631-9755-cddd1a40a4a6"
             tp=$(yq e '.type' "$file")
             dt=$(yq e '.date' "$file")
             tg=$(yq e '.tags | @json' "$file")
             ct=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
 
+            # build the JSON
             payload=$(
               jq -n \
                 --arg persona_id "$pid" \
-                --arg doc_path "$file" \
-                --arg type "$tp" \
-                --arg date "$dt" \
-                --argjson tags "$tg" \
-                --arg content "$ct" \
+                --arg doc_path   "$file" \
+                --arg type       "$tp" \
+                --arg date       "$dt" \
+                --argjson tags   "$tg" \
+                --arg content    "$ct" \
                 '{ persona_id, doc_path, type, date, tags, content }'
             )
 
-            curl -s -w "\nHTTP=%{http_code}\n" \
-              -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
-              -H "apikey: $SUPABASE_ANON_KEY" \
+            # fire it off
+            curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
+              -X POST "$SUPABASE_URL/ingest" \
+              -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
               -d "$payload"
           done
-
+          
