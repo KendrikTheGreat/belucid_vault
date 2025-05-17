@@ -27,42 +27,48 @@ jobs:
           echo "files=$joined" >> $GITHUB_OUTPUT
 
       # 3️⃣ For each changed file whose frontmatter has ingest: true, POST it to Supabase
-      - name: Filter frontmatter & call Supabase
+           - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:        https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
-          SUPABASE_ANON_KEY:   ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           set -euxo pipefail
 
-          # install our little parsers
-          sudo apt-get update
-          sudo apt-get install -y yq jq
+          # 1) Install a known-good yq v4 binary
+          sudo wget -qO /usr/local/bin/yq \
+            https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
 
-          # rebuild our array from the joined string
-          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+          # 2) Split our files list back into an array
+          IFS=' ' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
-            # skip if it somehow doesn't exist
             [[ -f "$file" ]] || continue
 
-            # only ingest if frontmatter starts with ingest: true
-            grep -q '^ingest: true' "$file" || continue
+            # 3) Extract frontmatter block
+            front=$(sed -n '1,/^---$/p; /^---$/q' "$file" | sed '1d;$d')
+
+            # 4) Check ingest flag
+            ingest=$(printf '%s\n' "$front" | sed -n 's/^ingest:[[:space:]]*//p')
+            [[ "$ingest" == "true" ]] || continue
 
             echo "→ ingesting $file …"
 
-            # pull out the fields
-            pid="48245528-5e58-4631-9755-cddd1a40a4a6"
-            tp=$(yq e '.type' "$file")
-            dt=$(yq e '.date' "$file")
-            tg=$(yq e '.tags | @json' "$file")
+            # 5) Pull out fields
+            tp=$(printf '%s\n' "$front" | sed -n 's/^type:[[:space:]]*//p')
+            dt=$(printf '%s\n' "$front" | sed -n 's/^date:[[:space:]]*//p')
+            tg=$(printf '%s\n' "$front" |
+                   awk '/^tags:/{flag=1;next}/^$/{flag=0}flag' |
+                   sed 's/^- //g' |
+                   jq -R -s -c 'split("\n")[:-1]')
             ct=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
 
-            # build the JSON
+            # 6) Build JSON payload
             payload=$(
               jq -n \
-                --arg persona_id "$pid" \
+                --arg persona_id "48245528-5e58-4631-9755-cddd1a40a4a6" \
                 --arg doc_path   "$file" \
                 --arg type       "$tp" \
                 --arg date       "$dt" \
@@ -71,13 +77,11 @@ jobs:
                 '{ persona_id, doc_path, type, date, tags, content }'
             )
 
-            # fire it off
+            # 7) POST to your edge function
             curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/ingest" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
               -d "$payload"
-
           done
-          
