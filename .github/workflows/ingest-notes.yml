@@ -30,57 +30,57 @@ jobs:
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-        SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
-        SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-        SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-      run: |
-        set -euxo pipefail
-        # Install yq (v4) & jq
-        sudo wget -qO /usr/local/bin/yq \
-          https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
-        sudo chmod +x /usr/local/bin/yq
-        sudo apt-get update && sudo apt-get install -y jq
+          SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          set -euxo pipefail
 
-        # split based on the same delimiter you joined with
-        IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
+          # Install yq (v4) & jq
+          sudo wget -qO /usr/local/bin/yq \
+            https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+          sudo apt-get update && sudo apt-get install -y jq
 
-        for file in "${files[@]}"; do
-          [[ -f "$file" ]] || continue
+          # split based on the same delimiter you joined with
+          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
 
-          # read ingest flag directly with yq
-          ingest=$(yq e '.ingest' "$file")
-          [[ "$ingest" == "true" ]] || continue
-          echo "→ ingesting $file …"
+          for file in "${files[@]}"; do
+            [[ -f "$file" ]] || continue
 
-          # pull fields via yq
-          tp=$(yq e '.type' "$file")
-          dt=$(yq e '.date' "$file")
-          tg=$(yq e '.tags | @json' "$file")
+            # read ingest flag directly with yq
+            ingest=$(yq e '.ingest' "$file")
+            [[ "$ingest" == "true" ]] || continue
+            echo "→ ingesting $file …"
 
-          # extract the body between the two '---' lines
-          ct=$(awk 'BEGIN{p=0}
-/^---$/ { if(p==0){p=1;next} else exit }
-/./ { if(p==1) print }
-' "$file" | jq -Rs .)
+            # pull fields via yq
+            tp=$(yq e '.type' "$file")
+            dt=$(yq e '.date' "$file")
+            tg=$(yq e '.tags | @json' "$file")
 
-          # build your payload
-          payload=$(
-            jq -n \
-              --arg persona_id "48245528-5e58-4631-9755-cddd1a40a4a6" \
-              --arg doc_path   "$file" \
-              --arg type       "$tp" \
-              --arg date       "$dt" \
-              --argjson tags   "$tg" \
-              --arg content    "$ct" \
-              '{ persona_id, doc_path, type, date, tags, content }'
-          )
+            # extract the body between the two '---' lines
+            ct=$(awk 'BEGIN{p=0}
+  /^---$/ { if(p==0){p=1;next} else exit }
+  /.*/     { if(p==1) print }
+  ' "$file" | jq -Rs .)
 
-          # POST to your edge function
-          curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
-            -X POST "$SUPABASE_URL/ingest" \
-            -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
-            -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
-            -H "Content-Type: application/json" \
-            -d "$payload"
-        done
-        
+            # build your payload
+            payload=$(
+              jq -n \
+                --arg persona_id "48245528-5e58-4631-9755-cddd1a40a4a6" \
+                --arg doc_path   "$file" \
+                --arg type       "$tp" \
+                --arg date       "$dt" \
+                --argjson tags   "$tg" \
+                --arg content    "$ct" \
+                '{ persona_id, doc_path, type, date, tags, content }'
+            )
+
+            # POST to your edge function
+            curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
+              -X POST "$SUPABASE_URL/ingest" \
+              -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Content-Type: application/json" \
+              -d "$payload"
+          done
