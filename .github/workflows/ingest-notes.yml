@@ -27,7 +27,7 @@ jobs:
           echo "files=$joined" >> $GITHUB_OUTPUT
 
       # 3️⃣ For each changed file whose frontmatter has ingest: true, POST it to Supabase
-           - name: Filter frontmatter & call Supabase
+      - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
           SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
