@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Siedler - Settlers"
             }
+          },
+          {
+            "id": "30b2078c47da6a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test 7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -335,7 +359,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEST 6.md",
+                "file": "Test 7.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -363,7 +387,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TEST 6"
+              "title": "Graph of Test 7"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -392,8 +416,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cff3ca888a894f3b",
+  "active": "30b2078c47da6a7a",
   "lastOpenFiles": [
+    "Test 7.md",
     "TEST 6.md",
     "01-MOCs/Belucid MOC ™/Taking a bet.md",
     "01-MOCs/Concepts MOC/Company types and characters.md",
@@ -419,7 +444,6 @@
     "01-MOCs/Belucid MOC ™/Developing my own Big Toe.md",
     "01-MOCs/Belucid MOC ™/Creating a new niche.md",
     "01-MOCs/Belucid MOC ™/Character Attributes.md",
-    "01-MOCs/Belucid MOC ™/Bootstrapping Belucid.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
