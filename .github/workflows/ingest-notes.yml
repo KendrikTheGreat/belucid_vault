@@ -22,57 +22,42 @@ jobs:
           raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '\.md$' || true)
           joined=$(echo "$raw" | paste -sd '|:|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
-
+          
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          set -euxo pipefail
+          sudo apt-get update && sudo apt-get install -y yq jq
 
-          # Split filenames back into an array
-          IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
-
+          IFS='|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
           for file in "${files[@]}"; do
-            [ -f "$file" ] || { echo "File not found: $file"; continue; }
+            [[ -f "$file" ]] || continue
+            grep -q '^ingest: true' "$file" || continue
 
-            # Extract front-matter (between the first two '---' lines)
-            front=$(sed -n '1,/^---$/p' "$file" | sed '1d;$d')
+            pid="48245528-5e58-4631-9755-cddd1a40a4a6"
+            tp=$(yq e '.type' "$file")
+            dt=$(yq e '.date' "$file")
+            tg=$(yq e '.tags | @json' "$file")
+            ct=$(awk 'f&&!--/^---$/{print} /^---$/{f=!f}' "$file" | jq -Rs .)
 
-            # Only ingest if flag is true
-            ingest=$(echo "$front" | sed -n 's/^ingest:[[:space:]]*//p')
-            [[ "$ingest" == "true" ]] || { echo "Skipping $file (ingest:false)"; continue; }
-
-            persona_id="48245528-5e58-4631-9755-cddd1a40a4a6"
-            type=$(echo "$front" | sed -n 's/^type:[[:space:]]*//p')
-            date=$(echo "$front" | sed -n 's/^date:[[:space:]]*//p')
-
-            # Parse tags into JSON array
-            tags=$(echo "$front" \
-              | awk '/^tags:/{flag=1; next} /^  - /{print $3} flag && !/^  - /{exit}' \
-              | jq -R -s -c 'split("\n")[:-1]')
-
-            # Extract body (lines after the second '---')
-            content=$(awk 'BEGIN{c=0} /^---$/{c++; next} c>=2{print}' "$file" | jq -Rs .)
-
-            # Build JSON payload
             payload=$(
               jq -n \
-                --arg pid "$persona_id" \
-                --arg path "$file" \
-                --arg type "$type" \
-                --arg date "$date" \
-                --argjson tags "$tags" \
-                --arg content "$content" \
-                '{ persona_id: $pid, doc_path: $path, type: $type, date: $date, tags: $tags, content: $content }'
+                --arg persona_id "$pid" \
+                --arg doc_path "$file" \
+                --arg type "$tp" \
+                --arg date "$dt" \
+                --argjson tags "$tg" \
+                --arg content "$ct" \
+                '{ persona_id, doc_path, type, date, tags, content }'
             )
 
-            # POST to Supabase Edge Function
-            curl -s -w "\nHTTP_CODE=%{http_code}" \
+            curl -s -w "\nHTTP=%{http_code}\n" \
               -X POST https://sffsnpwqifdiwcepotdb.functions.supabase.co/ingest \
               -H "apikey: $SUPABASE_ANON_KEY" \
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
               -d "$payload"
           done
+
