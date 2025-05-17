@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Test 7"
             }
+          },
+          {
+            "id": "45abb0f35ec2b55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test 8"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -359,7 +383,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test 7.md",
+                "file": "Test 8.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -387,7 +411,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test 7"
+              "title": "Graph of Test 8"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -416,8 +440,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30b2078c47da6a7a",
+  "active": "45abb0f35ec2b55c",
   "lastOpenFiles": [
+    "Test 8.md",
     "Test 7.md",
     "TEST 6.md",
     "01-MOCs/Belucid MOC ™/Taking a bet.md",
@@ -443,7 +468,6 @@
     "01-MOCs/Belucid MOC ™/Divine.md",
     "01-MOCs/Belucid MOC ™/Developing my own Big Toe.md",
     "01-MOCs/Belucid MOC ™/Creating a new niche.md",
-    "01-MOCs/Belucid MOC ™/Character Attributes.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",

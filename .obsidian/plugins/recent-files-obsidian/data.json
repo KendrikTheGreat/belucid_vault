@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test 8",
+      "path": "Test 8.md"
+    },
+    {
       "basename": "Test 7",
       "path": "Test 7.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Playing against past versions of yourself",
       "path": "01-MOCs/Observation MOC/Playing against past versions of yourself.md"
-    },
-    {
-      "basename": "Playing a game that I can only lose",
-      "path": "01-MOCs/Observation MOC/Playing a game that I can only lose.md"
     }
   ],
   "omittedPaths": [],
