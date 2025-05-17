@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test 13",
+      "path": "Test 13.md"
+    },
+    {
       "basename": "Test 12",
       "path": "Test 12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bad Habits",
       "path": "01-MOCs/Obsession MOC/Bad Habits.md"
-    },
-    {
-      "basename": "Aura is the byproduct of obsession",
-      "path": "01-MOCs/Obsession MOC/Aura is the byproduct of obsession.md"
     }
   ],
   "omittedPaths": [],

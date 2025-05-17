@@ -198,9 +198,33 @@
               "icon": "lucide-file",
               "title": "Test 12"
             }
+          },
+          {
+            "id": "0720d0ee388d550f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test 13"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -431,7 +455,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test 12.md",
+                "file": "Test 13.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -459,7 +483,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test 12"
+              "title": "Graph of Test 13"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -488,9 +512,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e54232134ac50192",
+  "active": "0720d0ee388d550f",
   "lastOpenFiles": [
     "Test 12.md",
+    "Test 13.md",
     "Test 9.md",
     "Test 8.md",
     "Test 7.md",
@@ -515,7 +540,6 @@
     "01-MOCs/Belucid MOC ™/Gametape™.md",
     "01-MOCs/Belucid MOC ™/GAINXP.md",
     "01-MOCs/Belucid MOC ™/Document everything!.md",
-    "01-MOCs/Belucid MOC ™/Divine.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
