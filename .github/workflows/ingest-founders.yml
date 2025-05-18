@@ -49,25 +49,25 @@ jobs:
             tp=$(yq e '.type' "$file")
             dt=$(yq e '.date' "$file")
             tg=$(yq e '.tags | @json' "$file")
+            num=$(yq e '.number' "$file")
             ct=$(awk 'BEGIN{p=0}
                       /^---$/ {p++; next}
                       p==2{print}
                       ' "$file" | jq -Rs .)
 
-            # build JSON
             payload=$(
               jq -n \
                 --arg persona_id "$pid" \
                 --arg note_date  "$dt" \
                 --arg content    "$ct" \
                 --argjson tags   "$tg" \
-                --arg metadata   '{"source":"github-actions"}' \
-                '{ p_persona_id: $persona_id,
-                   p_note_date:  $note_date,
-                   p_content:    $content,
-                   p_tags:       $tags,
-                   p_metadata:   $metadata }'
-            )
+                --arg metadata   "{\"source\":\"github-actions\",\"number\":$num}" \
+                '{ p_persona_id:  $persona_id,
+                   p_note_date:   $note_date,
+                   p_content:     $content,
+                   p_tags:        $tags,
+                   p_metadata:    ($metadata|fromjson) }'
+                        )
 
             # call your edge fn
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
