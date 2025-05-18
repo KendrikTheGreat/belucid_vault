@@ -15,6 +15,13 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Debug: see repo layout
++       run: |
++         echo "🏠 Working directory: $(pwd)"
++         echo "📂 Top‐level entries:"
++         ls -1
++         echo "📂 FoundersNotes exists?"; ls -1 | grep FoundersNotes || echo "Not found"
+
       # 2️⃣ find changed MD files
       - name: Find new notes
         id: diffs
