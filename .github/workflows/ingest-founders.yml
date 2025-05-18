@@ -7,64 +7,74 @@ on:
   workflow_dispatch:
 
 jobs:
-  ingest:
+  ingest_foundersnotes:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Pull down your vault
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Debug FS layout
-        run: |
-          echo "🏠 Working dir: $(pwd)"
-          echo "📂 Top-level entries:"
-          ls -1
-          echo "📂 FoundersNotes exists?"
-          ls -1 | grep '^FoundersNotes$' || echo "Not found"
-
-      - name: Find new notes
-        id: diffs
+      # 2️⃣ Identify changed MD files
+      - name: Find changed .md under FoundersNotes
+        id: find_notes
         run: |
           raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
-            | grep '^FoundersNotes/.*\.md$' || true)
-          joined=$(echo "$raw" | paste -sd '|' -)
-          echo "files=$joined" >> $GITHUB_OUTPUT
+                | grep '^FoundersNotes/.*\.md$' || true)
+          echo "files=$raw" >> $GITHUB_OUTPUT
 
-      # 3️⃣ for each file flagged ingest: true, call your new function
-      - name: Filter & POST to Supabase
-        if: steps.diffs.outputs.files != ''
+      # 3️⃣ For each flagged file, call your upsert RPC
+      - name: Ingest into Supabase
+        if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:        https://YOUR-PROJECT.supabase.co/functions/v1
-          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           sudo wget -qO /usr/local/bin/yq \
             https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          IFS='|' read -r -a files <<< "${{ steps.diffs.outputs.files }}"
+          IFS=$'\n' read -d '' -r -a files <<<"${{ steps.find_notes.outputs.files }}"
+
           for file in "${files[@]}"; do
             [[ -f "$file" ]] || continue
+            # skip unless frontmatter says ingest: true
             ingest=$(yq e '.ingest' "$file")
             [[ "$ingest" == "true" ]] || continue
 
-            echo "→ ingesting $file"
-            pid=$(yq e '.persona_id' "$file")
-            date=$(yq e '.date' "$file")
-            tags=$(yq e '.tags | @json' "$file")
-            metadata=$(yq e '.metadata // {} | tojson' "$file")
-            content=$(awk 'BEGIN{p=0} /^---$/{p++; next} p==2{exit} p==1{print}' "$file" | sed '1d;$d' | jq -Rs .)
+            # parse fields
+            pid="48245528-5e58-4631-9755-cddd1a40a4a6"
+            tp=$(yq e '.type' "$file")
+            dt=$(yq e '.date' "$file")
+            tg=$(yq e '.tags | @json' "$file")
+            ct=$(awk 'BEGIN{p=0}
+                      /^---$/ {p++; next}
+                      p==2{print}
+                      ' "$file" | jq -Rs .)
 
-            curl -s -w "\nHTTP=%{http_code}\n" \
+            # build JSON
+            payload=$(
+              jq -n \
+                --arg persona_id "$pid" \
+                --arg note_date  "$dt" \
+                --arg content    "$ct" \
+                --argjson tags   "$tg" \
+                --arg metadata   '{"source":"github-actions"}' \
+                '{ p_persona_id: $persona_id,
+                   p_note_date:  $note_date,
+                   p_content:    $content,
+                   p_tags:       $tags,
+                   p_metadata:   $metadata }'
+            )
+
+            # call your edge fn
+            curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
-              -H "apikey: $SUPABASE_SERVICE_KEY" \
-              -H "Authorization: Bearer $SUPABASE_SERVICE_KEY" \
+              -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
-              -d @<(jq -n \
-                    --arg pid "$pid" \
-                    --arg date "$date" \
-                    --arg content "$content" \
-                    --argjson tags "$tags" \
-                    --argjson metadata "$metadata" \
-                    '{ p_persona_id: $pid, p_note_date: $date, p_content: $content, p_tags: $tags, p_metadata: $metadata }')
+              -d "$payload"
           done
+
