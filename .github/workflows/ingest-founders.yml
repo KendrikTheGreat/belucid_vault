@@ -2,7 +2,6 @@ name: Ingest FoundersNotes
 
 on:
   push:
-    # only trigger when someone changes a .md under the FoundersNotes folder
     paths:
       - 'FoundersNotes/**/*.md'
   workflow_dispatch:
@@ -10,73 +9,61 @@ on:
 jobs:
   ingest_foundersnotes:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Pull down your vault so we can inspect the diff
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      # 1️⃣ Pull down your vault
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Find changed .md under FoundersNotes (and debug-print the full diff)
+      # 2️⃣ Find changed .md under FoundersNotes
       - name: Find changed .md under FoundersNotes
         id: find_notes
         run: |
-          # dump everything into a file so we can see exactly what Git thinks changed
-          git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 > full_diff.txt
-          echo "🍺 full diff:"
-          cat full_diff.txt
+          git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
+            | grep '^FoundersNotes/.*\.md$' > found.txt || true
+          echo "files=$(<found.txt)" >> $GITHUB_OUTPUT
 
-          # now pick out only the files in FoundersNotes/*.md
-          raw=$(grep '^FoundersNotes/.*\.md$' full_diff.txt || true)
-          echo "🔍 matched files in FoundersNotes/: '$raw'"
-
-          # expose to the next step
-          echo "files=$raw" >> $GITHUB_OUTPUT
-
-      # 3️⃣ For each matched file, call your upsert RPC (only if any were found)
+      # 3️⃣ For each flagged file, call your upsert RPC
       - name: Ingest into Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:      https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}             # e.g. https://xyz.functions.supabase.co/functions/v1
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           set -euxo pipefail
 
-          # install yq (v4) & jq
+          # 1) Install tools
           sudo wget -qO /usr/local/bin/yq \
             https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          # split on newlines into an array
-          IFS=$'\n' read -r -d '' -a files <<< "${{ steps.find_notes.outputs.files }}"
+          # 2) Split the newline-separated list into an array
+          mapfile -t files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
-            # skip anything that somehow isn’t actually a file
             [[ -f "$file" ]] || continue
 
-            # only ingest files with ingest: true in their front-matter
+            # 3) Only ingest if frontmatter says ingest: true
             ingest=$(yq e '.ingest' "$file")
             [[ "$ingest" == "true" ]] || continue
 
             echo "→ ingesting $file …"
 
-            # pull out your front-matter fields
+            # 4) Parse frontmatter
             pid="48245528-5e58-4631-9755-cddd1a40a4a6"
-            tp=$(yq e '.type'   "$file")
             dt=$(yq e '.date'   "$file")
             tg=$(yq e '.tags | @json' "$file")
             num=$(yq e '.number' "$file")
 
-            # grab everything after the second '---'
+            # 5) Grab everything after the second '---'
             ct=$(awk 'BEGIN{p=0}
                      /^---$/ { p++; next }
                      p==2   { print }
                     ' "$file" | jq -Rs .)
 
-            # build the JSON payload
+            # 6) Build the payload
             payload=$(
               jq -n \
                 --arg p_persona_id "$pid" \
@@ -87,7 +74,7 @@ jobs:
                 '{ p_persona_id, p_note_date, p_content, p_tags, p_metadata: ( $p_metadata | fromjson ) }'
             )
 
-            # fire off your Edge Function
+            # 7) POST to your Edge Function
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
