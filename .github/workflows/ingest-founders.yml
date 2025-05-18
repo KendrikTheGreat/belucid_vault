@@ -1,0 +1,63 @@
+name: Ingest FoundersNotes
+
+on:
+  push:
+    paths:
+      - 'FoundersNotes/**/*.md'
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      # 1️⃣ checkout your vault
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # 2️⃣ find changed MD files
+      - name: Find new notes
+        id: diffs
+        run: |
+          raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '^FoundersNotes/.*\.md$' || true)
+          joined=$(echo "$raw" | paste -sd '|' -)
+          echo "files=$joined" >> $GITHUB_OUTPUT
+
+      # 3️⃣ for each file flagged ingest: true, call your new function
+      - name: Filter & POST to Supabase
+        if: steps.diffs.outputs.files != ''
+        env:
+          SUPABASE_URL:        https://YOUR-PROJECT.supabase.co/functions/v1
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          sudo wget -qO /usr/local/bin/yq \
+            https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+          sudo apt-get update && sudo apt-get install -y jq
+
+          IFS='|' read -r -a files <<< "${{ steps.diffs.outputs.files }}"
+          for file in "${files[@]}"; do
+            [[ -f "$file" ]] || continue
+            ingest=$(yq e '.ingest' "$file")
+            [[ "$ingest" == "true" ]] || continue
+
+            echo "→ ingesting $file"
+            pid=$(yq e '.persona_id' "$file")
+            date=$(yq e '.date' "$file")
+            tags=$(yq e '.tags | @json' "$file")
+            metadata=$(yq e '.metadata // {} | tojson' "$file")
+            content=$(awk 'BEGIN{p=0} /^---$/{p++; next} p==2{exit} p==1{print}' "$file" | sed '1d;$d' | jq -Rs .)
+
+            curl -s -w "\nHTTP=%{http_code}\n" \
+              -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
+              -H "apikey: $SUPABASE_SERVICE_KEY" \
+              -H "Authorization: Bearer $SUPABASE_SERVICE_KEY" \
+              -H "Content-Type: application/json" \
+              -d @<(jq -n \
+                    --arg pid "$pid" \
+                    --arg date "$date" \
+                    --arg content "$content" \
+                    --argjson tags "$tags" \
+                    --argjson metadata "$metadata" \
+                    '{ p_persona_id: $pid, p_note_date: $date, p_content: $content, p_tags: $tags, p_metadata: $metadata }')
+          done
