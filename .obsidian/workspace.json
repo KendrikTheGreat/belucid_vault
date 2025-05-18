@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoundersNotes/381-Had Dinner With Michael Ovitz.md",
+                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "381-Had Dinner With Michael Ovitz"
+              "title": "381-I Had Dinner With Michael Ovitz"
             }
           }
         ],
@@ -203,8 +203,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -335,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/381-Had Dinner With Michael Ovitz.md",
+                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -363,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 381-Had Dinner With Michael Ovitz"
+              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -392,13 +391,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "0edab2beac60f31a",
   "lastOpenFiles": [
     "FoundersNotes",
     "Siedler - Settlers.md",
     "Untitled 5.md",
-    "FoundersNotes/381-Had Dinner With Michael Ovitz.md",
-    "FoundersNotes/381-Had Dinner With Michael Ovitz.md",
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "01-MOCs/Belucid MOC ™/Taking a bet.md",
     "TEST 6.md",
     "03-Media-Templates/Templates/Template.md",
