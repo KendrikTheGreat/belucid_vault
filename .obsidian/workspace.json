@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "Test 14"
             }
+          },
+          {
+            "id": "3f8bb3dcec8017c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I Had Dinner With Michael Ovitz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "I Had Dinner With Michael Ovitz"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -455,7 +479,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test 14.md",
+                "file": "I Had Dinner With Michael Ovitz.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -483,7 +507,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test 14"
+              "title": "Graph of I Had Dinner With Michael Ovitz"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -512,10 +536,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0720d0ee388d550f",
+  "active": "3f8bb3dcec8017c4",
   "lastOpenFiles": [
-    "Test 12.md",
+    "I Had Dinner With Michael Ovitz.md",
     "Test 14.md",
+    "Test 12.md",
     "Test 9.md",
     "Test 8.md",
     "Test 7.md",
@@ -539,7 +564,6 @@
     "01-MOCs/Belucid MOC ™/How to iterate yourself to success.md",
     "01-MOCs/Belucid MOC ™/Gametape™.md",
     "01-MOCs/Belucid MOC ™/GAINXP.md",
-    "01-MOCs/Belucid MOC ™/Document everything!.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",

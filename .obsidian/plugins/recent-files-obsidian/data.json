@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I Had Dinner With Michael Ovitz",
+      "path": "I Had Dinner With Michael Ovitz.md"
+    },
+    {
       "basename": "Test 14",
       "path": "Test 14.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "My Protocol",
       "path": "01-MOCs/Obsession MOC/My Protocol.md"
-    },
-    {
-      "basename": "Bad Habits",
-      "path": "01-MOCs/Obsession MOC/Bad Habits.md"
     }
   ],
   "omittedPaths": [],
