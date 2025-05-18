@@ -15,13 +15,21 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 2️⃣ Identify changed MD files
-      - name: Find changed .md under FoundersNotes
-        id: find_notes
-        run: |
-          raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
-                | grep '^FoundersNotes/.*\.md$' || true)
-          echo "files=$raw" >> $GITHUB_OUTPUT
+     # 2️⃣ Find changed .md under FoundersNotes
+     - name: Find changed .md under FoundersNotes
+      id: find_notes
+      run: |
+      # dump the full diff for debugging
+      git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 > full_diff.txt
+      echo "🍺 full diff:"
+      cat full_diff.txt
+
+      # now filter for FoundersNotes/*.md
+      raw=$(grep '^FoundersNotes/.*\.md$' full_diff.txt || true)
+      echo "🔍 matched files in FoundersNotes/: '$raw'"
+
+      # publish to the next step
+      echo "files=$raw" >> $GITHUB_OUTPUT
 
       # 3️⃣ For each flagged file, call your upsert RPC
       - name: Ingest into Supabase
