@@ -29,52 +29,52 @@ jobs:
       - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL:        https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_ANON_KEY:   ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           set -euxo pipefail
 
-          # install yq v4 + jq
+          # install yq (v4) & jq
           sudo wget -qO /usr/local/bin/yq \
             https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          # rebuild the list of files
+          # rebuild our files array
           IFS='|:|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
             [[ -f "$file" ]] || continue
-
-            echo "────────────────────────────────────"
-            echo "🔍 Processing: $file"
-            echo "Front-matter:"
-            sed -n '1,/^---$/p; /^---$/q' "$file" | sed '1d;$d'
-
             ingest=$(yq e '.ingest' "$file")
-            echo "→ yq .ingest → $ingest"
-            [[ "$ingest" == "true" ]] || { echo "⚠️  Skipping: ingest != true"; continue; }
+            [[ "$ingest" == "true" ]] || continue
 
-            echo "✅ ingest=true — building payload"
-            tp=$(yq e '.type' "$file"); echo "  type: $tp"
-            dt=$(yq e '.date' "$file"); echo "  date: $dt"
-            tg=$(yq e '.tags | @json' "$file"); echo "  tags: $tg"
+            pid="48245528-5e58-4631-9755-cddd1a40a4a6"
+            tp=$(yq e '.type' "$file")
+            dt=$(yq e '.date' "$file")
+            tg=$(yq e '.tags | @json' "$file")
             ct=$(awk 'BEGIN{p=0}
-                     /^---$/ { if(p==0){p=1; next} else exit }
+                     /^---$/ { if (p==0) { p=1; next } else exit }
                      p==1 && !/^---$/ { print }
                     ' "$file" | jq -Rs .)
-            echo "  content preview: ${ct:0:80}…"
 
+            # **notice the use of $persona_id, $doc_path, etc. in the filter**
             payload=$(
               jq -n \
-                --arg persona_id "48245528-5e58-4631-9755-cddd1a40a4a6" \
-                --arg doc_path   "$file" \
-                --arg type       "$tp" \
-                --arg date       "$dt" \
-                --argjson tags   "$tg" \
-                --arg content    "$ct" \
-                '{ persona_id, doc_path, type, date, tags, content }'
+                --arg persona_id "$pid" \
+                --arg doc_path    "$file" \
+                --arg type        "$tp" \
+                --arg date        "$dt" \
+                --argjson tags    "$tg" \
+                --arg content     "$ct" \
+                '{
+                  persona_id: $persona_id,
+                  doc_path:    $doc_path,
+                  type:        $type,
+                  date:        $date,
+                  tags:        $tags,
+                  content:     $content
+                }'
             )
 
             curl -s -w "\n⇢ HTTP_CODE=%{http_code}\n" \
@@ -84,4 +84,3 @@ jobs:
               -H "Content-Type: application/json" \
               -d "$payload"
           done
-
