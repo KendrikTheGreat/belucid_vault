@@ -2,6 +2,7 @@ name: Ingest FoundersNotes
 
 on:
   push:
+    # only trigger when someone changes a .md under the FoundersNotes folder
     paths:
       - 'FoundersNotes/**/*.md'
   workflow_dispatch:
@@ -9,75 +10,84 @@ on:
 jobs:
   ingest_foundersnotes:
     runs-on: ubuntu-latest
+
     steps:
-      # 1️⃣ Pull down your vault
-      - uses: actions/checkout@v3
+      # 1️⃣ Pull down your vault so we can inspect the diff
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-     # 2️⃣ Find changed .md under FoundersNotes
-     - name: Find changed .md under FoundersNotes
-      id: find_notes
-      run: |
-      # dump the full diff for debugging
-      git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 > full_diff.txt
-      echo "🍺 full diff:"
-      cat full_diff.txt
+      # 2️⃣ Find changed .md under FoundersNotes (and debug-print the full diff)
+      - name: Find changed .md under FoundersNotes
+        id: find_notes
+        run: |
+          # dump everything into a file so we can see exactly what Git thinks changed
+          git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 > full_diff.txt
+          echo "🍺 full diff:"
+          cat full_diff.txt
 
-      # now filter for FoundersNotes/*.md
-      raw=$(grep '^FoundersNotes/.*\.md$' full_diff.txt || true)
-      echo "🔍 matched files in FoundersNotes/: '$raw'"
+          # now pick out only the files in FoundersNotes/*.md
+          raw=$(grep '^FoundersNotes/.*\.md$' full_diff.txt || true)
+          echo "🔍 matched files in FoundersNotes/: '$raw'"
 
-      # publish to the next step
-      echo "files=$raw" >> $GITHUB_OUTPUT
+          # expose to the next step
+          echo "files=$raw" >> $GITHUB_OUTPUT
 
-      # 3️⃣ For each flagged file, call your upsert RPC
+      # 3️⃣ For each matched file, call your upsert RPC (only if any were found)
       - name: Ingest into Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL: https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_URL:      https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
+          set -euxo pipefail
+
+          # install yq (v4) & jq
           sudo wget -qO /usr/local/bin/yq \
             https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          IFS=$'\n' read -d '' -r -a files <<<"${{ steps.find_notes.outputs.files }}"
+          # split on newlines into an array
+          IFS=$'\n' read -r -d '' -a files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
+            # skip anything that somehow isn’t actually a file
             [[ -f "$file" ]] || continue
-            # skip unless frontmatter says ingest: true
+
+            # only ingest files with ingest: true in their front-matter
             ingest=$(yq e '.ingest' "$file")
             [[ "$ingest" == "true" ]] || continue
 
-            # parse fields
+            echo "→ ingesting $file …"
+
+            # pull out your front-matter fields
             pid="48245528-5e58-4631-9755-cddd1a40a4a6"
-            tp=$(yq e '.type' "$file")
-            dt=$(yq e '.date' "$file")
+            tp=$(yq e '.type'   "$file")
+            dt=$(yq e '.date'   "$file")
             tg=$(yq e '.tags | @json' "$file")
             num=$(yq e '.number' "$file")
-            ct=$(awk 'BEGIN{p=0}
-                      /^---$/ {p++; next}
-                      p==2{print}
-                      ' "$file" | jq -Rs .)
 
+            # grab everything after the second '---'
+            ct=$(awk 'BEGIN{p=0}
+                     /^---$/ { p++; next }
+                     p==2   { print }
+                    ' "$file" | jq -Rs .)
+
+            # build the JSON payload
             payload=$(
               jq -n \
-                --arg persona_id "$pid" \
-                --arg note_date  "$dt" \
-                --arg content    "$ct" \
-                --argjson tags   "$tg" \
-                --arg metadata   "{\"source\":\"github-actions\",\"number\":$num}" \
-                '{ p_persona_id:  $persona_id,
-                   p_note_date:   $note_date,
-                   p_content:     $content,
-                   p_tags:        $tags,
-                   p_metadata:    ($metadata|fromjson) }'
-                        )
+                --arg p_persona_id "$pid" \
+                --arg p_note_date  "$dt" \
+                --arg p_content    "$ct" \
+                --argjson p_tags   "$tg" \
+                --argjson p_metadata "{\"source\":\"github-actions\",\"number\":$num}" \
+                '{ p_persona_id, p_note_date, p_content, p_tags, p_metadata: ( $p_metadata | fromjson ) }'
+            )
 
-            # call your edge fn
+            # fire off your Edge Function
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
@@ -85,4 +95,3 @@ jobs:
               -H "Content-Type: application/json" \
               -d "$payload"
           done
-
