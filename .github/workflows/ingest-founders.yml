@@ -15,6 +15,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Debug FS layout
+        run: |
+          pwd
+          ls -R .
+
       - name: Debug: see repo layout
 +       run: |
 +         echo "🏠 Working directory: $(pwd)"
