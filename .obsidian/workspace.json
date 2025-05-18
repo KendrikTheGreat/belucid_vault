@@ -203,7 +203,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -391,7 +392,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "82cc58494290ef52",
   "lastOpenFiles": [
     "FoundersNotes",
     "Siedler - Settlers.md",
