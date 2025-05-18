@@ -10,28 +10,23 @@ jobs:
   ingest:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ checkout your vault
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
       - name: Debug FS layout
         run: |
-          pwd
-          ls -R .
+          echo "🏠 Working dir: $(pwd)"
+          echo "📂 Top-level entries:"
+          ls -1
+          echo "📂 FoundersNotes exists?"
+          ls -1 | grep '^FoundersNotes$' || echo "Not found"
 
-      - name: Debug: see repo layout
-+       run: |
-+         echo "🏠 Working directory: $(pwd)"
-+         echo "📂 Top‐level entries:"
-+         ls -1
-+         echo "📂 FoundersNotes exists?"; ls -1 | grep FoundersNotes || echo "Not found"
-
-      # 2️⃣ find changed MD files
       - name: Find new notes
         id: diffs
         run: |
-          raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 | grep '^FoundersNotes/.*\.md$' || true)
+          raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
+            | grep '^FoundersNotes/.*\.md$' || true)
           joined=$(echo "$raw" | paste -sd '|' -)
           echo "files=$joined" >> $GITHUB_OUTPUT
 
