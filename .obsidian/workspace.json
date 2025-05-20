@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
             }
+          },
+          {
+            "id": "9a2fd09fb4b2d403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "379-Jerry Jones (Dallas Cowboys).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "379-Jerry Jones (Dallas Cowboys)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -310,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+                "file": "379-Jerry Jones (Dallas Cowboys).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -338,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
+              "title": "Graph of 379-Jerry Jones (Dallas Cowboys)"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -367,13 +391,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0fb4248a37852311",
+  "active": "9a2fd09fb4b2d403",
   "lastOpenFiles": [
+    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "379-Jerry Jones (Dallas Cowboys).md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "Siedler - Settlers.md",
     "01-MOCs/Belucid MOC ™/Taking a bet.md",
     "01-MOCs/Concepts MOC/Company types and characters.md",
-    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
     "FoundersNotes",
     "Untitled 5.md",
     "TEST 6.md",
