@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "cbfd0b46fff17e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/383-GHA-test.md.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "383-GHA-test.md"
-            }
-          },
-          {
             "id": "95143b506fa71889",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -358,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/383-GHA-test.md.md",
+                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -386,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 383-GHA-test.md"
+              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -415,10 +391,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cbfd0b46fff17e36",
+  "active": "0edab2beac60f31a",
   "lastOpenFiles": [
-    "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
     "FoundersNotes/383-GHA-test.md.md",
+    "FoundersNotes/383-GHA-test.md",
+    "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
     "Thematic interconnectiveness.md",
@@ -443,7 +420,6 @@
     "Test 14.md",
     "TEST 5.md",
     "Aware Leaders.md",
-    "TEST.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
