@@ -9,7 +9,8 @@ tags:
   - buffet
   - test1
 ---
-TEST1
+TEST2
+Pleaseee
 
 So the book that I want to talk to you about today is "Buffett and Munger Unscripted: Three Decades of Investment in Business Insights from the Berkshire Hathaway Annual Shareholder Meetings." It was selected and arranged by Alex Morris and Alex was kind enough to send me a copy before the book was released. He had a really smart idea. Since I think 1994, all of the Berkshire meetings or Berkshire meetings have been broadcast. They've been recorded and broadcast so anybody can watch them. So he went through like 30 years, watched every single meeting, took copious amounts of notes. And then what he created for you and I, really, the way I think about this is it's a reference tool. So he separated it not by year but by topic. So you can pick up this book, you know, scroll through the table of contents and say, "Oh, okay, I want to learn about subject X."
 

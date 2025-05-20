@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "0fb4248a37852311",
+            "id": "95143b506fa71889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thematic interconnectiveness.md",
+                "file": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thematic interconnectiveness"
+              "title": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
+            }
+          },
+          {
+            "id": "0deb2f2e80af44f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "379-Jerry Jones (Dallas Cowboys)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+                "file": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -338,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
+              "title": "Graph of 380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -367,12 +391,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0edab2beac60f31a",
+  "active": "95143b506fa71889",
   "lastOpenFiles": [
-    "Thematic interconnectiveness.md",
-    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
+    "Thematic interconnectiveness.md",
     "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "TEST RUN.md",
     "Untitled 2.md",
     "Untitled 3.md",
