@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ce6e309a74fe25a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-MOCs/Concepts MOC/Company types and characters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Company types and characters"
-            }
-          },
-          {
-            "id": "42ebe6992bb1864a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-MOCs/Belucid MOC ™/Taking a bet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Taking a bet"
-            }
-          },
-          {
             "id": "d765e5d71afad854",
             "type": "leaf",
             "state": {
@@ -128,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -417,12 +369,13 @@
   },
   "active": "0fb4248a37852311",
   "lastOpenFiles": [
-    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
-    "FoundersNotes",
     "Siedler - Settlers.md",
-    "Untitled 5.md",
     "01-MOCs/Belucid MOC ™/Taking a bet.md",
+    "01-MOCs/Concepts MOC/Company types and characters.md",
+    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "FoundersNotes",
+    "Untitled 5.md",
     "TEST 6.md",
     "03-Media-Templates/Templates/Template.md",
     "03-Media-Templates/Templates/Foundersnotes.md",
@@ -432,7 +385,6 @@
     "Test 9.md",
     "Test 12.md",
     "Test 14.md",
-    "01-MOCs/Concepts MOC/Company types and characters.md",
     "TEST RUN.md",
     "TEST 5.md",
     "Aware Leaders.md",
