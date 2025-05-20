@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "cbfd0b46fff17e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FoundersNotes/383-GHA-test.md.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "383-GHA-test.md"
+            }
+          },
+          {
             "id": "95143b506fa71889",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -334,7 +358,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+                "file": "FoundersNotes/383-GHA-test.md.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +386,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
+              "title": "Graph of 383-GHA-test.md"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -391,15 +415,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0edab2beac60f31a",
+  "active": "cbfd0b46fff17e36",
   "lastOpenFiles": [
-    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
     "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
-    "Thematic interconnectiveness.md",
+    "FoundersNotes/383-GHA-test.md.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "Thematic interconnectiveness.md",
     "TEST RUN.md",
     "Untitled 2.md",
-    "Untitled 3.md",
     "Untitled 5.md",
     "War chest.md",
     "Untitled 4.md",
