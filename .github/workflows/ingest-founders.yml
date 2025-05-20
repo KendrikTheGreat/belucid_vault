@@ -11,23 +11,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      # 1️⃣ Checkout repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      # 1️⃣ Checkout your repo
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Find changed .md under FoundersNotes
+      # 2️⃣ Find only the FoundersNotes .md files changed in this push
       - name: Find changed .md under FoundersNotes
         id: find_notes
         run: |
           raw=$(git diff --name-only ${{ github.sha }} ${{ github.sha }}~1 \
                 | grep '^FoundersNotes/.*\.md$' || true)
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          echo "$raw"      >> $GITHUB_OUTPUT
-          echo "EOF"       >> $GITHUB_OUTPUT
+          printf "files<<EOF\n%s\nEOF\n" "$raw" >> $GITHUB_OUTPUT
 
-      # 3️⃣ Ingest into Supabase
+      # 3️⃣ Ingest each matching file into Supabase
       - name: Ingest into Supabase
         if: steps.find_notes.outputs.files != ''
         env:
@@ -44,12 +41,12 @@ jobs:
           sudo apt-get update && sudo apt-get install -y jq
 
           # Rebuild array of file paths (newline-delimited)
-          IFS=$'\n' read -d '' -r -a files <<<"${{ steps.find_notes.outputs.files }}"
+          mapfile -t files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
             [[ -f "$file" ]] || continue
 
-            # Extract only the YAML front-matter
+            # Extract only the YAML front-matter block
             front=$(awk 'BEGIN{f=0} /^---$/{ if(f){exit} else {f=1; next} } f==1{ print }' "$file")
 
             # Parse ingest flag
@@ -77,7 +74,7 @@ jobs:
                 '{ persona_id: $persona_id, date: $date, content: $content, tags: $tags, metadata: $metadata }'
             )
 
-            # Call Supabase Edge Function
+            # Call your Edge Function
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
@@ -85,4 +82,3 @@ jobs:
               -H "Content-Type: application/json" \
               -d "$payload"
           done
-
