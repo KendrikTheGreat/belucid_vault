@@ -29,6 +29,10 @@ jobs:
         if: steps.find_notes.outputs.files != ''
         env:
           SUPABASE_URL:              https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          run: |
+            echo "🔍 SUPABASE_URL=$SUPABASE_URL"
+            echo "🔍 Testing function endpoint status"
+            curl -I "$SUPABASE_URL/upsert_foundersnote_with_state"
           SUPABASE_ANON_KEY:         ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
