@@ -23,58 +23,60 @@ jobs:
             | grep '^FoundersNotes/.*\.md$' > found.txt || true
           echo "files=$(<found.txt)" >> $GITHUB_OUTPUT
 
-      # 3️⃣ For each flagged file, call your upsert RPC
-      - name: Ingest into Supabase
+      # 3️⃣ Filter frontmatter & call Supabase
+      - name: Filter frontmatter & call Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}             # e.g. https://xyz.functions.supabase.co/functions/v1
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL:            ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY:       ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           set -euxo pipefail
 
-          # 1) Install tools
+          # 1) Install yq (v4) & jq
           sudo wget -qO /usr/local/bin/yq \
             https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          # 2) Split the newline-separated list into an array
-          mapfile -t files <<< "${{ steps.find_notes.outputs.files }}"
+          # 2) Rehydrate our files array
+          mapfile -t files <<<"${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
             [[ -f "$file" ]] || continue
 
-            # 3) Only ingest if frontmatter says ingest: true
-            ingest=$(yq e '.ingest' "$file")
-            [[ "$ingest" == "true" ]] || continue
+            # 3) Extract ONLY the front-matter block
+            front=$(sed -n '1,/^---$/p; /^---$/q' "$file" | sed '1d;$d')
 
+            # 4) Parse the ingest flag from that front-matter
+            ingest=$(printf '%s\n' "$front" | yq e '.ingest' -)
+            [[ "$ingest" == "true" ]] || continue
             echo "→ ingesting $file …"
 
-            # 4) Parse frontmatter
-            pid="48245528-5e58-4631-9755-cddd1a40a4a6"
-            dt=$(yq e '.date'   "$file")
-            tg=$(yq e '.tags | @json' "$file")
-            num=$(yq e '.number' "$file")
+            # 5) Pull out the other front-matter fields
+            pid=$(printf '%s\n' "$front" | yq e '.persona_id' -)
+            dt=$(printf '%s\n' "$front" | yq e '.date' -)
+            tg=$(printf '%s\n' "$front" | yq e '.tags | @json' -)
+            metadata=$(printf '%s\n' "$front" | yq e '.metadata // {} | tojson' -)
 
-            # 5) Grab everything after the second '---'
-            ct=$(awk 'BEGIN{p=0}
-                     /^---$/ { p++; next }
-                     p==2   { print }
-                    ' "$file" | jq -Rs .)
+            # 6) Grab the body (everything after the second '---')
+            content=$(awk 'BEGIN{p=0}
+                            /^---$/ { p++; next }
+                            p==2   { print }
+                          ' "$file" | jq -Rs .)
 
-            # 6) Build the payload
+            # 7) Build your JSON payload
             payload=$(
               jq -n \
                 --arg p_persona_id "$pid" \
                 --arg p_note_date  "$dt" \
-                --arg p_content    "$ct" \
                 --argjson p_tags   "$tg" \
-                --argjson p_metadata "{\"source\":\"github-actions\",\"number\":$num}" \
-                '{ p_persona_id, p_note_date, p_content, p_tags, p_metadata: ( $p_metadata | fromjson ) }'
+                --argjson p_metadata "$metadata" \
+                --arg content      "$content" \
+                '{ p_persona_id, p_note_date, p_content: $content, p_tags, p_metadata }'
             )
 
-            # 7) POST to your Edge Function
+            # 8) Fire off your Edge Function
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
