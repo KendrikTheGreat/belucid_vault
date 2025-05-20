@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "381-I Had Dinner With Michael Ovitz"
             }
+          },
+          {
+            "id": "0fb4248a37852311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -334,7 +358,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+                "file": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +386,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
+              "title": "Graph of 380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -391,13 +415,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0edab2beac60f31a",
+  "active": "0fb4248a37852311",
   "lastOpenFiles": [
+    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes",
     "Siedler - Settlers.md",
     "Untitled 5.md",
-    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
-    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "01-MOCs/Belucid MOC ™/Taking a bet.md",
     "TEST 6.md",
     "03-Media-Templates/Templates/Template.md",
@@ -433,7 +457,6 @@
     "04-Sketches - Canvas",
     "01-MOCs/Artifacts MOC 💠",
     "01-MOCs/-isms MOC 💬",
-    "01-MOCs/Algorithms MOC",
     "03-Media-Templates/Media/IMG_0127.jpeg",
     "03-Media-Templates/Media/OODA.Boyd.svg",
     "03-Media-Templates/Media/IMG_0110.jpeg",
