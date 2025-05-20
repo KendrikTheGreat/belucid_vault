@@ -28,7 +28,7 @@ jobs:
       - name: Ingest into Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:              https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_URL:              https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1/ingest
           run: |
             echo "🔍 SUPABASE_URL=$SUPABASE_URL"
             echo "🔍 Testing function endpoint status"
@@ -80,7 +80,7 @@ jobs:
 
             # Call your Edge Function
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
-              -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
+              -X POST "$SUPABASE_URL/ingest" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Content-Type: application/json" \
