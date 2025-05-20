@@ -24,47 +24,60 @@ jobs:
                 | grep '^FoundersNotes/.*\.md$' || true)
           printf "files<<EOF\n%s\nEOF\n" "$raw" >> $GITHUB_OUTPUT
 
-      # 3) ingest each one into Supabase
+      # 3) ingest each one into Supabase (front-matter only)
       - name: Ingest into Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:       https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
-          SUPABASE_ANON_KEY:  ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL:              https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1
+          SUPABASE_ANON_KEY:         ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
+          set -euxo pipefail
+
+          # install yq & jq
           sudo wget -qO /usr/local/bin/yq \
             https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          # rebuild array of file paths (spaces/newlines safe)
-          mapfile -t files <<< "${{ steps.find_notes.outputs.files }}"
+          # rebuild array of file paths
+          IFS='|' read -r -a files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
             [[ -f "$file" ]] || continue
-            ingest=$(yq e '.ingest' "$file")
-            [[ "$ingest" == "true" ]] || continue
 
+            # extract only the front-matter block
+            front=$(sed -n '1,/^---$/p; /^---$/q' "$file" | sed '1d;$d')
+
+            # parse ingest flag from that block
+            ingest=$(printf '%s\n' "$front" | yq e '.ingest' -)
+            [[ "$ingest" == "true" ]] || continue
             echo "→ ingesting $file …"
-            pid="48245528-5e58-4631-9755-cddd1a40a4a6"
-            dt=$(yq e '.date' "$file")
-            tg=$(yq e '.tags | @json' "$file")
-            num=$(yq e '.number' "$file")
+
+            # parse front-matter fields
+            pid=$(printf '%s\n' "$front" | yq e '.persona_id' -)
+            dt=$(printf '%s\n' "$front" | yq e '.date' -)
+            tg=$(printf '%s\n' "$front" | yq e '.tags | @json' -)
+            metadata=$(printf '%s\n' "$front" | yq e '.metadata // {} | tojson' -)
+
+            # grab the body (after the second '---')
             ct=$(awk 'BEGIN{p=0}
                      /^---$/ { p++; next }
                      p==2   { print }
                     ' "$file" | jq -Rs .)
 
+            # build the JSON payload
             payload=$(
               jq -n \
                 --arg p_persona_id "$pid" \
                 --arg p_note_date  "$dt" \
                 --arg p_content    "$ct" \
                 --argjson p_tags   "$tg" \
-                --argjson p_metadata "{\"source\":\"github-actions\",\"number\":$num}" \
-                '{ p_persona_id, p_note_date, p_content, p_tags, p_metadata: ( $p_metadata | fromjson ) }'
+                --argjson p_metadata "$metadata" \
+                '{ p_persona_id, p_note_date, p_content, p_tags, p_metadata }'
             )
 
+            # call your Edge Function
             curl -s -w "\n→ HTTP_CODE=%{http_code}\n" \
               -X POST "$SUPABASE_URL/upsert_foundersnote_with_state" \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
@@ -72,4 +85,3 @@ jobs:
               -H "Content-Type: application/json" \
               -d "$payload"
           done
-
