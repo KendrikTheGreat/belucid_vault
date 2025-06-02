@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d765e5d71afad854",
+            "id": "94e0634f79535780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Siedler - Settlers.md",
+                "file": "006-Sam Walton.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Siedler - Settlers"
+              "title": "006-Sam Walton"
             }
           },
           {
-            "id": "0edab2beac60f31a",
+            "id": "c55be7858a0878bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+                "file": "007-Grinding It Out The Making of McDonald's.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,55 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "381-I Had Dinner With Michael Ovitz"
-            }
-          },
-          {
-            "id": "95143b506fa71889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
-            }
-          },
-          {
-            "id": "0deb2f2e80af44f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "379-Jerry Jones (Dallas Cowboys)"
+              "title": "007-Grinding It Out The Making of McDonald's"
             }
           }
         ],
@@ -203,8 +155,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -335,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+                "file": "007-Grinding It Out The Making of McDonald's.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -363,7 +314,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
+              "title": "Graph of 007-Grinding It Out The Making of McDonald's"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -388,22 +339,31 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "c55be7858a0878bf",
   "lastOpenFiles": [
+    "006-Sam Walton.md",
+    "007-Grinding It Out The Making of McDonald's.md",
+    "005-Steve Jobs.md",
+    "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
+    "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
+    "002-Walt Disney.md",
+    "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
+    "000-Notes from my dinner with Charlie Munger.md",
+    "Untitled 3.md",
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/383-GHA-test.md.md",
     "FoundersNotes/383-GHA-test.md",
     "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
-    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
     "Thematic interconnectiveness.md",
     "TEST RUN.md",
     "Untitled 2.md",
     "Untitled 5.md",
     "War chest.md",
-    "Untitled 4.md",
     "Untitled 1.md",
     "Untitled.md",
     "Siedler - Settlers.md",
@@ -412,14 +372,6 @@
     "FoundersNotes",
     "TEST 6.md",
     "03-Media-Templates/Templates/Template.md",
-    "03-Media-Templates/Templates/Foundersnotes.md",
-    "Test 7.md",
-    "Test 8.md",
-    "Test 9.md",
-    "Test 12.md",
-    "Test 14.md",
-    "TEST 5.md",
-    "Aware Leaders.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
