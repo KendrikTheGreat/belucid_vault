@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8e75a0ab8e2cfde",
+            "id": "35b841cca94d5377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "071-.md",
+                "file": "FoundersNotes/087-Thomas Watson (IBM).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "071-"
+              "title": "087-Thomas Watson (IBM)"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "071-.md",
+                "file": "FoundersNotes/087-Thomas Watson (IBM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 071-"
+              "title": "Graph of 087-Thomas Watson (IBM)"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -318,34 +318,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8e75a0ab8e2cfde",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "Untitled 5.md",
-    "FoundersNotes/056-The Biography of Herb Kelleher.md",
-    "071-.md",
-    "FoundersNotes/070-Mark Spitznagel (Hedge Fund).md",
-    "FoundersNotes/069-Charles Goodyear (Rubber Monopoly).md",
-    "FoundersNotes/068-Daniel Ludwig (The Invisible Billionaire) 1 of 2.md",
-    "FoundersNotes/067-Conrad Hilton (Hilton Hotel Dynasty).md",
-    "FoundersNotes/066-Henry Kaiser (Founder of 100 companies).md",
-    "FoundersNotes/065-Kirk Kerkorian (Penniless Dropout became the Greatest Deal Maker in Capitalist History).md",
-    "FoundersNotes/064-Coco Chanel (Her Life and Secrets).md",
-    "FoundersNotes/063-The King of Oil The Secret Lives of Marc Rich.md",
-    "FoundersNotes/062-Benjamin Franklin (Autobiography).md",
-    "FoundersNotes/061-Malcom McLean The Box How the Shipping Container Made the World Smaller and the World Economy Bigger.md",
-    "FoundersNotes/060-Yvon Chouinard What We've Learned from Patagonia's First 40 Years.md",
-    "FoundersNotes/059-Howard Hughes The Definitive Biography of the First American Billionaire.md",
-    "FoundersNotes/058-John Bogle Enough True Measures of Money, Business, and Life.md",
-    "FoundersNotes/057-John Bogle Stay the Course The Story of Vanguard and the Index Revolution.md",
-    "FoundersNotes/039-Walt Disney An American Original.md",
-    "FoundersNotes/055-Tycoon's War How Cornelius Vanderbilt Invaded a Country to Overthrow America's Most Famous Military Adventurer.md",
-    "FoundersNotes/054-The Epic Life of Cornelius Vanderbilt.md",
-    "FoundersNotes/053-Who Is Michael Ovitz?.md",
-    "FoundersNotes/052-The Republic of Tea The Story of the Creation of a Business, as Told Through the Personal Letters of Its Founders.md",
-    "FoundersNotes/051-Wild Company The Untold Story of Banana Republic.md",
-    "FoundersNotes/050-Marc Andreessen's Blog Archive.md",
-    "FoundersNotes/049-Screw It, Let's Do It Lessons in Life by Richard Branson.md",
-    "FoundersNotes/048-Finding My Virginity The New Autobiography by Richard Branson.md",
+    "FoundersNotes/100-Warren Buffett (The Snowball).md",
+    "Advantage.md",
+    "FoundersNotes/098-Enzo Ferrari (the making of an automobile empire).md",
+    "FoundersNotes/087-Thomas Watson (IBM).md",
+    "FoundersNotes/099-Carroll Shelby (My name is Carroll Shelby and performance is my business).md",
+    "FoundersNotes/097-Enzo Ferrari (Ferrari vs Ford).md",
+    "FoundersNotes/096-James J. Hill (Empire Builder of the Northwest).md",
+    "FoundersNotes/095-Claude Shannon.md",
+    "FoundersNotes/094-Henry Singleton (The Outsiders).md",
+    "FoundersNotes/093-Ed Thorp (A Man for All Markets).md",
+    "FoundersNotes/092-Ed Thorp and Claude Shannon.md",
+    "FoundersNotes/091-Jim Clayton (Sold to Warren Buffett).md",
+    "FoundersNotes/090-Charlie Munger (Poor Charlie's Almanack).md",
+    "FoundersNotes/089-David Ogilvy (Confessions of an Advertising Man) 1 of 2.md",
+    "FoundersNotes/088-Warren Buffett's Shareholder Letters— All of them!.md",
+    "FoundersNotes/071-Jeff Bezos' Shareholder Letters. All of them..md",
+    "FoundersNotes/086-Carl Bosch and Fritz Haber (A Genius and a Doomed Tycoon).md",
+    "FoundersNotes/085-Walter and Olive Ann Beech (Aviation Legends).md",
+    "FoundersNotes/084-Aristotle Onassis.md",
+    "FoundersNotes/083-Thomas Edison, Nikola Tesla, George Westinghouse, and the Race to Electrify the World.md",
+    "FoundersNotes/082-David Ogilvy (Ogilvy on Advertising).md",
+    "FoundersNotes/081-Henry Royce (Founder of Rolls-Royce).md",
+    "FoundersNotes/080-Henry Ford (Today and Tomorrow).md",
+    "FoundersNotes/079-Charlie Munger (The Complete Investor).md",
+    "FoundersNotes/078-Charlie Munger (the Tao of Charlie Munger).md",
+    "FoundersNotes/077-Steve Jobs (the bizarro years of Steve Jobs).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
