@@ -1,72 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "101-Warren Buffett (The Tao of Warren Buffett)",
+      "path": "FoundersNotes/101-Warren Buffett (The Tao of Warren Buffett).md"
+    },
+    {
+      "basename": "125-Charles Kettering (inventor, engineer, founder)",
+      "path": "FoundersNotes/125-Charles Kettering (inventor, engineer, founder).md"
+    },
+    {
+      "basename": "124-Larry Ellison and Oracle",
+      "path": "FoundersNotes/124-Larry Ellison and Oracle.md"
+    },
+    {
+      "basename": "123-Albert Champion (Record-Setting Racer to Dashing Tycoon)",
+      "path": "FoundersNotes/123-Albert Champion (Record-Setting Racer to Dashing Tycoon).md"
+    },
+    {
+      "basename": "122-Alfred Sloan (General Motors)",
+      "path": "FoundersNotes/122-Alfred Sloan (General Motors).md"
+    },
+    {
+      "basename": "121-Billy Durant and Alfred Sloan (General Motors)",
+      "path": "FoundersNotes/121-Billy Durant and Alfred Sloan (General Motors).md"
+    },
+    {
+      "basename": "120-Billy Durant (Creator of General Motors)",
+      "path": "FoundersNotes/120-Billy Durant (Creator of General Motors).md"
+    },
+    {
+      "basename": "119-The Dodge Brothers",
+      "path": "FoundersNotes/119-The Dodge Brothers.md"
+    },
+    {
+      "basename": "118-Forty Years With Henry Ford",
+      "path": "FoundersNotes/118-Forty Years With Henry Ford.md"
+    },
+    {
       "basename": "117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read)",
-      "path": "117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read).md"
+      "path": "FoundersNotes/117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read).md"
     },
     {
       "basename": "116-Sam Bronfman (Seagram's and the Bronfman family dynasty)",
-      "path": "116-Sam Bronfman (Seagram's and the Bronfman family dynasty).md"
+      "path": "FoundersNotes/116-Sam Bronfman (Seagram's and the Bronfman family dynasty).md"
     },
     {
       "basename": "115-Ben Franklin An American Life",
-      "path": "115-Ben Franklin An American Life.md"
+      "path": "FoundersNotes/115-Ben Franklin An American Life.md"
     },
     {
       "basename": "114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time",
-      "path": "114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time.md"
+      "path": "FoundersNotes/114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time.md"
     },
     {
       "basename": "113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire)",
-      "path": "113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire).md"
+      "path": "FoundersNotes/113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire).md"
     },
     {
       "basename": "112-Frank Lloyd Wright",
-      "path": "112-Frank Lloyd Wright.md"
+      "path": "FoundersNotes/112-Frank Lloyd Wright.md"
     },
     {
       "basename": "111-David Geffen",
-      "path": "111-David Geffen.md"
+      "path": "FoundersNotes/111-David Geffen.md"
     },
     {
       "basename": "110-Henry Singleton (Teledyne)",
-      "path": "110-Henry Singleton (Teledyne).md"
+      "path": "FoundersNotes/110-Henry Singleton (Teledyne).md"
     },
     {
       "basename": "109-Adi Dassler (Adidas)",
-      "path": "109-Adi Dassler (Adidas).md"
+      "path": "FoundersNotes/109-Adi Dassler (Adidas).md"
     },
     {
       "basename": "108-Jim Simons (Money Printer)",
-      "path": "108-Jim Simons (Money Printer).md"
+      "path": "FoundersNotes/108-Jim Simons (Money Printer).md"
     },
     {
       "basename": "107-Sol Price (Costco)",
-      "path": "107-Sol Price (Costco).md"
+      "path": "FoundersNotes/107-Sol Price (Costco).md"
     },
     {
       "basename": "106-Bill Walsh (The Score Takes Care of Itself)",
-      "path": "106-Bill Walsh (The Score Takes Care of Itself).md"
+      "path": "FoundersNotes/106-Bill Walsh (The Score Takes Care of Itself).md"
     },
     {
       "basename": "105-Les Schwab (Charlie Munger recommended this book) 1 of 2",
-      "path": "105-Les Schwab (Charlie Munger recommended this book) 1 of 2.md"
+      "path": "FoundersNotes/105-Les Schwab (Charlie Munger recommended this book) 1 of 2.md"
     },
     {
       "basename": "104-Ingvar Kamprad (IKEA)",
-      "path": "104-Ingvar Kamprad (IKEA).md"
+      "path": "FoundersNotes/104-Ingvar Kamprad (IKEA).md"
     },
     {
       "basename": "103-Hetty Green (The Richest Woman in America)",
-      "path": "103-Hetty Green (The Richest Woman in America).md"
+      "path": "FoundersNotes/103-Hetty Green (The Richest Woman in America).md"
     },
     {
       "basename": "102-Akio Morita (Sony)",
-      "path": "102-Akio Morita (Sony).md"
-    },
-    {
-      "basename": "101-Warren Buffett (The Tao of Warren Buffett)",
-      "path": "101-Warren Buffett (The Tao of Warren Buffett).md"
+      "path": "FoundersNotes/102-Akio Morita (Sony).md"
     },
     {
       "basename": "087-Thomas Watson (IBM)",
@@ -167,38 +199,6 @@
     {
       "basename": "078-Charlie Munger (the Tao of Charlie Munger)",
       "path": "FoundersNotes/078-Charlie Munger (the Tao of Charlie Munger).md"
-    },
-    {
-      "basename": "077-Steve Jobs (the bizarro years of Steve Jobs)",
-      "path": "FoundersNotes/077-Steve Jobs (the bizarro years of Steve Jobs).md"
-    },
-    {
-      "basename": "076-Young Steve Jobs (the Creation of Apple)",
-      "path": "FoundersNotes/076-Young Steve Jobs (the Creation of Apple).md"
-    },
-    {
-      "basename": "075-Henry Clay Frick (The Life of the Perfect Capitalist)",
-      "path": "FoundersNotes/075-Henry Clay Frick (The Life of the Perfect Capitalist).md"
-    },
-    {
-      "basename": "074-Andrew Carnegie 1 of 2",
-      "path": "FoundersNotes/074-Andrew Carnegie 1 of 2.md"
-    },
-    {
-      "basename": "073-Andrew Carnegie and Henry Clay Frick (their bitter partnership)",
-      "path": "FoundersNotes/073-Andrew Carnegie and Henry Clay Frick (their bitter partnership).md"
-    },
-    {
-      "basename": "072-Stan Lee (Marvel)",
-      "path": "FoundersNotes/072-Stan Lee (Marvel).md"
-    },
-    {
-      "basename": "Untitled 5",
-      "path": "Untitled 5.md"
-    },
-    {
-      "basename": "056-The Biography of Herb Kelleher",
-      "path": "FoundersNotes/056-The Biography of Herb Kelleher.md"
     }
   ],
   "omittedPaths": [],
