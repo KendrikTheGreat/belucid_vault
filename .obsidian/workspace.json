@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7243ca69ab66e50d",
+        "id": "c769921812564d18",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ac3add1ece0305",
+            "id": "a8e75a0ab8e2cfde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020-Setting the Table The Transforming Power of Hospitality in Business.md",
+                "file": "071-.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,179 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "020-Setting the Table The Transforming Power of Hospitality in Business"
-            }
-          },
-          {
-            "id": "3b0464a4e923605b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture"
-            }
-          },
-          {
-            "id": "2b028d583b0a39ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "022-How To Turn Down A Billion Dollars The Snapchat Story.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "022-How To Turn Down A Billion Dollars The Snapchat Story"
-            }
-          },
-          {
-            "id": "8751961936b9bc55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "023-The New New Thing A Silicon Valley Story.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "023-The New New Thing A Silicon Valley Story"
-            }
-          },
-          {
-            "id": "cf613d87ee5892e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet"
-            }
-          },
-          {
-            "id": "7f576e3851ddeb28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "025-Against the Odds An Autobiography by James Dyson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "025-Against the Odds An Autobiography by James Dyson"
-            }
-          },
-          {
-            "id": "a2ae3464c046094b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "026-My Life and Work The Autobiography of Henry Ford.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "026-My Life and Work The Autobiography of Henry Ford"
-            }
-          },
-          {
-            "id": "ef6d24aa66a67f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur"
+              "title": "071-"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -430,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
+                "file": "071-.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -458,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur"
+              "title": "Graph of 071-"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -487,34 +318,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef6d24aa66a67f3b",
+  "active": "a8e75a0ab8e2cfde",
   "lastOpenFiles": [
-    "026-My Life and Work The Autobiography of Henry Ford.md",
-    "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
-    "025-Against the Odds An Autobiography by James Dyson.md",
-    "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet.md",
-    "023-The New New Thing A Silicon Valley Story.md",
-    "022-How To Turn Down A Billion Dollars The Snapchat Story.md",
-    "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture.md",
-    "020-Setting the Table The Transforming Power of Hospitality in Business.md",
-    "019-Becoming Steve Jobs.md",
-    "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
-    "FoundersNotes/018-Let My People Go Surfing The Education of a Reluctant Businessman.md",
-    "FoundersNotes/017-Jeff Bezos and the Age of Amazon.md",
-    "FoundersNotes/016-Titan The Life of John D. Rockefeller.md",
-    "FoundersNotes/015-Leonardo da Vinci The Biography.md",
-    "FoundersNotes/014-The Accidental Billionaires The Founding of Facebook A Tale of Sex, Money, Genius, and Betrayal.md",
-    "FoundersNotes/013-Elon Musk and Why SpaceX Will Colonize Mars.md",
-    "FoundersNotes/012-Elon Musk & How Tesla Will Change The World.md",
-    "FoundersNotes/011-The Cook & The Chef Elon Musk's Secret Sauce.md",
-    "FoundersNotes/010-Shoe Dog A Memoir by the Creator of Nike.md",
-    "FoundersNotes/009-I Invented the Modern Age The Rise of Henry Ford.md",
-    "FoundersNotes/008-The Intel Trinity How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company.md",
-    "FoundersNotes/007-Grinding It Out The Making of McDonald's.md",
-    "FoundersNotes/006-Sam Walton.md",
-    "FoundersNotes/005-Steve Jobs.md",
-    "FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
-    "FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
+    "Untitled 5.md",
+    "FoundersNotes/056-The Biography of Herb Kelleher.md",
+    "071-.md",
+    "FoundersNotes/070-Mark Spitznagel (Hedge Fund).md",
+    "FoundersNotes/069-Charles Goodyear (Rubber Monopoly).md",
+    "FoundersNotes/068-Daniel Ludwig (The Invisible Billionaire) 1 of 2.md",
+    "FoundersNotes/067-Conrad Hilton (Hilton Hotel Dynasty).md",
+    "FoundersNotes/066-Henry Kaiser (Founder of 100 companies).md",
+    "FoundersNotes/065-Kirk Kerkorian (Penniless Dropout became the Greatest Deal Maker in Capitalist History).md",
+    "FoundersNotes/064-Coco Chanel (Her Life and Secrets).md",
+    "FoundersNotes/063-The King of Oil The Secret Lives of Marc Rich.md",
+    "FoundersNotes/062-Benjamin Franklin (Autobiography).md",
+    "FoundersNotes/061-Malcom McLean The Box How the Shipping Container Made the World Smaller and the World Economy Bigger.md",
+    "FoundersNotes/060-Yvon Chouinard What We've Learned from Patagonia's First 40 Years.md",
+    "FoundersNotes/059-Howard Hughes The Definitive Biography of the First American Billionaire.md",
+    "FoundersNotes/058-John Bogle Enough True Measures of Money, Business, and Life.md",
+    "FoundersNotes/057-John Bogle Stay the Course The Story of Vanguard and the Index Revolution.md",
+    "FoundersNotes/039-Walt Disney An American Original.md",
+    "FoundersNotes/055-Tycoon's War How Cornelius Vanderbilt Invaded a Country to Overthrow America's Most Famous Military Adventurer.md",
+    "FoundersNotes/054-The Epic Life of Cornelius Vanderbilt.md",
+    "FoundersNotes/053-Who Is Michael Ovitz?.md",
+    "FoundersNotes/052-The Republic of Tea The Story of the Creation of a Business, as Told Through the Personal Letters of Its Founders.md",
+    "FoundersNotes/051-Wild Company The Untold Story of Banana Republic.md",
+    "FoundersNotes/050-Marc Andreessen's Blog Archive.md",
+    "FoundersNotes/049-Screw It, Let's Do It Lessons in Life by Richard Branson.md",
+    "FoundersNotes/048-Finding My Virginity The New Autobiography by Richard Branson.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
