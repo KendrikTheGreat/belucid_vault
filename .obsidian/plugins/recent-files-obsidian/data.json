@@ -1,36 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "007-Grinding It Out The Making of McDonald's",
-      "path": "007-Grinding It Out The Making of McDonald's.md"
+      "basename": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur",
+      "path": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md"
     },
     {
-      "basename": "006-Sam Walton",
-      "path": "006-Sam Walton.md"
+      "basename": "026-My Life and Work The Autobiography of Henry Ford",
+      "path": "026-My Life and Work The Autobiography of Henry Ford.md"
     },
     {
-      "basename": "005-Steve Jobs",
-      "path": "005-Steve Jobs.md"
+      "basename": "025-Against the Odds An Autobiography by James Dyson",
+      "path": "025-Against the Odds An Autobiography by James Dyson.md"
     },
     {
-      "basename": "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy",
-      "path": "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md"
+      "basename": "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet",
+      "path": "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet.md"
     },
     {
-      "basename": "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World",
-      "path": "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md"
+      "basename": "023-The New New Thing A Silicon Valley Story",
+      "path": "023-The New New Thing A Silicon Valley Story.md"
     },
     {
-      "basename": "002-Walt Disney",
-      "path": "002-Walt Disney.md"
+      "basename": "022-How To Turn Down A Billion Dollars The Snapchat Story",
+      "path": "022-How To Turn Down A Billion Dollars The Snapchat Story.md"
     },
     {
-      "basename": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future",
-      "path": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md"
+      "basename": "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture",
+      "path": "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture.md"
+    },
+    {
+      "basename": "020-Setting the Table The Transforming Power of Hospitality in Business",
+      "path": "020-Setting the Table The Transforming Power of Hospitality in Business.md"
+    },
+    {
+      "basename": "019-Becoming Steve Jobs",
+      "path": "019-Becoming Steve Jobs.md"
     },
     {
       "basename": "000-Notes from my dinner with Charlie Munger",
-      "path": "000-Notes from my dinner with Charlie Munger.md"
+      "path": "FoundersNotes/000-Notes from my dinner with Charlie Munger.md"
+    },
+    {
+      "basename": "018-Let My People Go Surfing The Education of a Reluctant Businessman",
+      "path": "FoundersNotes/018-Let My People Go Surfing The Education of a Reluctant Businessman.md"
+    },
+    {
+      "basename": "017-Jeff Bezos and the Age of Amazon",
+      "path": "FoundersNotes/017-Jeff Bezos and the Age of Amazon.md"
+    },
+    {
+      "basename": "016-Titan The Life of John D. Rockefeller",
+      "path": "FoundersNotes/016-Titan The Life of John D. Rockefeller.md"
+    },
+    {
+      "basename": "015-Leonardo da Vinci The Biography",
+      "path": "FoundersNotes/015-Leonardo da Vinci The Biography.md"
+    },
+    {
+      "basename": "014-The Accidental Billionaires The Founding of Facebook A Tale of Sex, Money, Genius, and Betrayal",
+      "path": "FoundersNotes/014-The Accidental Billionaires The Founding of Facebook A Tale of Sex, Money, Genius, and Betrayal.md"
+    },
+    {
+      "basename": "013-Elon Musk and Why SpaceX Will Colonize Mars",
+      "path": "FoundersNotes/013-Elon Musk and Why SpaceX Will Colonize Mars.md"
+    },
+    {
+      "basename": "012-Elon Musk & How Tesla Will Change The World",
+      "path": "FoundersNotes/012-Elon Musk & How Tesla Will Change The World.md"
+    },
+    {
+      "basename": "011-The Cook & The Chef Elon Musk's Secret Sauce",
+      "path": "FoundersNotes/011-The Cook & The Chef Elon Musk's Secret Sauce.md"
+    },
+    {
+      "basename": "010-Shoe Dog A Memoir by the Creator of Nike",
+      "path": "FoundersNotes/010-Shoe Dog A Memoir by the Creator of Nike.md"
+    },
+    {
+      "basename": "009-I Invented the Modern Age The Rise of Henry Ford",
+      "path": "FoundersNotes/009-I Invented the Modern Age The Rise of Henry Ford.md"
+    },
+    {
+      "basename": "008-The Intel Trinity How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company",
+      "path": "FoundersNotes/008-The Intel Trinity How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company.md"
+    },
+    {
+      "basename": "007-Grinding It Out The Making of McDonald's",
+      "path": "FoundersNotes/007-Grinding It Out The Making of McDonald's.md"
+    },
+    {
+      "basename": "006-Sam Walton",
+      "path": "FoundersNotes/006-Sam Walton.md"
+    },
+    {
+      "basename": "005-Steve Jobs",
+      "path": "FoundersNotes/005-Steve Jobs.md"
+    },
+    {
+      "basename": "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy",
+      "path": "FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md"
+    },
+    {
+      "basename": "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World",
+      "path": "FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md"
+    },
+    {
+      "basename": "002-Walt Disney",
+      "path": "FoundersNotes/002-Walt Disney.md"
+    },
+    {
+      "basename": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future",
+      "path": "FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md"
     },
     {
       "basename": "Untitled 3",
@@ -119,86 +199,6 @@
     {
       "basename": "Layers to visualize",
       "path": "01-MOCs/Belucid MOC ™/Layers to visualize.md"
-    },
-    {
-      "basename": "KPI’s",
-      "path": "01-MOCs/Belucid MOC ™/KPI’s.md"
-    },
-    {
-      "basename": "Knowledge Alchemist",
-      "path": "01-MOCs/Belucid MOC ™/Knowledge Alchemist.md"
-    },
-    {
-      "basename": "Jigsaw Pieces",
-      "path": "01-MOCs/Belucid MOC ™/Jigsaw Pieces.md"
-    },
-    {
-      "basename": "How to iterate yourself to success",
-      "path": "01-MOCs/Belucid MOC ™/How to iterate yourself to success.md"
-    },
-    {
-      "basename": "Gametape™",
-      "path": "01-MOCs/Belucid MOC ™/Gametape™.md"
-    },
-    {
-      "basename": "GAINXP",
-      "path": "01-MOCs/Belucid MOC ™/GAINXP.md"
-    },
-    {
-      "basename": "Document everything!",
-      "path": "01-MOCs/Belucid MOC ™/Document everything!.md"
-    },
-    {
-      "basename": "Divine",
-      "path": "01-MOCs/Belucid MOC ™/Divine.md"
-    },
-    {
-      "basename": "Developing my own Big Toe",
-      "path": "01-MOCs/Belucid MOC ™/Developing my own Big Toe.md"
-    },
-    {
-      "basename": "Creating a new niche",
-      "path": "01-MOCs/Belucid MOC ™/Creating a new niche.md"
-    },
-    {
-      "basename": "Character Attributes",
-      "path": "01-MOCs/Belucid MOC ™/Character Attributes.md"
-    },
-    {
-      "basename": "Bootstrapping Belucid",
-      "path": "01-MOCs/Belucid MOC ™/Bootstrapping Belucid.md"
-    },
-    {
-      "basename": "Belucid MOC ™",
-      "path": "01-MOCs/Belucid MOC ™/Belucid MOC ™.md"
-    },
-    {
-      "basename": "BELUCID CONCEPT",
-      "path": "01-MOCs/Belucid MOC ™/BELUCID CONCEPT.md"
-    },
-    {
-      "basename": "Belucid as client-service-business",
-      "path": "01-MOCs/Belucid MOC ™/Belucid as client-service-business.md"
-    },
-    {
-      "basename": "Artists - styles, empty niches",
-      "path": "01-MOCs/Belucid MOC ™/Artists - styles, empty niches.md"
-    },
-    {
-      "basename": "Wim Hof",
-      "path": "01-MOCs/People MOC/Wim Hof.md"
-    },
-    {
-      "basename": "Thomas Campbell",
-      "path": "01-MOCs/People MOC/Thomas Campbell.md"
-    },
-    {
-      "basename": "Steve Jobs",
-      "path": "01-MOCs/People MOC/Steve Jobs.md"
-    },
-    {
-      "basename": "Robert Green",
-      "path": "01-MOCs/People MOC/Robert Green.md"
     }
   ],
   "omittedPaths": [],

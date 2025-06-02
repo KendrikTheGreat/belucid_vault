@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94e0634f79535780",
+            "id": "a4ac3add1ece0305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-Sam Walton.md",
+                "file": "020-Setting the Table The Transforming Power of Hospitality in Business.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "006-Sam Walton"
+              "title": "020-Setting the Table The Transforming Power of Hospitality in Business"
             }
           },
           {
-            "id": "c55be7858a0878bf",
+            "id": "3b0464a4e923605b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007-Grinding It Out The Making of McDonald's.md",
+                "file": "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "007-Grinding It Out The Making of McDonald's"
+              "title": "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture"
+            }
+          },
+          {
+            "id": "2b028d583b0a39ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "022-How To Turn Down A Billion Dollars The Snapchat Story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "022-How To Turn Down A Billion Dollars The Snapchat Story"
+            }
+          },
+          {
+            "id": "8751961936b9bc55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "023-The New New Thing A Silicon Valley Story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "023-The New New Thing A Silicon Valley Story"
+            }
+          },
+          {
+            "id": "cf613d87ee5892e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet"
+            }
+          },
+          {
+            "id": "7f576e3851ddeb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "025-Against the Odds An Autobiography by James Dyson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "025-Against the Odds An Autobiography by James Dyson"
+            }
+          },
+          {
+            "id": "a2ae3464c046094b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "026-My Life and Work The Autobiography of Henry Ford.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "026-My Life and Work The Autobiography of Henry Ford"
+            }
+          },
+          {
+            "id": "ef6d24aa66a67f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -286,7 +430,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "007-Grinding It Out The Making of McDonald's.md",
+                "file": "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -314,7 +458,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 007-Grinding It Out The Making of McDonald's"
+              "title": "Graph of 027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -343,35 +487,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c55be7858a0878bf",
+  "active": "ef6d24aa66a67f3b",
   "lastOpenFiles": [
-    "006-Sam Walton.md",
-    "007-Grinding It Out The Making of McDonald's.md",
-    "005-Steve Jobs.md",
-    "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
-    "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
-    "002-Walt Disney.md",
-    "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
-    "000-Notes from my dinner with Charlie Munger.md",
-    "Untitled 3.md",
-    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
-    "FoundersNotes/383-GHA-test.md.md",
-    "FoundersNotes/383-GHA-test.md",
-    "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
-    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
-    "Thematic interconnectiveness.md",
-    "TEST RUN.md",
-    "Untitled 2.md",
-    "Untitled 5.md",
-    "War chest.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Siedler - Settlers.md",
-    "01-MOCs/Belucid MOC ™/Taking a bet.md",
-    "01-MOCs/Concepts MOC/Company types and characters.md",
+    "026-My Life and Work The Autobiography of Henry Ford.md",
+    "027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
+    "025-Against the Odds An Autobiography by James Dyson.md",
+    "024-No Better Time The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet.md",
+    "023-The New New Thing A Silicon Valley Story.md",
+    "022-How To Turn Down A Billion Dollars The Snapchat Story.md",
+    "021-Masters of Doom How Two Guys Created an Empire and Transformed Pop Culture.md",
+    "020-Setting the Table The Transforming Power of Hospitality in Business.md",
+    "019-Becoming Steve Jobs.md",
+    "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
+    "FoundersNotes/018-Let My People Go Surfing The Education of a Reluctant Businessman.md",
+    "FoundersNotes/017-Jeff Bezos and the Age of Amazon.md",
+    "FoundersNotes/016-Titan The Life of John D. Rockefeller.md",
+    "FoundersNotes/015-Leonardo da Vinci The Biography.md",
+    "FoundersNotes/014-The Accidental Billionaires The Founding of Facebook A Tale of Sex, Money, Genius, and Betrayal.md",
+    "FoundersNotes/013-Elon Musk and Why SpaceX Will Colonize Mars.md",
+    "FoundersNotes/012-Elon Musk & How Tesla Will Change The World.md",
+    "FoundersNotes/011-The Cook & The Chef Elon Musk's Secret Sauce.md",
+    "FoundersNotes/010-Shoe Dog A Memoir by the Creator of Nike.md",
+    "FoundersNotes/009-I Invented the Modern Age The Rise of Henry Ford.md",
+    "FoundersNotes/008-The Intel Trinity How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company.md",
+    "FoundersNotes/007-Grinding It Out The Making of McDonald's.md",
+    "FoundersNotes/006-Sam Walton.md",
+    "FoundersNotes/005-Steve Jobs.md",
+    "FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
+    "FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
     "FoundersNotes",
-    "TEST 6.md",
-    "03-Media-Templates/Templates/Template.md",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media/IMG_0163.jpeg",
