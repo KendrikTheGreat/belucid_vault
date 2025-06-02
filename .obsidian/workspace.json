@@ -30,8 +30,417 @@
               "icon": "lucide-file",
               "title": "087-Thomas Watson (IBM)"
             }
+          },
+          {
+            "id": "3a5f1797a9fcab7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101-Warren Buffett (The Tao of Warren Buffett).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "101-Warren Buffett (The Tao of Warren Buffett)"
+            }
+          },
+          {
+            "id": "5bc23f3f9c2da910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "102-Akio Morita (Sony).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "102-Akio Morita (Sony)"
+            }
+          },
+          {
+            "id": "d0144168ac7a42d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "103-Hetty Green (The Richest Woman in America).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "103-Hetty Green (The Richest Woman in America)"
+            }
+          },
+          {
+            "id": "cf9ccbd45239e7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "104-Ingvar Kamprad (IKEA).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "104-Ingvar Kamprad (IKEA)"
+            }
+          },
+          {
+            "id": "553e38ec31ea32cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "105-Les Schwab (Charlie Munger recommended this book) 1 of 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "105-Les Schwab (Charlie Munger recommended this book) 1 of 2"
+            }
+          },
+          {
+            "id": "641efc044b1882b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "106-Bill Walsh (The Score Takes Care of Itself).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "106-Bill Walsh (The Score Takes Care of Itself)"
+            }
+          },
+          {
+            "id": "871d45b9cb1d373b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "107-Sol Price (Costco).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "107-Sol Price (Costco)"
+            }
+          },
+          {
+            "id": "072c8ac7c98dd77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "108-Jim Simons (Money Printer).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "108-Jim Simons (Money Printer)"
+            }
+          },
+          {
+            "id": "e28539e8f2f0a7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "109-Adi Dassler (Adidas).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "109-Adi Dassler (Adidas)"
+            }
+          },
+          {
+            "id": "62f7a55d5f98521b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "110-Henry Singleton (Teledyne).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "110-Henry Singleton (Teledyne)"
+            }
+          },
+          {
+            "id": "b2623d15c4d7f6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "111-David Geffen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "111-David Geffen"
+            }
+          },
+          {
+            "id": "9987dc1de78d4ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "112-Frank Lloyd Wright.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "112-Frank Lloyd Wright"
+            }
+          },
+          {
+            "id": "57bfe62f6ebbf69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire)"
+            }
+          },
+          {
+            "id": "5105dea254114f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time"
+            }
+          },
+          {
+            "id": "7c1498c9fda5e615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "115-Ben Franklin An American Life.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "115-Ben Franklin An American Life"
+            }
+          },
+          {
+            "id": "60bdbed8207ccf04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "116-Sam Bronfman (Seagram's and the Bronfman family dynasty).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "116-Sam Bronfman (Seagram's and the Bronfman family dynasty)"
+            }
+          },
+          {
+            "id": "374c0519c6bbb556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read)"
+            }
           }
-        ]
+        ],
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -261,7 +670,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/087-Thomas Watson (IBM).md",
+                "file": "117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,7 +698,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 087-Thomas Watson (IBM)"
+              "title": "Graph of 117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read)"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -318,34 +727,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "374c0519c6bbb556",
   "lastOpenFiles": [
+    "116-Sam Bronfman (Seagram's and the Bronfman family dynasty).md",
+    "117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read).md",
+    "115-Ben Franklin An American Life.md",
+    "114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time.md",
+    "113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire).md",
+    "112-Frank Lloyd Wright.md",
+    "111-David Geffen.md",
+    "110-Henry Singleton (Teledyne).md",
+    "109-Adi Dassler (Adidas).md",
+    "108-Jim Simons (Money Printer).md",
+    "107-Sol Price (Costco).md",
+    "106-Bill Walsh (The Score Takes Care of Itself).md",
+    "105-Les Schwab (Charlie Munger recommended this book) 1 of 2.md",
+    "104-Ingvar Kamprad (IKEA).md",
+    "103-Hetty Green (The Richest Woman in America).md",
+    "102-Akio Morita (Sony).md",
+    "101-Warren Buffett (The Tao of Warren Buffett).md",
+    "FoundersNotes/087-Thomas Watson (IBM).md",
     "FoundersNotes/100-Warren Buffett (The Snowball).md",
     "Advantage.md",
     "FoundersNotes/098-Enzo Ferrari (the making of an automobile empire).md",
-    "FoundersNotes/087-Thomas Watson (IBM).md",
     "FoundersNotes/099-Carroll Shelby (My name is Carroll Shelby and performance is my business).md",
     "FoundersNotes/097-Enzo Ferrari (Ferrari vs Ford).md",
     "FoundersNotes/096-James J. Hill (Empire Builder of the Northwest).md",
     "FoundersNotes/095-Claude Shannon.md",
     "FoundersNotes/094-Henry Singleton (The Outsiders).md",
-    "FoundersNotes/093-Ed Thorp (A Man for All Markets).md",
-    "FoundersNotes/092-Ed Thorp and Claude Shannon.md",
-    "FoundersNotes/091-Jim Clayton (Sold to Warren Buffett).md",
-    "FoundersNotes/090-Charlie Munger (Poor Charlie's Almanack).md",
-    "FoundersNotes/089-David Ogilvy (Confessions of an Advertising Man) 1 of 2.md",
-    "FoundersNotes/088-Warren Buffett's Shareholder Letters— All of them!.md",
-    "FoundersNotes/071-Jeff Bezos' Shareholder Letters. All of them..md",
-    "FoundersNotes/086-Carl Bosch and Fritz Haber (A Genius and a Doomed Tycoon).md",
-    "FoundersNotes/085-Walter and Olive Ann Beech (Aviation Legends).md",
-    "FoundersNotes/084-Aristotle Onassis.md",
-    "FoundersNotes/083-Thomas Edison, Nikola Tesla, George Westinghouse, and the Race to Electrify the World.md",
-    "FoundersNotes/082-David Ogilvy (Ogilvy on Advertising).md",
-    "FoundersNotes/081-Henry Royce (Founder of Rolls-Royce).md",
-    "FoundersNotes/080-Henry Ford (Today and Tomorrow).md",
-    "FoundersNotes/079-Charlie Munger (The Complete Investor).md",
-    "FoundersNotes/078-Charlie Munger (the Tao of Charlie Munger).md",
-    "FoundersNotes/077-Steve Jobs (the bizarro years of Steve Jobs).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
