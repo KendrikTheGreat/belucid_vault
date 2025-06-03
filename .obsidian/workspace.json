@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "152-Katherine Graham.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,443 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 6"
+              "title": "152-Katherine Graham"
+            }
+          },
+          {
+            "id": "6b928a099e9a8e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "153-Bill Bowerman (Nike).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "153-Bill Bowerman (Nike)"
+            }
+          },
+          {
+            "id": "9ff69b418f6fdc54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "154-Charles Schulz (Charlie Brown).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "154-Charles Schulz (Charlie Brown)"
+            }
+          },
+          {
+            "id": "32102538007f6a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "155-Jeff Bezos 1 of 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "155-Jeff Bezos 1 of 2"
+            }
+          },
+          {
+            "id": "63a9f9e8afbe7214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "156-Theodore Roosevelt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "156-Theodore Roosevelt"
+            }
+          },
+          {
+            "id": "b58d4a0e5dca6dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution"
+            }
+          },
+          {
+            "id": "9a37b50c1cec452e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "158-Walt Disney (Disneyland).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "158-Walt Disney (Disneyland)"
+            }
+          },
+          {
+            "id": "e81413c0a2cc8d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "159-Andy Grove (Intel).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "159-Andy Grove (Intel)"
+            }
+          },
+          {
+            "id": "deac64c662a9a332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "160-Peter Cundill.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "160-Peter Cundill"
+            }
+          },
+          {
+            "id": "464a7e35933cae1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "161-Dr. Seuss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "161-Dr. Seuss"
+            }
+          },
+          {
+            "id": "f2dc35971bbeecbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "162-Chuck Yeager.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "162-Chuck Yeager"
+            }
+          },
+          {
+            "id": "e537d3abace8c978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "163-Alfred Nobel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "163-Alfred Nobel"
+            }
+          },
+          {
+            "id": "d1134b873a0e55b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "164-Robert Goddard (Rocket Man).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "164-Robert Goddard (Rocket Man)"
+            }
+          },
+          {
+            "id": "10fc5623cfd20780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "165-William Shockley (Creator of the Electronic Age).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "165-William Shockley (Creator of the Electronic Age)"
+            }
+          },
+          {
+            "id": "ad4d7afe2316570e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "166-Robert Noyce (Intel).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "166-Robert Noyce (Intel)"
+            }
+          },
+          {
+            "id": "3c0fe1504e383506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "167-Jackie Cochran (Aviation).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "167-Jackie Cochran (Aviation)"
+            }
+          },
+          {
+            "id": "50197c8096b5b270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "168-Larry Miller (Driven An Autobiography).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "168-Larry Miller (Driven An Autobiography)"
+            }
+          },
+          {
+            "id": "6ad1887de5990a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "169-David Ogilvy (The King of Madison Avenue).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "169-David Ogilvy (The King of Madison Avenue)"
+            }
+          },
+          {
+            "id": "922922f26d3c47b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "170-Claude Hopkins (A Life in Advertising).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "170-Claude Hopkins (A Life in Advertising)"
             }
           }
-        ]
+        ],
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -261,7 +694,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "170-Claude Hopkins (A Life in Advertising).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,7 +722,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 6"
+              "title": "Graph of 170-Claude Hopkins (A Life in Advertising)"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -318,34 +751,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "42eb01bf6728cd69",
+  "active": "922922f26d3c47b2",
   "lastOpenFiles": [
-    "Untitled 6.md",
+    "169-David Ogilvy (The King of Madison Avenue).md",
+    "170-Claude Hopkins (A Life in Advertising).md",
+    "168-Larry Miller (Driven An Autobiography).md",
+    "167-Jackie Cochran (Aviation).md",
+    "166-Robert Noyce (Intel).md",
+    "165-William Shockley (Creator of the Electronic Age).md",
+    "164-Robert Goddard (Rocket Man).md",
+    "163-Alfred Nobel.md",
+    "162-Chuck Yeager.md",
+    "161-Dr. Seuss.md",
+    "160-Peter Cundill.md",
+    "159-Andy Grove (Intel).md",
+    "158-Walt Disney (Disneyland).md",
+    "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution.md",
+    "156-Theodore Roosevelt.md",
+    "155-Jeff Bezos 1 of 2.md",
+    "154-Charles Schulz (Charlie Brown).md",
+    "153-Bill Bowerman (Nike).md",
+    "152-Katherine Graham.md",
+    "151-Frederick Smith (FedEx).md",
     "FoundersNotes/126-Larry Ellison (The Billionaire and the Mechanic).md",
-    "151-.md",
     "FoundersNotes/150-Sam Walton (America's Richest Man).md",
     "FoundersNotes/149-The Big Rich (Oil Billionaires).md",
     "FoundersNotes/148-John D. Rockefeller (Autobiography).md",
     "FoundersNotes/147-Sam Colt.md",
     "FoundersNotes/146-Milton Hershey (Chocolate).md",
-    "FoundersNotes/145-William Randolph Hearst.md",
-    "FoundersNotes/144-Ernest Shackleton.md",
-    "FoundersNotes/143-Alfred Lee Loomis (the most interesting man you've never heard of).md",
-    "FoundersNotes/142-Teddy Roosevelt and J.P. Morgan.md",
-    "FoundersNotes/141-Arnold Schwarzenegger (My Unbelievably True Life Story).md",
-    "FoundersNotes/140-Bill Gates (the Making of the Microsoft Empire).md",
-    "FoundersNotes/139-J.P. Morgan.md",
-    "FoundersNotes/138-Alexander Graham Bell.md",
-    "FoundersNotes/137-P.T. Barnum.md",
-    "FoundersNotes/136-Estée Lauder 1 of 2.md",
-    "FoundersNotes/135-Joseph Pulitzer (Politics & Media).md",
-    "FoundersNotes/134-Edwin Land (Polaroid vs Kodak).md",
-    "FoundersNotes/133-Edwin Land (Polaroid and The Man Who Invented It).md",
-    "FoundersNotes/132-Edwin Land (Steve Jobs's Hero).md",
-    "FoundersNotes/131-Robert Friedland (Mining).md",
-    "FoundersNotes/130-Walter Chrysler.md",
-    "FoundersNotes/129-Felix Dennis (How to Get Rich).md",
-    "FoundersNotes/128-Henry Leland (Cadillac).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
