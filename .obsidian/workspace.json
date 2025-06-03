@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98951c364addd612",
+        "id": "b94a2fd403fb728f",
         "type": "tabs",
         "children": [
           {
-            "id": "42eb01bf6728cd69",
+            "id": "c2034085412470d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "152-Katherine Graham.md",
+                "file": "186-Phil Knight (Nike).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "152-Katherine Graham"
+              "title": "186-Phil Knight (Nike)"
             }
           },
           {
-            "id": "6b928a099e9a8e06",
+            "id": "285eb7769156128e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "153-Bill Bowerman (Nike).md",
+                "file": "187-Albert Einstein.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "153-Bill Bowerman (Nike)"
+              "title": "187-Albert Einstein"
             }
           },
           {
-            "id": "9ff69b418f6fdc54",
+            "id": "0ceb6f8b8bb99a46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "154-Charles Schulz (Charlie Brown).md",
+                "file": "188-Joe Coulombe (Trader Joes).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "154-Charles Schulz (Charlie Brown)"
+              "title": "188-Joe Coulombe (Trader Joes)"
             }
           },
           {
-            "id": "32102538007f6a76",
+            "id": "6a339db55a8ba6dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "155-Jeff Bezos 1 of 2.md",
+                "file": "189-David Ogilvy (Private memos).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "155-Jeff Bezos 1 of 2"
+              "title": "189-David Ogilvy (Private memos)"
             }
           },
           {
-            "id": "63a9f9e8afbe7214",
+            "id": "a24cdf0cc79201b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "156-Theodore Roosevelt.md",
+                "file": "190-Henry Ford and Thomas Edison.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "156-Theodore Roosevelt"
+              "title": "190-Henry Ford and Thomas Edison"
             }
           },
           {
-            "id": "b58d4a0e5dca6dde",
+            "id": "26f865fb3984e285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution.md",
+                "file": "191-Naval Ravikant (A Guide to Wealth and Happiness).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution"
+              "title": "191-Naval Ravikant (A Guide to Wealth and Happiness)"
             }
           },
           {
-            "id": "9a37b50c1cec452e",
+            "id": "079be3e21d8ce768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "158-Walt Disney (Disneyland).md",
+                "file": "192-Jim Casey (Founder of UPS).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,16 +172,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "158-Walt Disney (Disneyland)"
+              "title": "192-Jim Casey (Founder of UPS)"
             }
           },
           {
-            "id": "e81413c0a2cc8d10",
+            "id": "1f3d52576b09863e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "159-Andy Grove (Intel).md",
+                "file": "193-Arnold Schwarzenegger (his first autobiography).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,16 +196,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "159-Andy Grove (Intel)"
+              "title": "193-Arnold Schwarzenegger (his first autobiography)"
             }
           },
           {
-            "id": "deac64c662a9a332",
+            "id": "87d56154860b3a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "160-Peter Cundill.md",
+                "file": "194-Ernest Hemingway (Writer, Sailor, Soldier, Spy).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,16 +220,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "160-Peter Cundill"
+              "title": "194-Ernest Hemingway (Writer, Sailor, Soldier, Spy)"
             }
           },
           {
-            "id": "464a7e35933cae1b",
+            "id": "1ec9d2b5e9635831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "161-Dr. Seuss.md",
+                "file": "195-Sid Meier (Computer game designer).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,16 +244,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "161-Dr. Seuss"
+              "title": "195-Sid Meier (Computer game designer)"
             }
           },
           {
-            "id": "f2dc35971bbeecbe",
+            "id": "c3a7ec16eb18eacf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "162-Chuck Yeager.md",
+                "file": "196-Winston Churchill (Defiance During the Blitz).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,16 +268,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "162-Chuck Yeager"
+              "title": "196-Winston Churchill (Defiance During the Blitz)"
             }
           },
           {
-            "id": "e537d3abace8c978",
+            "id": "4c94628c7b49cba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "163-Alfred Nobel.md",
+                "file": "197-Founder of the Rothschilds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,16 +292,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "163-Alfred Nobel"
+              "title": "197-Founder of the Rothschilds"
             }
           },
           {
-            "id": "d1134b873a0e55b8",
+            "id": "a0ca9c1a2593ef1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "164-Robert Goddard (Rocket Man).md",
+                "file": "198-The House of Rothschild Money's Prophets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,16 +316,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "164-Robert Goddard (Rocket Man)"
+              "title": "198-The House of Rothschild Money's Prophets"
             }
           },
           {
-            "id": "10fc5623cfd20780",
+            "id": "0b82e918f99ff873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "165-William Shockley (Creator of the Electronic Age).md",
+                "file": "199-Coco Chanel The Legend and the Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,16 +340,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "165-William Shockley (Creator of the Electronic Age)"
+              "title": "199-Coco Chanel The Legend and the Life"
             }
           },
           {
-            "id": "ad4d7afe2316570e",
+            "id": "591991ef5b96dd0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "166-Robert Noyce (Intel).md",
+                "file": "200-James Dyson (Against the Odds) 1 of 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -364,395 +364,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "166-Robert Noyce (Intel)"
-            }
-          },
-          {
-            "id": "3c0fe1504e383506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "167-Jackie Cochran (Aviation).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "167-Jackie Cochran (Aviation)"
-            }
-          },
-          {
-            "id": "50197c8096b5b270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "168-Larry Miller (Driven An Autobiography).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "168-Larry Miller (Driven An Autobiography)"
-            }
-          },
-          {
-            "id": "6ad1887de5990a79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "169-David Ogilvy (The King of Madison Avenue).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "169-David Ogilvy (The King of Madison Avenue)"
-            }
-          },
-          {
-            "id": "922922f26d3c47b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "170-Claude Hopkins (A Life in Advertising).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "170-Claude Hopkins (A Life in Advertising)"
-            }
-          },
-          {
-            "id": "79d1c906ece8b023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "171-Chuck Feeney (The Billionaire Who Wasn't).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "171-Chuck Feeney (The Billionaire Who Wasn't)"
-            }
-          },
-          {
-            "id": "ce1581658778dffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "172-Elon Musk (Early Days of SpaceX).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "172-Elon Musk (Early Days of SpaceX)"
-            }
-          },
-          {
-            "id": "853f42b7874c56e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "173-Louis B. Mayer (Movie mogul).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "173-Louis B. Mayer (Movie mogul)"
-            }
-          },
-          {
-            "id": "40728ecdb867f93c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "174-Bill Gates (Overdrive).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "174-Bill Gates (Overdrive)"
-            }
-          },
-          {
-            "id": "83d710a2adaa0a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "175-Theodore Roosevelt's Darkest Journey.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "175-Theodore Roosevelt's Darkest Journey"
-            }
-          },
-          {
-            "id": "c71380ab09f75054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "176-Linus Torvalds.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "176-Linus Torvalds"
-            }
-          },
-          {
-            "id": "b7ab14a69c59bed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "177-Robert Campeau (Junk Bonds and Retail Bankruptcy).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "177-Robert Campeau (Junk Bonds and Retail Bankruptcy)"
-            }
-          },
-          {
-            "id": "629004b80c08df0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "178-Jony Ive The Genius Behind Apple's Greatest Products.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "178-Jony Ive The Genius Behind Apple's Greatest Products"
-            }
-          },
-          {
-            "id": "e30b2ba204d4c9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "179-Jeff Bezos 2 of 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "179-Jeff Bezos 2 of 2"
-            }
-          },
-          {
-            "id": "3a644b6f9d1946ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "180-Jeff Bezos (Invention of a Global Empire).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "180-Jeff Bezos (Invention of a Global Empire)"
-            }
-          },
-          {
-            "id": "35455b4d74b25c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "181-Paul Orfalea (Kinkos).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "181-Paul Orfalea (Kinkos)"
-            }
-          },
-          {
-            "id": "707c852f958e0565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "182-Warren Buffett (The Making of an American Capitalist).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "182-Warren Buffett (The Making of an American Capitalist)"
+              "title": "200-James Dyson (Against the Odds) 1 of 2"
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -982,7 +598,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "182-Warren Buffett (The Making of an American Capitalist).md",
+                "file": "200-James Dyson (Against the Odds) 1 of 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1010,7 +626,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 182-Warren Buffett (The Making of an American Capitalist)"
+              "title": "Graph of 200-James Dyson (Against the Odds) 1 of 2"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1039,34 +655,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "707c852f958e0565",
+  "active": "591991ef5b96dd0a",
   "lastOpenFiles": [
-    "181-Paul Orfalea (Kinkos).md",
-    "182-Warren Buffett (The Making of an American Capitalist).md",
-    "180-Jeff Bezos (Invention of a Global Empire).md",
-    "179-Jeff Bezos 2 of 2.md",
-    "178-Jony Ive The Genius Behind Apple's Greatest Products.md",
-    "177-Robert Campeau (Junk Bonds and Retail Bankruptcy).md",
-    "176-Linus Torvalds.md",
-    "175-Theodore Roosevelt's Darkest Journey.md",
-    "174-Bill Gates (Overdrive).md",
-    "173-Louis B. Mayer (Movie mogul).md",
-    "172-Elon Musk (Early Days of SpaceX).md",
-    "171-Chuck Feeney (The Billionaire Who Wasn't).md",
-    "170-Claude Hopkins (A Life in Advertising).md",
-    "169-David Ogilvy (The King of Madison Avenue).md",
-    "168-Larry Miller (Driven An Autobiography).md",
-    "167-Jackie Cochran (Aviation).md",
-    "166-Robert Noyce (Intel).md",
-    "165-William Shockley (Creator of the Electronic Age).md",
-    "164-Robert Goddard (Rocket Man).md",
-    "163-Alfred Nobel.md",
-    "162-Chuck Yeager.md",
-    "161-Dr. Seuss.md",
-    "160-Peter Cundill.md",
-    "159-Andy Grove (Intel).md",
-    "158-Walt Disney (Disneyland).md",
-    "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution.md",
+    "199-Coco Chanel The Legend and the Life.md",
+    "200-James Dyson (Against the Odds) 1 of 2.md",
+    "198-The House of Rothschild Money's Prophets.md",
+    "197-Founder of the Rothschilds.md",
+    "196-Winston Churchill (Defiance During the Blitz).md",
+    "195-Sid Meier (Computer game designer).md",
+    "194-Ernest Hemingway (Writer, Sailor, Soldier, Spy).md",
+    "193-Arnold Schwarzenegger (his first autobiography).md",
+    "192-Jim Casey (Founder of UPS).md",
+    "191-Naval Ravikant (A Guide to Wealth and Happiness).md",
+    "190-Henry Ford and Thomas Edison.md",
+    "189-David Ogilvy (Private memos).md",
+    "188-Joe Coulombe (Trader Joes).md",
+    "187-Albert Einstein.md",
+    "186-Phil Knight (Nike).md",
+    "FoundersNotes/151-Frederick Smith (FedEx).md",
+    "FoundersNotes/185-César Ritz and Auguste Escoffier (The Hotelier and The Chef).md",
+    "FoundersNotes/184-Isadore Sharp (Four Seasons).md",
+    "FoundersNotes/183-Johnny Carson.md",
+    "FoundersNotes/182-Warren Buffett (The Making of an American Capitalist).md",
+    "FoundersNotes/181-Paul Orfalea (Kinkos).md",
+    "FoundersNotes/180-Jeff Bezos (Invention of a Global Empire).md",
+    "FoundersNotes/179-Jeff Bezos 2 of 2.md",
+    "FoundersNotes/178-Jony Ive The Genius Behind Apple's Greatest Products.md",
+    "FoundersNotes/177-Robert Campeau (Junk Bonds and Retail Bankruptcy).md",
+    "FoundersNotes/176-Linus Torvalds.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
