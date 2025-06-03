@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41bcc8ed79349e3d",
+        "id": "98951c364addd612",
         "type": "tabs",
         "children": [
           {
-            "id": "60c5757393584510",
+            "id": "42eb01bf6728cd69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoundersNotes/101-Warren Buffett (The Tao of Warren Buffett).md",
+                "file": "Untitled 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "101-Warren Buffett (The Tao of Warren Buffett)"
+              "title": "Untitled 6"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/101-Warren Buffett (The Tao of Warren Buffett).md",
+                "file": "Untitled 6.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 101-Warren Buffett (The Tao of Warren Buffett)"
+              "title": "Graph of Untitled 6"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -318,34 +318,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "42eb01bf6728cd69",
   "lastOpenFiles": [
-    "FoundersNotes/125-Charles Kettering (inventor, engineer, founder).md",
-    "FoundersNotes/124-Larry Ellison and Oracle.md",
-    "FoundersNotes/123-Albert Champion (Record-Setting Racer to Dashing Tycoon).md",
-    "FoundersNotes/122-Alfred Sloan (General Motors).md",
-    "FoundersNotes/121-Billy Durant and Alfred Sloan (General Motors).md",
-    "FoundersNotes/120-Billy Durant (Creator of General Motors).md",
-    "FoundersNotes/119-The Dodge Brothers.md",
-    "FoundersNotes/118-Forty Years With Henry Ford.md",
-    "FoundersNotes/117-Chung Ju-yung founder of Hyundai (the most inspiring autobiography I've read).md",
-    "FoundersNotes/116-Sam Bronfman (Seagram's and the Bronfman family dynasty).md",
-    "FoundersNotes/115-Ben Franklin An American Life.md",
-    "FoundersNotes/114-The Professor, the Banker, and the Suicide King Inside the Richest Poker Game of All Time.md",
-    "FoundersNotes/113-A.G. Gaston (Black Titan and the Making of a Black American Millionaire).md",
-    "FoundersNotes/112-Frank Lloyd Wright.md",
-    "FoundersNotes/111-David Geffen.md",
-    "FoundersNotes/110-Henry Singleton (Teledyne).md",
-    "FoundersNotes/109-Adi Dassler (Adidas).md",
-    "FoundersNotes/108-Jim Simons (Money Printer).md",
-    "FoundersNotes/107-Sol Price (Costco).md",
-    "FoundersNotes/106-Bill Walsh (The Score Takes Care of Itself).md",
-    "FoundersNotes/105-Les Schwab (Charlie Munger recommended this book) 1 of 2.md",
-    "FoundersNotes/104-Ingvar Kamprad (IKEA).md",
-    "FoundersNotes/103-Hetty Green (The Richest Woman in America).md",
-    "FoundersNotes/102-Akio Morita (Sony).md",
-    "FoundersNotes/101-Warren Buffett (The Tao of Warren Buffett).md",
-    "FoundersNotes/087-Thomas Watson (IBM).md",
+    "Untitled 6.md",
+    "FoundersNotes/126-Larry Ellison (The Billionaire and the Mechanic).md",
+    "151-.md",
+    "FoundersNotes/150-Sam Walton (America's Richest Man).md",
+    "FoundersNotes/149-The Big Rich (Oil Billionaires).md",
+    "FoundersNotes/148-John D. Rockefeller (Autobiography).md",
+    "FoundersNotes/147-Sam Colt.md",
+    "FoundersNotes/146-Milton Hershey (Chocolate).md",
+    "FoundersNotes/145-William Randolph Hearst.md",
+    "FoundersNotes/144-Ernest Shackleton.md",
+    "FoundersNotes/143-Alfred Lee Loomis (the most interesting man you've never heard of).md",
+    "FoundersNotes/142-Teddy Roosevelt and J.P. Morgan.md",
+    "FoundersNotes/141-Arnold Schwarzenegger (My Unbelievably True Life Story).md",
+    "FoundersNotes/140-Bill Gates (the Making of the Microsoft Empire).md",
+    "FoundersNotes/139-J.P. Morgan.md",
+    "FoundersNotes/138-Alexander Graham Bell.md",
+    "FoundersNotes/137-P.T. Barnum.md",
+    "FoundersNotes/136-Estée Lauder 1 of 2.md",
+    "FoundersNotes/135-Joseph Pulitzer (Politics & Media).md",
+    "FoundersNotes/134-Edwin Land (Polaroid vs Kodak).md",
+    "FoundersNotes/133-Edwin Land (Polaroid and The Man Who Invented It).md",
+    "FoundersNotes/132-Edwin Land (Steve Jobs's Hero).md",
+    "FoundersNotes/131-Robert Friedland (Mining).md",
+    "FoundersNotes/130-Walter Chrysler.md",
+    "FoundersNotes/129-Felix Dennis (How to Get Rich).md",
+    "FoundersNotes/128-Henry Leland (Cadillac).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
