@@ -462,9 +462,297 @@
               "icon": "lucide-file",
               "title": "170-Claude Hopkins (A Life in Advertising)"
             }
+          },
+          {
+            "id": "79d1c906ece8b023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "171-Chuck Feeney (The Billionaire Who Wasn't).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "171-Chuck Feeney (The Billionaire Who Wasn't)"
+            }
+          },
+          {
+            "id": "ce1581658778dffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "172-Elon Musk (Early Days of SpaceX).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "172-Elon Musk (Early Days of SpaceX)"
+            }
+          },
+          {
+            "id": "853f42b7874c56e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "173-Louis B. Mayer (Movie mogul).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "173-Louis B. Mayer (Movie mogul)"
+            }
+          },
+          {
+            "id": "40728ecdb867f93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "174-Bill Gates (Overdrive).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "174-Bill Gates (Overdrive)"
+            }
+          },
+          {
+            "id": "83d710a2adaa0a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "175-Theodore Roosevelt's Darkest Journey.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "175-Theodore Roosevelt's Darkest Journey"
+            }
+          },
+          {
+            "id": "c71380ab09f75054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "176-Linus Torvalds.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "176-Linus Torvalds"
+            }
+          },
+          {
+            "id": "b7ab14a69c59bed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "177-Robert Campeau (Junk Bonds and Retail Bankruptcy).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "177-Robert Campeau (Junk Bonds and Retail Bankruptcy)"
+            }
+          },
+          {
+            "id": "629004b80c08df0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "178-Jony Ive The Genius Behind Apple's Greatest Products.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "178-Jony Ive The Genius Behind Apple's Greatest Products"
+            }
+          },
+          {
+            "id": "e30b2ba204d4c9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "179-Jeff Bezos 2 of 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "179-Jeff Bezos 2 of 2"
+            }
+          },
+          {
+            "id": "3a644b6f9d1946ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "180-Jeff Bezos (Invention of a Global Empire).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "180-Jeff Bezos (Invention of a Global Empire)"
+            }
+          },
+          {
+            "id": "35455b4d74b25c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "181-Paul Orfalea (Kinkos).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "181-Paul Orfalea (Kinkos)"
+            }
+          },
+          {
+            "id": "707c852f958e0565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "182-Warren Buffett (The Making of an American Capitalist).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "182-Warren Buffett (The Making of an American Capitalist)"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -694,7 +982,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "170-Claude Hopkins (A Life in Advertising).md",
+                "file": "182-Warren Buffett (The Making of an American Capitalist).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -722,7 +1010,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 170-Claude Hopkins (A Life in Advertising)"
+              "title": "Graph of 182-Warren Buffett (The Making of an American Capitalist)"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -751,10 +1039,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "922922f26d3c47b2",
+  "active": "707c852f958e0565",
   "lastOpenFiles": [
-    "169-David Ogilvy (The King of Madison Avenue).md",
+    "181-Paul Orfalea (Kinkos).md",
+    "182-Warren Buffett (The Making of an American Capitalist).md",
+    "180-Jeff Bezos (Invention of a Global Empire).md",
+    "179-Jeff Bezos 2 of 2.md",
+    "178-Jony Ive The Genius Behind Apple's Greatest Products.md",
+    "177-Robert Campeau (Junk Bonds and Retail Bankruptcy).md",
+    "176-Linus Torvalds.md",
+    "175-Theodore Roosevelt's Darkest Journey.md",
+    "174-Bill Gates (Overdrive).md",
+    "173-Louis B. Mayer (Movie mogul).md",
+    "172-Elon Musk (Early Days of SpaceX).md",
+    "171-Chuck Feeney (The Billionaire Who Wasn't).md",
     "170-Claude Hopkins (A Life in Advertising).md",
+    "169-David Ogilvy (The King of Madison Avenue).md",
     "168-Larry Miller (Driven An Autobiography).md",
     "167-Jackie Cochran (Aviation).md",
     "166-Robert Noyce (Intel).md",
@@ -767,18 +1067,6 @@
     "159-Andy Grove (Intel).md",
     "158-Walt Disney (Disneyland).md",
     "157-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution.md",
-    "156-Theodore Roosevelt.md",
-    "155-Jeff Bezos 1 of 2.md",
-    "154-Charles Schulz (Charlie Brown).md",
-    "153-Bill Bowerman (Nike).md",
-    "152-Katherine Graham.md",
-    "151-Frederick Smith (FedEx).md",
-    "FoundersNotes/126-Larry Ellison (The Billionaire and the Mechanic).md",
-    "FoundersNotes/150-Sam Walton (America's Richest Man).md",
-    "FoundersNotes/149-The Big Rich (Oil Billionaires).md",
-    "FoundersNotes/148-John D. Rockefeller (Autobiography).md",
-    "FoundersNotes/147-Sam Colt.md",
-    "FoundersNotes/146-Milton Hershey (Chocolate).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
