@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8af63ac62661e4e",
+        "id": "41c77f17bce579ee",
         "type": "tabs",
         "children": [
           {
-            "id": "168d92120cd3b720",
+            "id": "984e6accb952ed8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "351-The Founder of Rolex Hans Wilsdorf.md",
+                "file": "368-.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,179 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "351-The Founder of Rolex Hans Wilsdorf"
-            }
-          },
-          {
-            "id": "95463662a1e7aae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "352-J. Paul Getty The Richest Private Citizen in America.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "352-J. Paul Getty The Richest Private Citizen in America"
-            }
-          },
-          {
-            "id": "7eb8732fddb3e1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "353-How To Be Rich by J. Paul Getty.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "353-How To Be Rich by J. Paul Getty"
-            }
-          },
-          {
-            "id": "f2ef8dcd5359bce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "354-Sam Walton The Inside Story of America's Richest Man.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "354-Sam Walton The Inside Story of America's Richest Man"
-            }
-          },
-          {
-            "id": "54793614fd677b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "355-Rare Bernard Arnault Interview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "355-Rare Bernard Arnault Interview"
-            }
-          },
-          {
-            "id": "5f89892c5456c064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel)"
-            }
-          },
-          {
-            "id": "6924fc9b10f81153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "357-Haruki Murakami.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "357-Haruki Murakami"
-            }
-          },
-          {
-            "id": "487a2b16215ad106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "358-I had dinner with John Mackey, Founder of Whole Foods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "358-I had dinner with John Mackey, Founder of Whole Foods"
+              "title": "368-"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -430,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "358-I had dinner with John Mackey, Founder of Whole Foods.md",
+                "file": "368-.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -458,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 358-I had dinner with John Mackey, Founder of Whole Foods"
+              "title": "Graph of 368-"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -487,16 +318,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "487a2b16215ad106",
+  "active": "984e6accb952ed8b",
   "lastOpenFiles": [
-    "357-Haruki Murakami.md",
-    "358-I had dinner with John Mackey, Founder of Whole Foods.md",
-    "356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel).md",
-    "355-Rare Bernard Arnault Interview.md",
-    "354-Sam Walton The Inside Story of America's Richest Man.md",
-    "353-How To Be Rich by J. Paul Getty.md",
-    "352-J. Paul Getty The Richest Private Citizen in America.md",
-    "351-The Founder of Rolex Hans Wilsdorf.md",
+    "FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md",
+    "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
+    "FoundersNotes/366-Mr. Beast Leaked Memo.md",
+    "FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md",
+    "FoundersNotes/364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership.md",
+    "FoundersNotes/363-Li Lu and Charlie Munger and Warren Buffett.md",
+    "FoundersNotes/362-Li Lu.md",
+    "FoundersNotes/361-Estée Lauder.md",
+    "FoundersNotes/360-Robert Kierlin Founder of Fastenal.md",
+    "FoundersNotes/359-The Russian Rockefellers.md",
+    "FoundersNotes/358-I had dinner with John Mackey, Founder of Whole Foods.md",
+    "FoundersNotes/357-Haruki Murakami.md",
+    "FoundersNotes/356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel).md",
+    "FoundersNotes/355-Rare Bernard Arnault Interview.md",
+    "FoundersNotes/354-Sam Walton The Inside Story of America's Richest Man.md",
+    "FoundersNotes/353-How To Be Rich by J. Paul Getty.md",
+    "FoundersNotes/352-J. Paul Getty The Richest Private Citizen in America.md",
+    "368-.md",
     "FoundersNotes/323-Jimmy Buffett.md",
     "FoundersNotes/349-How Steve Jobs Kept Things Simple.md",
     "FoundersNotes/347-How Walt Disney Built His Greatest Creation Disneyland.md",
@@ -505,16 +346,6 @@
     "FoundersNotes/344-Quentin Tarantino.md",
     "FoundersNotes/343-The Eternal Pursuit of Unhappiness David Ogilvy.md",
     "FoundersNotes/342-The Lessons of History (Will & Ariel Durant).md",
-    "FoundersNotes/341-Cornelius Vanderbilt (Tycoon's War).md",
-    "FoundersNotes/340-Michael Jordan and Kobe Bryant.md",
-    "FoundersNotes/339-Joseph Duveen Robber Baron Art Dealer.md",
-    "FoundersNotes/338-Monty Moncrief Texas Oil Billionaire.md",
-    "FoundersNotes/337-Napoleon's Maxims and Strategy.md",
-    "FoundersNotes/336-How To Lose A Few Billion Dollars Samuel Insull.md",
-    "FoundersNotes/335-How To Make A Few Billion Dollars Brad Jacobs.md",
-    "FoundersNotes/334-Oprah.md",
-    "FoundersNotes/333-Red Bull's Billionaire Maniac Founder Dietrich Mateschitz.md",
-    "FoundersNotes/332-Jesus.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
