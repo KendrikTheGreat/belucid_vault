@@ -4,155 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "736e91767ecf9b3c",
+        "id": "398ae043da45825c",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f3d795ca1b102a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "201-Isambard Kingdom Brunel (James Dyson's hero).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "201-Isambard Kingdom Brunel (James Dyson's hero)"
-            }
-          },
-          {
-            "id": "1ca77224b494fcd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202-A Few Lessons From Warren Buffett.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202-A Few Lessons From Warren Buffett"
-            }
-          },
-          {
-            "id": "e39349c80b610472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "203-Georges Doriot (Birth of Venture Capital).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "203-Georges Doriot (Birth of Venture Capital)"
-            }
-          },
-          {
-            "id": "ea9e944371fad00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "204-Steve Jobs (Inside Steve's Brain).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "204-Steve Jobs (Inside Steve's Brain)"
-            }
-          },
-          {
-            "id": "e7b3b875831a1400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "205-James Dyson (Invention A Life).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "205-James Dyson (Invention A Life)"
-            }
-          },
-          {
-            "id": "87ee433925550612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "206-Albert D. Lasker (the creation of the advertising industry).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "206-Albert D. Lasker (the creation of the advertising industry)"
-            }
-          },
-          {
-            "id": "cf2ac596d94b04a4",
+            "id": "aa1565f819feaac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,8 +31,7 @@
               "title": "Untitled 6"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -463,34 +318,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf2ac596d94b04a4",
+  "active": "aa1565f819feaac2",
   "lastOpenFiles": [
-    "206-Albert D. Lasker (the creation of the advertising industry).md",
     "Untitled 6.md",
-    "205-James Dyson (Invention A Life).md",
-    "204-Steve Jobs (Inside Steve's Brain).md",
-    "203-Georges Doriot (Birth of Venture Capital).md",
-    "202-A Few Lessons From Warren Buffett.md",
-    "201-Isambard Kingdom Brunel (James Dyson's hero).md",
-    "FoundersNotes/200-James Dyson (Against the Odds) 1 of 2.md",
-    "FoundersNotes/186-Phil Knight (Nike).md",
-    "FoundersNotes/383-GHA-test.md",
-    "FoundersNotes/199-Coco Chanel The Legend and the Life.md",
-    "FoundersNotes/198-The House of Rothschild Money's Prophets.md",
-    "FoundersNotes/197-Founder of the Rothschilds.md",
-    "FoundersNotes/196-Winston Churchill (Defiance During the Blitz).md",
-    "FoundersNotes/195-Sid Meier (Computer game designer).md",
-    "FoundersNotes/194-Ernest Hemingway (Writer, Sailor, Soldier, Spy).md",
-    "FoundersNotes/193-Arnold Schwarzenegger (his first autobiography).md",
-    "FoundersNotes/192-Jim Casey (Founder of UPS).md",
-    "FoundersNotes/191-Naval Ravikant (A Guide to Wealth and Happiness).md",
-    "FoundersNotes/190-Henry Ford and Thomas Edison.md",
-    "FoundersNotes/189-David Ogilvy (Private memos).md",
-    "FoundersNotes/188-Joe Coulombe (Trader Joes).md",
-    "FoundersNotes/187-Albert Einstein.md",
-    "FoundersNotes/151-Frederick Smith (FedEx).md",
-    "FoundersNotes/185-César Ritz and Auguste Escoffier (The Hotelier and The Chef).md",
-    "FoundersNotes/184-Isadore Sharp (Four Seasons).md",
+    "FoundersNotes/221-Charlie Munger.md",
+    "FoundersNotes/249-Steve Jobs In His Own Words.md",
+    "FoundersNotes/248-John D. Rockefeller (Titan).md",
+    "FoundersNotes/247-Henry Flagler (Rockefeller's partner).md",
+    "FoundersNotes/246-Mark Leonard's Shareholder Letters.md",
+    "FoundersNotes/245-Rick Rubin (In the Studio).md",
+    "FoundersNotes/244-Harry Snyder (In-N-Out Burger).md",
+    "FoundersNotes/243-Francis Greenburger (Real Estate Billionaire).md",
+    "FoundersNotes/242-Francis Ford Coppola A Filmmaker's Life.md",
+    "FoundersNotes/241-The Wright Brothers, Glenn Curtiss, and the Battle to Control the Skies.md",
+    "FoundersNotes/240-Mozart A Life.md",
+    "FoundersNotes/239-The Wright Brothers 2 of 2.md",
+    "FoundersNotes/237-Julio Lobo (Cuba's Last Sugar Tycoon).md",
+    "FoundersNotes/238-Jay Z Decoded.md",
+    "FoundersNotes/236-Nims Purja (Mountaineering).md",
+    "FoundersNotes/235-Steve Jobs (The Pixar Story).md",
+    "FoundersNotes/234-Sam Walton Made In America.md",
+    "FoundersNotes/233-Elon Musk, Peter Thiel, Max Levchin (PayPal).md",
+    "FoundersNotes/232-Alexander the Great.md",
+    "FoundersNotes/231-William Rosenberg (Dunkin Donuts).md",
+    "FoundersNotes/230-Lucille Ball (TV's biggest star).md",
+    "FoundersNotes/229-Sidney Harman (Harman Kardon).md",
+    "FoundersNotes/228-Michael Bloomberg.md",
+    "FoundersNotes/227-The Essays of Warren Buffett.md",
+    "FoundersNotes/226-Heroes From Alexander the Great and Julius Caesar to Churchill and de Gaulle.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
