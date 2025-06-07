@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "301-.md",
+                "file": "301-Tiger Woods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,347 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "301-"
+              "title": "301-Tiger Woods"
+            }
+          },
+          {
+            "id": "69ac069749fa40ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "302-Napoleon (The Mind of Napoleon).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "302-Napoleon (The Mind of Napoleon)"
+            }
+          },
+          {
+            "id": "8bf397cc0c12eeee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "303-Rose Blumkin (Warren Buffett's Favorite Founder).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "303-Rose Blumkin (Warren Buffett's Favorite Founder)"
+            }
+          },
+          {
+            "id": "ad9eafc680599b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "304-Sol Price (The Founder Who Taught Jim Sinegal, Sam Walton, Jeff Bezos, Bernie Marcus).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "304-Sol Price (The Founder Who Taught Jim Sinegal, Sam Walton, Jeff Bezos, Bernie Marcus)"
+            }
+          },
+          {
+            "id": "c9c8e8a7b77f5176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "305-Robert Caro on the relationship with your father, power, poverty, ruthlessness, obsession and running..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "305-Robert Caro on the relationship with your father, power, poverty, ruthlessness, obsession and running."
+            }
+          },
+          {
+            "id": "4256ffaae1ed1307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "306-David Ogilvy (Confessions of an Advertising Man) 2 of 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "306-David Ogilvy (Confessions of an Advertising Man) 2 of 2"
+            }
+          },
+          {
+            "id": "bd70d3d29120e683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "307-The World's Great Family Dynasties Rockefeller, Rothschild, Morgan, & Toyada.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "307-The World's Great Family Dynasties Rockefeller, Rothschild, Morgan, & Toyada"
+            }
+          },
+          {
+            "id": "b36aaf4df9430337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "308-Glock.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "308-Glock"
+            }
+          },
+          {
+            "id": "3199e48b2b5d4030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "309-Arnold Schwarzenegger (Before He Was Successful).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "309-Arnold Schwarzenegger (Before He Was Successful)"
+            }
+          },
+          {
+            "id": "7d13d0a416692b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "310-Walt Disney and Picasso.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "310-Walt Disney and Picasso"
+            }
+          },
+          {
+            "id": "8b0fddc95b2bc1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "311-James Cameron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "311-James Cameron"
+            }
+          },
+          {
+            "id": "d738c502c3a7fecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "312-Mark Twain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "312-Mark Twain"
+            }
+          },
+          {
+            "id": "942b1d371d12d7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "313-Christopher Nolan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "313-Christopher Nolan"
+            }
+          },
+          {
+            "id": "0086c178853777ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "314-Paul Graham (How To Do Great Work).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "314-Paul Graham (How To Do Great Work)"
+            }
+          },
+          {
+            "id": "31bfefefcef0c59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "315-.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "315-"
             }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -262,7 +599,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "301-.md",
+                "file": "315-.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,7 +627,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 301-"
+              "title": "Graph of 315-"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -319,9 +656,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "31bfefefcef0c59a",
   "lastOpenFiles": [
-    "301-.md",
+    "314-Paul Graham (How To Do Great Work).md",
+    "315-.md",
+    "313-Christopher Nolan.md",
+    "312-Mark Twain.md",
+    "311-James Cameron.md",
+    "310-Walt Disney and Picasso.md",
+    "309-Arnold Schwarzenegger (Before He Was Successful).md",
+    "308-Glock.md",
+    "307-The World's Great Family Dynasties Rockefeller, Rothschild, Morgan, & Toyada.md",
+    "306-David Ogilvy (Confessions of an Advertising Man) 2 of 2.md",
+    "305-Robert Caro on the relationship with your father, power, poverty, ruthlessness, obsession and running..md",
+    "304-Sol Price (The Founder Who Taught Jim Sinegal, Sam Walton, Jeff Bezos, Bernie Marcus).md",
+    "303-Rose Blumkin (Warren Buffett's Favorite Founder).md",
+    "302-Napoleon (The Mind of Napoleon).md",
+    "301-Tiger Woods.md",
     "FoundersNotes/276-Paul Graham’s Essays Part 2.md",
     "FoundersNotes/299-Steve Jobs (Make Something Wonderful).md",
     "FoundersNotes/298-I had lunch with Sam Zell.md",
@@ -333,20 +684,6 @@
     "FoundersNotes/292-Daniel Ludwig (The Invisible Billionaire) 2 of 2.md",
     "FoundersNotes/290-Bill Gates.md",
     "FoundersNotes/289-Brunello Cucinelli.md",
-    "FoundersNotes/288-Ralph Lauren.md",
-    "FoundersNotes/287-The Founder of Rolls-Royce.md",
-    "FoundersNotes/286-Warren Buffett and Charlie Munger.md",
-    "FoundersNotes/285-Jay Gould (How Jay Gould Built Wall Street's Biggest Fortune).md",
-    "FoundersNotes/284-Andrew Carnegie and Henry Clay Frick.md",
-    "FoundersNotes/283-Andrew Carnegie 2 of 2.md",
-    "FoundersNotes/282-Jeff Bezos Shareholder Letters.md",
-    "FoundersNotes/281-Working with Steve Jobs.md",
-    "FoundersNotes/280-Jimi Hendrix.md",
-    "FoundersNotes/279-What I Learned Before I Sold to Warren Buffett.md",
-    "FoundersNotes/278-Peter Thiel.md",
-    "FoundersNotes/277-Paul Graham's Essays Part 3.md",
-    "FoundersNotes/300-James Dyson (Against the Odds) 2 of 2.md",
-    "Untitled 6.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
