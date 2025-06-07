@@ -130,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -318,7 +319,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "839713193b282b38",
+  "active": "82cc58494290ef52",
   "lastOpenFiles": [
     "301-.md",
     "FoundersNotes/276-Paul Graham’s Essays Part 2.md",
