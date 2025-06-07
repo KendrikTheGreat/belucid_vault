@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c8ac5d97442d756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/186-Phil Knight (Nike).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "186-Phil Knight (Nike)"
-            }
-          },
-          {
             "id": "c3f3d795ca1b102a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "187-.md",
+                "file": "201-Isambard Kingdom Brunel (James Dyson's hero).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "187-"
+              "title": "201-Isambard Kingdom Brunel (James Dyson's hero)"
+            }
+          },
+          {
+            "id": "1ca77224b494fcd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202-A Few Lessons From Warren Buffett.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202-A Few Lessons From Warren Buffett"
+            }
+          },
+          {
+            "id": "e39349c80b610472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "203-Georges Doriot (Birth of Venture Capital).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "203-Georges Doriot (Birth of Venture Capital)"
+            }
+          },
+          {
+            "id": "ea9e944371fad00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "204-Steve Jobs (Inside Steve's Brain).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "204-Steve Jobs (Inside Steve's Brain)"
+            }
+          },
+          {
+            "id": "e7b3b875831a1400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "205-James Dyson (Invention A Life).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "205-James Dyson (Invention A Life)"
+            }
+          },
+          {
+            "id": "87ee433925550612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "206-Albert D. Lasker (the creation of the advertising industry).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "206-Albert D. Lasker (the creation of the advertising industry)"
+            }
+          },
+          {
+            "id": "cf2ac596d94b04a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "187-.md",
+                "file": "Untitled 6.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -314,7 +434,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 187-"
+              "title": "Graph of Untitled 6"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -343,11 +463,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3f3d795ca1b102a",
+  "active": "cf2ac596d94b04a4",
   "lastOpenFiles": [
-    "FoundersNotes/186-Phil Knight (Nike).md",
-    "187-.md",
+    "206-Albert D. Lasker (the creation of the advertising industry).md",
+    "Untitled 6.md",
+    "205-James Dyson (Invention A Life).md",
+    "204-Steve Jobs (Inside Steve's Brain).md",
+    "203-Georges Doriot (Birth of Venture Capital).md",
+    "202-A Few Lessons From Warren Buffett.md",
+    "201-Isambard Kingdom Brunel (James Dyson's hero).md",
     "FoundersNotes/200-James Dyson (Against the Odds) 1 of 2.md",
+    "FoundersNotes/186-Phil Knight (Nike).md",
+    "FoundersNotes/383-GHA-test.md",
     "FoundersNotes/199-Coco Chanel The Legend and the Life.md",
     "FoundersNotes/198-The House of Rothschild Money's Prophets.md",
     "FoundersNotes/197-Founder of the Rothschilds.md",
@@ -364,13 +491,6 @@
     "FoundersNotes/151-Frederick Smith (FedEx).md",
     "FoundersNotes/185-César Ritz and Auguste Escoffier (The Hotelier and The Chef).md",
     "FoundersNotes/184-Isadore Sharp (Four Seasons).md",
-    "FoundersNotes/183-Johnny Carson.md",
-    "FoundersNotes/182-Warren Buffett (The Making of an American Capitalist).md",
-    "FoundersNotes/181-Paul Orfalea (Kinkos).md",
-    "FoundersNotes/180-Jeff Bezos (Invention of a Global Empire).md",
-    "FoundersNotes/179-Jeff Bezos 2 of 2.md",
-    "FoundersNotes/178-Jony Ive The Genius Behind Apple's Greatest Products.md",
-    "FoundersNotes/177-Robert Campeau (Junk Bonds and Retail Bankruptcy).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
