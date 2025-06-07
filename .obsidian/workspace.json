@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "398ae043da45825c",
+        "id": "0365b3ad8119968b",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1565f819feaac2",
+            "id": "839713193b282b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251-Ben Franklin and George Washington The Founding Partnership.md",
+                "file": "301-.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,347 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "251-Ben Franklin and George Washington The Founding Partnership"
-            }
-          },
-          {
-            "id": "c41302a49df59f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "252-Socrates.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "252-Socrates"
-            }
-          },
-          {
-            "id": "2298a3aea273f2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "253-Henry Goldman (Goldman Sachs).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "253-Henry Goldman (Goldman Sachs)"
-            }
-          },
-          {
-            "id": "e12706d3ecfe4e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "254-John D. Rockefeller The Founding Father of the Rockefellers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "254-John D. Rockefeller The Founding Father of the Rockefellers"
-            }
-          },
-          {
-            "id": "d84f8d59397a4ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "255-Sam Zemurray (Banana King).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "255-Sam Zemurray (Banana King)"
-            }
-          },
-          {
-            "id": "2b0a064631ed5cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "256-Edward L. Bernays (Public Relations, Advertising, & Persuasion).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "256-Edward L. Bernays (Public Relations, Advertising, & Persuasion)"
-            }
-          },
-          {
-            "id": "0ffc3c0b8a5162ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "257-Richard Garriott (Video Games and Space Exploration).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "257-Richard Garriott (Video Games and Space Exploration)"
-            }
-          },
-          {
-            "id": "f475405066f0e2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "258-Jay Gould (Dark Genius of Wall Street).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "258-Jay Gould (Dark Genius of Wall Street)"
-            }
-          },
-          {
-            "id": "e7c880a63f19da29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "259-Bob Dylan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "259-Bob Dylan"
-            }
-          },
-          {
-            "id": "0db1dc45fe4da4ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "260-One from Many VISA and the Rise of Chaordic Organization.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "260-One from Many VISA and the Rise of Chaordic Organization"
-            }
-          },
-          {
-            "id": "1bb4c8a3a7d9c6bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "261-Dee Hock's Autobiography of a Restless Mind Volume One and Two.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "261-Dee Hock's Autobiography of a Restless Mind Volume One and Two"
-            }
-          },
-          {
-            "id": "ada6bfc6d1cc0607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "262-Herbie Cohen (World's Greatest Negotiator).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "262-Herbie Cohen (World's Greatest Negotiator)"
-            }
-          },
-          {
-            "id": "fc5c31150a616462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "263-Land's Polaroid A Company and the Man Who Invented It.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "263-Land's Polaroid A Company and the Man Who Invented It"
-            }
-          },
-          {
-            "id": "aa1e398bd9796b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "264-The Story of Edwin Land and Polaroid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "264-The Story of Edwin Land and Polaroid"
-            }
-          },
-          {
-            "id": "feea1bbdd2953ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "265-.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "265-"
+              "title": "301-"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -598,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "265-.md",
+                "file": "301-.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -626,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 265-"
+              "title": "Graph of 301-"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -655,34 +318,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "feea1bbdd2953ac2",
+  "active": "839713193b282b38",
   "lastOpenFiles": [
-    "264-The Story of Edwin Land and Polaroid.md",
-    "265-.md",
-    "263-Land's Polaroid A Company and the Man Who Invented It.md",
-    "262-Herbie Cohen (World's Greatest Negotiator).md",
-    "261-Dee Hock's Autobiography of a Restless Mind Volume One and Two.md",
-    "260-One from Many VISA and the Rise of Chaordic Organization.md",
-    "259-Bob Dylan.md",
-    "258-Jay Gould (Dark Genius of Wall Street).md",
-    "257-Richard Garriott (Video Games and Space Exploration).md",
-    "256-Edward L. Bernays (Public Relations, Advertising, & Persuasion).md",
-    "255-Sam Zemurray (Banana King).md",
-    "254-John D. Rockefeller The Founding Father of the Rockefellers.md",
-    "253-Henry Goldman (Goldman Sachs).md",
-    "252-Socrates.md",
-    "251-Ben Franklin and George Washington The Founding Partnership.md",
-    "FoundersNotes/221-Charlie Munger.md",
-    "FoundersNotes/249-Steve Jobs In His Own Words.md",
-    "FoundersNotes/248-John D. Rockefeller (Titan).md",
-    "FoundersNotes/247-Henry Flagler (Rockefeller's partner).md",
-    "FoundersNotes/246-Mark Leonard's Shareholder Letters.md",
-    "FoundersNotes/245-Rick Rubin (In the Studio).md",
-    "FoundersNotes/244-Harry Snyder (In-N-Out Burger).md",
-    "FoundersNotes/243-Francis Greenburger (Real Estate Billionaire).md",
-    "FoundersNotes/242-Francis Ford Coppola A Filmmaker's Life.md",
-    "FoundersNotes/241-The Wright Brothers, Glenn Curtiss, and the Battle to Control the Skies.md",
-    "FoundersNotes/240-Mozart A Life.md",
+    "301-.md",
+    "FoundersNotes/276-Paul Graham’s Essays Part 2.md",
+    "FoundersNotes/299-Steve Jobs (Make Something Wonderful).md",
+    "FoundersNotes/298-I had lunch with Sam Zell.md",
+    "FoundersNotes/297-Yvon Chouinard (Patagonia).md",
+    "FoundersNotes/296-Bernard Arnault (The Richest Man in the World).md",
+    "FoundersNotes/295-I had dinner with Charlie Munger.md",
+    "FoundersNotes/294-Napoleon.md",
+    "FoundersNotes/293-Ray Kroc (The Making of McDonald's).md",
+    "FoundersNotes/292-Daniel Ludwig (The Invisible Billionaire) 2 of 2.md",
+    "FoundersNotes/290-Bill Gates.md",
+    "FoundersNotes/289-Brunello Cucinelli.md",
+    "FoundersNotes/288-Ralph Lauren.md",
+    "FoundersNotes/287-The Founder of Rolls-Royce.md",
+    "FoundersNotes/286-Warren Buffett and Charlie Munger.md",
+    "FoundersNotes/285-Jay Gould (How Jay Gould Built Wall Street's Biggest Fortune).md",
+    "FoundersNotes/284-Andrew Carnegie and Henry Clay Frick.md",
+    "FoundersNotes/283-Andrew Carnegie 2 of 2.md",
+    "FoundersNotes/282-Jeff Bezos Shareholder Letters.md",
+    "FoundersNotes/281-Working with Steve Jobs.md",
+    "FoundersNotes/280-Jimi Hendrix.md",
+    "FoundersNotes/279-What I Learned Before I Sold to Warren Buffett.md",
+    "FoundersNotes/278-Peter Thiel.md",
+    "FoundersNotes/277-Paul Graham's Essays Part 3.md",
+    "FoundersNotes/300-James Dyson (Against the Odds) 2 of 2.md",
+    "Untitled 6.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
