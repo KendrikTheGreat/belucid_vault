@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
       "basename": "381-I Had Dinner With Michael Ovitz",
       "path": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md"
-    },
-    {
-      "basename": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words",
-      "path": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md"
-    },
-    {
-      "basename": "368-Rockefeller's Autobiography",
-      "path": "FoundersNotes/368-Rockefeller's Autobiography.md"
-    },
-    {
-      "basename": "379-Jerry Jones (Dallas Cowboys) 1",
-      "path": "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md"
     },
     {
       "basename": "378-The Last Oil Baron Leon Hess",
@@ -55,6 +47,18 @@
     {
       "basename": "369-Elon Musk and The Early Days of SpaceX",
       "path": "FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md"
+    },
+    {
+      "basename": "368-Rockefeller's Autobiography",
+      "path": "FoundersNotes/368-Rockefeller's Autobiography.md"
+    },
+    {
+      "basename": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words",
+      "path": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md"
+    },
+    {
+      "basename": "379-Jerry Jones (Dallas Cowboys) 1",
+      "path": "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md"
     },
     {
       "basename": "351-The Founder of Rolex Hans Wilsdorf",
@@ -195,10 +199,6 @@
     {
       "basename": "332-Jesus",
       "path": "FoundersNotes/332-Jesus.md"
-    },
-    {
-      "basename": "331-Christian Dior",
-      "path": "FoundersNotes/331-Christian Dior.md"
     }
   ],
   "omittedPaths": [],

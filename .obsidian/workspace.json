@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41c77f17bce579ee",
+        "id": "ec9af877f7fe11a0",
         "type": "tabs",
         "children": [
           {
-            "id": "984e6accb952ed8b",
+            "id": "ada549293b541a8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoundersNotes/368-Rockefeller's Autobiography.md",
+                "file": "Untitled 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,275 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "368-Rockefeller's Autobiography"
-            }
-          },
-          {
-            "id": "c631c1ca0f7e8a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "369-Elon Musk and The Early Days of SpaceX"
-            }
-          },
-          {
-            "id": "c685396045e59b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "370-The Founder of IKEA Ingvar Kamprad"
-            }
-          },
-          {
-            "id": "2ef6bd3679633651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/371-James J. Hill The Empire Builder.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "371-James J. Hill The Empire Builder"
-            }
-          },
-          {
-            "id": "250a64346b21732b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/372-Amancio Ortega The Genius Behind the Inditex Group.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "372-Amancio Ortega The Genius Behind the Inditex Group"
-            }
-          },
-          {
-            "id": "4c176e890303952a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars"
-            }
-          },
-          {
-            "id": "ec0832cf5bc5f14f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/374-Rare Jeff Bezos Interview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "374-Rare Jeff Bezos Interview"
-            }
-          },
-          {
-            "id": "b3b81f158c08e8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/375-The Single Biggest Individual Financier In The World. The Richest Woman In America Hetty Green.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "375-The Single Biggest Individual Financier In The World. The Richest Woman In America Hetty Green"
-            }
-          },
-          {
-            "id": "e7348ef9f753eb10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/376-Jensen Huang Founder of Nvidia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "376-Jensen Huang Founder of Nvidia"
-            }
-          },
-          {
-            "id": "586a7f2d144582a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/377-Expanding A Family Dynasty Marcus Wallenberg Jr..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "377-Expanding A Family Dynasty Marcus Wallenberg Jr."
-            }
-          },
-          {
-            "id": "8d99b35ea338ee45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/378-The Last Oil Baron Leon Hess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "378-The Last Oil Baron Leon Hess"
-            }
-          },
-          {
-            "id": "6bf21562e635face",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "381-I Had Dinner With Michael Ovitz"
+              "title": "Untitled 7"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -526,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+                "file": "Untitled 7.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -554,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 381-I Had Dinner With Michael Ovitz"
+              "title": "Graph of Untitled 7"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -583,11 +318,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6bf21562e635face",
+  "active": "ada549293b541a8b",
   "lastOpenFiles": [
-    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
-    "FoundersNotes/368-Rockefeller's Autobiography.md",
-    "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md",
+    "Untitled 7.md",
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/378-The Last Oil Baron Leon Hess.md",
     "FoundersNotes/377-Expanding A Family Dynasty Marcus Wallenberg Jr..md",
     "FoundersNotes/376-Jensen Huang Founder of Nvidia.md",
@@ -598,6 +332,9 @@
     "FoundersNotes/371-James J. Hill The Empire Builder.md",
     "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
     "FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md",
+    "FoundersNotes/368-Rockefeller's Autobiography.md",
+    "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md",
     "FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md",
     "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
     "FoundersNotes/366-Mr. Beast Leaked Memo.md",
@@ -609,8 +346,6 @@
     "FoundersNotes/360-Robert Kierlin Founder of Fastenal.md",
     "FoundersNotes/359-The Russian Rockefellers.md",
     "FoundersNotes/358-I had dinner with John Mackey, Founder of Whole Foods.md",
-    "FoundersNotes/357-Haruki Murakami.md",
-    "FoundersNotes/356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel).md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
