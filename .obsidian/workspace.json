@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ada549293b541a8b",
+            "id": "1ee82edc89057867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 7.md",
+                "file": "Evolve or Loop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 7"
+              "title": "Evolve or Loop"
             }
           }
         ]
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "billy bean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 7.md",
+                "file": "Evolve or Loop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,7 +290,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 7"
+              "title": "Graph of Evolve or Loop"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -319,8 +319,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "1ee82edc89057867",
   "lastOpenFiles": [
+    "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md",
+    "Evolve or Loop.md",
     "Untitled 7.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/378-The Last Oil Baron Leon Hess.md",
@@ -345,8 +347,6 @@
     "FoundersNotes/362-Li Lu.md",
     "FoundersNotes/361-Estée Lauder.md",
     "FoundersNotes/360-Robert Kierlin Founder of Fastenal.md",
-    "FoundersNotes/359-The Russian Rockefellers.md",
-    "FoundersNotes/358-I had dinner with John Mackey, Founder of Whole Foods.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
