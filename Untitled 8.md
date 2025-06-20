@@ -73,5 +73,7 @@ I need to become KendrikTheGreat...for me..for everyone else that I love...I owe
 Kid Kenny watches and urges me to act.
 KendrikTheGreat is just the extension that is waiting to be realized.
 
-Can it be, that I wasn't 
+Can it be, that I wasn't branching violently after all? I think the volatility came through my volatile mind and mental health...
+So again, if I can keep my mind straight, healthy, tuned and focused...I can finally break out and ride my wave.
+
 
