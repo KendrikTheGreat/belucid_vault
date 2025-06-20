@@ -76,4 +76,19 @@ KendrikTheGreat is just the extension that is waiting to be realized.
 Can it be, that I wasn't branching violently after all? I think the volatility came through my volatile mind and mental health...
 So again, if I can keep my mind straight, healthy, tuned and focused...I can finally break out and ride my wave.
 
+So this is what's up now:
+I still need to build my Belucid Backend, middleware, front end (webgl webapp)
+I need to build out the infrastructre so people can interact with my world.
+
+Studying film, my camera, color grading etc took a lot of time. 
+Notion as well, but it was necessary.
+I also finished my book Odyssey by Homer.
+I filmed a lot and vloged. 
+Just in generally tried more stuff and tried to learn.
+I'm hungry.
+I want to learn, recreate, iterate, put out my work and start from the beginning.
+
+Right now I have nothing to show, nothing to proof, nothing to my name..BUT...no big but here...just a capslock "but" to remember myself that it is no reason to not build my world...
+
+
 
