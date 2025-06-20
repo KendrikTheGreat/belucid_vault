@@ -54,4 +54,24 @@ Keep your mind clear, tuned.
 Straight energy– direct flow. 
 High frequency.
 
-Funny thing is, since I can feel my energy co
+Funny thing is, since I can feel my energy starting to come back, more doors seem to open up.
+Even tho some of them are getting shut right in front of my face, I'm not pessimistic about it or sad, or feel like I regret taking a decison...
+...the trust in doing and believing in myself finally emerges after being asleep for more than a decade...
+You know, I was that kid...that kid that was such high energy...dynamic...full of ideas and inspiration...
+I always wanted to be back...to be this kid again...and I felt my past holds me back and defines who I am for everything that has happened to me...
+So any event in my life has this taste of bitterness and weight.
+Something that adds up to all the baggage I'm already carrying...
+
+But no more. 
+I said I'm done and I am done.
+Fuck this bullshit.
+I love kid Kenny.
+
+Amazing kid.
+But I need to be me now...I need to exist and create...
+I need to become KendrikTheGreat...for me..for everyone else that I love...I owe it to them to become everything I can be.
+Kid Kenny watches and urges me to act.
+KendrikTheGreat is just the extension that is waiting to be realized.
+
+Can it be, that I wasn't 
+
