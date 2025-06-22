@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "On the Plane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 8"
+              "title": "On the Plane"
             }
           }
         ],
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "On the Plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -314,7 +314,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 8"
+              "title": "Graph of On the Plane"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -343,10 +343,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "a2ad41d5f2b44605",
   "lastOpenFiles": [
     "Evolve or Loop.md",
-    "Untitled 8.md",
+    "On the Plane.md",
     "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md",
     "Untitled 7.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",

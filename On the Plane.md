@@ -90,5 +90,11 @@ I want to learn, recreate, iterate, put out my work and start from the beginning
 
 Right now I have nothing to show, nothing to proof, nothing to my name..BUT...no big but here...just a capslock "but" to remember myself that it is no reason to not build my world...
 
+I just guess I can and should follow people and document them...somehow that is what I was already doing back then with Maurice (ThirdNameWayne) in 2018.
+For me, it is such a strong storytelling and proof of concept if you can show that you were for real and already like this for many years...
+There is this pull, this urge to document and understand people better why they choose their decisions and paths...having it documented and on 4k video is just too good too study.
+
+I also love biographies and docs like "Last Dance", "Jeen-Yuhs", "The defiant one".
+
 
 
