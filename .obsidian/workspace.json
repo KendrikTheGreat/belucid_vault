@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "On the Plane"
             }
+          },
+          {
+            "id": "bdb9d1c4ac74d555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I’m building this for me. For Kid Kendrik. I owe it to him..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "I’m building this for me. For Kid Kendrik. I owe it to him."
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,7 +311,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "On the Plane.md",
+                "file": "I’m building this for me. For Kid Kendrik. I owe it to him..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -315,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of On the Plane"
+              "title": "Graph of I’m building this for me. For Kid Kendrik. I owe it to him."
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -344,10 +368,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "bdb9d1c4ac74d555",
   "lastOpenFiles": [
-    "Evolve or Loop.md",
+    "03-Media-Templates/Templates/Template.md",
+    "I’m building this for me. For Kid Kendrik. I owe it to him..md",
     "On the Plane.md",
+    "Evolve or Loop.md",
     "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md",
     "Untitled 7.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
@@ -370,8 +396,6 @@
     "FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md",
     "FoundersNotes/364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership.md",
     "FoundersNotes/363-Li Lu and Charlie Munger and Warren Buffett.md",
-    "FoundersNotes/362-Li Lu.md",
-    "FoundersNotes/361-Estée Lauder.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
