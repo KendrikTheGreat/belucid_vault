@@ -2,6 +2,10 @@ up:: [[Notebox MOC 📓]]
 tags:: #KidKendrik #script 
 dates:: 2025-07-07
 
+
+# Act 1
+
+
 **“I’m building this for me. For Kid Kendrik. I owe it to him.”**  
 **“I want him to be free to finally create again…create worlds to incept stories into it for the sake of playing.”**
 It’s a **grown man liberating his own childhood creativity** so he can build things _for real_.
