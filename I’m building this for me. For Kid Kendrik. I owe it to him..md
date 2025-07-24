@@ -2,7 +2,7 @@ up:: [[Notebox MOC 📓]]
 tags:: #KidKendrik #script 
 dates:: 2025-07-07
 
-
+"The truth is, Kid Kendrik, I’m starting to understand again: creation is play. Obsession is play. Seeing the world clearly—mapping patterns, decoding reality—these aren’t heavy burdens. They’re the ultimate playground."
 # Act 1
 
 
