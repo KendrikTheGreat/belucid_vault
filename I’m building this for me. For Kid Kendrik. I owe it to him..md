@@ -2,35 +2,33 @@ up:: [[Notebox MOC 📓]]
 tags:: #KidKendrik #script 
 dates:: 2025-07-07
 
-"The truth is, Kid Kendrik, I’m starting to understand again: creation is play. Obsession is play. Seeing the world clearly—mapping patterns, decoding reality—these aren’t heavy burdens. They’re the ultimate playground."
+Seeing the world clearly—mapping patterns, decoding reality—these aren’t heavy burdens. They’re the ultimate playground
 # Act 1
 
+Creation is play.
+Obsession is play.
+Seeing the world clearly—mapping patterns, decoding reality—these aren’t heavy burdens. They’re the ultimate playground
+I owe it to him.
+create worlds to incept stories into it for the sake of playing
 
-**“I’m building this for me. For Kid Kendrik. I owe it to him.”**  
-**“I want him to be free to finally create again…create worlds to incept stories into it for the sake of playing.”**
-It’s a **grown man liberating his own childhood creativity** so he can build things _for real_.
 
 took me two decades to understand this. 20 years.
 “This is probably the most personal thing I’ll ever share.”  
-“But it’s the only honest way to start.”  
-“I’m done with that.”  
-“I don’t want to sit in that office anymore.”
 
-“I don’t want to sit in that _self-made mind prison_ anymore.”
-- “Because I didn’t stay in that office.”
-    
-- “I rebuilt it in my own head.”
+
+I don’t want to sit in that _self-made mind prison_ anymore
+
 I created it to keep the simulations going. 
 To never be unprepared again.
 To be able to perform when needed.
-To be ready when authority needs me to be.
+
 Sadly, logic was a lonely mans game at that time.
-I was a grown ass man in a body of a child.
-Scheming, simulating, strategizing, archetecting the perfect answer and deriving to conclusion.
+
+Scheming, simulating, strategizing, architecting the perfect answer and deriving to conclusion.
 Being able to present the most accurate logic possible to be understand by every party.
 
-“I want to rise.”  
-“I want to emerge from the learning simulation life gave me.”  
+“I want to rise.
+I want to emerge from the learning simulation life gave me
 “To finally be free—and use it as a gift.”
 - “Teaching me to see patterns others miss.”
     
