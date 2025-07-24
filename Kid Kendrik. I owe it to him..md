@@ -9,6 +9,13 @@ Creation is play.
 Obsession is play.
 Seeing the world clearly—mapping patterns, decoding reality—these aren’t heavy burdens. They’re the ultimate playground
 
+But somewhere along the way, my playground became a self-made prison.
+
+I created this mental fortress—simulating scenarios endlessly—so I would never be caught unprepared.
+Always ready to defend myself.
+Always with the perfect logic, the sharpest strategy.
+But logic, I realized, can be a lonely man's game.
+
 Create worlds to incept stories into it for the sake of playing
 
 
