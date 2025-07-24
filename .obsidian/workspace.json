@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I’m building this for me. For Kid Kendrik. I owe it to him..md",
+                "file": "Kid Kendrik. I owe it to him..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I’m building this for me. For Kid Kendrik. I owe it to him."
+              "title": "Kid Kendrik. I owe it to him."
             }
           }
         ],
@@ -311,7 +311,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "I’m building this for me. For Kid Kendrik. I owe it to him..md",
+                "file": "Kid Kendrik. I owe it to him..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of I’m building this for me. For Kid Kendrik. I owe it to him."
+              "title": "Graph of Kid Kendrik. I owe it to him."
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -372,7 +372,7 @@
   "lastOpenFiles": [
     "Top 10 movies.md",
     "03-Media-Templates/Templates/Template.md",
-    "I’m building this for me. For Kid Kendrik. I owe it to him..md",
+    "Kid Kendrik. I owe it to him..md",
     "On the Plane.md",
     "Evolve or Loop.md",
     "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md",
