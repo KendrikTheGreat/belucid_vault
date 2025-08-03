@@ -10,7 +10,6 @@ jobs:
   ingest_foundersnotes:
     runs-on: ubuntu-latest
     steps:
-
       # 1️⃣ Checkout your repo
       - uses: actions/checkout@v3
         with:
@@ -24,16 +23,21 @@ jobs:
                 | grep '^FoundersNotes/.*\.md$' || true)
           printf "files<<EOF\n%s\nEOF\n" "$raw" >> $GITHUB_OUTPUT
 
-      # 3️⃣ Ingest each matching file into Supabase
+      # 3️⃣ Quick check that your function is up
+      - name: Test Supabase function endpoint
+        if: steps.find_notes.outputs.files != ''
+        env:
+          # Add your full function URL as a secret: e.g. https://xyz.supabase.co/functions/v1
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        run: |
+          echo "🔍 Testing $SUPABASE_URL/ingest"
+          curl -I --fail "$SUPABASE_URL/ingest"
+
+      # 4️⃣ Ingest each matching file into Supabase
       - name: Ingest into Supabase
         if: steps.find_notes.outputs.files != ''
         env:
-          SUPABASE_URL:              https://sffsnpwqifdiwcepotdb.supabase.co/functions/v1/ingest
-          run: |
-            echo "🔍 SUPABASE_URL=$SUPABASE_URL"
-            echo "🔍 Testing function endpoint status"
-            curl -I "$SUPABASE_URL/upsert_foundersnote_with_state"
-          SUPABASE_ANON_KEY:         ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL:              ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           set -euxo pipefail
@@ -44,24 +48,33 @@ jobs:
           sudo chmod +x /usr/local/bin/yq
           sudo apt-get update && sudo apt-get install -y jq
 
-          # Rebuild array of file paths (newline-delimited)
+          # Build array of changed files
           mapfile -t files <<< "${{ steps.find_notes.outputs.files }}"
 
           for file in "${files[@]}"; do
             [[ -f "$file" ]] || continue
 
-            # Extract only the YAML front-matter block
+            echo "→ Processing $file …"
+
+            # Extract only the YAML front-matter
             front=$(awk 'BEGIN{f=0} /^---$/{ if(f){exit} else {f=1; next} } f==1{ print }' "$file")
 
-            # Parse ingest flag
+            # Skip if ingest flag not true
             ingest=$(printf '%s\n' "$front" | yq e '.ingest' -)
             [[ "$ingest" == "true" ]] || continue
-            echo "→ ingesting $file …"
 
-            # Parse front-matter fields
+            # Parse required front-matter fields
             persona_id=$(printf '%s\n' "$front" | yq e '.persona_id' -)
             date=$(printf '%s\n' "$front" | yq e '.date' -)
-            tags=$(printf '%s\n' "$front" | yq e '.tags | @json' -)
+
+            # Fail early if persona_id or date are missing
+            if [[ -z "$persona_id" || "$persona_id" == "null" || -z "$date" ]]; then
+              echo "❌ Error: missing persona_id or date in $file" >&2
+              exit 1
+            fi
+
+            # Parse optional fields with safe defaults
+            tags=$(printf '%s\n' "$front" | yq e '.tags // [] | @json' -)
             metadata=$(printf '%s\n' "$front" | yq e '.metadata // {} | tojson' -)
 
             # Grab the body (everything after second '---')
