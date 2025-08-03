@@ -1,11 +1,12 @@
 ---
 ingest: true
-type: foundersnote
+type: Charlie Munger
 number: "000"
-date: ""
+date: 2025-08-03
 tags:
+  - munger
+  - founder
 ---
-
 
 What you're about to hear, I have never released on this feed before. Earlier this year, I got to have dinner with Charlie Munger. I spent over three hours with him. Shortly after that happened, I was asked the question, what did you learn from that experience? And I actually recorded my answer to that question. And so you're about to hear that recording now. Before we get to that, I want to tell you one of the first thoughts that I had when I woke up this morning, I heard the news of Charlie passing away yesterday. And I was actually surprised at one of the first things I thought about this morning was, was actually a quote of something that Sam Walton had said in his autobiography, Sam Walton said that he borrowed more ideas from Sol Price than anyone else, and Sam was in the business of learning from other entrepreneurs. In fact, in that same book, he says, "Everything that I've done, I've copied from somebody else." I'm in the same business. That is why Founders exist. I'm in the business of learning from other entrepreneurs and I realized this morning that I've borrowed more ideas for my own life and my own business from Charlie Munger than anyone else. Charlie is a hero to me, Charlie changed my life, and I'm going to miss him. I hope you enjoy these notes from my dinner with Charlie Munger. "What did you learn from having dinner with Charlie Munger?" In case you haven't seen it yet, I just made an episode, it’s Episode 295, it is about the book, the Tao of Charlie Munger, but it is also about the fact that I got invited to have dinner at Charlie Munger's house. I got to spend over three hours with him, and I got to ask him any question, no limits, like you could ask him whatever you wanted and so the first thing that I learned is he's exactly as advertised. The Charlie that you see at the Berkshire meeting, the Charlie that you've maybe watched speeches on, the Charlie that you've read books on, that is the same guy. He really does read all the time. His bookshelves were filled, when he says, "Hey, you should become friends with the eminent dead." He says he's a biography nut. I thought -- I’m close to 300 biographies for the podcast so far. He makes me look like a biography amateur.
 
