@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kid Kendrik. I owe it to him..md",
+                "file": "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kid Kendrik. I owe it to him."
+              "title": "000-Notes from my dinner with Charlie Munger"
             }
           }
         ],
@@ -179,8 +179,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,7 +310,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kid Kendrik. I owe it to him..md",
+                "file": "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -339,7 +338,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kid Kendrik. I owe it to him."
+              "title": "Graph of 000-Notes from my dinner with Charlie Munger"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -370,14 +369,16 @@
   },
   "active": "bdb9d1c4ac74d555",
   "lastOpenFiles": [
+    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+    "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
+    "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
+    "Kid Kendrik. I owe it to him..md",
     "Top 10 movies.md",
     "03-Media-Templates/Templates/Template.md",
-    "Kid Kendrik. I owe it to him..md",
     "On the Plane.md",
     "Evolve or Loop.md",
     "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md",
     "Untitled 7.md",
-    "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/378-The Last Oil Baron Leon Hess.md",
     "FoundersNotes/377-Expanding A Family Dynasty Marcus Wallenberg Jr..md",
     "FoundersNotes/376-Jensen Huang Founder of Nvidia.md",
@@ -386,7 +387,6 @@
     "FoundersNotes/373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars.md",
     "FoundersNotes/372-Amancio Ortega The Genius Behind the Inditex Group.md",
     "FoundersNotes/371-James J. Hill The Empire Builder.md",
-    "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
     "FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md",
     "FoundersNotes/368-Rockefeller's Autobiography.md",
     "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
@@ -395,7 +395,6 @@
     "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
     "FoundersNotes/366-Mr. Beast Leaked Memo.md",
     "FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md",
-    "FoundersNotes/364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
