@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "In Her Spell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 8"
+              "title": "In Her Spell"
             }
           }
         ],
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "In Her Spell.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 8"
+              "title": "Graph of In Her Spell"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -394,7 +394,7 @@
   "active": "031d8e13b7c63bac",
   "lastOpenFiles": [
     "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
-    "Untitled 8.md",
+    "In Her Spell.md",
     "Pursuit of wisdom.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
