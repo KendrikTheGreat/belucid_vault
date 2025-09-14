@@ -364,11 +364,13 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "82cc58494290ef52",
   "lastOpenFiles": [
+    "Pursuit of wisdom.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
     "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
     "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
@@ -394,7 +396,6 @@
     "FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md",
     "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
     "FoundersNotes/366-Mr. Beast Leaked Memo.md",
-    "FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
