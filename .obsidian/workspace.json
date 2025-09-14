@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "000-Notes from my dinner with Charlie Munger"
             }
+          },
+          {
+            "id": "031d8e13b7c63bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,8 +203,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
+                "file": "Untitled 8.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -339,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 000-Notes from my dinner with Charlie Munger"
+              "title": "Graph of Untitled 8"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -368,11 +391,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "031d8e13b7c63bac",
   "lastOpenFiles": [
+    "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
+    "Untitled 8.md",
     "Pursuit of wisdom.md",
     "FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
-    "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
     "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
     "Kid Kendrik. I owe it to him..md",
     "Top 10 movies.md",
@@ -395,7 +419,6 @@
     "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md",
     "FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md",
     "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
-    "FoundersNotes/366-Mr. Beast Leaked Memo.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
