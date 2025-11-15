@@ -104,15 +104,27 @@
             }
           },
           {
-            "id": "2982951fa57eeed5",
+            "id": "a714525f478a4e21",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Untitled 9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Untitled 9"
             }
           }
         ],
@@ -347,6 +359,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled 9.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -374,7 +387,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Untitled 9"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -404,8 +417,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "a714525f478a4e21",
   "lastOpenFiles": [
+    "Untitled 9.md",
+    "Evolve or Loop.md",
+    "Untitled 8.md",
     "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
     "In Her Spell.md",
     "Pursuit of wisdom.md",
@@ -415,7 +431,6 @@
     "Top 10 movies.md",
     "03-Media-Templates/Templates/Template.md",
     "On the Plane.md",
-    "Evolve or Loop.md",
     "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md",
     "Untitled 7.md",
     "FoundersNotes/378-The Last Oil Baron Leon Hess.md",
@@ -430,8 +445,6 @@
     "FoundersNotes/368-Rockefeller's Autobiography.md",
     "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
     "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md",
-    "FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md",
-    "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
