@@ -102,9 +102,21 @@
               "icon": "lucide-file",
               "title": "In Her Spell"
             }
+          },
+          {
+            "id": "2982951fa57eeed5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -334,7 +347,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "In Her Spell.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +374,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of In Her Spell"
+              "title": "Graph view"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -378,6 +390,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:Open today's daily note": false,
@@ -391,7 +404,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "031d8e13b7c63bac",
+  "active": "82cc58494290ef52",
   "lastOpenFiles": [
     "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
     "In Her Spell.md",
