@@ -5,6 +5,18 @@
       "path": "Who I am.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.base"
+    },
+    {
+      "basename": "379-Jerry Jones (Dallas Cowboys)",
+      "path": "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md"
+    },
+    {
+      "basename": "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World",
+      "path": "FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md"
+    },
+    {
       "basename": "Calculated Risk",
       "path": "Calculated Risk.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "344-Quentin Tarantino",
       "path": "FoundersNotes/344-Quentin Tarantino.md"
-    },
-    {
-      "basename": "343-The Eternal Pursuit of Unhappiness David Ogilvy",
-      "path": "FoundersNotes/343-The Eternal Pursuit of Unhappiness David Ogilvy.md"
-    },
-    {
-      "basename": "342-The Lessons of History (Will & Ariel Durant)",
-      "path": "FoundersNotes/342-The Lessons of History (Will & Ariel Durant).md"
-    },
-    {
-      "basename": "341-Cornelius Vanderbilt (Tycoon's War)",
-      "path": "FoundersNotes/341-Cornelius Vanderbilt (Tycoon's War).md"
     }
   ],
   "omittedPaths": [],
