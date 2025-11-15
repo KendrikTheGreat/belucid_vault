@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 9.md",
+                "file": "Calculated Risk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 9"
+              "title": "Calculated Risk"
+            }
+          },
+          {
+            "id": "f3089b3afb438c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Who I am.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Who I am"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,8 +251,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -359,7 +382,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 9.md",
+                "file": "Who I am.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -387,7 +410,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 9"
+              "title": "Graph of Who I am"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -417,9 +440,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a714525f478a4e21",
+  "active": "f3089b3afb438c11",
   "lastOpenFiles": [
-    "Untitled 9.md",
+    "Calculated Risk.md",
+    "Who I am.md",
     "Evolve or Loop.md",
     "Untitled 8.md",
     "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
@@ -444,7 +468,6 @@
     "FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md",
     "FoundersNotes/368-Rockefeller's Autobiography.md",
     "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
-    "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md",
     "FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
