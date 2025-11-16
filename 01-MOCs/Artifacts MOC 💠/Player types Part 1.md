@@ -1,3 +1,8 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
+
 Awesome! I really have the feeling here that you are capable of unfolding the way I think and see life. You have also brought up my next insight. Player types, energy types, dynamics between players and or groups, possibilities to spot the right players to form your power house. I will give you now some notes I took while I was watching "The last dance". I tried to illuminate Phil Jackson the coach, Michael Jordan, Scottie Pippen, and Dennis Rodman They had such an immsense synergy going on, more like a symbiosis.
 
 **James Worthy: "I'm walking off the floor after a two-and-a-half hour practice, drenched in sweat and tired but Micheal pushed me back for a 1 on 1 to see who was better. He wanted to see where his game was. I was better than he was, for about 2 weeks." He wanted to learn. He wanted to grow quickly. From month to month, from game to game, he was soaking up information. Once he got something and added it to the raw talent that he already had, it was explosive to see.** Jordan From the first day in practice, my mentality was whoever is the team leader on this team, I'm going after him. And I'm not doing it with my voice because I had no voice. I had no status. I have to do it with the way I play. **B.J. Armstrong** - "Starting with that season, I felt Michael never played basketball anymore. He just figured out how to win the game. He knew how to _steer momentum_, he knew how to get guys going. He was just _playing a different game_ than the rest of us"

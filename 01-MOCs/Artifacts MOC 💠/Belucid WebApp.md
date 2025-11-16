@@ -1,3 +1,6 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
 
 ## Update: 07.03.2025
 

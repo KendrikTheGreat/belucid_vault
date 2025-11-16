@@ -1,3 +1,6 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
 
 This isn't just another productivity tool - it's a consciousness operating system. OMG. This is actually a thought that I had 3 years ago when I was reading it. At that time I called it something like "Conscious Architecture"
 

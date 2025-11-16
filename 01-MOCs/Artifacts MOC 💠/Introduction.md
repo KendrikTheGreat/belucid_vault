@@ -1,3 +1,8 @@
+
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
 My best shot here is to just unload everything that Belucid is, can be, and will do in the future (at least vision wise).
 
 Also I will give you every idea I had in the past 4 Years, from there we will pick out the the best concepts and ideas and finally match it to your detailed insight.

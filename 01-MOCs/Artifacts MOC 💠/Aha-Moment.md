@@ -1,3 +1,7 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
 [Thank you! This means the world to me..really..
 
 I will keep feeding you with layers.

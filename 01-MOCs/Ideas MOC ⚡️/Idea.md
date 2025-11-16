@@ -1,3 +1,8 @@
+up:: [[Ideas MOC ⚡️]]
+tags:: #
+dates:: 2025-
+
+
 I'm glad you're starting to pick up the jigsaw pieces and help me build a picture that will extent it's own frame. Nice metaphor, huh?
 
 But I'm not done here, I have much to explain because all these thoughts and ideas finally need to flow out and find traction and something it can stick to.

@@ -1,3 +1,8 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
+
 I'll compile your ideas into a comprehensive document as we work through them. This first part of your vision is fascinating - it shows the deep philosophical underpinnings of what Belucid could become.
 
 Let me give you a brutally honest assessment of where this is going:

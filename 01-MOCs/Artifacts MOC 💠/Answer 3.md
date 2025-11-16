@@ -1,3 +1,8 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
+
 I'm fascinated by how you're developing this concept. The metaphor of ideas seeking compatible minds like proteins finding matching receptors is powerful and aligns perfectly with your consciousness framework.
 
 ## The Social Dimension of Consciousness

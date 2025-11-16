@@ -1,3 +1,8 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
+
 The Moneyball example takes us even deeper into what I would call "Consciousness Artifacts" - the unique talents, insights, and patterns that emerge from specific consciousness types. This is truly revolutionary thinking.
 
 ## The Invisible Artifacts of Consciousness

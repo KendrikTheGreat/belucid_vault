@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ee82edc89057867",
+            "id": "8126a35dabab0b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolve or Loop.md",
+                "file": "01-MOCs/Artifacts MOC 💠/Player types Part 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,178 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Evolve or Loop"
+              "title": "Player types Part 1"
             }
           },
           {
-            "id": "a2ad41d5f2b44605",
+            "id": "36943b427277dc76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On the Plane.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "On the Plane"
-            }
-          },
-          {
-            "id": "bdb9d1c4ac74d555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "000-Notes from my dinner with Charlie Munger"
-            }
-          },
-          {
-            "id": "031d8e13b7c63bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Her Spell.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "In Her Spell"
-            }
-          },
-          {
-            "id": "a714525f478a4e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculated Risk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Calculated Risk"
-            }
-          },
-          {
-            "id": "f3089b3afb438c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Who I am.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Who I am"
-            }
-          },
-          {
-            "id": "7cbc9d8819c91cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-FoundersNotes/006-Sam Walton.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "006-Sam Walton"
-            }
-          },
-          {
-            "id": "5ac58d4a31693988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "000-Notes from my dinner with Charlie Munger"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,8 +141,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -368,7 +210,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -389,7 +231,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template"
+              "title": "Backlinks"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -412,12 +253,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Template"
+              "title": "Outgoing links"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -430,9 +270,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evolve or Loop.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -445,20 +284,20 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "textFadeMultiplier": 0.3,
+                  "nodeSizeMultiplier": 1.81707356770833,
+                  "lineSizeMultiplier": 1.6276611328125,
+                  "collapse-forces": false,
+                  "centerStrength": 0.4345703125,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7563204169049468,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Evolve or Loop"
+              "title": "Graph view"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -470,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -488,37 +327,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "36943b427277dc76",
   "lastOpenFiles": [
-    "05-FoundersNotes/006-Sam Walton.md",
-    "05-FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
-    "05-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
-    "05-FoundersNotes/FoundersNotes MOC.md",
-    "Thematic interconnectiveness.md",
-    "Untitled 2.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 1.md",
-    "Untitled 7.md",
-    "War chest.md",
-    "01-MOCs/Books MOC 📚/Books MOC.md",
+    "01-MOCs/Artifacts MOC 💠/Player types Part 1.md",
+    "Real naked truth.md",
+    "01-MOCs/Artifacts MOC 💠/Player types Answer 2.md",
+    "playbook-test-000.md",
+    "01-MOCs/Artifacts MOC 💠/Player Type Part 1 answer.md",
+    "01-MOCs/Belucid MOC ™/On the Plane.md",
+    "01-MOCs/Belucid MOC ™/North Star WEBAPP.md",
+    "01-MOCs/Concepts MOC/Monetize on a expertise.md",
+    "01-MOCs/Artifacts MOC 💠/Belucid WebApp.md",
+    "01-MOCs/Artifacts MOC 💠/Marvel Snap Card Animation.md",
+    "01-MOCs/Concepts MOC/Lean Algorithms.md",
+    "01-MOCs/Notebox MOC 📓/Kid Kendrik. I owe it to him..md",
+    "01-MOCs/Artifacts MOC 💠/Introduction answer.md",
+    "01-MOCs/Artifacts MOC 💠/Introduction.md",
+    "01-MOCs/Belucid MOC ™/Industries I can tap in.md",
+    "01-MOCs/Notebox MOC 📓/In Her Spell.md",
+    "Inception.md",
+    "01-MOCs/Ideas MOC ⚡️/Idea.md",
+    "Home.md",
+    "01-MOCs/Belucid MOC ™/Great attention span is an asset.md",
+    "01-MOCs/Concepts MOC/Gifting people with serotonin.md",
+    "01-MOCs/Belucid MOC ™/Evolve or Loop.md",
+    "01-MOCs/Belucid MOC ™/Gametape™.md",
+    "01-MOCs/Concepts MOC/Employee Level Concept.md",
+    "01-MOCs/Belucid MOC ™/Decision Filter.md",
+    "01-MOCs/Belucid MOC ™/BELUCID CONCEPT.md",
     "01-MOCs/Gamification MOC",
-    "01-MOCs/Knowledge MOC 🧠/Knowledge MOC 🧠.md",
-    "01-MOCs/Gamification MOC/Gamification MOC.md",
-    "Aha-Moment.md",
-    "01-MOCs/People MOC/Andre.md",
-    "01-MOCs/Concepts MOC/Advantage.md",
     "Extras/Media/IMG_0163.jpeg",
-    "9 Auxiliary/Excalidraw/Drawing 2025-03-26 20.11.excalidraw.md",
-    "WHY.md",
-    "Who I am.md",
     "Untitled.base",
-    "05-FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
-    "05-FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
-    "Calculated Risk.md",
-    "Evolve or Loop.md",
     "05-FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",

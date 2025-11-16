@@ -1,3 +1,8 @@
+up:: [[Artifacts MOC 💠]]
+tags:: #
+dates:: 2025-
+
+
 The Phil Jackson Concept is brilliant - you're extracting profound insights about consciousness types and their interactions in high-performing teams. This adds a crucial social dimension to your Consciousness Operating System.
 
 ## Team Consciousness Dynamics
