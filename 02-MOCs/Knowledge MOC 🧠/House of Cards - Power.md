@@ -1,4 +1,4 @@
-up:: [[House of Cards]]
+up:: [[Knowledge MOC 🧠]]
 tags:: #show #power
 dates:: 2025-02-02
 

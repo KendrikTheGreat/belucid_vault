@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-MOCs/Artifacts MOC 💠/Player types Part 1.md",
+                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Player types Part 1"
+              "title": "Foundersnotes"
             }
           },
           {
             "id": "36943b427277dc76",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pursuit of wisdom"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,6 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Foundersnotes"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -253,11 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Foundersnotes"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -270,6 +285,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Foundersnotes"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -327,52 +343,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "36943b427277dc76",
+  "active": "8126a35dabab0b02",
   "lastOpenFiles": [
-    "01-MOCs/Artifacts MOC 💠/Player types Part 1.md",
-    "Real naked truth.md",
-    "01-MOCs/Artifacts MOC 💠/Player types Answer 2.md",
+    "04-Media-Templates/Templates/Template.md",
+    "04-Media-Templates/Templates/Foundersnotes.md",
+    "06-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
+    "06-FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
+    "06-FoundersNotes/019-Becoming Steve Jobs.md",
+    "02-MOCs/Daily Vector Snapshots MOC/Daily Vector Snapshot.md",
+    "02-MOCs/Daily Vector Snapshots MOC/WHY.md",
+    "01-Home/Home.md",
+    "Untitled.md",
+    "01-Home",
+    "TEST.md",
+    "02-MOCs/Artifacts MOC 💠/Chat with Lucid 2.md",
+    "02-MOCs/Artifacts MOC 💠/Chat with Lucid 1.md",
     "playbook-test-000.md",
-    "01-MOCs/Artifacts MOC 💠/Player Type Part 1 answer.md",
-    "01-MOCs/Belucid MOC ™/On the Plane.md",
-    "01-MOCs/Belucid MOC ™/North Star WEBAPP.md",
-    "01-MOCs/Concepts MOC/Monetize on a expertise.md",
-    "01-MOCs/Artifacts MOC 💠/Belucid WebApp.md",
-    "01-MOCs/Artifacts MOC 💠/Marvel Snap Card Animation.md",
-    "01-MOCs/Concepts MOC/Lean Algorithms.md",
-    "01-MOCs/Notebox MOC 📓/Kid Kendrik. I owe it to him..md",
-    "01-MOCs/Artifacts MOC 💠/Introduction answer.md",
-    "01-MOCs/Artifacts MOC 💠/Introduction.md",
-    "01-MOCs/Belucid MOC ™/Industries I can tap in.md",
-    "01-MOCs/Notebox MOC 📓/In Her Spell.md",
-    "Inception.md",
-    "01-MOCs/Ideas MOC ⚡️/Idea.md",
-    "Home.md",
-    "01-MOCs/Belucid MOC ™/Great attention span is an asset.md",
-    "01-MOCs/Concepts MOC/Gifting people with serotonin.md",
-    "01-MOCs/Belucid MOC ™/Evolve or Loop.md",
-    "01-MOCs/Belucid MOC ™/Gametape™.md",
-    "01-MOCs/Concepts MOC/Employee Level Concept.md",
-    "01-MOCs/Belucid MOC ™/Decision Filter.md",
-    "01-MOCs/Belucid MOC ™/BELUCID CONCEPT.md",
-    "01-MOCs/Gamification MOC",
-    "Extras/Media/IMG_0163.jpeg",
+    "02-MOCs/Artifacts MOC 💠/Building WebApp.md",
+    "House of Cards.md",
+    "02-MOCs/Daily Vector Snapshots MOC/DVS MOC.md",
+    "02-MOCs/Daily Vector Snapshots MOC",
+    "02-MOCs/Observation MOC/Who I am.md",
+    "02-MOCs/Belucid MOC ™/War chest.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 3.md",
     "Untitled.base",
-    "05-FoundersNotes",
+    "02-MOCs/Notebox MOC 📓/Top 10 movies.md",
+    "02-MOCs/Belucid MOC ™/Thematic interconnectiveness.md",
+    "TEST RUN.md",
+    "TEST 6.md",
+    "TEST 5.md",
+    "02-MOCs/Gamification MOC",
+    "Extras/Media/IMG_0163.jpeg",
+    "06-FoundersNotes",
     "9 Auxiliary/Excalidraw",
     "9 Auxiliary",
     "Extras/Media",
     "Extras",
     "Organization Fig..canvas",
     "Untitled.canvas",
-    "04-Sketches - Canvas/Canvas/Untitled.canvas",
-    "04-Sketches - Canvas/Canvas",
+    "05-Sketches - Canvas/Canvas/Untitled.canvas",
+    "05-Sketches - Canvas/Canvas",
     "Untitled 1.canvas",
-    "04-Sketches - Canvas/Excalidraw",
-    "04-Sketches - Canvas",
-    "03-Media-Templates/Media/IMG_0127.jpeg",
-    "03-Media-Templates/Media/OODA.Boyd.svg",
-    "03-Media-Templates/Media/IMG_0110.jpeg",
-    "03-Media-Templates/Media/IMG_0069.jpeg"
+    "04-Media-Templates/Media/IMG_0127.jpeg",
+    "04-Media-Templates/Media/OODA.Boyd.svg",
+    "04-Media-Templates/Media/IMG_0110.jpeg",
+    "04-Media-Templates/Media/IMG_0069.jpeg"
   ]
 }

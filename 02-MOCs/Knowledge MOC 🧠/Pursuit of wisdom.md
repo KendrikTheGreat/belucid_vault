@@ -1,4 +1,4 @@
-up:: [[]]
+up:: [[Knowledge MOC 🧠]]
 tags:: #
 dates:: 2025-
 
