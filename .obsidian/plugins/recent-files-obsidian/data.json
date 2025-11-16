@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Evolve or Loop",
+      "path": "Evolve or Loop.md"
+    },
+    {
+      "basename": "006-Sam Walton",
+      "path": "05-FoundersNotes/006-Sam Walton.md"
+    },
+    {
+      "basename": "000-Notes from my dinner with Charlie Munger",
+      "path": "05-FoundersNotes/000-Notes from my dinner with Charlie Munger.md"
+    },
+    {
+      "basename": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future",
+      "path": "05-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md"
+    },
+    {
+      "basename": "FoundersNotes MOC",
+      "path": "05-FoundersNotes/FoundersNotes MOC.md"
+    },
+    {
+      "basename": "Thematic interconnectiveness",
+      "path": "Thematic interconnectiveness.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
+      "basename": "War chest",
+      "path": "War chest.md"
+    },
+    {
+      "basename": "Books MOC",
+      "path": "01-MOCs/Books MOC 📚/Books MOC.md"
+    },
+    {
+      "basename": "Knowledge MOC 🧠",
+      "path": "01-MOCs/Knowledge MOC 🧠/Knowledge MOC 🧠.md"
+    },
+    {
+      "basename": "Gamification MOC",
+      "path": "01-MOCs/Gamification MOC/Gamification MOC.md"
+    },
+    {
+      "basename": "Aha-Moment",
+      "path": "Aha-Moment.md"
+    },
+    {
+      "basename": "Andre",
+      "path": "01-MOCs/People MOC/Andre.md"
+    },
+    {
+      "basename": "Advantage",
+      "path": "01-MOCs/Concepts MOC/Advantage.md"
+    },
+    {
       "basename": "WHY",
       "path": "WHY.md"
     },
@@ -14,35 +78,27 @@
     },
     {
       "basename": "379-Jerry Jones (Dallas Cowboys)",
-      "path": "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md"
+      "path": "05-FoundersNotes/379-Jerry Jones (Dallas Cowboys).md"
     },
     {
       "basename": "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World",
-      "path": "FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md"
+      "path": "05-FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md"
     },
     {
       "basename": "Calculated Risk",
       "path": "Calculated Risk.md"
     },
     {
-      "basename": "Evolve or Loop",
-      "path": "Evolve or Loop.md"
-    },
-    {
       "basename": "In Her Spell",
       "path": "In Her Spell.md"
     },
     {
-      "basename": "000-Notes from my dinner with Charlie Munger",
-      "path": "FoundersNotes/000-Notes from my dinner with Charlie Munger.md"
-    },
-    {
       "basename": "381-I Had Dinner With Michael Ovitz",
-      "path": "FoundersNotes/381-I Had Dinner With Michael Ovitz.md"
+      "path": "05-FoundersNotes/381-I Had Dinner With Michael Ovitz.md"
     },
     {
       "basename": "370-The Founder of IKEA Ingvar Kamprad",
-      "path": "FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md"
+      "path": "05-FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md"
     },
     {
       "basename": "Kid Kendrik. I owe it to him.",
@@ -61,144 +117,84 @@
       "path": "01-MOCs/Observation MOC/Observations on  \"Moneyball\".md"
     },
     {
-      "basename": "Untitled 7",
-      "path": "Untitled 7.md"
-    },
-    {
       "basename": "378-The Last Oil Baron Leon Hess",
-      "path": "FoundersNotes/378-The Last Oil Baron Leon Hess.md"
+      "path": "05-FoundersNotes/378-The Last Oil Baron Leon Hess.md"
     },
     {
       "basename": "377-Expanding A Family Dynasty Marcus Wallenberg Jr.",
-      "path": "FoundersNotes/377-Expanding A Family Dynasty Marcus Wallenberg Jr..md"
+      "path": "05-FoundersNotes/377-Expanding A Family Dynasty Marcus Wallenberg Jr..md"
     },
     {
       "basename": "376-Jensen Huang Founder of Nvidia",
-      "path": "FoundersNotes/376-Jensen Huang Founder of Nvidia.md"
+      "path": "05-FoundersNotes/376-Jensen Huang Founder of Nvidia.md"
     },
     {
       "basename": "375-The Single Biggest Individual Financier In The World. The Richest Woman In America Hetty Green",
-      "path": "FoundersNotes/375-The Single Biggest Individual Financier In The World. The Richest Woman In America Hetty Green.md"
+      "path": "05-FoundersNotes/375-The Single Biggest Individual Financier In The World. The Richest Woman In America Hetty Green.md"
     },
     {
       "basename": "374-Rare Jeff Bezos Interview",
-      "path": "FoundersNotes/374-Rare Jeff Bezos Interview.md"
+      "path": "05-FoundersNotes/374-Rare Jeff Bezos Interview.md"
     },
     {
       "basename": "373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars",
-      "path": "FoundersNotes/373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars.md"
+      "path": "05-FoundersNotes/373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars.md"
     },
     {
       "basename": "372-Amancio Ortega The Genius Behind the Inditex Group",
-      "path": "FoundersNotes/372-Amancio Ortega The Genius Behind the Inditex Group.md"
+      "path": "05-FoundersNotes/372-Amancio Ortega The Genius Behind the Inditex Group.md"
     },
     {
       "basename": "371-James J. Hill The Empire Builder",
-      "path": "FoundersNotes/371-James J. Hill The Empire Builder.md"
+      "path": "05-FoundersNotes/371-James J. Hill The Empire Builder.md"
     },
     {
       "basename": "369-Elon Musk and The Early Days of SpaceX",
-      "path": "FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md"
+      "path": "05-FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md"
     },
     {
       "basename": "368-Rockefeller's Autobiography",
-      "path": "FoundersNotes/368-Rockefeller's Autobiography.md"
+      "path": "05-FoundersNotes/368-Rockefeller's Autobiography.md"
     },
     {
       "basename": "380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words",
-      "path": "FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md"
+      "path": "05-FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md"
     },
     {
       "basename": "379-Jerry Jones (Dallas Cowboys) 1",
-      "path": "FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md"
+      "path": "05-FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md"
     },
     {
       "basename": "351-The Founder of Rolex Hans Wilsdorf",
-      "path": "FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md"
+      "path": "05-FoundersNotes/351-The Founder of Rolex Hans Wilsdorf.md"
     },
     {
       "basename": "367-Inside the Contrarian Mind of Sam Zell",
-      "path": "FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md"
+      "path": "05-FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md"
     },
     {
       "basename": "366-Mr. Beast Leaked Memo",
-      "path": "FoundersNotes/366-Mr. Beast Leaked Memo.md"
+      "path": "05-FoundersNotes/366-Mr. Beast Leaked Memo.md"
     },
     {
       "basename": "365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners",
-      "path": "FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md"
+      "path": "05-FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md"
     },
     {
       "basename": "364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership",
-      "path": "FoundersNotes/364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership.md"
+      "path": "05-FoundersNotes/364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership.md"
     },
     {
       "basename": "363-Li Lu and Charlie Munger and Warren Buffett",
-      "path": "FoundersNotes/363-Li Lu and Charlie Munger and Warren Buffett.md"
+      "path": "05-FoundersNotes/363-Li Lu and Charlie Munger and Warren Buffett.md"
     },
     {
       "basename": "362-Li Lu",
-      "path": "FoundersNotes/362-Li Lu.md"
+      "path": "05-FoundersNotes/362-Li Lu.md"
     },
     {
       "basename": "361-Estée Lauder",
-      "path": "FoundersNotes/361-Estée Lauder.md"
-    },
-    {
-      "basename": "360-Robert Kierlin Founder of Fastenal",
-      "path": "FoundersNotes/360-Robert Kierlin Founder of Fastenal.md"
-    },
-    {
-      "basename": "359-The Russian Rockefellers",
-      "path": "FoundersNotes/359-The Russian Rockefellers.md"
-    },
-    {
-      "basename": "358-I had dinner with John Mackey, Founder of Whole Foods",
-      "path": "FoundersNotes/358-I had dinner with John Mackey, Founder of Whole Foods.md"
-    },
-    {
-      "basename": "357-Haruki Murakami",
-      "path": "FoundersNotes/357-Haruki Murakami.md"
-    },
-    {
-      "basename": "356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel)",
-      "path": "FoundersNotes/356-How The Sun Rose On Silicon Valley Bob Noyce (Founder of Intel).md"
-    },
-    {
-      "basename": "355-Rare Bernard Arnault Interview",
-      "path": "FoundersNotes/355-Rare Bernard Arnault Interview.md"
-    },
-    {
-      "basename": "354-Sam Walton The Inside Story of America's Richest Man",
-      "path": "FoundersNotes/354-Sam Walton The Inside Story of America's Richest Man.md"
-    },
-    {
-      "basename": "353-How To Be Rich by J. Paul Getty",
-      "path": "FoundersNotes/353-How To Be Rich by J. Paul Getty.md"
-    },
-    {
-      "basename": "352-J. Paul Getty The Richest Private Citizen in America",
-      "path": "FoundersNotes/352-J. Paul Getty The Richest Private Citizen in America.md"
-    },
-    {
-      "basename": "323-Jimmy Buffett",
-      "path": "FoundersNotes/323-Jimmy Buffett.md"
-    },
-    {
-      "basename": "349-How Steve Jobs Kept Things Simple",
-      "path": "FoundersNotes/349-How Steve Jobs Kept Things Simple.md"
-    },
-    {
-      "basename": "347-How Walt Disney Built His Greatest Creation Disneyland",
-      "path": "FoundersNotes/347-How Walt Disney Built His Greatest Creation Disneyland.md"
-    },
-    {
-      "basename": "346-How Walt Disney Built Himself",
-      "path": "FoundersNotes/346-How Walt Disney Built Himself.md"
-    },
-    {
-      "basename": "345-George Lucas",
-      "path": "FoundersNotes/345-George Lucas.md"
+      "path": "05-FoundersNotes/361-Estée Lauder.md"
     }
   ],
   "omittedPaths": [],

@@ -7,6 +7,7 @@ tags:
   - munger
   - founder
   - Foundersnotes
+up: "[[FoundersNotes MOC]]"
 ---
 Test
 
