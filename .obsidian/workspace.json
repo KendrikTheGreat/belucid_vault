@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Who I am"
             }
+          },
+          {
+            "id": "7cbc9d8819c91cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHY.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WHY"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -382,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Who I am.md",
+                "file": "WHY.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -410,7 +434,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Who I am"
+              "title": "Graph of WHY"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -440,12 +464,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3089b3afb438c11",
+  "active": "7cbc9d8819c91cae",
   "lastOpenFiles": [
+    "Who I am.md",
+    "WHY.md",
     "Untitled.base",
     "FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
     "FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
-    "Who I am.md",
     "Calculated Risk.md",
     "Evolve or Loop.md",
     "Untitled 8.md",

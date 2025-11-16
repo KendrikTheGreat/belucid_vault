@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WHY",
+      "path": "WHY.md"
+    },
+    {
       "basename": "Who I am",
       "path": "Who I am.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "345-George Lucas",
       "path": "FoundersNotes/345-George Lucas.md"
-    },
-    {
-      "basename": "344-Quentin Tarantino",
-      "path": "FoundersNotes/344-Quentin Tarantino.md"
     }
   ],
   "omittedPaths": [],
