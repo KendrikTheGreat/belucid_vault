@@ -1,3 +1,13 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
+
 Having one’s own shop, working on projects of one's own choosing, making enough money today, so one could do the same tomorrow. These were the modest goals of Thomas Edison when he struck out on his own as full-time inventor and manufacturer. The grand goal was nothing other than enjoying the autonomy of entrepreneur and forestalling a return to the servitude of employee. Edison's need for autonomy was primal and unvarying. It would determine the course of his career from the beginning to the end.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

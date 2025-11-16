@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-FoundersNotes/002-Walt Disney.md",
+                "file": "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002-Walt Disney"
+              "title": "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy"
             }
           },
           {
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "0b42cce916167869",
+            "id": "2779c13191ac401f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "billy bean",
+                "query": "tag:#DVS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,22 +306,22 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0.3,
-                  "nodeSizeMultiplier": 1.81707356770833,
-                  "lineSizeMultiplier": 1.6276611328125,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.4345703125,
+                  "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7563204169049468,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -355,16 +355,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc389560c3f17951",
+  "active": "4fd5ddab0d74cf4f",
   "lastOpenFiles": [
+    "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
+    "06-FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
     "06-FoundersNotes/002-Walt Disney.md",
+    "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md",
+    "02-MOCs/Daily Vector Snapshots MOC/DVS MOC.md",
+    "02-MOCs/Dreamventures MOC/Dreamventures MOC.md",
+    "02-MOCs/Daily Vector Snapshots MOC/WHY.md",
     "06-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
     "04-Media-Templates/Templates/Foundersnotes.md",
     "04-Media-Templates/Templates/Template.md",
     "06-FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
     "06-FoundersNotes/019-Becoming Steve Jobs.md",
     "02-MOCs/Daily Vector Snapshots MOC/Daily Vector Snapshot.md",
-    "02-MOCs/Daily Vector Snapshots MOC/WHY.md",
     "01-Home/Home.md",
     "Untitled.md",
     "01-Home",
@@ -374,7 +379,6 @@
     "playbook-test-000.md",
     "02-MOCs/Artifacts MOC 💠/Building WebApp.md",
     "House of Cards.md",
-    "02-MOCs/Daily Vector Snapshots MOC/DVS MOC.md",
     "02-MOCs/Daily Vector Snapshots MOC",
     "02-MOCs/Observation MOC/Who I am.md",
     "02-MOCs/Belucid MOC ™/War chest.md",
@@ -382,10 +386,6 @@
     "Untitled 7.md",
     "Untitled 3.md",
     "Untitled.base",
-    "02-MOCs/Notebox MOC 📓/Top 10 movies.md",
-    "02-MOCs/Belucid MOC ™/Thematic interconnectiveness.md",
-    "TEST RUN.md",
-    "TEST 6.md",
     "02-MOCs/Gamification MOC",
     "Extras/Media/IMG_0163.jpeg",
     "06-FoundersNotes",
