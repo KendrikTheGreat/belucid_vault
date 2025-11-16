@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 
 
 "While Musk has been anything but shy about what he was up to, few people outside of his companies got to see the factories, the R&D centers, the machine shops, and to witness the scope of what he was doing firsthand. Here was a guy who had taken much of the Silicon Valley ethic behind moving quickly and running organizations free of bureaucratic hierarchies and applied it to improving big, fantastic machines and chasing things that had the potential to be the real breakthroughs we've been missing." "By rights, Musk should have been part of the malaise. He jumped into the dotcom mania in 1995, when, fresh out of college, he founded a company called Zip2, a primitive Google Maps meets Yelp. The first venture ended up a big, quick hit. Compaq bought Zip2 in 1999 for $307 million." This is something very few people know about Elon, they know about PayPal, they know about SpaceX. They know about Tesla. Now they know about SolarCity. They didn't know that when he was in his early 20s, he sold a company for $307 million. "Musk made $22 million from the deal and poured almost all of it into his next venture, a start-up that would morph into PayPal. As the largest shareholder in PayPal, Musk became fantastically well-to-do when eBay acquired the company for $1.5 billion in 2002." So let's just stop there. 1999, young Elon, first start-up, sells it for $307 million, takes $22 million, doesn't sit on his -- doesn't rest on his laurels. He could have went to retire somewhere. I mean what would you have done if you had $22 million in your 20's. He then dumps a bunch of money into the next company. Three years later, that company is sold for $1.5 billion.

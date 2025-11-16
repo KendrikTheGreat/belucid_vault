@@ -1,7 +1,8 @@
 ---
 ingest: false
 type: foundersnote
-number: 
+up: "[[FoundersNotes MOC]]"
+number:
 date: ""
 tags:
 ---

@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 He had changed the world. He created a new art form and then produced several indisputable classics within it. He provided an escape from the depression, strength during war, and reassurance afterward. And he had shown generations of children had to accept responsibility while at the same time, allowing them to event vicariously their antagonisms towards the adult world, they would soon enter. He had refined traditional values and sharpened American myths and archetypes, even if, as his detractor said, he may have also gutted them. He had advanced color films and then color television. He had reimagined the amusement park. He had encouraged and popularized conservation, space exploration, atomic energy, urban planning, and a deeper historical awareness. He had built one of the most powerful empires in the entertainment world, one that would, despite his fears, long survive him. He had founded a school of the arts. And nearly 40 years after his death, his name would adorn a concert hall in Downtown Los Angeles financed largely with Disney Family money. Yet all of these accumulated contributions paled before a larger one. He demonstrated how one could assert one's will on the world at the very time when everything seemed to be growing beyond control and beyond comprehension. In sum, Walt Disney had been not so much a master of fun or a reverence, or innocence, or even wholesomeness. He had been a master of order.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "002-Walt Disney",
+      "path": "06-FoundersNotes/002-Walt Disney.md"
+    },
+    {
+      "basename": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future",
+      "path": "06-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md"
+    },
+    {
       "basename": "Foundersnotes",
       "path": "04-Media-Templates/Templates/Foundersnotes.md"
     },
     {
       "basename": "Template",
       "path": "04-Media-Templates/Templates/Template.md"
-    },
-    {
-      "basename": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future",
-      "path": "06-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md"
     },
     {
       "basename": "000-Notes from my dinner with Charlie Munger",
@@ -195,10 +199,6 @@
     {
       "basename": "Aha-Moment answer",
       "path": "02-MOCs/Artifacts MOC 💠/Aha-Moment answer.md"
-    },
-    {
-      "basename": "Aha-Moment",
-      "path": "02-MOCs/Artifacts MOC 💠/Aha-Moment.md"
     }
   ],
   "omittedPaths": [],

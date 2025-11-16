@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Media-Templates/Templates/Foundersnotes.md",
+                "file": "06-FoundersNotes/002-Walt Disney.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Foundersnotes"
+              "title": "002-Walt Disney"
             }
           },
           {
@@ -54,8 +54,19 @@
               "icon": "lucide-file",
               "title": "Pursuit of wisdom"
             }
+          },
+          {
+            "id": "0b42cce916167869",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +187,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -192,10 +205,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Phil Jackson Concept.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Phil Jackson Concept"
+              "title": "Outline"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -224,7 +239,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "founders"
               },
               "icon": "lucide-archive",
               "title": "All properties"
@@ -244,7 +259,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +268,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Foundersnotes"
+              "title": "Backlinks"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -267,12 +281,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Foundersnotes"
+              "title": "Outgoing links"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -285,7 +298,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04-Media-Templates/Templates/Foundersnotes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +325,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Foundersnotes"
+              "title": "Graph view"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -343,11 +355,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8126a35dabab0b02",
+  "active": "bc389560c3f17951",
   "lastOpenFiles": [
-    "04-Media-Templates/Templates/Template.md",
-    "04-Media-Templates/Templates/Foundersnotes.md",
+    "06-FoundersNotes/002-Walt Disney.md",
     "06-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
+    "04-Media-Templates/Templates/Foundersnotes.md",
+    "04-Media-Templates/Templates/Template.md",
     "06-FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
     "06-FoundersNotes/019-Becoming Steve Jobs.md",
     "02-MOCs/Daily Vector Snapshots MOC/Daily Vector Snapshot.md",
@@ -373,7 +386,6 @@
     "02-MOCs/Belucid MOC ™/Thematic interconnectiveness.md",
     "TEST RUN.md",
     "TEST 6.md",
-    "TEST 5.md",
     "02-MOCs/Gamification MOC",
     "Extras/Media/IMG_0163.jpeg",
     "06-FoundersNotes",
