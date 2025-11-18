@@ -1,3 +1,13 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+  - Foundersnotes
+---
+
 So he convinces them. And Ray Kroc by trade is a salesman. So he sells them on him becoming the person that can expand all the McDonald's franchises since they don't have an interest to. So let's skip ahead a little bit. And this is him speaking. This is a really important part because a lot of the people I know we've covered maybe had some kind of success early on. Ray Kroc did not. And you'll see what I'm talking about here. "When I flew back to Chicago that faithful day in 1954, I had a freshly signed contract with McDonald Brothers in my briefcase. I was a battle-scarred veteran of the business wars, but I was still eager to go into action. I was 52 years old. I had diabetes and incipient arthritis. I had lost my gall bladder and most of my thyroid gland in earlier campaigns, but I was convinced that the best was ahead of me." So I saw -- I think I referenced this on the podcast before. But one time I saw this guy, tweet something on Twitter and saying if you're not successful by the time you're 30, like it's too late. And he just got destroyed in his mentions, where it's just example after example of people having a success way later in life. And think about there's Ray Kroc, 52 years old, he's basically selling milkshake machines, marginally successful at best. And by the time he dies 30 years later, he's one of the richest people on the planet. Now one area that Ray kind of fits into the mold of all the other entrepreneurs we're talking about, he seems kind of entrepreneurial for a young age. So let me go back into his life when he was a young man. "They called me Danny Dreamer a lot. Even later when I was in high school, and would come home all excited about some scheme I thought up, I never considered my dreams wasted energy. They were invariably linked to some form of action. When I dreamed about having a lemonade stand, for example, it wasn't long before I set up a lemonade stand. I worked hard at it, and I sold a lot of lemonade. I worked at a grocery store one summer when I was still in grammar school, I worked at my uncle's drugstore."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

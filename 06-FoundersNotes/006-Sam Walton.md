@@ -1,3 +1,14 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+  - Foundersnotes
+  - founder
+---
+
 'I'm only a little fellow from Bentonville, Arkansas and I'm in the retail business.' I say, 'You have to pardon me, Sam. I thought I knew everybody and every company in the retail business. But I never heard of Sam Walton. What did you say the name of your company is again?' 'Walmart Stores,' he says. So I say, 'Well, welcome to the fraternity of discount merchants. I'm sure you'll enjoy the conference in getting acquainted socially with everyone.' 'Well, to be perfectly honest with you, Mr. Marks, I didn't come here to socialize. I came here to meet you. I know you're CPA and you're able to keep confidences, and I really wanted your opinion on what I'm doing now.' So he opens up this attaché case, hope I'm pronouncing that correctly. "And I swear, he had every article I had ever written and every speech I had ever given in there. I'm thinking this is a very thorough man. Then he hands me an accountant's working column sheet showing all of his operating categories all written out by hands. Then he says, 'Tell me what's wrong. What am I doing wrong?' I look at these numbers. This was in 1966, and I don't believe what I'm seeing. He's got a handful of stores, and he's doing about $10 million a year with some incredible margin and unbelievable performance. So I look at it and I say, 'What are you doing wrong, Sam? If I may call you Sam. I'll tell you what you're doing wrong.'
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

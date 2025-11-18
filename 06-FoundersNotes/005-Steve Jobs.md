@@ -1,3 +1,13 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+  - Foundersnotes
+---
+
 "The ultimate combination of pranks and electronics and the escapade that helped to create Apple was launched one Sunday afternoon when Wozniak read an article in Esquire that his mother had left for him on the kitchen table. The story described how hackers and phone phreakers had found ways to make long-distance calls for free by replicating the tones that routed signals on the AT&T network. Halfway through the article, I had to call my best friend, Steve Jobs, Wozniak recalled." "A hero of the piece was John Draper, a hacker known as Captain Crunch because he had discovered that the sound emitted by the toy whistle that came with a breakfast cereal was the same 2,600 hertz tone used by the phone networks call routing switches. It could fool the system into allowing a long-distance call to go through without extra charges. The article revealed that the other tones that served to route calls could be found in an issue of The Bell System Technical Journal, which AT&T immediately began asking libraries to pull from their shelves." "Woz picked me up a few minutes later, and we went to the library at the Stanford Linear Accelerator Center to see if we could find it, Jobs recounted. I remember that we were furiously digging through the stacks, and it was Woz who finally found the journal with all the frequencies."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

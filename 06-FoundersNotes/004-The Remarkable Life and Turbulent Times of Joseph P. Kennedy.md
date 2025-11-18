@@ -5,6 +5,8 @@ up: "[[FoundersNotes MOC]]"
 number:
 date: ""
 tags:
+  - Foundersnotes
+  - founder
 ---
 
 Joseph P. Kennedy was a man of boundless talents, magnetic charm, relentless energy, and unbridled ambition. His life was punctuated by meteoric rises, catastrophic falls, and numerous rebirths; by cascading joys and blinding sorrows; and by a tragic ending near Shakespearean in its pathos. As an Irish catholic from East Boston, he was proud of his heritage but refused to be defined by it. He fought to open doors that were closed to him, then having forced his way inside, he refused to play by the rules. He spoke his mind when he should not have. Too often, he let his fears speak for him. He was distrustful, often contemptuous of those in power, and did not disguise it. Had Joseph P. Kennedy not been the patriarch of America's first family, his story would be worth telling. That he was only adds to its trauma and historical significance. His primary goal..." and this is a really important part, "His primary goal as a younger man was to make so much money his children would not have to make any, and then they could devote their lives to public service. He accomplished that before he was 40."

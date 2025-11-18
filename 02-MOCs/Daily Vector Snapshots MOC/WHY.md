@@ -1,4 +1,4 @@
-up:: [[Daily Vector Snapshot]]
+up:: [[DVS MOC]]
 tags:: #DVS
 dates:: 2025-11-16
 

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -18,20 +18,48 @@
       "query": "Dreamventures",
       "color": {
         "a": 1,
-        "rgb": 25086
+        "rgb": 93839
+      }
+    },
+    {
+      "query": "tag:#Foundersnotes path:06-FoundersNotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 8003998
+      }
+    },
+    {
+      "query": "FoundersNotes",
+      "color": {
+        "a": 1,
+        "rgb": 8003998
+      }
+    },
+    {
+      "query": "path: 06-FoundersNotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 8003998
+      }
+    },
+    {
+      "query": "tag: #Foundersnotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 8003998
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.1,
-  "nodeSizeMultiplier": 1.98263157894737,
-  "lineSizeMultiplier": 1.85368421052632,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.59578947368421,
+  "lineSizeMultiplier": 2.34368421052632,
   "collapse-forces": false,
-  "centerStrength": 0.289473684210526,
-  "repelStrength": 8.31578947368421,
-  "linkStrength": 0.721052631578947,
-  "linkDistance": 235,
-  "scale": 0.10102553870867913,
+  "centerStrength": 0.521052631578947,
+  "repelStrength": 10.9473684210526,
+  "linkStrength": 1,
+  "linkDistance": 141,
+  "scale": 0.16311539071068515,
   "close": true
 }

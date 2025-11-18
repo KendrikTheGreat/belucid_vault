@@ -1,3 +1,13 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+  - Foundersnotes
+---
+
 This isn't surprising. After all, the worlds of social networks and code writing are six or seven levels removed from the largely chemical business of making computer chips. It would be like asking someone preparing a Big Mac at a McDonald's in Prague about cattle feed in Tulsa. This is also true in the media, even in the trade press. The reporter who writes incisively on, say, Apple and its next-generation iPhone may have little knowledge about the chips inside that device other than perhaps the name of the manufacturer and its central processor and perhaps it's memory chips. That's why you read very little these days other than financial news about the semiconductor industry. The men and women who once covered the business have mostly retired and the new generation of technology and business reporters are much more comfortable writing about Twitter or Facebook. That's a pity. It is precisely because those companies and the thousands more like them depend for their existence upon the Internet or cellular telephony, both of which rest upon semiconductor components, that the semiconductor industry is more important to the modern global economy than ever before."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

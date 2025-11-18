@@ -5,6 +5,8 @@ up: "[[FoundersNotes MOC]]"
 number:
 date: ""
 tags:
+  - Foundersnotes
+  - founder
 ---
 
 
