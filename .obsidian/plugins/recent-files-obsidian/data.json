@@ -5,16 +5,16 @@
       "path": "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md"
     },
     {
+      "basename": "Pursuit of wisdom",
+      "path": "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md"
+    },
+    {
       "basename": "003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World",
       "path": "06-FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md"
     },
     {
       "basename": "002-Walt Disney",
       "path": "06-FoundersNotes/002-Walt Disney.md"
-    },
-    {
-      "basename": "Pursuit of wisdom",
-      "path": "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md"
     },
     {
       "basename": "DVS MOC",
@@ -55,10 +55,6 @@
     {
       "basename": "Home",
       "path": "01-Home/Home.md"
-    },
-    {
-      "basename": "TEST",
-      "path": "TEST.md"
     },
     {
       "basename": "Chat with Lucid 2",
@@ -191,14 +187,6 @@
     {
       "basename": "Consciousness Operating System",
       "path": "02-MOCs/Artifacts MOC 💠/Consciousness Operating System.md"
-    },
-    {
-      "basename": "Calculated Risk",
-      "path": "02-MOCs/Knowledge MOC 🧠/Calculated Risk.md"
-    },
-    {
-      "basename": "Belucid MAIN",
-      "path": "02-MOCs/Belucid MOC ™/Belucid MAIN.md"
     }
   ],
   "omittedPaths": [],

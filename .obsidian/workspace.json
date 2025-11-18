@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8126a35dabab0b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy"
-            }
-          },
-          {
-            "id": "36943b427277dc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pursuit of wisdom"
-            }
-          },
-          {
             "id": "2779c13191ac401f",
             "type": "leaf",
             "state": {
@@ -64,9 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "fccec7570f08c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -239,14 +204,24 @@
               "state": {
                 "sortOrder": "frequency",
                 "showSearch": true,
-                "searchQuery": "founders"
+                "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "111e9f2a7bcfdb57",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "cc261747cbab30f2",
@@ -355,12 +330,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fd5ddab0d74cf4f",
+  "active": "82cc58494290ef52",
   "lastOpenFiles": [
+    "TEST.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
+    "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md",
     "06-FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
     "06-FoundersNotes/002-Walt Disney.md",
-    "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md",
     "02-MOCs/Daily Vector Snapshots MOC/DVS MOC.md",
     "02-MOCs/Dreamventures MOC/Dreamventures MOC.md",
     "02-MOCs/Daily Vector Snapshots MOC/WHY.md",
@@ -373,7 +351,6 @@
     "01-Home/Home.md",
     "Untitled.md",
     "01-Home",
-    "TEST.md",
     "02-MOCs/Artifacts MOC 💠/Chat with Lucid 2.md",
     "02-MOCs/Artifacts MOC 💠/Chat with Lucid 1.md",
     "playbook-test-000.md",
@@ -384,8 +361,6 @@
     "02-MOCs/Belucid MOC ™/War chest.md",
     "Untitled 8.md",
     "Untitled 7.md",
-    "Untitled 3.md",
-    "Untitled.base",
     "02-MOCs/Gamification MOC",
     "Extras/Media/IMG_0163.jpeg",
     "06-FoundersNotes",
@@ -396,7 +371,6 @@
     "Organization Fig..canvas",
     "Untitled.canvas",
     "05-Sketches - Canvas/Canvas/Untitled.canvas",
-    "05-Sketches - Canvas/Canvas",
     "Untitled 1.canvas",
     "04-Media-Templates/Media/IMG_0127.jpeg",
     "04-Media-Templates/Media/OODA.Boyd.svg",
