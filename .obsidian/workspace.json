@@ -326,7 +326,8 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "82cc58494290ef52",
