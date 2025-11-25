@@ -64,24 +64,10 @@
             "id": "d089504644aa450b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Media-Templates/Templates/Template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "New tab"
             }
           },
           {
@@ -129,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -330,8 +315,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "Spawned Δ-Loom.md",
+    "02-MOCs/Daily Vector Snapshots MOC/Δ-Loom MOC.md",
     "04-Media-Templates/Templates/Vector State.md",
     "02-MOCs/Artifacts MOC 💠/Berlin November 2025.md",
     "Untitled.md",
@@ -360,8 +347,6 @@
     "House of Cards.md",
     "02-MOCs/Daily Vector Snapshots MOC",
     "02-MOCs/Observation MOC/Who I am.md",
-    "02-MOCs/Belucid MOC ™/War chest.md",
-    "Untitled 8.md",
     "02-MOCs/Gamification MOC",
     "Extras/Media/IMG_0163.jpeg",
     "06-FoundersNotes",

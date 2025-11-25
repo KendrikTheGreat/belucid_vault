@@ -1,4 +1,4 @@
-up:: [[DVS MOC]]
+up:: [[Δ-Loom MOC]]
 tags:: #DVS
 dates:: 2025-11-16
 
