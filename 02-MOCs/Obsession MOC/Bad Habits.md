@@ -1,7 +1,7 @@
 up:: [[Obsession MOC]]
 tags:: #habits
 
-If I want to succeed and find the best [[Vector State]] to branch, I need to spot all the bad habits that keeps me from being obsessed.
+If I want to succeed and find the best [[Δ-Loom]] to branch, I need to spot all the bad habits that keeps me from being obsessed.
 
 - eating on the couch and watching shows for entertainment. Even worse when it’s junk food like chips and sweets.
   I just hate this constant urge to snack and eat while consuming none sense on the TV.

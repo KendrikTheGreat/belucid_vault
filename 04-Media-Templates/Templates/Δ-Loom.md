@@ -2,6 +2,5 @@
 "up::":
   - "[[Δ-Loom MOC]]"
 date:
-entropy:
-artifact:
+Entry:
 ---
