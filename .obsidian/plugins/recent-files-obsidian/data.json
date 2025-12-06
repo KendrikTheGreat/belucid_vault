@@ -5,8 +5,16 @@
       "path": "Arena's calling.md"
     },
     {
-      "basename": "Competitive Core Ignition",
-      "path": "Competitive Core Ignition.md"
+      "basename": "Δ-Loom MOC",
+      "path": "02-MOCs/Daily Vector Snapshots MOC/Δ-Loom MOC.md"
+    },
+    {
+      "basename": "Δ-Loom",
+      "path": "04-Media-Templates/Templates/Δ-Loom.md"
+    },
+    {
+      "basename": "WHY",
+      "path": "02-MOCs/Daily Vector Snapshots MOC/WHY.md"
     },
     {
       "basename": "Spawned Δ-Loom",
@@ -15,6 +23,14 @@
     {
       "basename": "Power Law",
       "path": "Power Law.md"
+    },
+    {
+      "basename": "Competitive Core Ignition",
+      "path": "Competitive Core Ignition.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
     },
     {
       "basename": "004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy",
@@ -35,10 +51,6 @@
     {
       "basename": "Dreamventures MOC",
       "path": "02-MOCs/Dreamventures MOC/Dreamventures MOC.md"
-    },
-    {
-      "basename": "WHY",
-      "path": "02-MOCs/Daily Vector Snapshots MOC/WHY.md"
     },
     {
       "basename": "001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future",
@@ -187,14 +199,6 @@
     {
       "basename": "Decision Filter",
       "path": "02-MOCs/Belucid MOC ™/Decision Filter.md"
-    },
-    {
-      "basename": "BELUCID CONCEPT",
-      "path": "02-MOCs/Belucid MOC ™/BELUCID CONCEPT.md"
-    },
-    {
-      "basename": "Consciousness Operating System",
-      "path": "02-MOCs/Artifacts MOC 💠/Consciousness Operating System.md"
     }
   ],
   "omittedPaths": [],
