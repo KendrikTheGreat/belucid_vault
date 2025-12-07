@@ -21,16 +21,148 @@
             "id": "109679b4596e382d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "02-MOCs/Δ-Loom MOC/Arena's calling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Arena's calling"
+            }
+          },
+          {
+            "id": "515d93db49114a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Hollow Phase (Transition Between Identities).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Hollow Phase (Transition Between Identities)"
+            }
+          },
+          {
+            "id": "6dabe430d4717cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descent → Dissociation → The Emotional Reset.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Descent → Dissociation → The Emotional Reset"
+            }
+          },
+          {
+            "id": "91675c093d9a1081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Turnaround Point (Micro-Reversal Protocol).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Turnaround Point (Micro-Reversal Protocol)"
+            }
+          },
+          {
+            "id": "422e09df4886707f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro-Reversal → Momentum Spark.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Micro-Reversal → Momentum Spark"
+            }
+          },
+          {
+            "id": "8dfdd55dad8cc358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chrono-Architecture — Building a Life That Matches Your Biological Engine"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -76,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DVS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +247,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,6 +390,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,7 +418,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Chrono-Architecture — Building a Life That Matches Your Biological Engine"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -316,8 +448,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82cc58494290ef52",
+  "active": "8dfdd55dad8cc358",
   "lastOpenFiles": [
+    "Micro-Reversal → Momentum Spark.md",
+    "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
+    "The Turnaround Point (Micro-Reversal Protocol).md",
+    "Descent → Dissociation → The Emotional Reset.md",
+    "The Hollow Phase (Transition Between Identities).md",
+    "02-MOCs/Δ-Loom MOC/Arena's calling.md",
+    "02-MOCs/Δ-Loom MOC/Δ-Loom MOC.md",
     "02-MOCs/Δ-Loom MOC/Nostalgia -> Identity Activation.md",
     "02-MOCs/Δ-Loom MOC/Softness, Warrior-Archetype & The Lost Signal.md",
     "02-MOCs/Δ-Loom MOC/The Long Game.md",
@@ -325,10 +464,8 @@
     "02-MOCs/Δ-Loom MOC/Transition State.md",
     "02-MOCs/Δ-Loom MOC/Money,  Identity & Strategic Leverage.md",
     "02-MOCs/Δ-Loom MOC/Re-Entry.md",
-    "02-MOCs/Δ-Loom MOC/Arena's calling.md",
     "02-MOCs/Δ-Loom MOC/Competitive Core Ignition.md",
     "02-MOCs/Δ-Loom MOC/The Echoes & The weight of expectation.md",
-    "02-MOCs/Δ-Loom MOC/Δ-Loom MOC.md",
     "02-MOCs/Δ-Loom MOC/December Duality.md",
     "02-MOCs/Δ-Loom MOC/Power Law.md",
     "04-Media-Templates/Templates/Δ-Loom.md",
@@ -341,11 +478,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
-    "02-MOCs/Knowledge MOC 🧠/Pursuit of wisdom.md",
-    "06-FoundersNotes/003-The Wizard of Menlo Park How Thomas Edison Invented The Modern the Modern World.md",
-    "06-FoundersNotes/002-Walt Disney.md",
-    "02-MOCs/Daily Vector Snapshots MOC/DVS MOC.md",
-    "02-MOCs/Dreamventures MOC/Dreamventures MOC.md",
     "01-Home",
     "02-MOCs/Δ-Loom MOC",
     "02-MOCs/Gamification MOC",
