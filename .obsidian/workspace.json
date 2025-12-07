@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2779c13191ac401f",
+            "id": "9645c68158736eb4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,91 +18,19 @@
             }
           },
           {
-            "id": "fccec7570f08c6e3",
+            "id": "109679b4596e382d",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.10.3"
+                "currentVersion": "1.10.6"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "ab30fe225b0de30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competitive Core Ignition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Competitive Core Ignition"
-            }
-          },
-          {
-            "id": "13163de1e58656a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arena's calling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arena's calling"
-            }
-          },
-          {
-            "id": "e57e513b108f9c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arena's calling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arena's calling"
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +115,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -330,7 +259,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arena's calling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -358,7 +286,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Arena's calling"
+              "title": "Graph view"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -388,19 +316,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e57e513b108f9c31",
+  "active": "82cc58494290ef52",
   "lastOpenFiles": [
-    "02-MOCs/Daily Vector Snapshots MOC/Δ-Loom MOC.md",
+    "02-MOCs/Δ-Loom MOC/Nostalgia -> Identity Activation.md",
+    "02-MOCs/Δ-Loom MOC/Softness, Warrior-Archetype & The Lost Signal.md",
+    "02-MOCs/Δ-Loom MOC/The Long Game.md",
+    "02-MOCs/Δ-Loom MOC/Workload Entropy & Shadow Fights.md",
+    "02-MOCs/Δ-Loom MOC/Transition State.md",
+    "02-MOCs/Δ-Loom MOC/Money,  Identity & Strategic Leverage.md",
+    "02-MOCs/Δ-Loom MOC/Re-Entry.md",
+    "02-MOCs/Δ-Loom MOC/Arena's calling.md",
+    "02-MOCs/Δ-Loom MOC/Competitive Core Ignition.md",
+    "02-MOCs/Δ-Loom MOC/The Echoes & The weight of expectation.md",
+    "02-MOCs/Δ-Loom MOC/Δ-Loom MOC.md",
+    "02-MOCs/Δ-Loom MOC/December Duality.md",
+    "02-MOCs/Δ-Loom MOC/Power Law.md",
     "04-Media-Templates/Templates/Δ-Loom.md",
-    "02-MOCs/Daily Vector Snapshots MOC/WHY.md",
-    "Spawned Δ-Loom.md",
-    "Power Law.md",
-    "Competitive Core Ignition.md",
-    "Arena's calling.md",
+    "02-MOCs/Δ-Loom MOC/WHY.md",
+    "02-MOCs/Δ-Loom MOC/Spawned Δ-Loom.md",
     "Untitled 1.md",
     "04-Media-Templates/Templates/Vector State.md",
     "02-MOCs/Artifacts MOC 💠/Berlin November 2025.md",
-    "Untitled.md",
     "TEST.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -410,16 +346,8 @@
     "06-FoundersNotes/002-Walt Disney.md",
     "02-MOCs/Daily Vector Snapshots MOC/DVS MOC.md",
     "02-MOCs/Dreamventures MOC/Dreamventures MOC.md",
-    "06-FoundersNotes/001-Elon Musk Tesla, SpaceX, & the Quest for a Fantastic Future.md",
-    "04-Media-Templates/Templates/Foundersnotes.md",
-    "04-Media-Templates/Templates/Template.md",
-    "06-FoundersNotes/000-Notes from my dinner with Charlie Munger.md",
-    "06-FoundersNotes/019-Becoming Steve Jobs.md",
-    "02-MOCs/Daily Vector Snapshots MOC/Daily Vector Snapshot.md",
-    "01-Home/Home.md",
     "01-Home",
-    "02-MOCs/Artifacts MOC 💠/Chat with Lucid 2.md",
-    "02-MOCs/Daily Vector Snapshots MOC",
+    "02-MOCs/Δ-Loom MOC",
     "02-MOCs/Gamification MOC",
     "Extras/Media/IMG_0163.jpeg",
     "06-FoundersNotes",
