@@ -10,7 +10,7 @@ Entry: "# 1"
 
 - Belucid treats consciousness as an energy-information system. (EIS)
     
-- Awareness expands the decision-space.
+- Awareness expands the decision-space. DCS
     
 - Choice quality determines entropy direction.
     
