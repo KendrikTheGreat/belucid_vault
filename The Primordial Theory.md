@@ -12,7 +12,7 @@ Entry: "# 1"
     
 - Awareness expands the decision-space (DCS). A broader DCS raises more awareness 
     
-- Choice quality determines entropy direction.
+- Choice quality reveals entropy .
     
 - Synergy accelerates evolution; noise and fear increase entropy.
 # Theory Layer
