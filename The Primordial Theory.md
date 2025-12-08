@@ -5,13 +5,18 @@ date: 2025-12-08
 Entry: "# 1"
 ---
 # Genesis Map
-### **1. Core Principle (2–4 sentences)**
+### **1. Core Principle
 
 
 - Belucid treats consciousness as an energy-information system. (EIS)
     
-- Awareness expands the decision-space (DCS). A broader DCS raises more awareness etc.
-    
+- Awareness expands the decision-space (DCS). A broader DCS raises more awareness etc
+  - #### Awareness Horizon (Your version)
+    - Awareness as a boundary of available choice
+    - How low-entropy states expand the horizon
+    - How noise, fear, ego constrict it
+    - How improved perception increases possible futures
+      
 - Choice quality reveals entropy momentum 
 - Entropy can have both negative and positive momentum.
     
