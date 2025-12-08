@@ -15,7 +15,7 @@ Entry: "# 1"
 - Choice quality reveals entropy momentum 
 - Entropy can have both negative and positive momentum.
     
-- Synergy accelerates evolution; noise and fear increase entropy.
+- Synergy accelerates evolution; noise and a volatile increase entropy.
 # Theory Layer
 # Rule Set of Consciousness
 
