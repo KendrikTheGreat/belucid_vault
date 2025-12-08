@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Chrono-Architecture — Building a Life That Matches Your Biological Engine",
       "path": "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Belucid WebApp",
       "path": "02-MOCs/Artifacts MOC 💠/Belucid WebApp.md"
-    },
-    {
-      "basename": "Marvel Snap Card Animation",
-      "path": "02-MOCs/Artifacts MOC 💠/Marvel Snap Card Animation.md"
     }
   ],
   "omittedPaths": [],

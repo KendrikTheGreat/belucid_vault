@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "109679b4596e382d",
+            "id": "3b54643e7018142d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-MOCs/Δ-Loom MOC/Arena's calling.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,131 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arena's calling"
-            }
-          },
-          {
-            "id": "515d93db49114a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Hollow Phase (Transition Between Identities).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Hollow Phase (Transition Between Identities)"
-            }
-          },
-          {
-            "id": "6dabe430d4717cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Descent → Dissociation → The Emotional Reset.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Descent → Dissociation → The Emotional Reset"
-            }
-          },
-          {
-            "id": "91675c093d9a1081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Turnaround Point (Micro-Reversal Protocol).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Turnaround Point (Micro-Reversal Protocol)"
-            }
-          },
-          {
-            "id": "422e09df4886707f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Micro-Reversal → Momentum Spark.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Micro-Reversal → Momentum Spark"
-            }
-          },
-          {
-            "id": "8dfdd55dad8cc358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chrono-Architecture — Building a Life That Matches Your Biological Engine"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -390,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -418,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chrono-Architecture — Building a Life That Matches Your Biological Engine"
+              "title": "Graph of Untitled"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -448,10 +328,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8dfdd55dad8cc358",
+  "active": "3b54643e7018142d",
   "lastOpenFiles": [
-    "Micro-Reversal → Momentum Spark.md",
+    "Untitled.md",
     "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
+    "Micro-Reversal → Momentum Spark.md",
     "The Turnaround Point (Micro-Reversal Protocol).md",
     "Descent → Dissociation → The Emotional Reset.md",
     "The Hollow Phase (Transition Between Identities).md",
@@ -477,7 +358,6 @@
     "TEST.md",
     "Untitled 1.base",
     "Untitled.base",
-    "06-FoundersNotes/004-The Remarkable Life and Turbulent Times of Joseph P. Kennedy.md",
     "01-Home",
     "02-MOCs/Δ-Loom MOC",
     "02-MOCs/Gamification MOC",
