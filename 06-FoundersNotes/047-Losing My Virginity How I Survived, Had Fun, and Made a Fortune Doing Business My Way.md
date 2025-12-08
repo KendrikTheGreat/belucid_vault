@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He says, okay, you're going to call your new company, let's say, Virgin Cola, whatever. You're going to own 50% of it. It's going to be a small company. Usually, most of these companies have less than 60 employees. And we're going to come in, you're going to use our branding, we're going to put up some of the money and then you run the company, and then we're going to share 50% of the profit moving forward. And so what happens is he has these like -- they almost like a bunch of options like these financial instruments, where 10 of them failed, okay, because he's got 390 of them -- 390 other ones. And so he's got a diversified -- he's got a cap downside, so he's maintaining his optionality. He's got an extremely diversified income stream and he has all the upside in the world because some of these -- they start out like a -- I think it was like a small airline, like a subsidiary of Virgin Airways in Australia that I think they started with like $3 million and winds up going on and making them like $250 million. So you see that. Like he use this -- all he can lose in this airline is $3 million, but he winds up making a whole lot more. Now it gets very complicated. Like how are you going to -- there's no central organization, but they're loosely tied to a bunch of holding companies. And within each holding companies, a bunch of tiny companies. It kind of reminds me of -- and this is not that it's important, but like it echoes my own personal philosophy of like businesses, much more in line -- remember what Edwin Land said, the founder of Polaroid, he had this dream of 1,000 small companies instead of one large Polaroid and that each company would be doing like $20 million -- I forgot the number exactly. Let's say $25 million in revenue every year. And every company would dedicate like 10% or 20% of their annual budget to R&D. And so what you have is these hugely diversified like scientific machines because his primary purpose was not business, but inventing technologies that help people.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

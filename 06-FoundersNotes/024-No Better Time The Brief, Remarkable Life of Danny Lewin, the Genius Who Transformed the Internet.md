@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 In the spring of 2011, a friend asked if I was interested in a job coproducing an independent film tribute for the anniversary of the 9/11 attacks. The subject, he explained, was a passenger on the first plane to crash into the North Tower of the World Trade Center. From there, the story took on a life of its own. It is the story of Danny Lewin, who was almost certainly the first victim of the 9/11 attacks. It's a story of an extraordinary gifted young man who believed anything was possible and that nothing stand in his way. Of an all-American kid who moved to Israel against his will ended up falling hopelessly in love with the country and served as an officer in the most elite unit of the Israeli army. Of a young soldier who trained to hunt and kill terrorists and who, in a tragic twist of irony, later died at their hands. Of a loud, irreverent computer science student who formed a beautiful friendship with a soft-spoken, reserved professor. Of a husband and a father who spent years struggling to make ends meet and became a billionaire almost overnight. Of a theoretical mathematician who wrote a set of algorithms that would change the internet forever.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

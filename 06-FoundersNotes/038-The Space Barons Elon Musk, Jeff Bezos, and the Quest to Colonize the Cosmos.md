@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Some 50 years after the advent of the space age, no one had ever flown a rocket past the edge of space and landed it vertically. Now it had been performed twice in less than a month. The site of the booster standing on terra firma, scorched by triumphant, portended a sense of arrival, and offered a hope for another Apollo 11 moment. The next giant leap, many had felt they were promised but had never come. For decades, the first stages of rockets were ditched into the ocean after powering their payloads to space. To Musk and Bezos, this is an incredible waste, like throwing away an airplane after flying from New York to Los Angeles. Now they had shown that rockets could fly not just up but back down, landing with precision and reigniting interest in human space in a way not seen in decades. Musk and Bezos were the leaders of this resurrection of the American space program, a pair of billionaires with vastly different styles and temperaments. Always audacious, Musk had plowed far ahead, his triumphs and failures commanding center stage. Bezos remained quiet and clandestine. His mysterious rocket venture kept hidden behind the curtain. At its heart, the story was fueled by a budding rivalry between the two leaders of the new space movement. The tension would play out in legal briefs and on Twitter, skirmishes over significance of their respective landings and the thrust of their rockets and even a dispute over the pad that would launch them. Musk, the brash hare, was blazing a trail for others to follow while Bezos, the secretive and slow tortoise, who is content to take it step by step in a race that was only just the beginning.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

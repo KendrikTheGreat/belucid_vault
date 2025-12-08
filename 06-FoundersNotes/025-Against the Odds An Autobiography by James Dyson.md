@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 Okay. So that is from the introduction of just an absolutely wonderful book. I don't know if I've ever highlighted a book more than this one out of the 20 or 30 that I've read so far for this podcast. So that book is Against the Odds: An Autobiography by James Dyson. So as you could see from that short little paragraph, his personality, I think, is more apparent in this book than I would say almost any other founders has been. Keep in mind, obviously, it's an autobiography where most of the books we cover are written by other people. But just this line, I am no more -- and he's talking about his bones are crumbled, and he's no more a potential clogging irritant for lesser machines. He -- and rightfully so, he's very proud of his products, and this book is the story of 15 years of struggle to finally invent, manufacture, and sell his own product. So let's get back into it. I don't want to -- I want to cover as much of this as fast as possible. I do have a lot of highlights here, so let's see where we're going to go. So I'm going to stay in the introduction. It's where I start -- it's where I immediately started reading, and I'm looking at the few pages now, and it's just -- it's like I highlighted the whole thing.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

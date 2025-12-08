@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Those companies have to be unafraid of cannibalizing a market they themselves have created, to be stealing buyers from their old product lines with the new ones." And we'll close on this, and this is the state of Polaroid's in the 1980s when it's being run by this guy named Booth. And it says, "whereas Land's Polaroid was built on his belief that every significant invention must come to a world that is not prepared for it, Booth's asked the world what it wanted and then made it." Those are 2 sentences, but they're a world apart. So if you want the full story, buy the, in this case, books, you can get the book and support this podcast at the same time by going to founderspodcast.com and buying the book there. If you do so, Amazon will give me a small percentage of the sale at no additional cost to you. So it's a great way to support the podcast and get a great book and a great story for you. Thank you for all the support. Thank you for sharing the podcast on social media. Thank you for telling your friends about it. Thank you for leaving reviews. Thank you for subscribing. I'm very grateful. I appreciate it very much. And I will talk to you next Monday.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

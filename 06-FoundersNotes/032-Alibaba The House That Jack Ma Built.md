@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I first met Jack in the summer of 1999, a few months after he founded Alibaba in a small apartment in Hangzhou, some 100 miles southwest of Shanghai. On my first visit, I could count the number of cofounders by the toothbrushes jammed into mugs on a shelf in the bathroom. In addition to Jack, they're included his wife, Cathy, and 16 others. Jack and Cathy had wagered everything they owned on the company, including their home. Jack’s ambition then, as it remains today, was breathtaking. He talked to building an Internet company that would last 80 years. The typical span of a human life. A few years later, he extended Alibaba's life expectancy to 102 years so that the company would span 3 centuries from 1999. From the very beginning, he vowed to take on and topple the giants of Silicon Valley. Within the confines of that modest apartment, this should have seemed delusional. Yet there was something about his passion for the venture that made it sound entirely credible. Jack is different from most of his Internet billionaire peers. He struggled in math as a student and wears his ignorance of technology as a badge of honor. His outsized ambitions and unconventional strategies won him the nickname Crazy Jack. In this book, we will explore his past and quirky personality to learn the method to his madness.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

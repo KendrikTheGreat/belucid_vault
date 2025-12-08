@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So that's what I'm trying to do. I'm trying to make -- because it's basically impossible for one -- for just -- you have other stuff. You have a family, a job, hobby, stuff you want to do. So if you're not going to -- if you think that there's value in hearing founders talk about their business, which I assume you do because you're listening to this podcast, which is what we're trying to learn from these books and you don't have the time to go out and collect all this yourself, you might as well subscribe to Founders Notes and get the information without expending all the time. So foundersnotes.co. And I guess that's it for now. I will be back next week with somebody -- talking about a new book about a different entrepreneur not named Richard Branson. Thank you very much for listening, and I'll talk to you soon.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

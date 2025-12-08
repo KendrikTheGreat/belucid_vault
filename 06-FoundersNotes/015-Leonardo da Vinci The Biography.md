@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 “I embarked on this book because Leonardo da Vinci is the ultimate example of the main theme of my previous biographies. How the ability to make connections across disciplines, arts and science, humanities and technology is a key to innovation, imagination, and genius. Benjamin Franklin, a previous subject of mine, was a Leonardo of his era. With no formal education, he taught himself to become an imaginative polymath who was Enlightenment America's best scientist, inventor, diplomat, writer, and business strategist. He proved by flying a kite that lightning is electricity, and he invented a rod to tame it. He devised bifocal glasses, enchanting musical instruments, clean burning stoves, charts of the Gulf Stream, and America's unique style of homespun humor. Albert Einstein, when he was stymied in his pursuit of his theory of relativity, would pull out his violin and play Mozart, which helped him reconnect with the harmonies of the cosmos. Ada Lovelace, whom I profiled in a book on innovators, combined the poetic sensibility of her father Lord Byron with her mother's love of the beauty of math to envision a general-purpose computer. And Steve Jobs climaxed his product launches with an image of street signs showing the intersection of liberal arts and technology. Leonardo was his hero.” And it's a direct quote from Jobs now. “He saw beauty in both art and engineering,” Jobs said, “And his ability to combine them was what made him a genius. His curiosity was pure, personal, and delightfully obsessive. Together, they served his driving passion, which was nothing less than knowing everything there was to know about the world, including how we fit into it. His notebooks are the greatest record of curiosity ever created, a wonderous guide to the person whom the art historian Kenneth Clark called ‘the most relentlessly curious man in history.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

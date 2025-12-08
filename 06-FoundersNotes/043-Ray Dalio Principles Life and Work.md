@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Before I begin telling you what I think, I want to establish that I'm a dumb s_*_ who doesn't know much relative to what I need to know. Whatever success I've had in my life has more to do with my knowing how to deal with my not knowing than anything I know. The most important thing I learned is an approach to life based on principles that helps me find out what's true and what to do about it. Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be applied again and again in similar situations to help you achieve your goals. Every day, each one of us is faced with a blizzard of situations we must respond to. Without principles, we would be forced to react to all the things life throws at us individually as if we were experiencing each of them for the first time. If instead, we classify these situations into types and have good principles for dealing with them, we will make better decisions more quickly and have better lives as a result. Having a good set of principles is like having a good collection of recipes for success. To be principled means to consistently operate with principles that can be clearly explained. Unfortunately, most people can't do that, and it is very rare for people to write their principles down and share them. That is a shame. I would love to know what principles guided Albert Einstein, Steve Jobs, Winston Churchill, Leonardo da Vinci, and others, so I could clearly understand what they were going after and how they achieved it and could compare their different approaches. My hope is that reading this book will prompt you and others to discover your own principles from wherever you think is best and ideally write them down.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

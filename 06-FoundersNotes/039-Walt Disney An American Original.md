@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 In 1965, a publisher suggested that I write a biography of Walt Disney. Knowing that Walt was heavily involved with a full production schedule, his television show, a proposed theme park in Florida, new attractions for Disneyland, and a host of other projects, I expected to write the book from file material. But Walt insisted on giving me 4 lengthy interviews. He dwelled on his early years on the farm in Marceline as a newspaper delivery boy in Kansas City and as a student and mailman in Chicago. He seemed eager to sum up the lessons he had learned as a boy and tell young people how he applied them in his later life. He died within a year after the interviews.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

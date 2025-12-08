@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 I think that's one of the best things I took away from this book. So let's skip ahead a little bit. I want to talk about -- okay, so there's two really interesting things that are on pages next to each other. The first is what he credits as one of the smartest business decisions he ever made, and then I love this idea of optionality as a non-negotiable. So let me go to the one of the smart business decisions he ever made first. At this point, he hasn’t opened his first restaurant. He's doing market research, and he's traveling and eating and trying to figure out what kind -- like what -- is it going to be French cuisine, what kind of restaurant he is going to make. So he spends a few months abroad eating and learning. All right. And he's talking about that here. “My time in Italy and France had provided a crucial introduction to the real work of restaurants, and nothing I had seen or learned had dissuaded me from continuing to follow my passion. I like the kind of people I kept meeting in the business, felt blessed being around so much good food and wine, and was intoxicated with the idea of taking an unexpected career path. In my many solitary moments during those 100 days, I’d had an ample opportunity to contemplate, feel, and envision the kind of restaurant I now knew I had to open”. “One role I decided not to play myself was chef. Though I had fantasized early on about leading the kitchen and in fact had seen being a chef as the only legitimate avenue into the business, it increasingly dawned on me that as much as I loved to cook I was much more suited to become a restaurant generalist. My culinary education in Europe had provided the necessary foundation with which to communicate clearly about food with chefs in their own language. Firing myself as chef turned out to be one of the smartest business decisions I have ever made”. And indeed realizing that he's a restaurant generalist and a founder of restaurants where he's obviously thrived at.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

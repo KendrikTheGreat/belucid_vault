@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Okay. So now he -- we're going to skip ahead. He's 40, and this is another example of how he works. "He was respected because he understood the trade. By the time he was 40, he had served in every position, from fruit jobber to boss”. So keep that in mind with what I just said, how that these executives in United Fruit that never started a company for themselves literally thought he couldn't teach them something about their business when he's done every single job in that business, and they've done one. It's very bizarre to me. All right. "He worked on the docks, on the ships and railroads, in the fields and warehouses”. And remember what he -- the quote I read earlier, where he's like, "if you know your business A to Z, there's no problem you can't solve”. I think that's really like fundamental for us to all take with -- to understand and take with us in our lives. Okay, so he worked on the docks. He did that. "He had ridden the mules”. He's also something I didn't cover, but he's famous for -- I forgot the term in Spanish, but it roughly translates to like gringo on the mule. He crossed almost the -- while he was looking for the land he was going to eventually buy, he crossed almost the entire country of Honduras on a mule. Okay. "He had managed the fruit and money, the mercenaries and government men. He understood the meaning of every change in the weather, the significance of every date on the calendar. There was not a job he could not do nor a task he could not accomplish. He considered it a secret to his success”. And why is that a secret to his success? Because although it's obvious that you should be doing this because it's hard work, most people won't. And I love the fact that he's gained all by doing, he's gained all this knowledge, this hidden knowledge, this secret that you could only uncover by actually doing the hard work. And now he's using that -- he's exploiting that advantage over the people that didn't do the same.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

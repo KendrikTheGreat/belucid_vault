@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 "Well, Rockefeller tried to extricate himself from the web of administrative details and dedicated most of his time to broad policy decisions." Here's another one I think that's interesting. "He wasn't the sort of person to persist in a flawed situation. Rockefeller was a sort of stubborn person who only grew more determined with rejection." You're getting an idea of his personality through these. "Standard Oil strategy was to furnish as little information as possible." I think that's his own strategy. Rockefeller was a very, very quiet guy. And let's talk about -- this is a really interesting point. And I'm eventually going to do a podcast on Vanderbilt, but check this out. The point -- this point is worth underscoring. "29 Vanderbilt wants to do business with Rockefeller," because remember, we don't remember because we haven't done the podcast yet, but Vanderbilt makes his money by monopolizing transportation. this is about 50 years before Rockefeller. This point is worth underscoring, "29-year-old Rockefeller demanded that the 74-year-old Commodore Vanderbilt," that was Cornelius, most people call him Commodore, "come to him. This refusal to truckle, bend or bow to others, this insistence on dealing with other people on his own terms, time and turf, distinguish Rockefeller throughout his career." That's a really ballsy thing to do, man. Rockefeller, he's rich by now, but he's not Vanderbilt rich. He's not lifetime rich. He's doing well as a 29-year-old, for sure. But the idea that he's making Vanderbilt, who is probably the most -- one of the most famous people in the country is, like, "Oh, you want to come, you want to meet, you want to do business, you got to come to me." It's -- I think that might be the one paragraph that tells most about Rockefeller. Here's some of his quotes that are in the book, and again, just gives you an idea of the kind of person he was. "Success comes from keeping the ears open and the mouth closed." Again, this goes on his -- he constantly references.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “I view life as one big adventure. I'm always learning and finding new things to try and challenges to overcome. Whether you are running a company or simply living your life, hopefully you can learn from my mistakes and put a smile on your face along the way. A reviewer described Losing My Virginity as the first autobiography in which the author had written an exposé of himself. I hope Finding My Virginity will be similar. If your life is one long success story, it won’t make for a good read. What’s more, you’re most likely a liar. We all have ups and downs, trials and tribulations, failures and triumphs. We just hope to come out stronger on the other side. The late Steve Jobs, the entrepreneur I most admire, said: ‘My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time.’ That thought has been on my mind as I write this book, thinking back to all the good times and tough times behind me, and looking forward with wonder at what lies ahead. I’ve always lived every day as if it’s my last, fiercely loving my family and friends and trying to make a positive difference. We only get one life, and this is mine.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

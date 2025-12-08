@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Something I don't think I talk about in the podcast, but also on the book is Gawker would publish these hip pieces rightfully so about all the tax dodging that companies do, which I think is one, unethical, but at the same time, legal, and I think the solution is actually a simplification of the tax code. But what's revealed in the book and through discovery in this lawsuit is that Gawker engaged in that. They had a bunch of LSC set up all over in Hungary and the Grand Cayman Islands, and they did everything they could just like the people they railed against. And then they also talked about -- in the book, they talked about Gawker would just attack companies for using unpaid interns. Again, something I'm completely against, yet they wind up having their own lawsuits about unpaid interns. So a lot of the things that they would attack other companies for, they were definitely guilty of. They would attack Silicon Valley and other business leaders for greed. Yet most of the writers with Gawker were paid less than the -- in the book, they compare to -- they made less than what waiters would on like a busy weekend, and that Nick Denton and like his family owned the vast majority of this. And not only were they not paid well, and Nick was making tons and tons of money, they also had no equity in the company. So there is a huge strain of hypocrisy that makes Gawker, at least in this book, and again, this is the only source I'm really using to -- for my understanding of Gawker, it makes it an extremely unlikable organization. Go back to the book. "Thiel saw Gawker not so much as a revolution, but as an anarchy, masquerading as a movement," another great sentence, I think, from Holiday. "He saw it as cruel and unfair, but also a toxic force in intellectual life and free society. My main objective to -- excuse me, my main objection to Gawker is still this moral individual one that they hurt individuals, but there is a cultural critique, too, I think."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

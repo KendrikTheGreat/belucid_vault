@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 So I want to skip ahead. So that part was the idea. This is the first little seed or a little inkling of, hey, maybe this electric engine I'm working on can actually power a horse's carriage, right? And this is the late 1800s. So now I want to move to the motivation. And if you recall in the Thomas Edison podcast we did, I spent a little bit about that podcast talking about the friendship that developed between Thomas Edison and Henry Ford. Later in his life, Edison was a main benefactor of Ford's wealth. Ford idolized Thomas Edison, similar to, I think, how maybe today's entrepreneurs idolize, in many cases, like Elon Musk. So any time he would have the opportunity to do business with Edison, Ford would -- he wind up like funding a bunch of projects. He wound up loaning millions of dollars to Edison because Ford also hated Wall Street. He hated financiers. He hated lawyers. He was a brilliant engineer and a brilliant manufacturer, but he did have some -- Ford did have some quirks and some negative sides to him. I'm not going to cover too much of them. There is some in the book. A lot of it has to do with his distrust of Wall Street. He was a well-known anti-Semite. And just he also -- like there's a part in the book that's just really strange where he thought he could -- he's so successful, the most famous person in America, as we'll see at the end of the podcast, one of the richest people in America, and he wanted to -- he thought he could put an end to World War I before it began by basically chartering a boat and then going and talking to neutral -- it's just -- there's some fascinating parts of Henry Ford, but like everybody else, we're -- there's -- we're all -- we all have good and bad to us, and the book definitely didn't skip over the bad. But for now, I want to talk to you about the motivation. And so at this point, this is a few -- Henry Ford has been working at the Edison Illuminating company in Detroit for a few years. He's been doing such a good job that the person that's running that plant invites him to the Edison conference, where all the people that work for Edison gather and he winds up being able to meet Edison. So let's jump right into that.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Orville's first teacher in grade school would remember him at his desk tinkering with bits of wood. Asked what he was up to, he told her he was making a machine of a kind that he and his brother were going to fly someday."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

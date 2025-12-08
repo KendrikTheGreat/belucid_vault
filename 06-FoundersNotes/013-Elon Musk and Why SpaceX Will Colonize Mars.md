@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Phase 1 really started before SpaceX even existed, back in mid-2001 while Musk was still at PayPal. Strongly considering entering the space arena as his next move, Musk did what everyone does when they want to become a world-class rocket scientist in about a year with no schooling, he read some stuff. He read books like Rocket Propulsion Elements and Aerothermodynamics of Gas Turbine and Rocket Propulsion, and he basically memorized all of them." There's some more list of books in the post that he read as well. "Rocket expert Jim Cantrell, who met Musk around this time and was on the failed trip to Russia with him, says, 'He would quote passages for verbatim from these books. He became very conversant in the material.' To supplement his reading, Musk asked a lot of questions of a lot of people. Cantrell, who calls Musk, 'By far the single smartest person that I have ever worked with,' says that Musk 'Hired as many of my colleagues in the rocket and spacecraft business that were willing to consult with him,' and that, 'It was as if he would suck the experience right out of them.'" "As Musk started to talk more and more seriously about making space his next big pursuit, Musk's friends were worried about him. Wouldn't you be? Imagine if your friend made a huge amount of money selling an internet business and then told you he was going to spend almost all of it trying to become the first entrepreneur to succeed at building a space launch company because it was important that human life became multiplanetary. You wouldn't feel too good about this." "One of Musk's friends did his best to talk him out of this insane project by putting together a montage of rockets blowing up and forcing Musk to watch it. But Musk is an odd duck, and he continued along unfazed. After building himself a tree trunk foundation of knowledge, it was time to get other people on board. When I asked Musk about his knowledge of business" -- this is -- this -- I love this part. This is a really important quote.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

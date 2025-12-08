@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So he's got a lot of ideas in here that really resonate with me. So this part is called never employ an expert, but he's also talking about -- well, you'll see here. "A few years before, it was while I was an apprentice, I read in the World of Science, an English publication of the silent gas engine which was coming out in England. I think it was the auto engine. It ran with illuminating gas, had a single large cylinder, and the power impulses, being thus intermittent, required an extremely heavy flywheel. As far as weight was concerned, it gave nothing like the power per pound of metal that a steam engine gave, and the use of illuminating gas seems to dismiss it as even a possibility for road use. It was interesting to me only as all machinery was interesting. I followed in the English and American magazines, which we got in the shop, the development of the engine and most particularly, the hints of the possible replacement of the illuminating gas fuel by a gas formed by the vaporization of gasoline." So that part is really confusing, but this is -- it was important to include because we're going to see how he thinks and the conclusion he arrives at. "The idea of gas engines was by no means new, but this was the first time that a really serious effort had been made to put them on the market. They were received with interest rather than enthusiasm, and I do not recall anyone who thought that the internal combustion engine could ever have more than a limited use." So let me stop there before I continue. So he's telling us about he's following the idea because keep in mind, this is the early 1900s -- excuse me, this is the late 1800s and electricity is all the rage. So everything -- people think that the possibilities of electricity are almost limitless that if you're going to make an engine, of course, you're going to make an electric engine. If you're going to make a horseless carriage, of course, it would be an electric horseless carriage.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

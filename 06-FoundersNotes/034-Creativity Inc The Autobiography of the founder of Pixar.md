@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "We must work to uncover them and assess our own role in them even if doing so means making ourselves uncomfortable. When we come across a problem, we must marshal all of our energies to solve it. If those assertions sound familiar, that's because I used them to kick off this book. There's something else that bears repeating here. Unleashing creativity requires that we loosen the controls, accept risk, trust our colleagues, work to clear the path for them, and pay attention to anything that creates fear. Doing all of these things won't necessarily make the job of managing a creative culture easier, but ease isn't the goal. Excellence is."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

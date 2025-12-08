@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 People write and read biographies because their subjects stood out for doing something, for being something out of the realm of the everyday. They created something new, solved the problem, sparked a movement, altered established courses, method, and thinking. That's what Levi was. He didn't invent blue jeans, but without him the most iconic garment in fashion history might never have been more than just duck cloth pants on the rear ends of Nevada's miners and teamsters. Without Levi's business sense and vision, which allowed him to see the potential of those little metal rivets, the overalls might have seen the light of day, but they would not have thrived. Levi didn't run orphanages and kindergartens, but he saw to it that their doors were kept open for those who ran them and for those who desperately needed the safety of their walls. He wasn't a teacher, but he gave enough money to a growing university so that its teachers could steer new generations of students towards the future. He didn't hold any political office, but his good advice, solid bank account, and respected voice were sought out by politicians and policymakers. His vast dry good business allowed families of remote locations to have a few comforts in the midst of hardship. San Francisco's fame for first and for icons of all kinds. The cable car, the Golden Gate Bridge, the Beat Generation, the Summer of Love, the rise of the hippie, gay liberation, and the tech revolution. These inventions, designs, and culture revolutions blossomed because San Francisco had a solid core for them to spring from. That core was commerce. Without the goal that the cities past rested on, its future residents would have had no place to come to. And Levi Strauss was one of the men who set that firm foundation.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

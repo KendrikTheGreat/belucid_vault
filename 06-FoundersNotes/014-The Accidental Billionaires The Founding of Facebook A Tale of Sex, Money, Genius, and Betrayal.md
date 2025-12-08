@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 1:31 a.m. Adams has no security but limits the number of results to 20 a page. All I need to do is break out that same script I just used on Lowell and we're all set. 1:42 a.m. Quincy has no online Facebook. What a sham. Nothing I can do about that. 1:43 a.m. Dunster is intense. Not only is there no public directory but there's no directory at all. You have to do searches. And if your search returns more than 20 matches, nothing gets returned. And once you get results, they don't link directly to the images. They link to a PHP that redirects or something. Weird. This may be difficult. I'll have to come back later. 1:52 a.m. Leverett is a little better. They still make you search but you can do an empty search and get links to pages with every student's picture. It's slightly obnoxious that they only let you view one picture at a time. And there's no way I'm going to go to 500 pages to download pics one at a time. So it's definitely necessary to break out Emacs and modify that Perl script. This time, it's going to look at the directory and figure out what pages it needs to go to. Then it will just go to all the pages it found links to and jack the images from them. It's taking a few tries to compile the script. Another Beck's is in order. Mark was most likely wide awake now, deep into the process. He didn't care what time it was or how late it got. To guys like Mark, time was another weapon of the establishment. Like alphabetical order, the great engineers and hackers, they didn't function under the same time constraints as everyone else. 2:08 a.m. Mather is basically the same as Leverett, except they break their directory down into classes. There aren't any freshmen in their Facebook. How weak. And on and on and on, he went into the night. By 4:00 a.m., it seemed as though he had gone as far as he could go. He had downloaded thousands of photos from the houses' databases. It was likely that there were a few houses that weren't accessible online from his James Bond-like lair in Kirkland House.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

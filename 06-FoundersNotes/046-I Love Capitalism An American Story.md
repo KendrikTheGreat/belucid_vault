@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And then finally, another way for you to get extra additional content from me is, I need a favor from you. If you like this podcast and you're willing to leave a review wherever you listen to it on Apple Podcasts or otherwise, take a screenshot of that and e-mail to foundersreviews@gmail.com. I will reply back with a private RSS feed. That's all a podcast is, is just an RSS feed. And this is -- I do, I've already done two of them, and they're reviewer only podcasts. So short little podcasts that I've done just for people that are nice enough to leave a review and to tell others what they enjoy about this podcast. One of them is on Steve Jobs with stories that I've never heard anywhere else. And the other one is on Max Levchin, which is one of the co-founders of PayPal. He actually worked with Peter Thiel and Elon Musk before they were Peter Thiel and Elon Musk, which is -- you get some interesting insights into the beginning of PayPal. So if you'll do that foundersreviews@gmail.com. And yes, please tell a friend. I'd really appreciate it. And I will talk to you next Monday.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

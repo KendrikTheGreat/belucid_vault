@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "What he did not see was a mechanistic command-and-control company demeaning and discouraging a capable man. The lamb stepped eagerly into the jaws of the beast. He wanted to believe in the company. He wanted it to be different. He wanted to make it better. It's an old, old story. The lamb was determined to change the company. The company was determined to corral the lamb. It was no contest. Within the year, a badly molded lamb was out the door much wiser in the ways of hierarchical command-and-control organizations. And the people who hold power within them." Okay. So I'm going to skip ahead. He worked in the financial services, consumer finance companies, different banks for years, 1.5 decades. And this is what, I think, one of the most important reasons why we should study not the results of what these founders have done but how they got there because a lot of people buy into this myth that, oh, if you're not young, it's too late to start a company; that, oh, they just got -- you get hit with this lightning bolt of a great idea, and then it's just straight up and to the right from there. Dee Hock was 36 years old, and he considered himself a failure before he started Visa. So let me -- not only -- so he kept going about -- like, he believed in his ideals.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "In 1980, business at my company, Chuck E. Cheese, was thriving, and I was feeling flush. So I bought a very large house in Paris. At six stories, it spanned 15,000 square feet and featured marble staircases and a swimming pool in the basement. At the time, my wife and I didn't have any furniture so we thought, why not fill it up with people instead? We threw a huge party inviting everyone I knew at Chuck E. Cheese and my other company, Atari, and all my old friends as well. At around 9:00 p.m., I looked up and noticed that my former Atari employee, Steve Jobs, was at the door. I smiled, and Steve rolled his eyes. I think he was a little taken aback at the size of the place. While I was going through a grandiose period, Steve was the same as ever, not really a grand kind of guy. I asked how long he'd be in town, and he said a few days. 'Let's have breakfast tomorrow then,' I offered, and he agreed. At this time, his new company, Apple, was already quite successful, probably doing a little less than $100 million in sales, but nothing close to what Atari or Chuck E. Cheese was earning. In 1980, Atari was bringing in around $2 billion in revenue, and Chuck E. Cheese some $500 million. I still didn't feel too bad that I had turned down a 1/3 ownership of Apple, although I was beginning to think it might turn out to be quite a mistake." Steve Jobs offered Nolan 1/3 of Apple for $50,000. "Steve and I spent the next day together. We sat for hours and talked about creativity. We then walked around the city for hours. I continue to point out my favorite places to visit. But Steve was most interested in two things: all the creativity he sensed and the architecture.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

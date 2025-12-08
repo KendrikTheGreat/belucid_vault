@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And that was an excerpt from the book that I want to talk to you about today: George Lucas: A Life by Brian Jay Jones. In case you're new to Founders, every week, I read a biography of an entrepreneur, and then I share some of the ideas that I learned. So I want to tell you how I found the idea for this book. Last week, I did a creative podcast on Ed Catmull, who was one of the founders of Pixar, and based on his book Creativity, Inc., which was absolutely a fantastic book. And in the book, he mentions George Lucas a lot because he went to work for George Lucas and the beginnings of Pixar actually were contained within one of the companies that George Lucas found, which is Industrial Light & Magic. In Creativity, Inc., Ed Catmull talks about a lot of the ideas that George Lucas had for business. A lot of these ideas, I thought were really interesting. I included them in last week's podcast, if you want to learn a little bit more about that. So I thought maybe I'll go look for a book on George Lucas. So I ordered the book and read it. And not surprisingly, there's a lot of useful information in here. So I want to share some of those ideas with you today. So let's get into the book. So one thing that's very common studying the biography of George Lucas, he was very much -- he very much thought from first principles. So we even see this at a young age. He's going -- he's raised a protestant, and he starts to question from an early age and let me just read this part. "He found himself wondering what is God, but more than that, what is reality? What is this? Is this if you reach a point and suddenly you say, wait a second, what is the world? What are we? What am I? And how do I function in this? And what's going on here?" And you'll see this later on in the book, too, where he just analyzes the film industry and then even the technologies that they're using. And he's like, what is this? This doesn't make sense. Why are we doing things like this? Something I found interesting, skipping ahead a little bit.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

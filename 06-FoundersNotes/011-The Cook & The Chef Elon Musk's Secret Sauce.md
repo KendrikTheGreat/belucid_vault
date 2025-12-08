@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 "The difference between the way Elon thinks and the way most people think is kind of like the difference between a cook and a chef. The words cook and chef seem kind of like synonyms. And in the real world, they are often used interchangeably. But in this post, when I say chef, I don't mean any ordinary chef. I mean the trailblazing chef, the kind of chef who invents recipes. And for our purposes, everyone else who enters a kitchen, all those who follow a recipe is a cook. Everything you eat, every part of every cuisine we know so well was at some point in the past created for the first time. Wheat, tomatoes, salt, and milk go back a long time. But at some point, someone said, what if I take those ingredients and do this and this and this and ended up with the world's first pizza. That's the work of a chef. Since then, God knows how many people have made a pizza. That's the work of a cook. The chef reasons from first principles, and for the chef, the first principles are raw edible ingredients. Those are her puzzle pieces, her building blocks, and she works her way upwards from there using her experience, her instincts, and her taste buds.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

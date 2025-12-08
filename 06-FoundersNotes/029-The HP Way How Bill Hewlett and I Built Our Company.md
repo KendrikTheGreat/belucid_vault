@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "He had neither Ellison's conspicuous consumption needs nor Gates' philanthropic impulses nor the competitive urge to see how high on the Forbes list he could get. Instead, his ego needs and personal drives led him to seek fulfillment by creating a legacy that would awe people. A dual legacy, actually, building innovative products and building a lasting company. He wanted to be in the Pantheon with, indeed a notch above, people like Edwin Land, Bill Hewlett and David Packard. And the best way to achieve all this was to return to Apple and reclaim his kingdom."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

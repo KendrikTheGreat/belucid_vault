@@ -11,10 +11,24 @@
             "id": "9645c68158736eb4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "06-FoundersNotes/050-Marc Andreessen's Blog Archive.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "050-Marc Andreessen's Blog Archive"
             }
           },
           {
@@ -40,9 +54,19 @@
               "icon": "lucide-file",
               "title": "The Primordial Theory"
             }
+          },
+          {
+            "id": "f2da9dede128c1c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,7 +294,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Primordial Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +321,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Primordial Theory"
+              "title": "Graph view"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -328,34 +351,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b54643e7018142d",
+  "active": "f2da9dede128c1c0",
   "lastOpenFiles": [
-    "The Primordial Theory.md",
-    "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
-    "Micro-Reversal → Momentum Spark.md",
-    "The Turnaround Point (Micro-Reversal Protocol).md",
-    "Descent → Dissociation → The Emotional Reset.md",
-    "The Hollow Phase (Transition Between Identities).md",
-    "02-MOCs/Δ-Loom MOC/Arena's calling.md",
-    "02-MOCs/Δ-Loom MOC/Δ-Loom MOC.md",
-    "02-MOCs/Δ-Loom MOC/Nostalgia -> Identity Activation.md",
-    "02-MOCs/Δ-Loom MOC/Softness, Warrior-Archetype & The Lost Signal.md",
-    "02-MOCs/Δ-Loom MOC/The Long Game.md",
-    "02-MOCs/Δ-Loom MOC/Workload Entropy & Shadow Fights.md",
-    "02-MOCs/Δ-Loom MOC/Transition State.md",
-    "02-MOCs/Δ-Loom MOC/Money,  Identity & Strategic Leverage.md",
-    "02-MOCs/Δ-Loom MOC/Re-Entry.md",
-    "02-MOCs/Δ-Loom MOC/Competitive Core Ignition.md",
-    "02-MOCs/Δ-Loom MOC/The Echoes & The weight of expectation.md",
-    "02-MOCs/Δ-Loom MOC/December Duality.md",
-    "02-MOCs/Δ-Loom MOC/Power Law.md",
-    "04-Media-Templates/Templates/Δ-Loom.md",
-    "02-MOCs/Δ-Loom MOC/WHY.md",
-    "02-MOCs/Δ-Loom MOC/Spawned Δ-Loom.md",
-    "Untitled 1.md",
-    "04-Media-Templates/Templates/Vector State.md",
-    "02-MOCs/Artifacts MOC 💠/Berlin November 2025.md",
-    "TEST.md",
+    "06-FoundersNotes/050-Marc Andreessen's Blog Archive.md",
+    "06-FoundersNotes/049-Screw It, Let's Do It Lessons in Life by Richard Branson.md",
+    "06-FoundersNotes/048-Finding My Virginity The New Autobiography by Richard Branson.md",
+    "06-FoundersNotes/047-Losing My Virginity How I Survived, Had Fun, and Made a Fortune Doing Business My Way.md",
+    "06-FoundersNotes/046-I Love Capitalism An American Story.md",
+    "06-FoundersNotes/045-Built From Scratch How A Couple of Regular Guys Grew The Home Depot from Nothing to $30 Billion.md",
+    "06-FoundersNotes/044-A Memoir by the Cofounder of Microsoft.md",
+    "06-FoundersNotes/043-Ray Dalio Principles Life and Work.md",
+    "06-FoundersNotes/042-One From Many VISA and the Rise of Chaordic Organization.md",
+    "06-FoundersNotes/041-The Hard Thing About Hard Things Building a Business When There Are No Easy Answers.md",
+    "06-FoundersNotes/040-Insisting On The Impossible The Life of Edwin Land and Instant The Story of Polaroid.md",
+    "06-FoundersNotes/039-Walt Disney An American Original.md",
+    "06-FoundersNotes/038-The Space Barons Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos.md",
+    "06-FoundersNotes/037-The Fish That Ate The Whale The Life and Times of America's Banana King.md",
+    "06-FoundersNotes/036-Finding The Next Steve Jobs How to Find, Keep, and Nurture Talent.md",
+    "06-FoundersNotes/035-George Lucas A Life.md",
+    "06-FoundersNotes/034-Creativity Inc The Autobiography of the founder of Pixar.md",
+    "06-FoundersNotes/033-Levi Strauss The Man Who Gave Blue Jeans to the World.md",
+    "06-FoundersNotes/032-Alibaba The House That Jack Ma Built.md",
+    "06-FoundersNotes/031-Conspiracy Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue and Zero to One Notes on Startups, or How to Build the Future.md",
+    "06-FoundersNotes/030-Elon Musk Tesla, SpaceX, and the Quest for a Fantastic Future.md",
+    "06-FoundersNotes/029-The HP Way How Bill Hewlett and I Built Our Company.md",
+    "06-FoundersNotes/028-The Wright Brothers 1 of 2.md",
+    "06-FoundersNotes/027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
+    "06-FoundersNotes/026-My Life and Work The Autobiography of Henry Ford.md",
+    "06-FoundersNotes/025-Against the Odds An Autobiography by James Dyson.md",
     "Untitled 1.base",
     "Untitled.base",
     "01-Home",

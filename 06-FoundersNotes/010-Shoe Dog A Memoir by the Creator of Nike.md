@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 Bowerman was a genius coach, a master motivator, a natural leader of young men. And there was one piece of gear he deemed crucial to their development, shoes. He was obsessed with how human beings are shod. In the four years I'd run for him at Oregon, Bowerman was constantly sneaking into our lockers and stealing our footwear. He had spent days tearing them apart, stitching them back up, then hand them back with some minor modification, which made us either run like deer or bleed. Regardless of the results, he never stopped. He was determined to find new ways of bolstering the instep, cushioning the midsole, building out more room for the forefoot. He always had some new design, some new scheme to make our shoes sleeker, softer, lighter, especially lighter. 'One ounce sliced off a pair of shoes,' he said, 'is the equivalent to 55 pounds over one mile.' He wasn't kidding. His math was solid. You take the average man's stride of six feet, spread it out over a mile, you get 880 steps, remove one ounce from each step, that's 55 pounds on the button. Lightness, Bowerman believed, directly translated to less burden, which meant more energy, which meant more speed and speed equaled winning. Bowerman didn't like to lose. I got it from him. Thus, lightness was his constant goal." And then skipping ahead a little bit. Bowerman obviously has a profound effect on Phil and their relationship lasts a lifetime. And so we're going to go into that a little bit before jumping back into the personality of Bowerman, which I think you will find interesting. "It's possible that everything I did in those days was motivated by some deep yearning to impress, to please Bowerman. Besides my father, there was no man whose approval I craved more. And besides my father, there was no man who gave it less often. Frugality carried over to every part of the coach's makeup.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

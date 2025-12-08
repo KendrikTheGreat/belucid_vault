@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 But it kind of -- now that I've read this book and have a few more insights into who he is, it kind of makes sense. Okay. So one of my favorite parts of the book is they use a lot of his own words. So this section is a little longer, but it's Evan's framework for what he calls the more personal computer. And you'll start to see more of like his philosophy is taking shape, and we can kind of guess how it affects the way he creates products. Okay. So he's giving a speech in January 2014. So I'm just going to jump into the paragraph before he starts talking, and I'm just going to read his words. Okay. So first, he talked about how Steve Jobs tried -- tied man to machine with the creation of the iPhone, letting users bring computers with them wherever they go, tied uniquely to them by a phone number. He argued that this should be called the more personal computer era rather than the post-personal computer era. Then he unveiled his framework for Snapchat through which everything, acquisitions, new features, and revenue was developed. So let's go directly to his words here now. Internet everywhere means that our old conception of the world separated into an online and offline space is no longer relevant. Traditional social media require that we live experiences in the offline world, record those experiences and then post them online to recreate the experience and talk about it. For example, I go on vacation, take a bunch of pictures, come back home, pick the good ones, post them online and talk about them with my friends. This traditional social media view of identity is actually quite radical. You are the sum of your published experience, otherwise known as pics or didn't happen. Or in the case of Instagram, beautiful pics or it didn't happen, and you're not cool. This notion of a profile made a lot of sense in the binary experience of online and off-line. It was designed to recreate who I am online so that people could interact with me even if I wasn't logged in on that particular moment.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 We want customers who need our clothing, not just desire it. We never wanted to be a big company. We want to be the best company, and it's easier to try to be the best small company than the best big company. We have to practice self-control. Growth in one part of the company may have to be sacrificed to allow growth in another. It is also important that when we have a clear -- excuse me, it is also important that we have a clear idea of what limits are to this experiment, and we live within those limits knowing that the sooner we expand outside of them, the sooner the type of company we want will die. Slow growth or no growth means the profits have to come from our being more efficient every year. Unlike the government, we cannot rely on an expanding economy to burn the fat away. It's easier for a company to make a profit when it's growing at 10% or 15% a year. We have been profitable in years when we grew only at a few percent by increasing the quality of our product, maximizing the efficiency of our preparations, and living within our means. Because of our pessimism about the future of a world economy based on limited resources and on endlessly consuming and discarding goods, we often don't need not only don't we want to be financially leveraged, but our goal is to have no debt, which we have achieved. Again, I think this is amazing. The business has already been run for 45-plus years. He wants to go for another 100. He owns everything himself. And not only do they have no outside investors, but they don't have any debt. I don't -- this guy is amazing. And this whole idea of -- later on the page, I'm not going to read it, but he talks about -- it goes -- hammers back on this idea of quality. He's like, listen, if I could make a lower-quality shirt and then you would buy more. But then what happens when you buy a shirt from me and 2 months later, it tears apart, it falls off. It just stops doing what I told you it should be doing and why the reason you bought the shirt in the beginning.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

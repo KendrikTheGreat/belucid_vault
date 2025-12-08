@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "The problem with these books is that they attempt to provide a recipe for challenges that have no recipes. There's no recipe for really complicated dynamic situations. There's no recipe for building a high-tech company. There's no recipe for leading a group of people out of trouble. And there's no recipe for making a series of hit songs. There's no recipe for playing NFL quarterback. There's no recipe for running for President. And there's no recipe for motivating teams when your business has turned to c_*_. That's the hard thing about hard things. There is no formula for dealing with them. Nonetheless, there are many bits of advice and experience that can help with the hard things. I do not attempt to present a formula in this book. Instead, I present my story and the difficulties that I have faced as an entrepreneur, a CEO and now as a venture capitalist. I still find these lessons useful, especially as I work with a new generation of founders. I share my experiences in the hopes of providing clues and inspiration for others who find themselves in the struggle to build something out of nothing."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

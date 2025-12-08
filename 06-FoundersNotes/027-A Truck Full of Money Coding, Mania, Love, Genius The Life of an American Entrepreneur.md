@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And what I do to make it easy because I also in addition to reading a lot of books, I listen to a lot of podcasts and I leave like time stamps. So I go back through after I'm done editing and anything that like pops out to me, I try to leave like a time stamp. So if you see like the full description in your podcast player, you'll see it’s just like 2 minutes, and this is what I'm discussing in 2 minutes or like 10 minutes, whatever it is. So below all that, I pin links to the book I covered on this podcast and every single other book that I've covered so far. And so I keep adding to that list as the more podcasts I make. So if you want to support the podcast, if you like what I'm doing here, I don't really have -- I don't interrupt it with any advertising. So at the end of every podcast, obviously, we'll tell you ways to support the podcast and if you want to help it out. And the best way, honestly, is -- just by the books, I'm doing this podcast because I think reading people read more like their lives are -- like it's just a way to improve your life. I feel like when you're focused on a story, especially when it could last maybe from 5 to 20 hours, just completely different then I feel like these little hits of dopamine we get with all these social apps and staring at our phone all time. So it's kind of like it's a way -- it's like my own -- not anecdote, antidote. You know I can't pronounce any words. So the one word -- if you get bit by a snake, what is that called? Antidote. All right. I think you know what I mean. It's my antidote, Hopefully, that's the right word to the -- like the hyperactivity we have with our phones. When I'm reading a book, like I feel like I'm in paying attention to them in a moment and just spending a lot longer on a subject, it feels helpful for my mind, especially like helpful if you need to take a long-term view of building a product or service or whatever it is that you're working on or want to work on in the future. So if you want to support the broadcast, click use -- buy the book using those links, so Amazon affiliate link, which means Amazon gives me a small percentage of the sale and no additional cost to you.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

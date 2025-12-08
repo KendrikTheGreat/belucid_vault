@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Welcome to Founders, my podcast about the lives of company builders. In case you're new here, for every podcast, I read a biography or autobiography of someone who has created a company, and then I try to share with you some of the things that I learned. That excerpt was from the book, Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance. So I want to get into the book. But before we do that, I'd like to tell you that this episode is brought to you by Blinkist. Blinkist puts big ideas from the world's best nonfiction books in powerful little summaries you can read or listen to in just 15 minutes. Over 5 million people are using Blinkist. Blinkist app has been nominated by Apple as one of the best in the App Store. Blinkist also received the World Summit Award granted by the United Nations as well as the Google Material Design Award. So in other words, a lot of people like Blinkist. So get key insights from 2,200-plus best-selling nonfiction books. They're also adding more summaries every month that are transformed into powerful packs you can read or listen to in just 15 minutes by using Blinkist. Blinkist is giving listeners of this podcast 20% off. So if you want to learn more, go to www.blinkist.com/founders. That's Blinkist, B-L-I-N-K-I-S-T, .com/founders, and you can get 20% off and start learning faster today.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

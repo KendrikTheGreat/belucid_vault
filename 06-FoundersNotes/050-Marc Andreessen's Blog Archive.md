@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 On the other hand, if you ask engineers, many will say product. This is a product business, startups invent products, customers buy and use the products. Apple and Google are the best companies in the industry today because they build the best products." You're clearly seeing, he's steel-manning their argument. This is not what he believes, this is what he hears from engineers. "Without the product, there is no company. Just try having a great team and no product, or a great market and no product. What's wrong with you? Now let me get back to work on the product." And so now we're going to hear his own opinion. "Personally, I'll take the third position. I'll assert that market is the most important factor in a startup success or failure." And here, he lays out his pretty convincing argument. "Why? In a great market, a market with lots of real potential customers, the market pulls product out of the startup. The market needs to be fulfilled, and the market will be fulfilled by the first viable product that comes along. The product doesn't need to be great. It just has to basically work. And the market doesn't care how good the team is, as long as the team can produce the viable product. In short, customers are knocking down your door to get the product. The main goal is to actually answer the phone and respond to all the e-mails from people who want to buy. And when you have a great market, the team is remarkably easy to upgrade on the fly." And so he gives some examples. "This is the story of search keyword advertising, and Internet auctions, and TCP/IP routers. Conversely, in a terrible market, you can have the best product in the world and an absolutely killer team, and it doesn't matter. You are going to fail. You'll break your pick for years trying to find customers who don't exist for your marvelous product, and your wonderful team will eventually get demoralized and quit and your startup will die. This is the story of video conferencing, and workflow software, and micropayments.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "The creation of The Home Depot began with two words in the spring of 1978, 'You're fired.' 20 years ago, we were two out-of-work executives. Our situation was not a lot different than millions of others who were shown the door. We had little in the way of capital and faced some daunting personal and legal challenges as we tried to get our careers back on track. In our early years, we lived on the edge with no balance sheet and a lack of financing. It took great romancing to establish the vendor base necessary to open and maintain the broad product selection for which we quickly became known. We were always pushing boundaries beyond where our industry's conventional wisdom suggested we could go. Building The Home Depot was a tough uphill battle from the day we started in a Los Angeles coffee shop shortly after we were fired. No one believed we could do it. While we want to tell the story of The Home Depot because it's a great entrepreneurial tale, our larger goal is to convey what we learned along the way about customers, associates, competitors, growing a business, building a brand and many other topics everyone in business needs to know. This book is the story of that virtually unparalleled growth and the values and culture that nourished it."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

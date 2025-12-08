@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 "Clark thought he knew how to become the agent of his own creative destruction, and he was prepared to do the deed. He wanted Silicon Graphics to operate in the same self-corrosive spirit." So he winds up leaving SGI, Silicon Graphics Incorporated. I'm going to actually skip over that part. And we'll jump right to probably, I would say, what he's most famous for, and that's creating Netscape. So let's go ahead and go to this part about the beginning of Netscape. Just to give you some background, he's left Silicon Graphics, he's looking for the next thing. He's meeting with a bunch of other engineers, and he is linking up with a young Marc Andreessen, who is a computer science student. I think he's 22 at the time when the book was written and now, obviously, he's went on to be a successful founder and venture capitalist, so on and so forth, really interesting Twitter follow as well. So let's go right to the beginning of Netscape. "Then one day, as Andreessen and Clark sat on at Clark's kitchen table, Clark announced that he had changed his mind. This wasn't unusual. Clark was always changing his mind. Now he said that his computer -- his telecomputer was ahead of its time. It was too expensive to build." "'We could always build a Mosaic killer,' said Andreessen. 'What do you mean,' said Clark. Andreessen said that the software he'd written had been appropriated by the University of Illinois, but that he felt sure the university would bungle any subsequent attempts to commercialize it. He mentioned again that 25 million people were now using the internet and that their numbers had been doubling every year for a long time." "Clark recalls, 'I thought, Jesus, those are big numbers. I've never been in a business with those kinds of big numbers.' Eventually, you were talking about all the people on Earth. The whole time he'd been stewing with Andreessen about what to do, the solution was right in front of them, the internet."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

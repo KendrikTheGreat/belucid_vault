@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 So if you go to your podcast feed, most of you, I think like 90% of you listen to this podcast on either the Apple Podcasts app or on Overcast, both of which have like a beautiful ways to display like descriptions of podcasts similar to the way like YouTube videos do. So if you click on more on like the Apple Podcast or you just scroll over on Overcast, you'll see that on every podcast I'm going to do moving forward, it will have like a time stamp and then a -- like a general idea of what I'm talking about then. But what I also did is when you expand that out on both apps, it makes every link I put in the show description clickable. So if you want to buy this book and support the podcast, you just -- you don't even have to go to Founders Podcast anymore, I made it easier, so you can just do it right from your podcast app. And hopefully you'll like that. It's just easier for me because a lot of times -- so I leave my books highlighted, with some Post-it notes and -- everywhere because I go back to like specific ideas I want to revisit. But I also think -- the reason I do this for myself is these podcasts are kind of like my audio notes on the books I read. So sometimes I just want to know -- like I'm looking at the one I did on Let My People Go Surfing, the one on Yvon Chouinard and Patagonia and his idea of being an 80-percenter. Now I know, okay, if I want to rehash that idea, I go to about four minutes in the podcast, and I can get right to that idea without having to listen the whole thing over and over again. So I just wanted to update you on that. That's all I got. No ads this week. If you want to support the podcast, buy the book and/or leave a review, wherever you're listening to this podcast on. Even if you don't listen to it on Apple Podcast -- if you can review on Apple Podcast, that's really helpful just because that's where the largest podcast audience is, and it just exposes these ideas to more people. Thanks. I'll talk to you next week.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

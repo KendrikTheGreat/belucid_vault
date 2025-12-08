@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 "For a new generation, Carmack and Romero personified an American dream. They were self-made individuals who had transformed their personal passions into a big business, a new art form and a cultural phenomenon. Their story made them the unlikeliest of anti-heroes, esteemed by both Fortune 500 executives and computer hackers alike and heralded as the Lennon and McCartney of video games, though they probably would both be -- preferred being compared to Metallica. The two Johns had escaped the broken homes of their youth to make some of the most influential games in history until the very games they made tore them apart. The 29-year-old Carmack was a monkish programmer who built high-powered rockets in his spare time and made Bill Gates' short list of geniuses. His game and life aspired to the elegant discipline of computer code. The 32-year-old Romero was a brash designer whose bad-boy image made him the industry's rock star. He would risk everything, including his reputation, to realize his wildest dreams. As Carmack put it shortly after their breakup, 'Romero wants an empire. I just want to create good programs.'"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

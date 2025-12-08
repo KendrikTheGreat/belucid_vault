@@ -1,3 +1,12 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
+
 The Roadster was based on an existing design and was a springboard for the company more than a long-term product. The Model S would be Tesla's first flagship product, and it was their chance to reinvent the concept of a car from scratch." Okay, so I'm going to interject again here. So when I read that -- so last week -- remember, I'm doing these posts semi-out-of-order. The cook and the chef, which we talked about last week, that comes at the very end of the post. I thought it's -- and to me, the most important part of all these posts, and that's what I wanted to share with you first. And when Tim started talking about that they were able to design the Model S from scratch, I think if you take two things -- first of all, if you haven't listened to last week's podcast, go back and listen to it. And if you only take two things away from the entire podcast, I think the 2 most important things is when Elon is talking about that he feels all his competition with SpaceX and Tesla are trapped -- his direct quote is "trapped in their own history," meaning that they're just building upon things they already did, and they're not looking at a problem -- and the second thing, I would say, they're not looking at a problem from first principles. So when you listen to last week's podcast, you realize that a huge advantage that Elon has over most people is that he tries to approach problems from first principles, breaking it down to its most fundamental truth and then building up from there instead of what he calls reasoning by analogy. Most of these car companies are competing with reason by analogy. So when I read this part where it's like, "Oh, Franz is excited because this is their chance to reinvent the concept of a car starting from scratch," to me, that's a blank sheet of paper working from first principles and not being trapped in your own history. Tesla didn't have a history. There's nothing to be trapped in. The Roadster was built on the chassis and the frame of a Lotus. They didn't even design that. So they just made it electric. So I think, again, that's -- if you take anything out of these podcasts, I think that's -- those two are the most important things, at least to me. It's really what stuck with me. So now we're going back. "Franz said, 'When we started the Model S, it was a clean sheet of paper.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)
