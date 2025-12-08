@@ -15,7 +15,22 @@ Entry: "# 1"
 - Choice quality reveals entropy momentum 
 - Entropy can have both negative and positive momentum.
     
-- Synergy accelerates evolution; noise and a volatile increase entropy.
+- Synergy accelerates evolution; noise and a volatile inner world increase entropy.
+
+
+### **2. The Transition Engine (Your understanding)**
+
+Define:
+
+- what transitions are
+    
+- how one vector state leads to another
+    
+- what “movement” in consciousness means
+    
+- how intent → perception → decision creates change
+    
+- how feedback loops refine the trajectory
 # Theory Layer
 # Rule Set of Consciousness
 
