@@ -10,9 +10,10 @@ Entry: "# 1"
 
 - Belucid treats consciousness as an energy-information system. (EIS)
     
-- Awareness expands the decision-space (DCS). A broader DCS raises more awareness 
+- Awareness expands the decision-space (DCS). A broader DCS raises more awareness etc.
     
-- Choice quality reveals entropy .
+- Choice quality reveals entropy momentum 
+- Entropy can have both negative and positive momentum.
     
 - Synergy accelerates evolution; noise and fear increase entropy.
 # Theory Layer
