@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "The Primordial Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "The Primordial Theory"
             }
           }
         ],
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "The Primordial Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of The Primordial Theory"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -330,7 +330,7 @@
   },
   "active": "3b54643e7018142d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "The Primordial Theory.md",
     "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md",
     "Micro-Reversal → Momentum Spark.md",
     "The Turnaround Point (Micro-Reversal Protocol).md",
