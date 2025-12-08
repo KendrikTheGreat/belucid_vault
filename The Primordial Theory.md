@@ -36,6 +36,16 @@ Define:
 - how intent → perception → decision creates change
     
 - how feedback loops refine the trajectory
+
+### **4. Synergy vs Entropy Flow
+
+- Synergy: A profitable, upward energy organization
+    
+- Entropy: distortion, fragmentation, inefficiency
+    
+- how every decision increases or decreases entropy
+    
+- why consciousness evolves through minimizing entropy
 # Theory Layer
 # Rule Set of Consciousness
 
