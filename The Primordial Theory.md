@@ -13,14 +13,16 @@ Entry: "# 1"
 ### **1. Core Principle
 
 
-- Belucid treats consciousness as an energy-information system. (EIS)
+- Belucid treats consciousness as an Energy Information system. (EIS)
     
-- Awareness expands the decision-space (DCS). A broader DCS raises more awareness etc
+- Awareness expands the decision-space (DCS). A broader DCS raises more awareness and so on.
+  
   - #### Awareness Horizon (Your version)
     - Awareness as a boundary of available choice
     - How low-entropy states expand the horizon
     - How noise, fear, ego constrict it
     - How improved perception increases possible futures
+    - Having the ability 
       
 - Choice quality reveals entropy momentum 
 - Entropy can have both negative and positive momentum.
