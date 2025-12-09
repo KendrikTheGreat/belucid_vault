@@ -22,7 +22,8 @@ Entry: "# 1"
     - How low-entropy states expand the horizon
     - How noise, fear, ego constrict it
     - How improved perception increases possible futures
-    - Having the ability 
+    - Having the ability to detect whether someone is noisy, calm and sorted, knowledable, able to perform work, able to perform sorted and rational thoughts
+    - 
       
 - Choice quality reveals entropy momentum 
 - Entropy can have both negative and positive momentum.
