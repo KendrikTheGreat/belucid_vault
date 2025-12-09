@@ -8,7 +8,7 @@ Entry: "# 1"
 
 # The Tangible Axiom
 
-*A consciousness evolves by interacting with reality-generated feedback tailored to its internal intent, awareness level, and developmental needs. Any partially-formed system embedded into an agent will be refined through this adaptive feedback loop*
+*A consciousness evolves by interacting with reality-generated feedback tailored to its internal intent, awareness level, and developmental needs. Any partially formed system embedded into an agent will be refined through this adaptive feedback loop*
 # Genesis Map
 ### **1. Core Principle
 
