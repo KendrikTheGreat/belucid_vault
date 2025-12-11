@@ -57,3 +57,12 @@ Define:
 # Theory Layer
 # Rule Set of Consciousness
 
+
+Objective measurable results from subjective experience
+
+An operator in both realities can come to conclusion, operate, and derive objective measurable results in PMR through subjective experience made in NPMR.
+
+Altered Conscious States
+- Binaural Beats
+- Alpha and Theta waves
+
