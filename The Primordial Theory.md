@@ -66,3 +66,14 @@ Altered Conscious States
 - Binaural Beats
 - Alpha and Theta waves
 
+
+Can you design a system digitally, a path, something you need to learn, experience, and derive objective measurable results?
+
+Can someone else derive these results for you completely independently of you, beforehand installing software in his consciousness knowingly/ unknowingly?
+- Could it be made measurable digtially in a system that maps the current state of your consciousness?
+
+Can you design an optimal growing path for yourself and life fills in the experience and the necessary sequences to learn from for you.
+- You can make growth faster
+- **You can resolve entropy in your system!**
+- 
+
