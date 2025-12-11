@@ -75,5 +75,8 @@ Can someone else derive these results for you completely independently of you, b
 Can you design an optimal growing path for yourself and life fills in the experience and the necessary sequences to learn from for you.
 - You can make growth faster
 - **You can resolve entropy in your system!**
+
+How can it be measured digitally in an app?
+- An App that maps your entire consciousness functionalities
 - 
 
