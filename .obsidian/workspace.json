@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "6dd9982a7298d54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MBT P.44-61.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MBT P.44-61"
+            }
+          },
+          {
             "id": "f2da9dede128c1c0",
             "type": "leaf",
             "state": {
@@ -41,7 +65,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Primordial Theory.md",
+                "file": "MBT P.44-61.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Primordial Theory"
+              "title": "Graph of MBT P.44-61"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -327,9 +352,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b54643e7018142d",
+  "active": "6dd9982a7298d54a",
   "lastOpenFiles": [
+    "The Primordial Theory.md",
+    "MBT P.44-61.md",
     "Managing consciousness.md",
+    "The Hollow Phase (Transition Between Identities).md",
     "06-FoundersNotes/050-Marc Andreessen's Blog Archive.md",
     "06-FoundersNotes/049-Screw It, Let's Do It Lessons in Life by Richard Branson.md",
     "06-FoundersNotes/048-Finding My Virginity The New Autobiography by Richard Branson.md",
@@ -352,9 +380,6 @@
     "06-FoundersNotes/031-Conspiracy Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue and Zero to One Notes on Startups, or How to Build the Future.md",
     "06-FoundersNotes/030-Elon Musk Tesla, SpaceX, and the Quest for a Fantastic Future.md",
     "06-FoundersNotes/029-The HP Way How Bill Hewlett and I Built Our Company.md",
-    "06-FoundersNotes/028-The Wright Brothers 1 of 2.md",
-    "06-FoundersNotes/027-A Truck Full of Money Coding, Mania, Love, Genius The Life of an American Entrepreneur.md",
-    "06-FoundersNotes/026-My Life and Work The Autobiography of Henry Ford.md",
     "Untitled 1.base",
     "Untitled.base",
     "01-Home",

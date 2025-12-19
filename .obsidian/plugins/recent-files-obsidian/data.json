@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "MBT P.44-61",
+      "path": "MBT P.44-61.md"
+    },
+    {
       "basename": "The Primordial Theory",
       "path": "The Primordial Theory.md"
+    },
+    {
+      "basename": "Managing consciousness",
+      "path": "Managing consciousness.md"
+    },
+    {
+      "basename": "The Hollow Phase (Transition Between Identities)",
+      "path": "The Hollow Phase (Transition Between Identities).md"
     },
     {
       "basename": "050-Marc Andreessen's Blog Archive",
@@ -187,10 +199,6 @@
     {
       "basename": "Chrono-Architecture — Building a Life That Matches Your Biological Engine",
       "path": "Chrono-Architecture — Building a Life That Matches Your Biological Engine.md"
-    },
-    {
-      "basename": "Descent → Dissociation → The Emotional Reset",
-      "path": "Descent → Dissociation → The Emotional Reset.md"
     }
   ],
   "omittedPaths": [],
