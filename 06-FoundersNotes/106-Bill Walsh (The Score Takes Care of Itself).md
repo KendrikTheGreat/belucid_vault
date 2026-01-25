@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And then another thing I think you need to understand about Bill before we jump into his ideas is he considered himself a teacher. He loved teaching -- he -- yes, he's a football coach, he's a leader of people. He says, "I'm a teacher." That's how he describes his occupation. So he says -- this is somebody else talking about him. So he says, "Bill Walsh was an educator, a teacher. He accumulated great knowledge because he was a Grade A student of leadership, paying close attention along the way to some of football's most outstanding and forward-thinking coaches." So how did he do that? He learned from like before his head coach, he learned from his bosses, people that are in the position that he wanted to get to. He continued to learn from his peers once he was a head coach, but he also, I'm going to tell you about this, he would study the history of his profession, and he pull out ideas that wind up leading to his innovation, which is what we're going to talk about later. It's a thing called the West Coast offense. So he studied people above them, people equal to them, and then people doing the same things he hoped to achieve in the past. So this says Bill, then they're going to talk a little bit about the series. "Bill absorbed their good ideas. He learned from their bad ones, and then applied -- then he applied his own even more advanced concepts. He reveled in the process of teaching what he knew to his teams," and now he's teaching what he learned from his career to us. "I came to believe that the part of football, he enjoyed best was teaching or more accurately identifying outstanding talent and teaching that player, that assistant coach or that staff member how to be great. He loved it." And here's a quote I pulled out from Bill on this. "The ability to help the people around me self-actualize their goals underlines the single aspect of my abilities and the label that I value most, teacher. In a very real way, everything I did was teaching in some manner or another."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

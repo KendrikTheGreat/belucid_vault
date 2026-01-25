@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So inevitably, the people you admire were heavily influenced by other people. And this podcast is kind of an example of that because I started out being interested in people that entrepreneurs -- like, the basic people that a lot of people look up to now. Let's say, like the Steve Jobs and the Jeff Bezos, and the Elon Musks. But then the more you study them, and you read their biographies, you watch videos of them talking, you realize like they always reference who influence them. So think about this, like Steve Jobs, he was influenced by Robert Noyce, one of the founders of Intel. Robert Noyce was, in turn, influenced by people like Bill Hewlett and David Packard, founders of HP, who also influenced Steve Jobs. And I always talk about if you really want to understand Steve Jobs, you should really study the life of Edwin Land, who is, I think, one of the most -- how would I say, not underrated. Like, he had a huge impact in the world and yet not that many people know about him. So whatever term you want to -- whatever term describes that, where -- when I discussed Edwin Land, I said, hey, you really should read his book or read the book, the biography out on him called Insisting on the Impossible. And you realize a lot of the ideas that we quote Steve Jobs, he's just quoting Edward Land and this happens all the time. So Jeff Bezos, who is he influence by? Well, just read The Everything Store. He talks about Sam Walton, talks about a life-changing meeting with the founder of Costco, James Sinegal, I think, is how you pronounce his name. Same thing with Elon Musk. He talks openly about being influenced by people like Benjamin Franklin and Henry Ford. So this is a long-winded way to say, there’s something -- there are a lot of value to studying Charlie Munger, at least I found a lot of value in that because by and large, almost every single person I look up to or that I enjoy the way they look at the world, references the influence he's had. So we're going to see a lot of that today in this book.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

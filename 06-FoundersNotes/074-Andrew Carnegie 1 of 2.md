@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And he says, A sunny disposition is worth more than a fortune. Young people should know that it can be cultivated; that the mind like the body can be moved from the shade into sunshine. Let us move it then. Laugh away trouble if possible. So I think this is important because you might have experienced this before where you might have a problem. Well, let me think back to the podcast we did on Henry Kaiser where I think it was him that said that ''Problems are just opportunities in work clothes.'' So I'm sure you've interacted with people that are more pessimistic and cynical and there's a problem in front of them, and they just think it's the biggest thing in the world. There's nothing I could do, my life is over, oh, well, it was me kind of thing. And then the other side of the spectrum, you have people like Henry Kaiser, he is just like, okay, this is a problem. Well, that's just an opportunity to dress up in work clothes. So let me look -- let me approach it that way. I think as I get older, I realize that there's very few things that are actually like black and white in life, and the perspective in which you approach things influences like your enjoyment of life heavily. And I think that's what Andrew is telling us here, he's like, listen "A sunny disposition is worth more than a fortune." And you should know that it can be cultivating, meaning this is a skill. It's a life skill that you develop through -- with over time and with experience. And at the mind, just like the body can be moved into the shade, from the shade into the sunshine. I think it's extremely important. And he goes right after he gives that great quote. He talks about this grand rule for life, which I think, again, is related to his choice to choose optimism in most things in life as opposed to pessimism. And he's going to hit on that several times throughout the autobiography. And so now he gets into something that's very, very interesting. It's so much that he calls it his grand rule of life, and he says, "So it says, "Let's move it then. "Let's laugh trouble away, if possible."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

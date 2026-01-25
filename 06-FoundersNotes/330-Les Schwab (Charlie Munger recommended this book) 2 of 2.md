@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I wrote this in November, December of 1985. I did write this 100% with my old 40-year-old typewriter. I didn't have a ghostwriter. I want it in my own words. I hope to pass on some of my theories of business to our people, and I hope these theories are used in our business for as long as the Les Schwab company continues. Should we fail to follow these policies towards customers and employees, I would prefer that my name be taken off of the business. There could be some interest in this book with people who are interested in business. If so, you're invited to read it. I hope in some way, this book might help you in the business world. If you are not interested in business, this book will bore you. And if I were you, I wouldn't waste my time reading it.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And I think that's another main lesson of the book. I think this is a quote I got from Jack Dorsey, the founder of Twitter. And he said, "Make every detail perfect and limit the number of details to perfect." And if I was writing that, I actually put in the reverse order. I would say, "Limit the number of details to perfect and then make every detail perfect." And that is exactly what Harry Snyder did. So now we're 25 years into the company. And let me read this to you and I have a question for you. "Inside the company, franchising was a dirty word. After 25 years, there were only a dozen In-N-Out Burgers. Harry owned each store and the land underneath them. And that was exactly how Harry liked it." And so I thought about that. I was like, "That's really interesting. What is a dirty word inside your company?" It's a way to define your company by what you're not. "Inside the company, franchising was a dirty word." And I also love his perspective. Let's check out. This is one line that really resonated with me. "From his perspective, In-N-Out was simply a different creature than its competitors." There's a fantastic line I heard in a song one time. He says, "We may be in the same genre, but we don't put out the same product." That's exactly what he's saying. He's like, "Yeah, technically I'm in fast food just like McDonald's in the fast food. Is our product the same? No. So therefore I'm not really competing with you." In-N-Out was simply a different creature than its competitors.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

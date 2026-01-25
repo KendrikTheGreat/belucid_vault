@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 In May 1991, his own company sued him for $12.7 million and asked him to return paintings and cars, $5,200 worth of telephone equipment that was in his Toronto chateau. The company also said it would no longer pay the salaries for his chauffeur and his household staff or his travel bills and club memberships. In March, his lawyers informed the bondholders and other litigants that Bob would not be coming to court or giving depositions on the advice of his physician. Rumors were rampant that he had, had another nervous breakdown. And that is where I'll leave it for the full story by the book. The author did a great job of eliciting an emotional response from the reader, and I think that is going to prevent me from forgetting the cautionary tale of Bob for a long time. So if you want the full story, I'll leave a link in the show notes, it's available on your podcast player or at founderspodcast.com. If you buy the book using a link, you'll be supporting the podcast at the same time, also to leave a link if you want to support the podcast and give the gift of Founders to a friend or a coworker. I'll leave a link to do that. That is 177 books down, 1,000 to go. Thank you very much for your time and attention, and I'll talk to you again soon.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

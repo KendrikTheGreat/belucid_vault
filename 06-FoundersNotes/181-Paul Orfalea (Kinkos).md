@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "That was an excerpt from the book that I'm going to talk to you about today, which is, Copy This!: How I Turned Dyslexia, ADHD, and 100 Square Feet into a Company Called Kinko's, and it was written by the founder, Paul Orfalea, and his co-author, Ann Marsh. And this is another book that I wasn't aware of. More than half of the books that I'm covering on the podcasts are coming from listeners. So please keep the book recommendations coming. I read this book, and then the second recommendation was another book written by Paul. That was -- it's like -- almost like a 100-page like cliff notes version of this book, I would describe it as. It's called Two Billion Dollars in Nickels. That's a fantastic title. And the reason it's called that is because Kinko's would sell copies for $0.05 each, and Paul winds up selling the business for about $2 billion. So I want to start with a description of Paul and the reason behind writing this book from the coauthor. As you could guess from the excerpt, we're not dealing with a normal person. He's a crazy misfit, and there's just going to be a lot of crazy stories in the book. And just -- he has an entire chapter -- let me give you an example. He has an entire chapter called Deal with Your Dark Side. And it's all about the mental problems he has, all the -- the stuff he admits to.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

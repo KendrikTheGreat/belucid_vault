@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 There in a dusty box, he uncovered what turned out to be a never-before-published autobiographical work of our mothers. The package postmarked 1966, simply said, Lucy. The manuscript was written in the first person and seemed to span mom's entire life up to 1964. I was stunned. When I read it, I cried. When my brother Desi read the manuscript, he was overcome with emotions. He said, "I loved it. I loved reading it." There's a wonderful energy that comes through, a fire in her belly. As a young kid, a sense of adventure, like I want to make some noise, her connections from the past to the present. I salute her for her ability to think in terms of what did I learn from the past. And there's some great straight-from-the-heart advice. I love the way she wrote about her feelings for dad. It was very powerful for me to hear about when she first met him. Some people prolong their unhappiness by dramatizing it, like expecting applause for having a headache. Mom does not do this. Instead of over-dramatizing what happened in her life, she seems to be trying to understand what her life is all about. That's what I found most endearing about this autobiography, the way she looked at life, especially regarding her earlier memories and what happened during her most formative years that contributed to the kind of woman, actress, and mother she became. This book gave a much deeper understanding of the pain that she had to assimilate as a child and the depth of her struggle to achieve the kind of success she eventually did. Now, along with our father's autobiography, a fascinating fact-filled remnants of his life, my brother and I and our children, along with the whole Ball or Arnaz clan, have one of the most remarkable, comprehensive family histories ever documented.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

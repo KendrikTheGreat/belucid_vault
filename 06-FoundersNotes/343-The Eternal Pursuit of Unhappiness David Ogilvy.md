@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This book is about philosophy. It's about ethos, beliefs and all those things which gentlemen love to yap about. If it's any consolation, though, this book is also about sex as it's written primarily to address a rather awkward question, can a $2 billion gorilla like Ogilvy, ever be svelte, sultry and sexy again? The Ogilvy agency of the 1950s and 1960s was far harder than WK, CB, these are all these other competitors that they're listing at the time and the rest of them combined. The question is, can we still be gorgeous now that we're several hundred pounds heavier? The answer to our dilemma can be summed up in two pithy words, divine, discontent. Decades before advertising profits were preaching good enough, ain't good enough, Ogilvy was already practicing it. But what did David actually mean by divine, discontent. Here's an interpretation. Don't bow your head, don't know your place, defy the Gods, don't sit back, don't give in, don't give up, don't win silver medals, don't be so easily happy with yourself, don't be spineless, don't be gutless, don't be toadies, don't go gentle into that good night and don't ever, ever allow a single scrap of rubbish out of this agency. This handbook will tell us how to make David's divine, discontent a habit by the daily practice of the following creative habits.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

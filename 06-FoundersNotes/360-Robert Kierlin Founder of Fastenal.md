@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Since its founding in 1967, Fastenal has grown from a small fastener store in Winona, Minnesota, into a multibillion-dollar global organization. The company is known for its exceptional leadership, innovation, and success. Fastenal was the top-performing stock in America during the quarter century that began with the market crash of 1987. How did a smalltown nuts and bolts shop become one of the world's most dynamic growth companies? Whenever asked, company founder, Bob Kierlin, attributes Fastenal's success to the company's high-quality employees and their commitment to a common goal. This is something he's going to repeat. That is his main idea. The one he repeats most throughout the entire book, that your company should be organized and oriented around a commitment to a common goal, and this is their common goal, growth through customer service. So whenever asked, company founder, Bob Kierlin, attributes Fastenal's success to the company's high-quality employees and their commitment to a common goal, growth through customer service. The company is organized in order to serve those four words, growth through customer service. Underlying that simple answer is an unshakable belief in people that ordinary individuals can accomplish extraordinary things if given the opportunity. In 1997, Kierlin published this book in an effort to share the unconventional business practices that stem from this philosophy and fuel Fastenal's success. The ideas presented within these pages flew in the face of the prevailing business wisdom at the time, and they remain every bit as relevant and challenging today. The original idea was to provide a teaching tool for future generations of Fastenal leaders, but to anyone with the courage to unleash the vast human potential within your business, organization, team or group, welcome.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

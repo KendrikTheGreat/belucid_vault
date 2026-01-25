@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so on this podcast so far, I've mentioned, I don't know, two or three times that Enzo Ferrari is going to go down in history as the greatest car manufacturer of all time. That is also stated in the movie -- there's a scene from the movie Ford v Ferrari, and I'm going to read the transcript to you right now. And so we're going to have -- the first character is -- it's like Henry Ford II's like right-hand executive. I forgot his name. So for this, I'm going to call him Douche because that's what he is. And then he's talking to Lee Iacocca. And before Lee Iacocca became super famous and well-known -- because he winds up taking over the Chrysler Corporation and kind of like bringing it back from the dead. But before he did that, he worked at Ford. And so this is the scene between Douche and Lee Iacocca from the movie Ford v Ferrari. They're all in a meeting. Henry Ford II is sitting there, and the Douche says, "In the last three years, you and your" -- he's talking to Lee Iacocca. "In the last three years, you and your marketing team have presided over the worst sales slump in history. Why should Mr. Ford listen to you?" This is what Lee Iacocca says, "Because we've been thinking wrong. Ferrari, they have won four out of the five -- last five Le Mans. We need to think like Ferrari." Now we're in the 1960s. This is the time period it's happening. The Douche says, "Ferrari makes fewer cars in a year than we do in a day. We spend more on toilet paper than they do on their entire output. You want us to think like them?" And so Lee's response is perfect. "Enzo Ferrari will go down in history as the greatest car manufacturer of all time. Why? Is it because he built the most cars? No. It's because of what his cars mean: victory. When Ferrari wins a Le Mans, people want some of that victory. What if the Ford badge meant victory and meant it where it counts, with the first group of 17-year-olds in history with money in their pockets?" And so when he says that, Henry Ford II like sits up and starts paying attention.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

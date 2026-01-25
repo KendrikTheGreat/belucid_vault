@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Only something as stubborn and unreasoning as faith could have inspired men and women to settle and remain upon this harsh unyielding land. These Texas wildcatters were optimists without equal. They had to be. This was very fascinating. So keep in mind, Clint -- not Clint -- Monty gets in the business right after World War I, so we're talking late 19-teens, right? In the years before and after the First World War, the U.S. Bureau of Mines had begun issuing a series of pessimistic surveys. They estimated -- these are the "experts" saying you're wasting your time here, why? Because we estimate that 40% of America's petroleum reserves had already been exhausted. That is insane. That's an insane statement. This is over 100 years ago, right? So 100 years later than this report by these experts was issued, over 100 years later, there's more petroleum produced. In America, there's hundreds of thousands of barrels a day in the 1920s. So at that time -- and let me be clear what I'm saying here, in the 1920s or 19-teens, when this report is issued, it's like, hey, we've already -- we're estimating that you guys have already tapped 40% of America's petroleum reserves. We're already producing hundreds of thousands of barrels a day, right? We're going to run out. A 100 years later, we're producing tens of millions of barrels a day. This is why I keep bringing up this like irrational optimism and the belief and luck that they have because like the industry reports like no, we're 40% of the way through, and the report concluded, right, that the domestic oil business was not far from dead. West Texas oilmen refused to take these reports at their word. And it was a good thing they did because when they start drilling, all of these findings are going to happen over the next 10, 20 years, right? It was the greatest frontier goldrush of all time. And they make a great point in the book that these discoveries in Texas in '20s, '30s, '40s were 10x the size of the gold strike that brought the 49ers to Northern California in the 1800s.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

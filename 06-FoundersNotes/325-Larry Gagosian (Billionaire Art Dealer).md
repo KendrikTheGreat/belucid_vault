@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Larry Gagosian is not a household name for most Americans, but among the famous and the wealthy and particularly among the very wealthy, he is a figure of colossal repute. He is dubious of art dealers who refer to themselves as Gallerists, which he regards as a pretentious euphemism that obscures the mercantile essence of the occupation. He has always favored a certain macho bluntness and calls himself a dealer without apology. With 19 galleries that bear his name from New York to London to Athens to Hong Kong, generating more than $1 billion in annual revenue, Gagosian may well be the biggest dealer in the history of the world. The business, which he owns without a partner or a shareholder or really anyone to answer to controls more than 200,000 square feet of prime real estate. Gagosian has more exhibition space than most museums, and he shuttles among his outpost on his $60 million private jet. He's been known to observe with the satisfaction of Alexander the Great, that the sun never sets on my gallery.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

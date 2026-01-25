@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "In the days when Columbus sailed the ocean and Da Vinci painted the Mona Lisa, a German banker named Jacob Fugger became the richest man in history. Maybe you've heard of him, but usually, his name gets blank stares. His influence rests on what he did for Austria's Habsburg family dynasty. When Fugger made his first loan to the Habsburgs, they didn't even have Vienna. By the time he finished, they had half the known world. While they got the titles, Fugger got the money. His biggest client died penniless, and he died with the biggest fortune the world has ever known. Most people become rich by spotting opportunities, pioneering new technologies, or besting opponents in negotiations. Fugger did all of that through a mix of gumption and intellect. But he had an extra quality that allowed him to rise even higher. Nerve. In an era when kings had unlimited power, Fugger had the nerve to stare down the heads of state and ask them to pay back their loans with interest. One of his sneaky financing schemes provoked an outrage, Martin Luther, to start the Reformation. In his biggest contribution to finance, he got the pope to legalize money lending. He financed Magellan's circumnavigation of the globe, and he helped defeat the mobs in the first clash between capitalism and communism. In The Richest Man Who Ever Lived, the author Greg Steinmetz, for the first time, gives Fugger his due. It is the ultimate untold story."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

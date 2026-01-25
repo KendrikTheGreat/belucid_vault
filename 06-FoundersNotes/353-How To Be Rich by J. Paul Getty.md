@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The book that I want to talk to you about today is How to be Rich and is written by J. Paul Getty. It did not start out as a book as a matter of fact. The book that I'm holding in my hand was first published over 60 years ago, but it started out because the founder of Playboy magazine, Hugh Hefner approached J. Paul Getty in the 1960s and he asked him to write a series of columns. So he winds up writing -- J. Paul Getty winds up writing over five years 19 different essays with the goal of transferring and educating, basically transferring his experience and a knowledge that J. Paul Getty had about building businesses to the next generation to what he considered – what he called the younger businessmen of his day.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

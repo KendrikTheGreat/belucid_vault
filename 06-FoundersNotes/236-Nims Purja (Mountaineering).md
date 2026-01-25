@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Build me a wall," their old man instructed. Will deemed it impossible. His brother thought it was impossible, too. How could either of them build a wall at their age. Still, the 2 wouldn't argue with their father and did what was asked of them. Each day after school, the boys went to their father's shop and laid bricks, one brick after the other, with a surprising level of perfectionism neither would have expected. After 18 months, the brothers laid their final brick. The wall, their wall, was done and what a sight she was. As the boys marveled at their work, their father walked out of the shop and joined them. The 3 of them stood in silence for a moment before the boys' father turned to both of his sons and said, "Now don't you ever tell me you can't do something again." And so this is Will -- a quote from Will later on in his life describing that, about the message behind what his father was trying to tell them. "You don't set out to build a wall. You don't start by saying, 'I'm going to build the biggest, baddest wall that's ever been built.' You don't start there. You say, 'I'm going to lay this brick as perfectly as a brick can be laid.’ If you do that every single day, soon, you'll have a wall." And so we go back to Nims. That's exactly the mindset he has. "Today, I will give 100%, and I will survive. I will worry about tomorrow when tomorrow comes." And that's important because one day, he's about to tell us, like you have to go and do the speed march over a bunch of hills that's almost 18 miles. That sucks, but the very next day, you have to do 37 miles while loaded with a backpack. So if you're worried -- like you have to focus. There's no point in me worrying about getting to 37 miles with 80 pounds on my back. But that's going to suck, right? But if I can't get over the speed hill march for 18 miles, what's the point? The following morning was set to be brutal. The hills phase was a speed march over 18 miles. This was then followed by the infamous final march, a test of endurance over more than 37 miles while shouldering a loaded backpack with a weight of 80 pounds.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

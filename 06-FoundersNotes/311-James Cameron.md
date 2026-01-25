@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Okay, so that was a super long excerpt not from the book that I'm going to talk to you about. This is from this unbelievable long-form piece on GQ. I will leave the link down below. It is called The Return of James Cameron, Box Office King, and it was written by Zach Baron. I read this article. It completely took over my life. This episode that you're about to hear, I have never, ever worked on an episode longer than this one. I've been in the mind and completely obsessed with James Cameron starting with this incredible piece in GQ, I don't even know for how many weeks. So I read this piece, I was like, oh, my God, I have to learn more about this guy. And so I immediately ordered a biography on him. That biography, which I'll talk to you about today, and I'm going to go over now, it's called The Futurist: The Life and Films of James Cameron. It was written by Rebecca Keegan. And it was produced right after -- the book is about 10 or 12 years old. It was produced right after the original Avatar came out. But what I would do is every night -- I'll leave the link down below, you've got to read the entire GQ article, it's incredible. But I would also listen to it. It's 36 minutes long. They use this technology called Autumn, and you can -- instead of reading, you can listen to the whole thing. I would fall asleep. As I'm reading this biography of James Cameron, every night, I would fall asleep listening to this article again, and I probably listened to it, I don't know, 10 or 15 times. He's just unbelievably impressive with not only how he approached his work, but his absolute insistence on building his own world within the world. So I wanted to read the excerpt from that article first, because that's the order that this information on James Cameron was presented to me. And I think there's going to be a few of these things that's going to be repeated throughout the book. But I think it gives you -- that overview is going to give you a better introduction into Cameron and why he is a one-of-one, an unbelievably unique individual who is unapologetically extreme.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

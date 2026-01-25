@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Like Alfred Nobel, Joseph Pulitzer is better known today for the prize that bears his name than for his contributions to history. That is a shame. In the 19th century, when America became an industrial nation and Carnegie provided the steel, Rockefeller the oil, Morgan the money, and Vanderbilt the railroads, Joseph Pulitzer was the midwife to the birth of the modern mass media. What he accomplished was as significant in his time as the creation of television would be in the 20th century, and it remains deeply relevant in today's information age. Pulitzer's’ lasting achievement was to transform American journalism into a medium of mass consumption and immense influence. He accomplished this by being the first media lord to recognize the vast social changes that the industrial revolution triggered and by harnessing all the converging elements of entertainment, technology, business, and demographics. This accomplishment alone would make him worthy of a biography. His fascinating life, however, makes him an irresistible subject. Ted Turner-like in his innovative abilities, Teddy Roosevelt-like in his power to transform history, and Howard Hughes-like in the reclusive second half of his life as a blind man tormented by sound, Pulitzer's tale provides all the elements of a life story that is important, timely and compelling."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

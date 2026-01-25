@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "By the end of the first trading afternoon, Whole Foods market was valued at $100 million. Even though my shares had been diluted over the years, my own net worth was now over $7 million. I was rich how did that happen? It seemed to me like a crazy amount. It was exciting, even shocking to suddenly be worth so much after so many years of having no money. That evening, after the markets closed, I slowly drove home still in something of an altered state. I opened my first beer in several weeks and sipped it slowly on the porch, breathing in a sense of gratitude and wonder for how far we had come. I thought back to that little Victorian House, where Safer Way, that was the original name of the business that eventually turns into Whole Foods. I thought back to that little Victorian House, where Safer Way had begun and the modest dreams of success that Renee and I had shared as we woke up each morning on the top floor, took our showers in the dishwasher and converted our bedroom to its daytime form as the store's office. I thought about Craig and Mark taking the leap of faith to merge with us and build an entirely new store, bigger than any natural foods store in the state. I thought about the 100-year flood and our near-death experience. I called my father just to hear the pride in his voice and to share our mutual excitement at the success of the company, he'd so wisely help me build. I thought about my mother and wondered if she might finally be proud of her son. I thought about the many people who are celebrating tonight, enjoying their well-deserved reward for their belief and those crazy hippies and their strange new notions about how to eat. All of those expectations, all of that collective hope for our future, I had carried for 14 years. Now I felt it lifting from my shoulders. I knew there would be new burdens to shoulder as we began our life as a public company. But just for a moment, I set down my beer, closed my eyes and let the joy and relief overwhelm me."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

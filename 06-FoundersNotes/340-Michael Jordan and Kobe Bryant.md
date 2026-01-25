@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 On the night that the Chicago Bulls were eliminated from the 1995 NBA playoffs by the Orlando Magic, I sat with Michael in the darkened arena until 3:00 a.m. He had just returned to basketball 2 months earlier, following his first retirement and brief baseball career. So much had happened in the last year. Dressed in a suit and tie, he looked around the brand-new arena that had replaced the legendary Chicago Stadium earlier that season and said, "I hate this f**_*** building." You built this f**_*** building, I said. During that series, some of the Orlando Magic players said that he didn't look like the old #23, which he didn't. He was wearing #45 and he wasn't ready, and I knew it better than anyone else. His endurance, his shot, there just hasn't been enough time to get him back to the level of excellence that people had grown accustomed to. Predictably, there was plenty of talk about how his baseball career had failed. His basketball comeback had failed. He had failed. Michael Jordan was done, they said. And as usual, they were wrong. Michael Jordan is done when he says he's done. Not when you say he's done. In fact, you saying it usually ensures the opposite. At the end of that game, he had a message for the Orlando Magic as all the players shook hands and left the court. Enjoy this win because it isn't going to happen again. The following season, he led the Bulls to an NBA record 72 wins, swept the Orlando Magic in the playoffs and won the first of 3 more championship rings to go with the 3 rings he already won before he had failed.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

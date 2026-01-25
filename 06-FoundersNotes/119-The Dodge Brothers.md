@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "To promote --" and then this is another really smart move that we've seen other people apply to different domains in different industries. "To promote sales of their bicycle, they promoted the use of bicycles generally. They offered bicycle riding instruction." Instruction was free for people that owned Evans & Dodge bicycle, owners or people that owned them already had a bike that they purchased from them but cost others $2 for five lessons. Okay. So moving on. "Sometime in 1900, the Dodges sold their interest in bicycle manufacturing and returned to Detroit to open a general machine shop under the name Dodge Brothers. Now what I found really interesting and kind of humorous when I was reading this book that blew my mind. One thing that influenced their decision to sell was that Evans and other people, they wind up -- there was a Canadian bicycle cartel. They rolled up a -- we've seen this throughout history. Go back to my podcast I did on Cornelius Vanderbilt, John D. Rockefeller. Every other industry at this time, they would consolidate. They'd roll up a bunch of independent companies into one giant cartel so they could control prices. Well, guess what? This was happening in Canada and there was this gigantic Canadian bicycle cartel. So it says, "The Dodge Brothers sold their interest for $70,500 and established their own machine shop. Their stint in Canada gave them much needed experience as machinists and as managers. They saw how you build a rather large company. And so selling machine -- like machine services or eventually cars, you're selling bicycles or manufacturing bicycles. And the Dodge brothers used the proceeds from the sale of their interest in CCM, that's the cartel to open their own machine shop, I just said that. "John was 36 and Horace was 32 years old." So they moved to Detroit, when they were 18, 22, something like that. So you have a good 10 or more years of gaining experience before they finally open their main business, right? And so think of the careers of John and Horace in steps. One, they have a small, relatively modestly successful bicycle manufacturing business, right?
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

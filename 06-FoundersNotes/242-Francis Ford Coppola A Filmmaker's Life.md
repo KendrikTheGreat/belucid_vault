@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He’s at least making a living in the movie industry. And so when Corman finds out that Coppola has just won an award for a script, look what he does here. Corman was thrilled by all the recognition bestowed upon his protege, and he took out ads in the trade papers announcing the Samuel Goldwin Award, which is the one that Coppola won. Coppola was touched and so this, in turn, causes Coppola to want to work harder for Corman. And he does something that he does his entire career. I'm going to tell you a quote I took on -- I took notes on that interview when he was 83, I'll get there in 1 second. But as an example of that, Corman asked Coppola if he knew anyone who could work on the film sound and undaunted by the fact that he knew virtually nothing about sound recording, Coppola volunteered for the job. That is a main theme in the life and Coppola's approach to work, say yes first and learn later. Say yes first, learn later. He does that over and over and over again, when he's 83 years old, he says, “My peculiar approach to cinema is I like to learn by not knowing how the hell to do it. I'm forced to discover how to do it.” That is a genius idea from 83-year-old Francis Ford Coppola, force yourself to learn. And so this is how he gets into his first -- directing his first feature film, and the note I left for myself on this page, this guy is all resourcefulness and hustle. He jumps at even the smallest opportunity. I would say that applies -- this is why I want to read so many more biographies of filmmakers because it applies to what I learned about George Lucas, Steven Spielberg, and now Francis Ford Coppola. They're all like this. All resources, all hustle. They had to build themselves into the people that they're going to become later. George Lucas getting a movie made now or Steven Spielberg getting a movie made now is easy. It's not when no one knows who you are and you have no resources. You have to be all hustle and all resourcefulness.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

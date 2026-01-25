@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 We have an obligation to live an incredible life for ourselves and the people that love us. And that is where I'll leave it. For the full story, buy the book. If you buy the book using the link that's in the show notes in your podcast player, you'll be supporting the podcast at the same time. The very best way to support the podcast is to give a subscription to a family member, a friend, or a colleague. That link as always is below in the show notes in your podcast player and available at founderspodcast.com. That is 253 books down, 1000 ago. And I'll talk to you again soon.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

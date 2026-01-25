@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 All banks have histories. Only the Rothschilds have a mythology. Ever since the second decade of the 19th century, there has been speculation about the origins and extent of the family's wealth, about the social implications of their meteoric upward mobility, about their political influence, not only in the five countries where there were Rothschild houses, but throughout the world. The five houses worked together so closely that it's impossible to discuss the history of one without discussing the history of all five. They were the component parts of a multinational bank. Unlike modern multinationals, however, this was always a family firm. Perhaps the most important point to grasp about the multinational partnership is that for most of the century, between 1815 and 1914, it was easily the biggest bank in the world. In terms of their combined capital, the Rothschilds were in a league of their own. The 20th century has no equivalent. Not even the biggest of today's international banking corporations enjoys the relative supremacy enjoyed by the Rothschilds in their heyday, just as no individual today owns a large share of the world's wealth as Nathan Rothschild did as an individual. The economic history of capitalism is, therefore, incomplete until some attempt has been made to explain how the Rothschilds became so phenomenally rich. What exactly was the business the Rothschilds did?
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

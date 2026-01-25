@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "In the midst of the chaos of his third season, Bryant was a very lost, lonely, frustrated 20-year old. "I just want to be the man," he told me, reaffirming his goal of making himself into the NBA's top player. "I don't know how I'm going to get there. I just have to find a way." And he would, despite how unlikely such a goal seemed at that time. As he closed in on the end of his career, Bryant could look back at the numbers he racked up in 20 seasons and declared that he had earned a seat at the table with the game's greatest players. Though that night, he said he didn't know how he would get to the top, he had settled in on an answer that he had known all along. He was going to grind his way there. Implacably, relentlessly grind away at the challenges of the game night after night, game after game until he found a dominance born of his ability to outwork everyone else. He is easily the most driven competitor in the history of the game, one who, over the seasons, quietly gained a reputation among the insiders of the sport as an absolute master of study and intense preparation, with a singular focus on detail that astonished those around him. In turn, his life also proved to be a machine that churned out immense conflict, just about all of it the byproduct of his push to dominate the sport. Night after night, day after day, for 2 decades, through injury and turmoil, through the rupture of one key relationship after another, there would be no price he would not pay to have his greatness. What follows in this book is my effort to capture his fascinating story. In many ways, a cautionary tale."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

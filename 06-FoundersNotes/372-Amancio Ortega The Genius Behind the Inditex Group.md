@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 One afternoon after school, I went with my mother to a store to buy food. I was the youngest of my siblings. Many times I accompanied her for a walk while she did her errands. The store we walked into was one of those old-time grocery stores with a high counter, so high that I couldn't see who my mother was talking to. But I heard something that, despite the time that has passed, I have never forgotten: "I'm sorry, ma'am, I'm very sorry, but I cannot lend you any more money." That left me shattered. I was only 12 at that moment. Still holding his mother's hand, Ortega stopped being a child. After reacting with shock to the words he had just heard, he made an irrevocable decision: "This will never happen to my mother again. I saw it very clearly. From that day onwards, I would start working to earn money and help at home. I quit school, left my books, and got a job as an assistant in a shirt store." That incident marked a before and after in his life. And this is what Ortega said about it: "The impact of that story cannot be overstated. That gentleman will never know that he was the cause of what came after."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

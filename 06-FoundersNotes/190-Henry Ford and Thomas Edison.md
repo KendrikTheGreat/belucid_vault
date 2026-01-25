@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Both were poor boys who had made good, neither had a college degree, and both were disdainful of those who believed classroom education was superior to hands-on work experience and common sense. Like Edison, Ford did not have many friends. Ford was a prickly man and also a complicated one." That's an understatement. "Burning to make the world better for humanity as a whole, while not enjoying personal contact with most individuals. Edison being a notable exception to that." Ford said, "I think Mr. Edison is the greatest man in the world." So the fourth member of the Vagabonds is John Burroughs, the author and naturalist. And it was a little surprising that he could develop such a close relationship with Henry Ford, given that he criticized cars, he didn't want people like polluting nature. And so this is really on how they were able to become friends. And then you also see the complicated nature of Ford. He did not believe in charity, but with his friends, he was unbelievably generous. So says Ford never doubted his own -- and this is more about its personality too. This is repeated over and over in every book that you'll read on Henry Ford. He never doubted his own beliefs and decisions. "He'd forbid disagreement from employees and would ignore any outsiders. Ford's hobby was work, he devoted almost every waking minute to it. But Ford loved birds all of his life and whenever possible, set aside time to observe them." So Burroughs is an expert on the study of birds in nature in general, Ford sent a message to America -- so he went up giving Burroughs a Model T. He did this on several occasions, and then would also publicize that. So it's another form of advertising if you think about that. And so I would say with almost everything he has ulterior motives. So it says Ford sent a message to America, if old-fashioned John Burroughs loved to ride in them, how much more might younger, more progressive individuals savor the kind of outdoor adventures made possible by car ownership?
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

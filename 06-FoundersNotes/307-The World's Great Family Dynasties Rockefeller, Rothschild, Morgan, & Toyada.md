@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I love what the auth points out because this is exactly how I felt when I was reading the history of the Morgans a few years ago. The history of the house of Morgan tends to glide too quickly over the career of Junius, and yet it was he who won the family place and fame in international banking. And their first big break comes from -- again, we talked about this earlier, your competitors are always going to leave gaps in the market. He is very much -- Junius is very much patterning his family of the Rothschilds, the Barings who even came before the Rothschilds. They're all operating in Britain at the time. This is the center of the financial universe, and there is this war between Prussia and France that France loses and needs a bunch of money for restoration. This is in 1870, but the leading British bankers, including the Barings and the Rothschilds had little faith in this opportunistic French political creation. So they're like, no, we're going to pass on this. Junius is like, "Oh, I'll take this. I’ll take you up on this". It was at this point that J. S. Morgan & Company stepped forward and agreed to underwrite the loan. And so there's much more detail about what happens. I'm just going to get to the punchline. Junius made a fortune from this unanticipated windfall, estimated he made about $450 million in today's money from this one single transaction. Like the Rothschilds after the Napoleonic wars, he now felt himself a legitimately important player in international finance. And like the Rothschilds then, he found the old timers beginning now with the Rothschild's unwilling to concede status to this brash newcomer just like in the story of Nathan Rothschild. The people that were in power of the powerful families, powerful business owners at the time in England did not want to see their position to this young upstart. Now, I think a generation, two generations later, we have Junius playing the role of Nathan Rothschild. On JP Morgan
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

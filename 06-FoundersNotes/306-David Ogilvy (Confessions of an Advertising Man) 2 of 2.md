@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "If you detect a slight stench of conceit in this book, I would have you know that my conceit is selective. I am a miserable duffer in everything except advertising. I cannot read a balance sheet, work a computer, ski, sail, play golf or paint. But when it comes to advertising, Advertising Age magazine says that I am the creative king of advertising." "When Fortune magazine published an article about me and titled it, is David Ogilvy a Genius. I asked my lawyer to sue the editor for the question mark." Funny enough, that's how I originally discovered Ogilvy. I was reading Warren Buffett's shareholder letters, and he kept referring to David Ogilvy as a genius. "Confessions of an Advertising Man says nothing about corporate culture, notably, the corporate culture of advertising agencies." "In 1962, I had never heard of corporate culture nor had anybody else. But thanks to two students of business, Terrence Deal and Allan Kennedy, we now know that people who built the companies for which America is famous all worked obsessively to create strong cultures within their organizations. Companies that have cultivated their individual identities by shaping values, making heroes, spelling out rights and rituals, and acknowledging the cultural network have an edge." "The head of one of the biggest agencies recently told me that Ogilvy & Mather is the only agency in the world with a real corporate culture. It may be this more than anything else which differentiates us from our competitors. Through maddening repetition, some of my maxims have been woven into our culture. Here are some of them." Ogilvy's Maxims "Number one, we sell or else. Number two, you cannot bore people into buying your product. You can only interest them in buying it. Number three, we refer the discipline of knowledge to the anarchy of ignorance. We pursue knowledge the way a pig pursues truffles. A blind pig can sometimes find truffles, but it helps to know that they grow in oak forests. Number four, we hire gentlemen with brains." That's one of my favorite ones. "Number five, the consumer is not a moron. She is your wife. Don't insult her intelligence."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He's going to list off the profits as they go, right? Next year -- so it starts at $3.5 million. Then they make $8.1 million, then they make $20 million. And then by 5 years later, they're making $90 million a year in profit. So when they make $90 million a year in profit at that time, the company was only 9 years old. Just a quote from Fred on problem-solving. “Smith believes that the key to successful innovation is constantly to subject problems to every angle of scrutiny that can be thought of with the idea that unless you are trying to divide the laws of nature, some risk-taking way will be found to solve the problem”. And he's saying this in a 1986 interview looking back. He's describing the very early days of FedEx. That's why I thought it was so important. Okay. And I'll close on this. This book ends. It reminds me very much of the Bill Gates book because it talks about his early life and then up until the IPO. It ends, let's say, late '80s, essentially in the history of FedEx. So still, obviously, post-IPO, relatively successful. Obviously grew from leaps and bounds from here. But this is Fred talking to us essentially about the importance of timing, the importance of reading, and how to synthesize information to get ideas and solve problems. And I thought this is a good place to end. “Smith estimated throughout the '80s to spend at least 4 hours a day reading. He found he relied quite heavily in his own vision backed by assimilating information from many different disciplines all at once. The common trait of people who have vision is that they spend a lot of time reading and gathering information and then synthesize it until they come up with an idea. That precisely happened to him. It became more and more obvious”. So he's talking about the innovation. According to this book, the first -- now you track a package, you know exactly where it is. FedEx was the first one to come up with that system and then other people copied it. So it says, ‘It became more and more obvious that Federal Express must have the ability to track at every moment every item their system was transporting”.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

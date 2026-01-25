@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But the reason I bring that up to you is because I loved Phil Knight's perspective. And we talked about this last week, and I feel I talked about a bunch of other books, but where Phil and Katharine Graham, Katharine was talking about, "Oh, my god, can you believe we had the bad luck of living at the same time the Hitler did." Just one of history's worst human beings, but they don't have Phil Graham change their perspective. He's like, yes, that's s**_s, but we don't have control. We didn't make Hitler. We have no control over what he's doing. But he's like, why don't we look at it from a different perspective? And he said essentially like, yes, okay, it s_s that we are alive during Hitler, but look at it from the positive perspective, like we get to fight and beat and eventually kill the biggest son of a b** in history. I think it's the quote he said. Well, Phil Knight is saying the same thing that Jeff Johnson here is like, oh, that's scary, but we got them right where we want them. So he says, "But Knight had had a little longer to assess the situation." He amazed Johnson when he said in all earnestness, Jeff, we have them right where we want them. Onitsuka, which I don't -- I don't think that's the right way to pronounce that. It's too slow to react to product development ideas we give them. They never ship what we order. And they'll probably yank the distribution at the end of the contract in 1972 anyway. What we need is a brand we can control because we have everything else, the shoes and the top runners. This is the best thing that could ever happen to us. And I love that. You got a problem. That's fine. Let's just look at it from a different perspective. Let's change – let's flip a problem into opportunity. It's fantastic by Phil Knight there. So one of -- not one of – So Bowerman's role in the company. He has own lab. It's in Eugene, Oregon. And -- but a lot of the manufacturing is taking place in -- across the country in, I think, New Jersey. And that Jeff Johnson guy has now moved from the West Coast over. Phil Knight sent him over to Jersey to run everything.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

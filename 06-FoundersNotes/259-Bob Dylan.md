@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "I had just signed a contract with Leeds Music giving it the right to publish my songs, not that there was any great deal to hammer out. I hadn't written much yet. Lou had advanced me a hundred dollars against future royalties to sign the paper and that was fine with me. John had taken me over to see Lou. John had only heard two of my original compositions, but he had a premonition that there would be more. John was John Hammond, the great talent scout, and discoverer of monumental artist, imposing figures in the history of recorded music. Artists who had created music that resonated through American life. He was legendary. He had followed his own heart's love, music, preferably the ringing rhythm of hot jazz and blues, which he endorsed and defended with his life. No one could block his way and he didn't have any time to waste. I could hardly believe myself awake when sitting in his office, him signing me to Columbia Records was so unbelievable. It would've sounded like a made-up thing. Folk music was considered junky, second rate, and only released on small labels. But John was an extraordinary man. He had vision and foresight, had seen and heard me, felt my thoughts, and had faith in the things to come."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

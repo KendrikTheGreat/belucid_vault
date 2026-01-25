@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so Charlie said, one of the best things that Ben Franklin ever did, and this is advice to you and I, right? One of the best things that Ben Franklin ever did was that he sought out other impressive people like Washington, but a ton of others, like A players only. He intentionally built relationships with these people. And while we're having this discussion, Charlie mentioned the fact that Andrew Carnegie did this as well. And I just went into great detail of how Andrew did that on Episode 284 because one of the people, one of these A players that he sought out was Henry Clay Frick. And so after Charlie explained this to us, I asked him a follow-up question. I was like, well, was this something that you did in your life? Immediately, his answer was immediate -- he goes absolutely and still do. So let's go back to where we are in the book right now. He starts this investment partnership, starts a new law firm, 3 years in. He's like, okay, I'm going to stop practicing law. I'm going to focus on investing full-time. Charlie is 41 years old, 41 years old when he makes that decision. And so when I got to this part of the book, and I'm going to follow up with another question I got to ask Charlie about this part of his life was this is the thought that came to my mind when I was reading this, right? We are in this stage of our lives right now. The book about your life, the book about my life is being written right now. It's so important to think about the younger version of Charlie Munger, the younger version of Warren Buffett because the decisions that, that Charlie and then that Warren made at this point in their lives, the -- literally, the pages I'm looking at, the decisions they're doing on these pages will affect everything that happens after the same applies to you and I. And I think reading biographies and thinking about the younger versions of not only Charlie and Warren, but everybody that you and I talk about in this podcast, like that is going to motivate you and I to make the most of what we're doing right now because we know the effect that it's going to have on the multiple decades in the future.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

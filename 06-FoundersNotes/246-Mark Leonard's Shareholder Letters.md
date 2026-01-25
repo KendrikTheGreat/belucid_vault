@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Mark Leonard reminds me of Warren Buffett. Anyone who likes reading Berkshire shareholder letters will enjoy Leonard's. The globe and mail describes part of what Leonard has accomplished at his company Constellation Software. With an initial $25 million investment in 1995, Mark Leonard has built Constellation into a world-leading consolidator of vertical market software companies. These are companies that create products to help run businesses in specific industries. Over the years, Constellation has acquired over 500 businesses. Typically, Constellation's acquisitions are small, in the two to $4 million range, but add them all up, slip in a dose of Constellation's financial and operational discipline, and you have a company with a market cap of $40 billion. In this age of zero privacy, Mark Leonard has managed to maintain a practically unthinkable level of anonymity for just about any individual, let alone an executive who runs one of Canada's most dynamic and fastest-growing software companies.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

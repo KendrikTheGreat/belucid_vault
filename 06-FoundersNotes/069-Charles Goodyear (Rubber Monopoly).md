@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And you see the problems when you kind of outsource your responsibility of making a living just to the whims of a large company or a boss or whatever the case is, like you're -- a lot of people think it's security, and I really don't think -- like I'd always tell you one of the -- back when I was in college 15 years ago, this was right before Facebook, I had a Myspace profile and on my Myspace profile, there's a quote that I think of all the time, and it's, "There's no such thing as security, only opportunity." And so these people, like I don't want to live the life they had, but they were -- they made things where a lot of people that just have a normal day job, like they're not making things. They're not creating stuff that's new. They're kind of moving existing things around. Maybe I don't want to like to overgeneralize there. I mean, you are like -- let's say, people that have a normal job, they may be a part of a larger thing being made. But I like this idea of just small groups of people, even one person making something that's, say, hey, I need to create this. And that, of course, could be like the seed, the beginning of a company that grows. But what I'm most excited about in the age we are in now is like you see that the optimal size of a company, meaning the amount of employees, that's what I mean by size, is actually decreasing, which that speaks to like the leverage the technology is enabling us to do. And I love seeing -- so people that have left reviews already know this because I covered this book that expounds on this idea. It's called Unscaled. And I forgot the author's name at the moment, but he wrote an entire book about, "Hey, I think the economies of scale that were a result of the industrial revolution, in the last, like I say, 150, 200 years of commerce in the Western world, I think that's being reversed" and that's this whole thesis of the book, and it's one that I kind of -- I basically agree with as well.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

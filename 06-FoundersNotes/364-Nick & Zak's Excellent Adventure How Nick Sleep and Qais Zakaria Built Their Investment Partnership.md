@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Nick Sleep wanted to stay in Edinburgh. So he looked around to see what Edinburgh was good at, and he learned that Edinburgh had a reputation for fund management. So he read an obscure book titled Investment Trust Explained to help him figure out what the investing business was all about. He came away intrigued. He said, I like the sense of it being an intellectual investigation. So Sleep landed a job as a trainee investment analyst at a small Scottish fund company. He was not abundantly qualified for the job. At college, he had studied geology and then switched to geography. His employment history offered no evidence that he was going to be good for a career in finance. He had worked in a department store, at an IT firm and had been a sponsored windsurfer. Still, he had stumbled into a field that perfectly suited his idiosyncratic mind.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

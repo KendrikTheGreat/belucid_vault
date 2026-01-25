@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The book that I want to talk to you about today is called Hess: the Last Oil Baron, and it is written by Tina Davis and Jessica Resnik-Ault. I actually want to start at the very end of the book. At the end of the book, the two authors actually talk about why they decided they spent so much time studying the life of Leon Hess and why they thought writing the book was really important. They said, "We think this extraordinary man lived an extraordinary life." The reason we call Hess the last oil baron is that we believe him to be the last of his kind—the last man who could create a multi-billion-dollar, multinational, vertically integrated energy behemoth that could do everything from finding oil in far-flung fields off the coast of Indonesia to selling you a tank of gas and a pack of gum at the local station on the corner. Sixteen years after his death, Leon's legacy is starting to be erased from popular memory. This book is an attempt to capture his life, the company he created, the man he was, and the ways in which his life and industry changed the nation. He should not disappear from public view.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

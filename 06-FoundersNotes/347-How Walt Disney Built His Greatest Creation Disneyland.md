@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But before the 800 million people visited this idea that came from Walt Disney's mind, it excited him first and that is so important. You see this level of commitment. He had hawked his life insurance, sold his summer home, and borrowed every dollar he could to build Disneyland. Not surprisingly, this had been a tough concept to sell. The park had struck most of the people as a foolish extravagance and an expensive one with initial projected cost of $1.5 million. So Walt Disney, I don't even know if he could do math, because every single time he is like, Oh, I think this movie will be $50,000 or this thing will be $1 million. No, no. He thought he could build Disneyland for a $1.5 million. The final cost was $17 million. That's about $160 million in today's dollars. So at the end of this, it says he was broke, but he had built Disneyland. The good news is, and he certainly doesn't know this on opening day, but he's not going to stay broke for very long. Not only did he create a phenomenal product, one that is constantly, he says he has a line where it says, improvement is my mantra. One that he's constantly like it's a living, breathing thing he's constantly improving. But I was sitting there thinking about this idea where he's like, Okay, I can't figure out how to make -- no one wants to give me the money to build Disneyland. He had this brilliant idea. He is like, okay, television networks want me to create Disneyland programming and the brilliant idea to tie-in, I will give you what you want if you give me what I want, which is obviously funding for my amusement park, but that's the financing of the park, which is brilliant. But this may be the greatest product launch of all time, because before opening day, he had run eight months of his television program. He produced a bunch of other programming for ABC as well. But one of them, let me just read this to you and then I'll explain why I think this may be the greatest product launch of all time. He had run eight-months of his television program. He had named his new show, Walt Disney Presents or The Wonderful World of Walt Disney, which he could have.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

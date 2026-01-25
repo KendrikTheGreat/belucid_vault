@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Will any agency hire this man? He's 38 and unemployed. He dropped out of college. He's been a cook, a salesman, a diplomat and a farmer. He knows nothing about marketing. He has never written any copy. He professes to be interested in advertising his career and is ready to go to work for $5,000 a year. I doubt if any American agency will hire him. However, a London agency did hire him. 3 years later, he became the most famous copywriter in the world and in due course, built the 10th biggest agency in the world. The moral, it sometimes pays an agency to be imaginative and unorthodox in hiring. This is a book unlike any other. It is a career’s worth of public and private communications, memos, letters, speeches, notes, and interviews from the father of advertising, David Ogilvy, first collected more than 25 years ago as a birthday present from his devoted family and colleagues, it provides an entertaining and incisive look at leadership, management, and creativity.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

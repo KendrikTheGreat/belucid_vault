@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Arnold mentioned that a particular incident of rejection had influenced his motivation to succeed on his own terms. “I felt cheated”, he said. “My parents sent me to a farm and took Minard (that’s his brother) on vacation. I was sent to my godmother's farm 50 miles away when they took my brother to Vienna and Salzburg, and all these other places. I was 10. I was left there for two months. I was in denial that they had gone away without me. I knew it had an impact on me. It gave me the will, desire, and drive that normal life doesn't create”.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

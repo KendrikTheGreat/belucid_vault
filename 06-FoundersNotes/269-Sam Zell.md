@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Over the years, he gets a bunch of different offers. They keep going higher and higher and higher. "Blackstone called us informally with an offer of $40 to $42 a share. We told Blackstone the bid was insufficient. Still, we were a little bit surprised to have such a robust offer. Suddenly I realized that my big ..." What he thought at the time, he says, "Suddenly I realized that my too big to sell company might sell after all." He thought he had built a business so big, there was no acquires. No one's going to spend 40 billion dollars on an acquisition. Then he's realizing, "Oh, wait. They actually might do that." What's crazy at the time is that the guy doing this deal for Blackstone, his name is Jon Gray. At the time, he was 36 years old. He's the 36-year-old head of Blackstone's real estate division. He sends out this float of an offer at 40 to 42 a share. They're like, "No, it still insufficient." It says, "Serious and detail oriented, Gray didn't overlook even a stray remark. When Richard," this is somebody working with Sam," told him that our board had decided against selling the company, Gray asked under what circumstances that decision might change. Calling what I often told him, Richard says, "Sam says it has to be a Godfather offer. It has to be an offer that's too good to refuse." They come back. Now they're saying, "Okay. We'll do 47, 50." Sam's like, "Well, now we have to listen. Blackstone's offer is well north of what we knew the value of our real estate was then." I always believed, this is a really important point because he repeats this over and over again, how to value your assets, or at least his opinion on how you should value your assets. "I had always believed that every day you choose to hold an asset, you're also choosing to buy it. Would I buy our building at the price Blackstone was quoting? Nope." Why does he say that? Because this is going to wind up being the biggest deal in real estate history.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

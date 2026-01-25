@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Ben Graham taught me 45 years ago that in investing, it is not necessary to do extraordinary things to get extraordinary results. In later life, I've been surprised to find that this statement holds true in business management as well. What a manager must do is handle the basics well and not get diverted." So this idea of mastering the fundamentals is something you see not just in business, it's all masters of their craft do this. The example I always use because it's a greatest illustration of this is one of the last interviews that Kobe Bryant day before he died. He's relaying a conversation that him and Michael Jordan had because his daughter who unfortunately perished with him was really into playing basketball and he was looking at -- eventually, he is texting Michael, he's like, listen, I'm having a hard time. So Kobe's suspicion was that like you should just focus on mastering the fundamentals, right? He's like, why are you teaching your 12-year-old like all this complicated fancy stuff in basketball, right? So Kobe took the opposite approach. He's like, "I just teach my kids the basics, and then we do it over and over again." That sounds exactly like Warren and Charlie's approach to business, right? "I just teach my kids the basics and do it over and over again." So he's bouncing this idea of Michael Jordan in this conversation. He's like, dude, he's like, they're just doing -- they're having these 12-year-old kids do way too much. Like I'm having a hard time remembering what I was doing at basketball when I was 12. What were you doing? And Michael is like, "Dude, I was playing baseball." And Kobe tells -- I'm pretty sure it's A. Rod interviewing him. He says, "Think about that, let that sink in. Greatest basketball player to ever lived hadn't even picked up the ball yet. What is the chance your 12-year-old needs all this fancy s_*_." And so we get to the point where he breaks down. Like if you can just have a business with one variable, you have to focus on that -- your chance of success is a lot higher.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

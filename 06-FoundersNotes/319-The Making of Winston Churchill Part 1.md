@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This also speaks to the fact that this really wasn't like prison-like conditions. Guards would bring you coffee in the morning. You actually could get regular haircuts and shaves. So the way he was discovered is because he had forgotten that he had made an appointment for a shave and the barber was going around, couldn't find him anywhere. And so he's going around asking everybody, he is like where the hell is Churchill, where is Churchill. The people that were inside the camp that knew he escaped were trying to talk him out of it. They were like oh, he is sick or he's in the bathroom, eventually the barber creates such a stink and refuses to leave, that is how the guards realized that Churchill had escaped. And so it's during this uncertain period of him trying to figure out how the hell do I get to Portuguese East Africa. He's alone at night and what is fascinating is you ever hear this term that there's no atheists in a fox hole. Well, Churchill was -- like he wrote a lot about it. He was not a religious man. And yet at maybe the deepest darkest point of his life, he finds himself in hiding and he spends the night praying and he said he prayed long and earnestly. And a day or two later, he gets the biggest break of his life. He is running low on food. He has not -- he has no shelter, he is all alone. He has no idea what the right move to make is, and he is only 25 years old at this time. And so he desperately needs a break more than any time in his life ever, up until this point. And so he says throughout his adult life, which had largely been made up of a series of wars, each one following hard on the heels of the last, Churchill had, had moments of worry, fear and even despair, but never before had he been tentative. This time, because I think he understands like this is life or death, right? This time for perhaps the first time in his life, he was paralyzed with indecision. And so as he had been following a train tracks he jumped onto some trains and then jumped off. He kept seeing these like little collections of civilization.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

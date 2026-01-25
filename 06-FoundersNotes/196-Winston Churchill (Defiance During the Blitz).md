@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Churchill was acknowledged to be a brilliant orator, albeit, deemed by many to lack good judgment." Halifax himself referred to Churchill as a rogue elephant. Okay. So I want to go to the point where Churchill is summoned to Buckingham Palace. This is when he's been notified officially that he's going to be prime minister. And it says -- he's talking to his bodyguard, this guy named Thompson. Churchill turned to Thompson. "You know I've been to Buckingham Palace," he said. "Thompson did and congratulated him but added that he wished the appointment had come sooner and in better times because of the immensity of the task that lay ahead," and I underlined that twice. "The immensity of the task that lay ahead." Now this is where there's going to be a lot of people in the book that think Churchill -- he's very misunderstood from the outside, including his enemies. There's a lot of Nazi that are like, what the hell is going on with this guy? Why hasn't he given up yet? And so this idea is like, you have the most -- one of the most immense tasks that has been put forth for any human that's ever existed. And you're going to be surprised by Churchill's reaction or response to being made prime minister. He was elated. So Churchill says, "God alone knows how great this task is. All I hope is that it's not too late. I'm very much afraid that it is, but we can only do our best and give the rest of what we have, whatever there may be left of us." So that's another Churchillian trait. I'm going all-in. There is no plan B. I will die. I will either succeed or I will die. These were sober words. Although, inwardly, Churcher was elated. He had lived -- this is so crazy. He had lived his entire life for this moment that had come at such a dark time did not matter. If anything, it made his appointment all the more exquisite. Late that night, Churchill lay in bed, alive with a thrilling sense of challenge and opportunity. And this is a quote from Churchill about this, "But power in a national crisis, when a man believes he knows what orders should be given is a blessing."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

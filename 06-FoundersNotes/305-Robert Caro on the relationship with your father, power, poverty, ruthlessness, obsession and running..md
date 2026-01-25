@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So this editor, “Oh, no one is going to read a book on Robert Moses”. Yes, I didn't want -- I'm going to stop myself from saying what I was going to say in case there's kids listening. Okay. So let me go to this. He needed an agent. He winds up -- this is -- Lynn Nesbit becomes his agent, and then Richard Gottlieb, I think -- or Bob Gottlieb, sorry, not Richard, Robert Gottlieb. Bob Gottlieb and Lynn Nesbit come into his life, and they're actually in the documentary. And this is -- I don't even know what, 40 years later, 1971, so 50 -- over 50 years later, there's still -- all these people are still working together. So he signs with Lynn Nesbit, and she's -- again, this is how the right partners -- how he finds the right partners, and that changes everything. He's talking to Lynn, and she goes, "Why do you look so worried”? And he says, "I didn't know I looked worried. But of course, I was. I told her I'm worried that I won't have enough money to finish the book”. Imagine -- put yourself in his shoes where he's at in his life right now. He believes in what he's doing. He has to support his wife. He has to support his son. They've already sold their house. Their savings is gone. They're living in a s***** apartment in the Bronx. You can see -- he's so worried that you could see it on his face when he's sitting there quietly. And the reason this is so important because from our vantage point, we know that he didn't quit. He goes on to write, The Power Broker. He goes on to write some of the best biographies of Lyndon Johnson -- the best biography of Lyndon Johnson ever written. There’s something he's still working on 50 years later. Imagine if he would’ve quit, if he couldn't take that pain. Excellence is the capacity to take pain. There's another -- yet another example of how true that maxim is. “I didn't know I look worried. But of course, I was. I told her I'm worried that I won't have enough money to finish the book. My editor had left me feeling that few people would read a book on Robert Moses, and therefore, no publisher would give me the money I needed to finish it”.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

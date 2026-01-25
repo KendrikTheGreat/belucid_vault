@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "There were other notable American inventors in his time, but they were more usually lonely, troubled souls and his personality outshone theirs. By 1929, two whole generations of Americans had grown accustomed to watching the progress of this self-educated man who worked in a laboratory that had its windows virtually open to all of the world. He had known how to dramatize his inventions. He had known how to gather interest, faith, and hope in the success of his projects. He typified the independent lone handed inventor of the 19th century's heroic age of invention. He had begun his work in the age of gas and kerosene lamps and was leaving it with the cities throughout the world lit up with his lights and music and voices sounding everywhere."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

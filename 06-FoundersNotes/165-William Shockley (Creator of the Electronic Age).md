@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "I believe that William Shockley was one of the most important scientists of the 20th century. He led the group at Bell Labs that created the seminal invention of the modern world: the transistor. Every home has thousands or even millions of transistors. World commerce totally depends on them as do health care, culture, defense, transportation and civilization in general. He was a key player in the development of the modern science of operations research. "During the Second World War, he used statistics to show the Air Corps how to maximize its bombing efficiency and the Navy how to destroy more U-boats. His efforts won the National Medal of Merit, the highest possible civilian decoration. He was a member of the National Academy of Sciences. He put the silicon in Silicon Valley and his failed company was the grandfather of all Silicon Valley companies. "He was a tenured professor at Stanford University, was happily married and had all the money he needed to live happily, quietly and well. He chose not to. He instead set himself up for public ridicule and squandered his public reputation. He lost all of his friends. His oldest friend became his most potent enemy. He became a notorious scientific pariah. I wanted to know how that could happen. Why would a man as unquestionably brilliant as he knowingly and deliberately destroys himself?"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "The 20th century saw a transformation of our visual experiences comparable to the blossoming of the renaissance in the 15th century. We saw many more things, and we saw them differently, both because they were different and because events and artists accustomed us to look with different eyes. Much of this altered vision was due to technological change, especially the beginning of cinema, television, videos, digital cameras, and the rapidity with which all were made accessible to humanity everywhere. But these visual revolutions were compounded by artists with the expression of what was going on in their own minds".
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

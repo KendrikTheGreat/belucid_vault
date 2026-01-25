@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And I think something that Ket was extremely smart on, he knew what he was good at and knew what he was bad at. So he says, "The greatest invention an inventor can make is to get a good businessman to run his business for him." So he had Deeds in earlier life, and then Sloan plays that role later on. So this is Ket on the fact that product development is chaos. "Out of his years of experience, Ket once said, 'Development work is always a slightly organized chaos.'" This is Ket on his idea for a double-profit system. "Concerning business, Ket said, 'I am for the double profit system, a reasonable profit for the manufacturer and a much greater profit for the customer.'" This is Ket, his idea on like how can you know how far along a project is? He says, "The way to tell whether a new development is over the hump," he once remarked, "is to try taking your hands off of it. And if it runs back at you, it has not been pushed far enough. But if it continues to go forward," meaning other people can continue your efforts, "then it is far enough along for the research man to leave it to others." I mentioned earlier that it was a rather small world that Ket knew the Wright brothers. He says, "Because Ket lived in Dayton and knew the Wright brothers, he became interested in flying. His first airplane flight was made at the flying school operated by Orville Wright. Ket admired Wilbur and Orville Wright and all they did in overcoming obstacles to successful flight. "Those obstacles were psychological as well as physical for it was commonly believed then that heavier-than-air flight was impossible. 'The Wright brothers,' Ket said, 'flew right through the smoke screen of impossibility.'" So he develops a love of flying. And he would fly in bad conditions on purpose just to study weather and air currents. But he figured out a way to -- like he had a limit, and he figured out a way to find where the -- like the line he didn't want to cross was.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "What is writing? Telepathy, of course. My name is Stephen King. I'm writing the first draft of this part on my desk on a snowy morning in December of 1997. There are things on my mind. Some are worries, some are good things, but right now all that stuff is up top. I'm in another place. This book is scheduled to be published in the late summer or early fall of 2000. If that's how things work out, then you are somewhere downstream on the time line from me, but you're quite likely in your own far-seeing place, the one where you go to receive telepathic messages. Not that you have to be there. Books are uniquely portable magic. I usually listen to one in the car and carry another wherever I go.” “You just never know when you'll want an escape hatch: a mile-long line at a tollbooth plaza, the 15 minutes you have to spend in the hall of some boring college building waiting for your adviser, airport boarding lounges, laundromats on a rainy afternoon and the absolute worst, which is a doctor's office when the guy is running late and you have to wait a half hour in order to have something sensitive mauled.” “At such times, I find a book vital. If I have to spend time in purgatory before going to one place or another, I guess I'll be all right as long as there's a lending library. So I read where I can, but I have a favorite place and you probably do, too. So let's assume that you're in your favorite receiving place, just as I am in the place where I do my best transmitting.” “We'll have to perform our mentalist routine, not just over distance, but over time as well, yet that presents no real problem. If we can still read Dickens, Shakespeare and Herodotus, I think we can manage the gap between 1997 and 2000. And here we go, actual telepathy in action. You'll notice I have nothing on my sleeves and then my lips never move, neither most likely do yours. We're not even in the same year together, let alone the same room, except we are together. We're close. We're having a meeting of the minds."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

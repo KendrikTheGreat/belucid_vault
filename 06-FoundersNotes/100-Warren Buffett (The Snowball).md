@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He says, when he found the Intelligent Investor, which is Graham's book, he read it and reread it. More instead of the book. It was almost like he found God. So Warren wants to go to Colombia. He discovers that Graham and Dodd are there too late. In fact, the deadline has passed. So he actually does something really smart here. He writes a personal letter to the partner of Graham, which is David Dodd because David Dodd also had an influence in the admissions office. And even though the rules like you turn this in too late, people are people. And if you're sincere and he wrote like a letter of like the impact that David and Ben's work it had on his life, and it wind up being helpful. So it says, while Dodd may have been touched in some way by the personal nature of the application, he and Graham are more interested in their students' attitude for business and investing than their emotional maturity. Graham and Dodd were trying to create leaders. They taught a specialized craft, whatever the reason after the deadline and without an interview, Warren was accepted to Colombia. And around this time in Warren's life, we see a lot of traits that he keeps forever -- nearly forever and the reason that the book is named Snowball. He says, but since Warren looked at every dollar as $10 someday, he wasn't going to hand over $1 more than he needed to spend. Every penny was another snowflake for a Snowball. He also did this because he believed in the power of compounding. But he understood that getting rich and staying rich are 2 different skills. So he winds up meeting another Grahamite, I guess, is what they're called, somebody that was also another student that was also interested in the teachings of Ben Graham. And he said, he was describing, and he said, he found a man after his own heart, a believer that wealth is hard to accumulate and easy to lose. So around this time, this is actually an example of an idea that he will repeatedly use in his career.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

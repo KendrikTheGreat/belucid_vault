@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "People say you have to have a lot of passion for what you're doing and it's totally true. And the reason is because this is so hard that if you don't, any rational person would give up. It is really hard and you have to do it over a sustained period of time. So if you don't love it, if you're not having fun doing it and you don't really love it, you're going to give up. And that's what happens to most people. If you really look at the ones that ended up being successful in the eyes of society and the ones that didn't, oftentimes it's the ones who were successful, loved what they did so they could persevere when it got really tough. And the ones that didn't love it, quit because they're sane. Who would want to put up with this stuff if you don't love it? It's a lot of hard work and it's a lot of worrying constantly and if you don't love it, you're going to fail."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

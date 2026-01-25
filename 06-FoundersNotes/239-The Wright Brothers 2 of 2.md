@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And then we get to the father, their father, Bishop Wright, who I mentioned earlier, and the note I left myself, is that Wright Brothers were blessed with a great, great father. It's almost like if you had like a Charlie Munger or like a Benjamin Franklin as your dad and he would just little -- pepper you with little maxims and guides for life. He does this throughout the book. And a lot of the things he says are pretty memorable, so much so that they quote him for years, or at least Orville quotes him for years after he dies because, unfortunately, Bishop Wright outlives Wilbur. Wilbur dies of typhoid fever, rather young, at 45 years old. So he says, "From wide reading and observations of life," he, meaning Bishop Wright, the dad, "had acquired what seemed an inexhaustible supply of advice on behavior, habits, good and bad habits, things to be aware of in life and goals to strive for. At home, he preached courage and good character, worthy -- finding a worthy purpose and perseverance." So these are all things that -- they listen to the lessons and they kind of ran with it. "Providing guidelines he understood to be part of a father's duty." And then he says, "Make business first, pleasure afterward and that guarded. All the money anyone needs is just enough to prevent one from being a burden on others." And he also set a fantastic example for the entire family because the entire family, everybody, read all the time, a lot of the motivations to become obsessed with solving the problem of Howard Flight comes from a lot of the books they were reading. So it says, "The brothers were well into their twenties before there was running water or plumbing in the house. So they had to go -- there was an outhouse out back, that's where they would go to the bathroom, and there was no electricity. The Wright family book collection, however," so it's talking about like they grew up in really like a modest -- in modest circumstances. The father did not have a lot of money, but the little money he did have, he would spend on books. And he says, "The Wright family book collection, however, was neither modest nor commonplace."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

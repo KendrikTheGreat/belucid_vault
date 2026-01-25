@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Christopher Nolan's second film, Memento had a long anxious year spent trying to secure distribution. Nolan had been turned down by every distributor in town with some variation of, "This is great," "We love it," "We really want to work with you," and "This is not for us." The film was personal to him. Memento was born into the world on the back of obsession. Failure to find expression would have been almost inconceivable to him. Nolan made it because he had to. What happens when you make a film is you burrow into it, you dig in. So you kind of can't see it anymore. You're immersed in it. The only thing you can do is trust your initial instincts. You just have to say, this is what I'm making. This is what I'm doing. It's going to work, just trust it. Two years to the day after that disaster screening for distributors, Memento earned two Oscar nominations. Nolan's ascent since has been near vertical. In the space of two decades, he has gone from eking out micro-budget three-minute short films to making billion-dollar blockbusters. His films have earned over $5 billion. To the studios, he is as close to a sure thing as a director gets. One of the few filmmakers who can walk into a studio with an original script idea, one that is not part of a pre-existing franchise, intellectual property or sequel and exit with the $200 million necessary to make it.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

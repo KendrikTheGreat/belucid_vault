@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So if I can have a completely integrated system for that, why wouldn't I do that? So he said, no one had invested significant money in coastal shipping in 30 years. McLean's interest was entirely a matter of cost. The ICC had regulatory authority over domestic shipping, and it allowed ship rates to be well below rail and -- wait, wait a minute, let me back up. The ICC had regulatory authority over domestic shipping, and it allowed ship rates to be well below rail and truck rates to compensate for slower service. Sending his trucks by water would let McLean underprice other truckers. Another kind of like clever workaround, right? I like his idea of total commitment. Although I liked it when I left this note. I didn't know how the story ends, so maybe I need to rethink this. What followed was an unprecedented piece of financial and legal engineering. First, to circumvent rules, required ICC approval for a truck line to own a ship line. McLean created an entirely new company, McLean Industries, in January 1955. Okay. So before I get into this, this is also going to show you how crazy this guy is. What he's about to do -- remember, he has a wildly successful trucking company. He's -- it already made him wealthy. He's doing fine. He's going to basically nuke his own company because he believes in this idea so much. Okay. So it says, first, to circumvent rules, requiring ICC approval for a truck line to own a ship line, McLean created an entirely new company. And some of these like these financial machinations that this guy does, I don't even -- I can't even read some to you because I was so confused by them. I had no idea what was taking on. They gave him credit for breaking the first leverage buyout ever. And it's just insane, some of the ideas that this guy had. McLean Industries in January 1955, okay, so he starts a new business, right? It's called McLean Industries, not McLean Trucking. Although McLean industries had publicly traded stock, it was clearly a family-controlled business.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

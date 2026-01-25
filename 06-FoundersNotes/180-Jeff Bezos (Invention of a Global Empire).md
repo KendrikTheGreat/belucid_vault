@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Number one, his genius was not in inventing. Rather, it was in inventing a system of invention. Dozens of researchers and engineers and thinkers labored beneath Edison in a carefully constructed hierarchical organization that he founded and oversaw. Number two, it has always seemed strange to me, the things that we admire in men, kindness and generosity, openness, honesty, understanding, and feeling, are the complements of failure in our system. And those traits that we detest, sharpness, greed, meanness, egotism, and self-interest, are the traits of success. And while men admire the quality of the first, they love the produce of the second.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

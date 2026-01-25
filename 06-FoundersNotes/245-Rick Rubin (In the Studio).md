@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 In that book, he just constantly talks about it. He's like, "Listen, man. Just experiment." He calls it the Edisonian, from Thomas Edison, the Edisonian principle of designing a product. I think Steve Jobs would agree with that too or not Steve Jobs. I think Rick Rubin would agree with that too because listen to what he's about to say. "This is one of the things we talk about at the beginning of a project. Let's try every idea and see where it takes us. Don't prejudge it. Sometimes it still comes up where someone in the band makes a suggestion and part of me says, 'That's a bad idea. Let's not waste time on that,' and then I stop myself and think, 'Let's try it. Let's experiment and see what it sounds like,' and very often it sounds good." So think about the lesson behind with that simple paragraph, right? It's like you got to try it. There's so many times in my own experience where somebody says something like, "Ugh, that's going to suck," and then we do it and it doesn't suck. So clearly, the lesson is you got to experiment. Just don't prejudge it. Create a demo, create a prototype, put it out to some customers, whatever your process is, and then see what happens. This next sentence is really important. I double-underlined it. Rubin's most valuable quality is his own confidence. The reason that's important is because you can transfer that feeling, that confidence that you have to other people. So every day, my form of practice is I go back and I reread past highlights from all the books and I have over 20,000 highlights, right? One I just happened to be reading yesterday, which I had forgot because Steve Jobs, when he was young, one of his best friends had joined this religious cult in San Francisco. Her name's Elizabeth. Part of the cult rules were that you have to cut off everybody from your old life. Steve Jobs just shows up at the cult house and he just completely rejected that. He's like, "Nope. She's coming with me and there's nothing you can do about it."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

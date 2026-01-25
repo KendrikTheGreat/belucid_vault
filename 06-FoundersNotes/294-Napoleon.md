@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 It surprised who knew him well that in old age, Rockefeller compared himself to Napoleon. The revelation came while vacationing in France, not far from a spot where the general won a great victory. A casual remark from a companion led to an extraordinary soliloquy, Rockefeller's longest on record. This is what he said. "It is hard to imagine Napoleon as a businessman, but I have thought that if he had applied himself to commerce, he would have been the greatest businessman the world has ever known. What a genius for organization."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

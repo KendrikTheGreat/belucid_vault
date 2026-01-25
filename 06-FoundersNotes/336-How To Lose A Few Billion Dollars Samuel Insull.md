@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Do you remember Sam Insull, the billionaire utility tycoon from Chicago. Do you remember how his Empire collapsed and how he lost $2 billion or $3 billion, how the newspapers at the time, called it the biggest business failure in the history of the world. You may remember the battle that the United States government had to extradite Insull from Greece. But chances are, you don't remember that Insull had been in the electric business as long as there had been an electric business. That he had started as Thomas Edison's Private Secretary in 1881. That he more than any other man was responsible for founding the business of centralized electric supply. That he organized the Edison General Electric Company, now known as GE and that he worked out a model of nationwide product distribution that virtually all other American industry copied. That he practiced and popularized mass production and selling at the lowest possible cost long before these ideas were attributed to Henry Ford. That he was the first to successfully apply on a large scale, the concepts of the load and diversity factors on which all utility rates are based today. That he brought into effect the natural monopoly principle of utility companies, that he helped create the open-end mortgage that's used in financing expansion of many businesses outside of the electric industry today. That he was the father of effective government regulation of public utilities and the creator of rural electrification. That he pioneered successful welfare programs years before most of business, labor or government took any significant steps in that direction. That he helped develop the idea and techniques of modern public relations, and he was a crucial link between P.T. Barnum and Madison Avenue and that he devised methods of marketing securities that made possible gigantic modern corporations. Next to Thomas Edison, Sam Insull is the name that you should remember as the most important and perhaps the most notorious person in the electricity business.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

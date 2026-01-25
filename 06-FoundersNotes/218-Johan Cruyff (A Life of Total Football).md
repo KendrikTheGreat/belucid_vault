@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I'm not a person with college degrees. Everything I've learned, I've learned through experience. After I lost my father at the age of 12, my life was defined by Ajax. First, by my second father, who was the club's groundsman, and later by my trainers. Thanks to Ajax, I didn't just learn to be a better footballer, I learned how to behave. Through my father-in-law, I gained financial experience. When I started out, no footballer in the world had ever heard of marketing, and dealing with business was something completely new. But someone came into my life who would help me with that and bring me up because every time I thought I could do it on my own, things immediately went wrong. It doesn't matter. It's part of life. In the end, it's more important whether you've learned from it or not. I want to stress how important my family is, not just my parents, my in-laws, wife, children and grandchildren, but also all the people who took me by the hand at Ajax in a phase of my life when I was very fragile. Family has defined who I am now, someone who has one shortcoming when it comes to football, I can only think about being at the top. As a player or a coach, I am not capable of doing something at a low level. I can only think in one direction, upwards, to be the best possible. That's why in the end, I had to stop. I was no longer in a physical condition to do what needed to be done at the top. And once that's the case, you have no business being on the pitch. But because I was in a good mental state, I became a coach. Above all, I want to say that my life has always been lived with a view of doing things better and getting better. I've translated that into everything I've done.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

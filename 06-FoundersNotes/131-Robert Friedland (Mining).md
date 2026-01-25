@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So that's why The Wall Street Journal described him as such. And you'll see a lot of shenanigans, as you could expect with human nature. In times like this, they're pumping. Maybe the stock starts at $4. They'll sell at $8 and $10 and then $12 and then $16. And then oops, it collapsed, and you're left holding the bag, unfortunately. So I want to fast-forward. "The prospectors come to meet with Friedland. Not only do they want a residual based on how much eventually is mined." That's where they get a lot of money. "But they also want to actually manage the initial drilling there." And so the prospectors want to maintain control. And we learn at this meeting where they're meeting him for the first time, we learn Friedland's reason for urgency. And again, I think he's got -- he was really astute at picking up on this and pushing for urgency. It wound up -- he wound up in one deal creating generational wealth, so he was right to do this. "Even though the prospectors believed they were qualified to manage the drilling at Voisey's Bay, the odds were stacked against them. These days, most prospectors are history once they discover a major ore body." So the author is giving us some background on what normally occurs. "Almost never do they continue managing an exploration camp. It takes a small army of trained experts to meet a myriad of government standards and operate a fleet of modern testing equipment." So they don't necessarily always have that skill set, but they want to learn. They wind up starting a company later on that does this for other prospectors, by the way. "The prospectors were in for a surprise when they were ushered into the boardroom. The stranger grinned at the prospectors and extended his hand. 'Hi, I'm Robert Friedland.' Instead of the stern, tough-talking opponent they expected, the promoter was charming and sympathetic." See, this is where he's very Machiavellian, more like chameleon. He can be extremely charming and then extremely tyrannical like in a blink of an eye.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

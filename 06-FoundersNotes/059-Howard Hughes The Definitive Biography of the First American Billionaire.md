@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So it says he meets this guy on -- this actor on the golf course in L.A. It says, each man moved to seize the opportunity before him. It took but a handshake to open a new chapter in show business history. When Graves, this is the actor, told Hughes, that he needed $40,000 for the film budget, the global Texan never flinched as he took out his checkbook and gave the actor the entire amount. As Graves began the picture, Hughes haunted the set. This is actually something that's smart. He very much learned by observing and talking to people and it says, he took copious notes and he asked the actors and cameramen, questioning everything -- he was questioning everything they were doing. So almost to the point of pestering, like why are you doing it, why do you do it that way and he'd write down their answers, basically as a way to provide his own education into the business. So it says by that point, actor -- by that point, Ralph Graves has spent the $40,000 and would ask for another $40,000 more before he had finished Hughes' first film. It was titled Swell Hogan. When Hughes screened the finished picture, he discovered that however wonderful an actor Graves may have been, he had little talent as a director. Swell Hogan was said to have been such an embarrassment that he ordered the projectionist to burn the only prints and to never mention its contents to anyone. Hughes was $80,000 poor, but a whole lot wiser. He would not make the same mistake on film number two. So after this success, he said, Hughes was no longer as interested in the money-hungry movie business. He had learned his lesson and might not have ever made another film if it had not been for a call from his drunken uncle Rupert. His uncle was lashing out at his nephew. It took only his uncle's arrogant advice to quit the business to persuade Hughes that he had to prove him wrong. So he jumps back into the business just out of kind of ego or just saying, hey, I can do -- I can actually be successful at this. Even it didn't sound like he was actually motivated internally to do so though.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

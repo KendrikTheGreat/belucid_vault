@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Cuba has known many rich men since Christopher Columbus first introduced sugarcane to the island. Tomás Terry, the most successful sugar planner of Cuba's colonial years, left $25 million on his death in 1886. Not bad considering that then the richest man in the world, William Astor, left just $50 million. Yet Cuba does not have to look back more than a century to find extreme riches. In Havana today, to have Croesus-like wealth is referred to be as rich as Julio Lobo. Julio Lobo was the richest man in Cuba before Castro's revolution did away with such men. Lobo's life frames the 60-odd years of the pre-revolutionary Cuban Republic. He was born in 1898, the year that Cuba won independence after 30 years of fighting against Spain, and he left the country in 1960, 2 years after Castro's guerillas came down from the hills. In his heyday, Lobo was known as the king of sugar, not just of Havana but of the world, with an estimated personal fortune of $200 million, about $5 billion in today's dollars. Yet, he was also a financier of such talent that Castro's government, which was Communist, asked Lobo, a full-blooded capitalist, to work for them after the revolution had begun. So Lobo captures the period's contradictions, too. Lobo's life has the explosiveness of a Hollywood movie. He swam the Mississippi as a young man. He fenced in duels. He survived assassin's bullets, and he was put against the wall to be shot but pardoned at the last moment. He courted movie stars, raised a family, and made and then lost 2 fortunes.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

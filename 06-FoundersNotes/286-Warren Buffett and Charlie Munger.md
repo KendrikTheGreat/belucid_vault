@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 For the last five years, I've been writing a memo to myself. I have found this to be an excellent way to learn. The memo is in the form of a discussion between four characters. It's a story about a fictitious seeker and his visit to the library of wisdom where he meets another fictitious character, the librarian, along with Warren Buffett and Charlie Munger. What has been reinforced in writing this memo is the efficiency, simplicity, clarity, and common sense of judgment that are the hallmarks of Buffet and Munger. Both have a remarkable ability to eliminate folly, simplify things, boil down issues to their essence, get right to the point and focus on simple and timeless truths. They are the Einsteins of business and wisdom. If there is one goal of this book, it is to better understand how they think.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 As an old diplomat in France, he wore a fur cap to portray the role of a backwoods sage. In between, he created an image for himself as a simple yet striving tradesman, assiduously honing the virtues of diligence, frugality, honesty of a good shopkeeper and a beneficial member of his community. But the image he created was rooted in reality. Born and bred, a member of the leather-apron class, Franklin was more comfortable with the artisans and thinkers than with the established elite, and he was allergic to the pomps and perks of a hereditary aristocracy. Throughout his life, he would refer to himself as B. Franklin, printer. The complex interplay among various facets of Franklin's character, his ingenuity and unreflective wisdom, his Protestant ethic divorced from dogma, the principles he held firm, and those he was willing to compromise means that each new look at him reflects and refracts the nation's changing values. He has been vilified in romantic periods and lionized in entrepreneurial ones. Each era appraises him anew, and in doing so, reveals some assessment of itself. Whatever view one takes, it is useful to engage anew with Franklin, for in doing so we are grappling with a fundamental issue: How does one live a life that is useful, virtuous, worthy, moral, and spiritually meaningful?"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

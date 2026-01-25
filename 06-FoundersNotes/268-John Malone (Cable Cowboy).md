@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 In the American cable industry, one man has, over the last several years, seized monopoly power. Using bully boy tactics and strong arming competitors, suppliers, and customers, that man has inflicted antitrust injury on my company and virtually every American consumer of cable services and technologies. That man is John C. Malone. Malone seeks to exert monopoly power over key stages of the delivery of cable programming to the American consumer. Control over the creation of programming and studios. Control over cable programming services. Control over the mechanics of transmitting programming by satellite. And control over the delivery of programming to the home. At every stage in this process, the consumer has paid and will continue to pay a monopoly tax to John Malone.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

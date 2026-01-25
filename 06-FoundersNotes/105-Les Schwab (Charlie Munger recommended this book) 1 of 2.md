@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Okay. So now he's going to get into like -- so Munger talked about like Les rode the wave of the Japanese tire importing, right? And why did Japanese have an opening to make so much money in the American market? You had a bunch of huge American rubber companies. And you're going to see like because they treated their dealers and the people buying from them terribly. So it says the pricing policies of the major rubber companies to their dealers was most unfair. They were all the same, all five of the American rubber companies. So he is saying this essentially like a cartel, there's collusion, there's price fixing here, right? This was called meeting a competitive situation. That's just the term that the company has told their dealers, right? So Les is going to translate this for us into English. I called it milking the dealer of his profit. And so he's going to continue talking about like they're milking the people who are supposed to be helping. The opposite theory that Les has on business. You should be helping the people that can make -- because helping the people make you more successful, you’re doing the opposite. So he calls this, earning your failure. That's a really interesting idea. It’s like they earn their failure. I had to contend with this until I made connections with Toyo Tire company from Japan. I say, thank God for the foreign tire supply. It helped the independent tire dealer. I had a theory that went like this, never take advantage of a customer, never take advantage of an employee, but take all the advantage you possibly could of a rubber company because they were not being fair and honest. So he's giving them back -- exactly he's not just like, okay, you're going to take advantage, you’re taking my profit and I got a business. No, I'm going to fight you back. You want to be unfair with me, I'm going to be unfair with you. Les is a very hard dude, as you could imagine. He says, today, in 1985, I don't feel the same way towards rubber companies as I did 25 or 30 years ago. They are much better people today. Today -- and so he is saying like this is the theory I had when I was in the beginning, I don't obviously hold that theory now.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

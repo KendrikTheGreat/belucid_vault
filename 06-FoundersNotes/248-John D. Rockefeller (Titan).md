@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Rockefeller represented the second more rational stage of capitalist development. When the colorful daredevils and pioneering speculators would give way to the men who had grown up in the hard school of life, calculating and daring at the same time. Above all, temperate and reliable, shrewd and completely devoted to their business. It's amazing that that sentence can compress the idea and the traits that Rockefeller used for his business. He was calculating and daring at the same time. He was reliable, shrewd, and completely devoted to his business. By the time Rockefeller arrived in the oil regions, it looked as if oil would be more than a transient phenomenon. Looked that way to him. He's going to have a massive advantage over other people who only wanted to book short-term profits. This point is made on the very next page, Rockefeller succeeded because he believed in the long-term prospects of the business and never treated it as a mirage that would soon fade. He had an unfailing knack of knowing who would help or hinder him in his career. So he is having beef with his partners at this point. Let me repeat that. He had an unfailing knack for knowing who would help or hinder him in his career. He recruited the very... His team was by far... His entire team, as we go through this, you realize like, Oh, all he's doing is recruiting other founders. So the management, that ones up managing and running Standard Oil for decades where all people had run their own businesses. He not only did that for partners but let's say if you could beat him at something, whether you're an attorney or like a supplier, he like, "Oh, this dude was better than me at that, okay, I'm going to go hire them." It was just really, really smart how he approached everything. So he's partnered with the Clarks at the point, he said, "The Clarks were the first of many business partners to underrate the audacity of the quietly calculating Rockefeller, who bide his time as he figured out how to get rid of them."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "For every business, there's an appropriate scale. That one we got wrong twice. But I'm not complaining. We actually got what we wanted. Today, we are happy and grateful. Our kids are in their early 20s, and although they've heard from a lot of other people that their parents started Banana Republic, they haven't heard much about it from us. Kids love to look forward, so we did very little looking back. We tell this story now for them, hoping they will one day find the time to read it. We also hope our story will suggest to restless, creative people everywhere that creation begins with creating the life you would like to live without fear or inhibition. It's never a straight or smooth road, but in our experience, it was the bumps and the breakdowns, the mishaps and the wrong turns that stimulated the breakthroughs we needed to get where we wanted to go. A special bonus for us in the process of writing: we got to do it together, and it brought back all over again how much fun it was."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

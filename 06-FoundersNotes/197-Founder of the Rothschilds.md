@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Only a few crumbling bricks are left today of the foul-smelling alley in Frankfurt, where in the second half of the 18th century, a disenfranchised Jew named Mayer Rothschild founded a European banking dynasty. Rothschild was a man of seemingly inexhaustible energy and ingenuity. He raised five famously gifted sons, veritable moneymaking machines to carry on his work after him. Their names overshadowed his own and became synonymous with colossal wealth, extravagant living and hidden political power. A century after his death, you could still ask, in all seriousness, if a great war was still possible in Europe if the house of Rothschild set their face against it. Rothschild's origins were certainly modest. There was little reason to foresee his destiny. The personal circumstances of his life were difficult throughout. They suggest a saga not only political and financial, but also human and dramatic, more dramatic perhaps than that of his flamboyant sons. The sons, after all, were not persecuted human beings, legally confined to the squalor of a congested ghetto. The old ghetto where Rothschild lived his entire life was a narrow lane, more slum-like and overcrowded than any other tenement in Frankfurt. A closed compound, it was shut off from the rest of the city by high walls and three heavy gates. The gates were guarded by soldiers and locked at night and all day on Sunday. In it lived the largest Jewish community in Germany in conditions of total isolation and apartheid.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

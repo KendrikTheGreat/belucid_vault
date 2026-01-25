@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And then he says, hey, guess what, I'm an inventor and so was Wright. And we're having dinner, and this is what happened. One evening in Dayton, I dined alone with Orville Wright. During a long evening, we discussed inventions we had made that had never amounted to anything. He took me up to his attic and showed me models of various weird gadgets. I had plenty of similar efforts to tell him about. Neither of us would have thus spilled things except to a fellow practitioner, one who had enjoyed the elation of creation and who -- hey, that's another good line, one who enjoyed the elation of creation and who knew that such elation is, to a true devotee, independent of practical results. So it is also, I understand with poets. I'm going to leave that entire 2 paragraphs in the show notes. I think you should copy and keep it. That's fantastic. Then he spends a lot of time talking about like where does innovation occur, and why do we see it constantly occurring from outside. And so he says, in an industry that has become closely standardized, where nearly all competing companies are comfortably making profits, minor improvements can readily be introduced, but major improvements are up against a stone wall. The prosperous company sees no need to change. The borderline company cannot afford the cost. And so the example I always use for this is think about the incentives. When James Dyson, this is Episode 200, I think, I tell a story on. When James Dyson invents the world's first bagless vacuum cleaner, he initially tries to sell his invention to the companies that are currently making -- at the time, were making $500 million a year selling vacuum bags. And then he couldn't understand, he’s like, why don't you want to buy my new superior invention? It's a better vacuum cleaner. And all he had to think about was their incentives because if they bought your vacuum cleaner, then they can't make $500 million a year selling bags.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

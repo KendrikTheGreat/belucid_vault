@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So this is what I mentioned last week, where when you read Bush's words, it's clear that he's smart, he knows that he's smart and he likes to fight. "His philosopher-king aura smacked of arrogance. He struck his critics as imperious, intimidating, and at times, even a bully who harbored a relentless, perhaps insatiable drive for power. His intelligence, vitality, and candor impressed many. He enjoyed a good tussle," meaning a good fight, "refused to back down from anyone, and when opposed, could explode in anger. He rubbed people in authority the wrong way, and he never shied away from a fight. He took as much ground as his opponents ceded. My whole philosophy is very simple, he told a few generals during the war. If I have..." This is actually a good idea, "If I have any doubt as to whether I'm supposed to do a job or not, I do it. And if someone socks me, I lay off." So I want to pull out a couple of things from Bush's earlier life. His father, Perry, was his hero. In his autobiography, Bush calls him the best teacher he ever had. And so this is an example of a lesson that his father taught when he was 5 years old. "Perry expected his children to be grateful for what they had and not to dwell on what they lacked. He had a kind of fearlessness in the conflicts of the world, which made him seem stoic at times. When his son was 5, he joined his father at a funeral only to break down in tears during the service. On the way home, Perry stopped his son's crying by saying, we've paid our respects to our dear friend and we'll have happy memories of him. There's nothing more to be done. The younger Bush never forgot the lesson. The stiff upper lip suited Van. He grew self-reliant, confident, and pugnacious. There was more to his combativeness than mere bravado. He was fiercely independent and a budding maverick." All these personalities traits are appearing when he's a kid, and they're much more pronounced as he gets to be an adult. He did not like to be told what to do. "he credited his ship captain forbears for instilling in him "some inclination to run a show once I was in it." So he's growing up in New England.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

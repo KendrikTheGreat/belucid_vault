@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 That is an excerpt from the book I'm going to talk about today, which is Rolls-Royce, The Magic of a Name, the first 40 years of Britain's most prestigious company, and it was written by Peter Pugh. So this is my second time reading this book. The first time I read it was like 3.5 years ago, its originally episode 81 of Founders. I wanted to read it because I think a main theme of Henry Royce's life is that you can actually build world-class products and an amazing business without having to invent anything new. His main talent was an ability to observe, think about, and then improve on existing machines and products. And he says this himself. He's like, I didn't invent the automobile. I just took every component of the automobile, improved the quality, and the sum of those parts led to the quality that Rolls-Royce is still known for 100 years after he started the company. And this idea has been in front of my mind. I was just did this three-part series where I read all of Paul Graham essays on Episode 277, which is a third in that three-part series. There's this essay that Paul writes, that's called Hackers & Painters. And Paul has this line that I absolutely love and he says a great product has to be better than it has to be. And he says, relentlessness wins because in the aggregate, unseen details become visible. I'm going to read this line. This line could -- in this case, he's talking about -- Paul is just talking about Leonardo da Vinci and Michael Jordan and others, this could be a great description of Henry Royce. “All those unseen details combined to produce something that is just stunning, like 1,000 barely audible voices all singing in tune." And so the way I think all this ties together is because they were painters before da Vinci. They were basketball players before Michael Jordan and there were people making cars before Henry Royce. Yet what they all have in common is they were relentless and relentlessness wins because in aggregate, unseen details become visible.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

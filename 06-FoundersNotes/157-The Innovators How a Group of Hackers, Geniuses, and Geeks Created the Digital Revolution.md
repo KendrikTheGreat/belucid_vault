@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “The computer and the Internet are among the most important inventions of our era, but few people know who created them. They were not conjured up in a garage by a solo inventor, suitable to be singled out on a magazine cover or put into a pantheon with Edison, Bell, or Morse. Instead, most of the innovations of the digital age were done collaboratively. There were a lot of fascinating people involved, some ingenious and a few even geniuses. This is the story of those pioneers, hackers, inventors and entrepreneurs, who they were, how their minds worked and what made them so creative. The collaboration that created the digital age was not just among peers, but also between generations. Ideas were handed off from one cohort of innovators to the next.” “I was struck by how the truest creativity of the digital age came from those who were able to connect the arts and the sciences. They believed that beauty mattered. ‘I always thought of myself as a humanities person as a kid, but I liked electronics,’ Steve Jobs told me when I embarked on his biography. Then I read something that one of my heroes, Edwin Land of Polaroid said about the importance of people who could stand at the intersection of humanities and sciences. And I decided that, that's what I wanted to do.’ The people who are comfortable at this humanities-technology intersection helped to create the human machine symbiosis that is the core of the story. Like many aspects of the digital age, this idea that innovation resides where arts and scientists connect is not new.” “Leonardo Da Vinci was the exemplar of the creativity that flourishes when the humanities and sciences interact. When Einstein was stymied while working out general relativity, he would pull out his violin and play Mozart until he could reconnect to what he called the harmony of the spheres. When it comes to computers, there is one other historical figure not well known, who embodied the combination of the arts and sciences. Like her famous father, she understood the romance of poetry. Unlike him, she also saw the romance of math and machinery, and that is where our story begins."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

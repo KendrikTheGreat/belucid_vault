@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Towards the end of the night, the light of dawn spreads through the streets and brushes the houses of Solomeo. I love walking in this light when nature and man are still asleep. In these hours, before the door of life opens up to the pressing matters of an industrialist business to the unpredictable series of meetings with people who want to either give or take something. In these small hours, I enjoy thinking quietly, wandering through this hamlet of the spirit, of my spirit, where every stone, every tree, every scented rose brings back a memory to my mind, a memory in which I recognize myself. The whole Solomeo valley is a place of memories and ideas. I value ideas because I consider them more important than the things that they produce. My walk ends in this magical place where memory, concentration, and an eternally young sense of wonder impact my soul like an energizing drive. I am over 60 years old, and I know that nothing will give me back the same unbridled energy that as a boy, maybe run for mornings on end without ever getting tired. At my age, I can look back at the past with sufficient detachment. This very same age also allows me to look ahead at the years before me, surely less than the ones behind me, with an attitude that prevents my dreams from turning into ash. When I look at the past, I see the facts of my life under a new light from the inside rather than from the outside. So I glimpse new meanings and events that are long gone, like when I was 13 and I led the oxen while my dad plow the fields. I tried to keep the animals on a straight course, and I excelled at that task, which now becomes the symbol of a whole life led righteously. I also think of the Italian cafe that had played such an important role in my youth. I see everything in a different light now. The card games, the cups of coffee at 2 in the morning, the endless discussions about women, politics, philosophy, and spirituality that lasted until dawn. I look back at things from that time and I recognize them for what they were: a personal university in life and human knowledge. That environment helped me develop a passion for books.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “Few men of Loomis' prominence and achievement have gone to greater lengths to foil history. He seemed to stand at the edge of important events, intimately involved and at the same time somehow overlooked. Yet here was a character who was at once familiar, independently wealthy, iconoclastic, and aloof. Loomis did not conform to the conventional measure of a great scientist. He was too complex to categorize; financer, philanthropist, society figure, physicist, inventor, amateur, dilatant, a contradiction in terms. Although he rose to become one of the most powerful figures in banking in the 1920s, he was not satisfied with the laurels of Wall Street. He felt obliged to strive for a kind of excellence that had nothing to do with the external trappings of success. Loomis had the foresight to know that science would soon become a dominating force, and he used his immense fortune to attract a gifted group of young physicists to his private laboratory and endow pioneering research that pushed at the frontiers of knowledge. He created a scientific ideal in the cloistered fiefdom of Tuxedo Park, and in his belief in invention and experimentation, he prepared the way for a series of scientific developments that would not only change the course of the war, but ultimately transform the modern world”.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 When Henry Flagler, co-founder of Standard Oil and one of the world's most famous and powerful men, announced that he would extend his far-flung empire by building a railroad across the ocean few could have anticipated how things would ultimately turn out. Many immediately dismissed Flagler's intentions as impossible. They were hardheaded scientists, engineers, and businessmen who thought what Flagler proposed, to build a railroad 153 miles from Miami to Key West, much of it over open water, was a crackpot notion on the face of it. Flagler's folly, the press dubbed the project. Though the man who proposed it was undeterred, he would press on. The story behind the very being of this railroad may be its most amazing aspect. It is a story that concerns one of the world's richest men, one of the most difficult engineering feats ever conceived, and the most powerful storm ever to strike American shores. In a sense, this railway is what remains of one of the last great gasps of the era of manifest destiny and an undertaking that marked the true closing of the American frontier. The building of the railroad across the ocean was a colossal piece of work, born of the same impulse that made individuals believe that pyramids could be raised, cathedrals erected, and continents tamed. The highway is a ghost really, all that remains of an error where men still lived, who believed that with enough will and energy and money that anything could be accomplished.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

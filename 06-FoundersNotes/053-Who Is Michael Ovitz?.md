@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So before we go, I just want to remind you that I just presented this entire podcast ad-free. As a podcast fan myself, I feel that's the best experience for the listener. And then if I do the best experience for a listener, to be the best thing for the podcast. So this podcast is ad-free and independent, which means I rely on the support of the people who get value from this podcast. Recently cited somebody -- actually, two people e-mailed me at what I think was good ideas. They want a way to be able to support on a per-podcast basis. So in other words, if you listen to this whole podcast, and you thought there was -- you got value out of it. Please consider -- I hate using word donate, but sending me $2. $2 is my suggested amount, but you can send whatever you want. The link is in the show notes that's available on your podcast player, where you can just -- where you can donate right there. It's also available at founderspodcast.com by tapping on the dollar sign in the header. So that's for people that have expressed interest to basically pay for whichever podcast they like. And so that's the option. If you want to support podcasts on a monthly basis, you can become a misfit and you get extra -- you can get access to my private podcast feed, which you'll immediately unlock 17 podcasts that I have done, and you'll get an extra podcast for me for every week.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

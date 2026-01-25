@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So that is from the introduction of the book that I read this week and the one that I'm going to be talking to you about today, which is, Today and Tomorrow, by Henry Ford. And this is a book that was first published in 1926. I found this book because of this idea that you and I talk about quite frequently, which is that books are the original hyperlinks, and they link us from one idea, much like the modern web, one idea to another and one person to another. I was reading -- I can't even remember which book it came from, but another founder I was talking about what he learned from this book, and I didn't even know that this book even existed. I was like, wait a minute, what is Today and Tomorrow? And I've read a few books by this time, turned them all into podcasts. So if you just search Henry Ford and Founders podcast, you could see all of them. So it was a pleasant surprise because this is another -- after reading Henry Ford's autobiography, which is My Life and Work, you see that it's -- he gets right to the point. He speaks very plainly. And it's almost like a journal of sorts, where he's just -- his ideas on, not only the work he does at Ford, but he talks about all kinds of different topics like education and war and economics and the meaning of money and the meaning of work. And so it's like a lot of good practical knowledge for us, but also a lot of like exposure to like his own philosophy on life, which I particularly appreciate. So let's not waste any time. Let's go ahead and get back into the book. And I just love this idea that he talked about. He's like, listen, look at what one single idea can accomplish. And it's just a reminder that there's just always new opportunities. And if you're on my e-mail list, I just sent an e-mail to everybody on the list.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

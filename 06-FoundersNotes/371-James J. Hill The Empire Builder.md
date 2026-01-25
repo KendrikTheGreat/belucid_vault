@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 That was a story that I found while I was watching this four-part documentary called "The Empire Builder: James J. Hill and the Great Northern Railway" that I was watching. At the same time, I was rereading this great biography on James Hill called "James J.: Empire Builder of the Northwest," which was written by Michael P. Malone. In the late 1800s and the early 1900s, when James J. Hill was alive, he was one of the most famous entrepreneurs in America. His nickname was the Empire Builder. Hill had unlimited energy. He was stubborn. He had a temper. He was supremely arrogant. And he did more to transform the northern frontier of the United States than any other single individual. So I want to talk about his early life. There's a few things that jump out when you're reading about James J. Hill's childhood. He grew up in a poor family in Canada. It said that family led a frontier existence. Later in life, James talks about knowing what it was like to be poor and that his father was not very prosperous.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

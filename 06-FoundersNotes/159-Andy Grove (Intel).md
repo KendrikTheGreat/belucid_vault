@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He didn't look at us as we walked past. I felt as if I was in a dream. The city didn't look like the Budapest I had left behind just a few weeks before. In barely 2 months, it had become a different world. To break up our trip, we stopped at the apartment of a friend of my parents. This friend was a Jew who had been a highly decorated officer in the Hungarian Army. Because of that, he did not have to move into the Jewish house or a ghetto. He was exempt from those regulations”. So they get to the apartment of their friend. We went up to the third floor of the building where he lived and knocked on his door, but neither he nor his family were in that apartment anymore. Some neighbors heard our knocking and came out to tell us what happened. The Arrow Cross” --this is like German like government, I guess, that has occupied Hungary. “The Arrow Cross had taken him and his wife and his children who were younger than I out to an empty lot nearby and shot the entire family. After a moment of silence, my mother turned around and left pulling me by my hand”. This is how Andy remembers the end of World War II. Now, keep in mind, he's about 9 years old. His father has been gone. As far as they know, he's missing, he's disappeared. They haven't seen or heard from him in 3 years. “The war was effectively over in early April of 1945. The Russian soldiers were still there, marching around and standing guard, much as the Germans had done a year earlier. I could barely remember a time when soldiers hadn't been a backdrop to my everyday life”. So they wind up getting their old apartment back. It was being occupied. Furniture is destroyed, but at least they have their old -- a lot of their old stuff, and they're back in the old apartment. “In early September, my mother got word that trains were coming from the prison camp in Russia, where she somehow thought my father had been. So we, again, went out to the railroad station to look for my father”. They did this multiple times.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

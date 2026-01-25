@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “Draper gave Jobs and Wozniak numbers to other phone phreaks, special telephone numbers, country codes, undersea cable codes, satellite codes, access code. He barraged them with details of toll-switching trunks and conference bridges, routing indicators, supervisory signals, and traffic service position stations. Draper warned Wozniak and Jobs never to carry a blue box around (that's what the devices were called) and to make Blue Box calls only from payphones. Wozniak thought, ‘it was the most astounding meeting we had ever had’”. That was a good advice. Draper didn’t, unfortunately, adhere to his own advice. He winds up going to prison a few times for stealing like tens of thousands of dollars’ worth of phone calls. A little bit about Steve Jobs’ personality. “The thing that had struck me was his intensity. Whatever he was interested in, he would generally carry to an irrational extreme”. I love people like that. He had a very inquiring mind that was enormously attractive. He wouldn't get away with bland statements. “He refused to accept automatically received truths, and he wanted to examine everything himself”. That's probably also good for when you're designing products, right, that kind of frame of mind. Now a little bit about one of the little-known things about Jobs is he was one of the first 50 employees that's at Atari. So it says, “Jobs became one of Atari's first 50 employees and had his first prolonged taste of corporate life in a company where a succession of novel ideas managed to withstand any number of managerial torpedoes. The company was started and dominated by Nolan Bushnell”. I did a podcast on him. If you haven't listened to it, go back and listen to it. He’s an interesting guy. “Bushnell viewed business as a type of war and employed pinches of diplomacy and charm, cunning and force to cajole his employees and bamboozle the competition. Dressed in sharp suits, flowery shirts, and polka-dot ties, he became Atari’s six-foot-four-inch juju man.” I don’t know what that means.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

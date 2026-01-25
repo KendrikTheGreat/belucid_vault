@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “Chuck Feeney felt a profound sense of relief. He had flown into the Bahamas that morning an extremely rich man; now he was flying out with a little more to his name than when he had started out on his various business ventures 3 decades earlier. He celebrated having divested himself personally of the vast wealth with which fate and his genius for making money had burdened him. It was all done with the utmost secrecy. “Few outside the small group that gathered that day in the Bahamas would know what had taken place for a long time to come. Four years later, Forbes magazine listed Feeney as the 23rd richest American alive, declaring him to be a billionaire with $1.3 billion. But Forbes had got it wrong and would continue to repeat this mistake for many years afterward. Chuck Feeney had gotten rid of it all. He was the billionaire who wasn't.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

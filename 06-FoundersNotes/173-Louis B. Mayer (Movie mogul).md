@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 They will think highly of me. And they're not realizing that a lot of those -- this -- it's fake love. A lot of the people that profess to love Louis B. Mayer, loved him when he was in a position of power to do something for them. Once he loses that position of power, he's kicked out of MGM after 27 years. He loses his job. And then suddenly, where's all his friends? You thought that they were friends for 25 years. They were not really friends because they -- they were friends with you because of their own self-interest. So think, again, the way Warren Buffet is able to take ideas and condense them down and just think of it as inner scorecard versus outer scorecard. Am I making this decision because I truly want to? Or is it a decision because I think my parents want me to or my girlfriend wants me to, or my husband wants me to do this or anything else. He's like, no, what is -- only you can know that voice that's inside of you. And I think it's extremely important. There's a similarity I'm going to bring your attention right now where Louis B. Mayer only wanted to make high-quality family movies, right? In a way, he was very similar to Walt Disney. But the difference was, why they were doing it? Walt wanted to make the best of whatever he was working on at that time. At the very beginning, he thought he just loved -- that was his sense of humor, but he always focused on quality. Louis B. Mayer is going to focus on quality too as I'm going to read this paragraph to you. But Louis B. Mayer is doing it because that's like the largest market, that's what will give him the most adulation. Walt Disney did it because that's what he was focused on. And his focus changed as we saw when we studied him on the multiple podcasts I have done about him. Eventually, he's going to make the best animated movies ever. And then he falls out of love with animation and what is he going to do. He says, "Okay, my inner scorecard now tells me, I don't want to do movies, I want to do theme parks."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

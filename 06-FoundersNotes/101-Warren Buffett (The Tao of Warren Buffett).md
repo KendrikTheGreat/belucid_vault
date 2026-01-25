@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Another quote from Warren. He says, "A public opinion poll is no substitute for thought." I love this. Read that thought -- read that quote, immediately thought of another quote that comes from an interview with Steve Jobs. He's around 29 years old at the time. This happened in 1985. Let me read this to you. And he's talking about the Macintosh. "We didn't build the Mac for anybody else. We built it for ourselves. We were the group of people who were going to judge whether it was great or not. We weren't going to go out and do market research." So he's using the words market research. Warren's using the word public opinion poll. "We just wanted to build the best thing we could build. When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back even though it faces the wall and nobody will ever see it. You know it's there, so you're going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality has to be carried all the way through." So he's describing this. And so the person interviewing was like, he's saying, "Are you saying that the people who made the PCjr didn't have that kind of pride in the product?" All right, so he's talking about first, what's the source of the product? Are the sources -- pride in the product? The fact that I wanted to build the best thing possible the most beautiful way, right? And now he's going to compare and contrast to the people that build products by taking public opinion polls or market research. So he says, "Are you saying that people who made the PCjr don't have that kind of pride in the product?" This is Steve at his like sharpest tongue here. "If they did, they wouldn't have turned out the PCjr. It seems clear to me that they were designing that on the basis of market research for a specific market segment, for a specific demographic type of customer. And they hoped that if they built this, lots of people would buy them and they'd make lots of money. Those are different motivations. The people in the Mac group wanted to build the greatest computer that has ever been seen."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

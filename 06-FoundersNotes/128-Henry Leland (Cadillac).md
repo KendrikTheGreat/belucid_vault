@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Just a quick note before today's podcast. I changed the cover art that appears in your podcast player back to the original one. It says Founders. I just think it looks better than the previous one that said Misfits. I just wanted to let you know that you're on the right feed. The Misfit feed is the only place where you can find full-length episodes. So that's it. I hope you enjoy this podcast. Henry Leland laid the foundation for the future American industry. He had established manufacturing procedures never previously so effectively employed and took a position of leadership. He was to maintain it, and in the next decades would be comparable and stature with, although quite different from William Durant, Henry Ford and Alfred Sloan. In comparing Leland with Durant and Ford, it should be pointed out that Leland's contribution to the development of the motor car was the establishment of high standards of manufacturing. Ford, of course, through the moving assembly line also developed standards, but for the manufacture of a cheap car. He himself recognized Leland's great contribution. Durant, as the founder of General Motors, was a promoter, but made contributions as the head of an organization, offering a variety of cars and the establishment of company supplying parts. Sloan reorganized General Motors on a sounder basis and established its highly successful system of financial controls. The Dodge Brothers would be included by some experts as a major force in the early automobile industry. And in the 1920s, Walter P Chrysler took a prominent place in the industry. Leland's period of eminence might be set as 1908 through 1922. How had he reached this eminence? Let's go back and follow the Leland story from its beginnings. It takes us first into an earlier industrial era, goes hand-in-hand with the steady rise of American manufacturing to the bicycle and the pioneer automotive stages, enables us to understand more fully the maturing of the motor car in the United States and still has relevance to the developments that are taking place today.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

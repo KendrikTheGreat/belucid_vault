@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 When possible, he would take these giant numbers that are actually kind of hard for us to wrap our heads around and actually put it into more easy-to-understand terms. So let me give you example. 200 days after the release of the original iPhone, he gives another presentation. And he goes on stage, and he announces, hey, in the last 200 days, we have sold 4 million iPhones. So he could have left it there. He's like, okay, 4 million, that's a big number. But he actually added context and it makes it a lot more memorable. So he says, well, 4 million divided by 200 days means that we sold 20,000 iPhones a day. I think the reason this is so important is because we all know what numbers sound like, but we have a hard time actually comprehending them. So I remember reading this book. It's one of my favorite books, it's Episode 292. It's about Daniel Ludwig, which in the 1980s, he was the richest man in the world and no one knew who he was, or richest man in America. And so his biography is called The Invisible Billionaire. But I remember at the very beginning of the book, the author is trying to put in context just how rich Daniel Ludwig was. And in doing so, he made the numbers way more memorable so much so that I'm telling you about it a year or two later. And he made the point that if you took $1 million in $100 bills and stack them up, that stack would be 16 inches high. But if you did that for $1 billion. So if you had $1 billion in $100 bills and you put it in a stack, that stack would be taller than the Empire State Building. $1 million is 16 inches high, $1 billion is taller than the Empire State building. That is a great illustration of the difference between $1 million and $1 billion. You can do this with time, too. So 1 million seconds ago was 11.5 days ago, 1 billion seconds ago was 31 years ago. Steve used another tactic to be more memorable as well. And he has -- this is something I referenced earlier, where he used these uncommon words, especially uncommon words that you don't normally see in business presentations.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

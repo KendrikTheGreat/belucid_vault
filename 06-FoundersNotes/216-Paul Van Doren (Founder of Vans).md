@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And Albert is the first person in advertising history, who was like, hey, why don't we actually make the ads ourselves. If we increase the amount -- the effectiveness of the ad, we can demand a higher percentage. And so he -- his boss lets him run this experiment. And so he goes to one of the customers. At the time they were making like $1,000 a year off this guy's company, and they were only -- that's 5% of whatever they're placing. He's like hey, let's do a no risk trial. I'll run the ads. If they perform better, then you pay me 15%. If my ads bring you more customers than your ads do, and I'll still place them for you, you'll pay me 15%. Winds up working so well that they -- that, of course, what happens if you're -- from a business perspective, you're going to spend more money on advertising because now it's more effective, right? You're -- this guy, Albert is coming in, and he's lowered your acquisition cost. And so just on that one customer, they go from making, I think, instead of $1,000 a year, something like $10,000 or $15,000 a year. And so, okay, overnight, because Albert is the only one that's not on autopilot. I just increase what the company can make per customer by 10x or 15x. What do you think that's going to do to the overall business? And that's why Albert winds up making $50 million in advertising in the early 1900s. He becomes so wealthy off that idea. Just stop and questioning it. He winds up having this estate, like a summer estate somewhere outside of Chicago if I remember correctly. It's like 50 -- it was so large that he had 50 full-time employees just running his house. Gives you an idea of the impact of that idea. It's crazy. And so there's just a ton of examples in this book where he just -- he observes the process, and he's like, what are we doing? Why -- can we do this better? So I'm just going to give some examples because these are so -- I now like -- I think about like my own process, like I know I'm not being as efficient as possible or maybe not even efficient, it might not be the right way, but I know there's better ways to do things that are in my workflow.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

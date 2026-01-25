@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Shelby, the name itself conjures up immediate visions of Cobras, GT350s and GT500s pounding around an historic road course with throaty horsepower coming from under the hood and tires on the edge of adhesion. But for me personally, the Shelby name will always mean much more. I've been blessed to have known Carroll since I was a teenager, walking the pit road with my father at Le Mans during Ford's first major assault on Ferrari in 1966. By then, he was already a legend in my eyes, having had great success as a race driver for companies like Aston Martin and Maserati during the 1950s and being named Sports Illustrated Driver of the Year in 1956 and 1957. So when I first met Carroll at Le Mans, as his Shelby American race team was preparing the GT40s for the Ford Motor Company, I was thrilled to meet the man who has since become a lifelong friend. Subsequently, I worked for him during a summer break while I was in college. He gave me the opportunity to spend some time with him, taking in the wisdom that is truly Carroll. The name Shelby means so many things to so many people. But to me, Carroll is an innovator. He is a man who is always ahead of his time, who has created, designed and developed performance products that have been second to none. The fact that most of them have been with and for Ford Motor Company is a personal point of pride for me. Carroll is passionate about performance vehicles, but he's also passionate about life, his family, his many, many friends that he has made in the 60-plus years he's been involved in our industry. I am proud to be counted among them".
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

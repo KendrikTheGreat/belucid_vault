@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So they're having like lunch or something or maybe breakfast, and this is like a job interview. "The check came, and I told Woodell gladly that lunch was on me. I pulled out my wallet and found it was empty. I asked Blue Ribbons' full-time employee number four if he could float me. Just until payday. So around this time, Bowerman is doing all kinds of innovations in shoes, some of which are patentable, that comes later, but they wind up wanting to name a shoe, the Aztec. And because they tried to name the shoe, Adidas has something called like the Azteca Gold. So Adidas sues them. And this is -- Adidas is one of the main motivating factors in Phil Knight's drive. He hated the fact that they were bigger and better and could kick him around. But I just want to read the story because Bowerman is hilarious. "I was aggravated. I drove up to the mountain to Bowerman's house to talk it over. We sat on the porch looking down at the river. He took off his ball cap, put it on again, rubbed his face, 'Who is that guy that kicked the s_*_ out of the Aztecs?' He asked, 'Cortez,' I said. He grunted, 'Okay, let's call the shoe, Cortez.' I was developing an unhealthy contempt for Adidas or maybe it was healthy, that one German company had dominated the shoe market for a couple of decades, and they possessed all the arrogance of unchallenged dominance." So I actually covered on Founders #109, it's a book called Sneaker Wars. It's about the enemy brothers, so that one brother founded Adidas, the other brother founded Puma and they hated each other. I didn't really like the brother that founded Puma, but I thought the founder of Adidas, Adi Dassler, he's an obsessive, he's a genius. He is worth the time studying for sure. And part of that infighting caused the family infighting that distracted Adidas and actually open the lane for Phil Knight and Nike to occupy, which is a lot of lessons in there, too. So if you're interested, the book is interesting, but you can also listen to the podcast.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

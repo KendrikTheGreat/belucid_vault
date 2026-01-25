@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This is what Jeff is learning. He's going to learn it from Lee Scott. Sam Walton, he's going to learn it from the meeting that he's going to have -- which I'll tell you about in a minute, of Jim Sinegal, okay? "We reduce" -- okay, so, "Then we go ahead and try to make the prices. We do not bother about the cost. The new price forces the costs down. The more usual way is to take the cost and then determine the price. And although that method may be scientific in the narrow sense, it is not scientific in the broad sense because what earthly use is it to know the cost if it tells you that you cannot manufacture at a price at which the product can be sold? But more to the point is the fact that although one may calculate what a cost is, and of course, all of our costs are carefully calculated, no one knows what a cost ought to be. One of the ways of discovering is to name a price so low as to force everybody in the place" -- in the company -- "to the highest point of efficiency. The low price makes everyone dig for profits. We make more discoveries concerning manufacturing and selling under this forced method than by any other method of investigation." And so now I'm going to skip ahead to where he meets with Jim Sinegal, the founder of Costco. And this is where he takes these two meetings, and he goes back, and he redoes everything. And he's like, "We're going to be committed to low cost because if we can match the cost of our competitors, we're going to win on selection. So that's how we're going to enforce our edge in the marketplace." It's really, really smart, but you got to love -- I just love this guy. I love Jim. It was funny. Recently -- not recently but like maybe a few years ago, it came out in the -- there was like a headline, like I think it was The Wall Street Journal, something like that, where the CEO that took over Costco after Jim retired, gave like -- there was like a soundbite from an interview or something. And he said, "Jim told me if I raised the price of a hot dog that he'll kill me."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

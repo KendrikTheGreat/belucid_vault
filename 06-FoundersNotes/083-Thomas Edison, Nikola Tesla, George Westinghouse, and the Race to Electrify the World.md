@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Great, indeed, is the power of electricity. And in the final decades of the 19th century, 3 Titans of America's Gilded Age were among the Promethean few who dreamed of the possibilities hidden in this force of nature. It's awesome power visible only in the wild rumble and slash of electrical storms." "Each Titan was determined to master this mysterious fluid, each vied to construct an empire of light and energy on a new and monumental scale. Each envisioned radiant enterprises that would straddle the globe, illuminating the night and easing forever the burden of brute labor. This is the story of the nascent years of the electric power industry and the rise of a new technology that completely transforms society, a tale told largely through 3 visionary figures, their triumphs, their blunders, and their caustic feuds."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

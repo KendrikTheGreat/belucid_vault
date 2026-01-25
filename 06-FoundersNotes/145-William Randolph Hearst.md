@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 For 50 years, Hearst had ruled his empire as autocratically as his heroes Julius Caesar and Napoleon had theirs, their Empire. He had trusted no one, rejected suggestions that he share power or delegate decision-making, and refused to name a successor. At age 74, he was as hardy as ever and convinced that if left alone, he could once again pull off a miracle. But no one believed him capable of making the tough decisions that were necessary. He was a builder, not a wrecker, an accumulator, not a liquidator. The banks and the paper mills refused to loan the corporation anything as long as the old man was in control. The reality was that Chase National Bank and Hearst’s other creditors were now in charge. And the note I left myself was, night, night knockout punch, game over. So at this point in the story, he's no longer in control. He still controls the editorial stance for his media companies, but he has nothing to do with the finances. They've taken control. They will only refinance and loan more money if somebody else is in charge. This lasts, I think like, I want to say 8 to 10 years, it might be 8 years, if I'm remembering correctly, and they're liquidating everything. The only thing he's able to hold on to is he's got some mines he keeps, some real estate he keeps, his newspapers, and stuff like that.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

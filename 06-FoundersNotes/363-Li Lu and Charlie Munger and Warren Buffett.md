@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 20 years ago, as a young student coming to the United States, I couldn't have imagined having a career in investing and would have never thought that I'd be fortunate enough to meet Charlie Munger. In 2004, Munger became my investment partner and has since become my lifelong mentor and friend, an opportunity I would have never dared to dream about. Charlie and I first met at a mutual friend's house while I was working on investments in L.A. after graduating from college.   The first impression he gave me was distant. He often appeared to be absent-minded to the presence of his conversation partners and was instead very focused on his own topics. But this old man spoke succinctly. His words full of wisdom for you to mull over. Seven years later at a Thanksgiving gathering in 2003, we had a long heart-to-heart conversation.   I introduced every single company I've invested in or researched or I'm interested in to Charlie, and he commented on each of them. I also asked for his advice on the problems that I was encountering. He told me that the problems I've encountered were practically all the problems of Wall Street. The problem is with the way that Wall Street thinks. Even though Berkshire Hathaway has been such a success, there isn't any company on Wall Street that truly imitates it.  
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

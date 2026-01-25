@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Most of the highlights I'm going to focus on today we're going to see is this struggle after struggle. He has an innovation or breakthrough, then he goes through a period of struggle. Then he has another positive event that happens and goes through a period of struggle. Over and over and over again, it's so important for us all to realize there's no such thing as like an overnight success. It's not, oh, I had a great idea, and it goes straight up from there. It's like, no, you have to push that thing. You have to force it. You have to persevere. These things do not happen on their own. And the Alexander Graham Bell's invention of the telephone is a great illustration of that. "I am now beginning to realize the cares and anxieties of being an inventor," he wrote home gloomily. "He thought himself becoming almost unhinged by the pressure. What is he describing there? He's describing the emotional rollercoaster." I just went back -- I'm going back and relistening to a lot of old Founder episodes. I think in the one on Marc Andreessen, Marc describes the emotional rollercoaster of doing anything new, of doing something hard perfectly. And he says -- he's telling his partner at the time you know what the best thing about startups is, and his partner says, "What?" And he says, "You only experienced 2 emotions, euphoria and terror, and I find a lack of sleep enhances them both." And I think that is a really succinct way of describing it, right? You get the highest of highs, but the lowest of lows, and that's exactly what this book -- that's very present in the story of Alexander Graham Bell for sure. This is another example of him drawing inspiration from the life of Samuel Morse. "He was frustrated by his lack of technical education in electricity although he tried to reassure himself with the knowledge that Morse conquered his electrical difficulties, although he was only a painter, and I don't intend to give up either until this is all completed."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

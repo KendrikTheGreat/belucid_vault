@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "In 1942, with the United States now embroiled in World War II, Ogilvy resigned from Gallup and went to work full time in British military intelligence. He called it the Hitler war and was very prescient in recognizing what was at stake." So this is very interesting. His boss was one of Ian Fleming's inspiration for James Bond, right? And this gives -- it's funny when Ogilvy retells these stories, almost like he's like portraying himself as more of like a secret agent. He's not really a secret agent. They're studying -- he's using what he learned at Gallup to help the British military study American opinion about getting involved in this war, okay? So it says, "His new boss in the spy business was Sir William Stephenson." He was the head of the British Security Coordination. That's the department that Ogilvy was working for, "and the central figure in covert operations involving Britain and the United States in the years leading up to World War II. In Britain, short of arms and supplies and facing certain invasion" -- this is going to -- this kind of relates to Freedom's Forge, the bonus episode I just did, right? "A desperate Winston Churchill said, 'There was only one possible solution. I shall drag the United States in.' In the years leading up to Pearl Harbor, Stephenson led Britain's covert operations in the United States as Churchill's secret weapon." So Churchill -- Stephenson is working for Churchill. Ogilvy is working for Stephenson. See that connection? "A successful Canadian businessman and inventor, Stephenson was alarmed to discover on one of his buying trips during the 1930s that virtually all German steel production was being diverted to armaments. Churchill, the only one to listen to Stephenson's campaign to alert the British government, gave Stephenson the job of coordinating an unofficial prewar relationship between British and American Intelligence." So that's basically the main point. That's what Ogilvy is doing. Ogilvy described Stephenson as strong-willed, quiet, ruthless and loyal.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

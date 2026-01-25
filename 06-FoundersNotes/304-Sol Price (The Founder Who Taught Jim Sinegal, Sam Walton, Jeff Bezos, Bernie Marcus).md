@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This is Jim Sinegal, Founder of Costco, writing in the foreward of this book. About 4 years ago, shortly before his death and a few days after we had lunch together, I received a letter from Sol Price. Dear Jim, it's always like seeing you and experiencing your enthusiasm, knowledge, and commitment to your values. You've been very generous about giving me some credit for influencing you. I suspect that's true, but you would have been a great achiever under any circumstance. I related only the first paragraph of this letter because so would on to say some very complementary things that I will keep personal. Upon reading the letter, I turned to my assistant and said, "I've been waiting 50 f years for this letter.” It was well known that complements from Sol came around about as frequently as Haley's comet. After digesting the letter, I reflected on the fact that here I was in my 70s and still seeking approval from this guy. What was it about the man that engendered so much admiration and respect, not just for me, but from thousands of us who worked with Sol over the years. Certainly, there was his intelligence and creativity, but that's not the complete answer because there are millions of bright people in the world and only a handful make a lasting impact.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “‘I'm talking about greatness, about taking a lever to the world and moving it,’ Larry said, walking the grounds of his new Woodside property with his best friend, Steve Jobs. ‘I'm not talking about moral perfection. I'm talking about people who change the world the most during their lifetime.’ Jobs, who had returned to Apple three years earlier, enjoyed the conversational walling and placed Leonardo da Vinci and Gandhi as his top choices, with Gandhi in the lead. Leonardo, a great artist, and inventor, lived in violent times and was a designer of tanks, battlements, ramparts, and an assortment of other military tools and castle fortifications. Jobs cited Gandhi's doctrine of nonviolent revolution as an example of how it was possible to remain morally pure while aggressively pursuing change. Larry's choice for history's greatest person could not have been more different than Gandhi, the military leader, Napoleon Bonaparte. Napoleon overthrew kings and tyrants throughout Europe, created a system of free public schools, and wrote one set of laws that applied to everybody. Napoleon invented modern public education, public art museums, and the modern legal system and ended state-sponsored religious discrimination. And as if that weren't enough, he emptied the ghettos and gave the Jews a quality in the eyes of the law,’ Larry said. Steve had heard it all before and would never be convinced. ‘The Napoleonic wars are named after Napoleon. It's not a good thing to have lots of wars named after you,’ Steve countered, taking long pauses between his sentences, as was his way. ‘In contrast, Gandhi's methods were moral and its achievements were material. He led India to independence.’ ‘Napoleon engaged in a war to overthrow kings and tyrants. He had no choice. They couldn't be talked off their thrones,’ Larry said.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

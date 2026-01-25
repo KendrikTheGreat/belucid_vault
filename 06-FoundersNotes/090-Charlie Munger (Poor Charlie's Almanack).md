@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Warren Buffett is the public face of Berkshire Hathaway and is rightly credited with its tremendous long-term success, but there's another major contributor to the firm's legendary performance record, Charles T. Munger. Although, less well-known to the general public than Buffett, he's an equally astute and effective teacher, as Poor Charlie's Almanack, a collection of his best talks, quotes and ideas will demonstrate." "With Charlie himself, as your guide via his speeches and writings, you're about to embark upon an extraordinary journey toward better investing, decision-making and thinking about the world and life in general. Charlie's unique worldview, what he calls a multidisciplinary approach, is a self-developed model for clear and simple thinking while being far from simplistic itself. Throughout the book, Charlie displays his intellect, wit, integrity and rhetorical flare while simultaneously reinforcing the virtues of lifelong learning and intellectual curiosity."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

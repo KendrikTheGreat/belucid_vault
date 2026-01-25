@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Phil very much wanted to go to the farm for a break from the hospital and had started to work on the doctors to obtain their permission. There was a sharp difference of opinion among the doctors about whether this was a good idea. But no one ever asked me if there was liquor or sleeping pills at the farm nor did I think to mention the guns we had there. I, who certainly knew the farm was stocked with guns that Phil used for sport, was completely deluded by his seeming progress, lack of visible depression and his determination to get well. In fact, I was optimistic about his ability to do so. And I must say I was glad he wanted so much to go to the farm, and I got caught up in thinking how good it would be for him." "On Saturday, August 3, Phil's driver picked him up, and then they came to get me. We had lunch on the back porch while chatting and listening to some classical records. After lunch, we went upstairs to our bedroom for a nap. After a short while, Phil got up saying he wanted to lie down in a separate bedroom that he sometimes used. A few minutes later, there was the ear splitting noise of a gun going off indoors. I bolted out of the room and ran around in a frenzy looking for him. When I opened the door to a downstairs bathroom, I found him. It was so profoundly shocking and traumatizing. He was so obviously dead and the wounds were so ghastly to look at that I just ran into the next room and buried my head in my hands, trying to absorb that this had really happened. This dreadful thing that had hung over us for the last 6 years, which he had discussed with me and with his doctors by which he had not been talking about in recent weeks, when he was obviously most seriously thinking about it. The site had been so appalling that I knew I couldn't go back in. What I was agonizing about was that I had let him leave the bedroom alone. I can only say that he seems so much better that I had stupidly was not worried enough. It never occurred to me that he must have planned the whole day at the farm to get to his guns as a way of freeing himself forever from the watchful eyes of the doctors and the world. He left no note of any kind."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

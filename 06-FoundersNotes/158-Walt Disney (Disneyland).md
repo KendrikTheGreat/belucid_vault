@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “One day in the early 1950s, Walt Disney stood looking out over 240 acres of farmland in Anaheim, California. And imagine building a park where people could live among Mickey Mouse and Snow White in a world still powered by steam and fire, for a day or a week or if the visitor is slightly mad, forever. Despite his fame and success, exactly no one wanted Disney to build such a park. Not his brother Roy, who ran the company's finances, not the bankers, and not his wife Lillian. Amusement parks at that time were a generally despised business. Disney was told that he would be headed towards financial ruin but Walt persevered, initially financing the park against his own life insurance policy. He assembled a talented team of engineers, architects, artists, animators, landscapers, and even a retired admiral to transform his ideas into a soaring yet soothing wonderland. The catch was that they only had a year and a day in which to build it. On July 17, 1955, Disneyland opened its gates and the first day was a disaster. Disney was nearly suicidal with grief that he had failed on a grand scale but the curious masses kept coming and the rest is entertainment history. 800 million visitors have flocked to the iconic park since then. In Disney's Land, popular historian Richard Snow brilliantly presents the entire spectacular story. A wild ride from vision to realization that reflects the uniqueness of the man determined to build the happiest place on earth with a watchmaker's precision, an artist’s conviction, and the desperate high-hearted recklessness of a river boat gambler.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

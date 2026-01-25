@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "It seemed to me then that a weight whirling around a horizontal shaft, moving rapidly," he's describing, what, a rocket, right? "could furnish lift by virtue of the greater centrifugal force at the top of the path. I was a different boy when I descended the tree from when I ascended, for existence at last seemed very purposeful." So he's telling us he found this dream reading the book and having this daydream wind up giving him what eventually becomes his life's purpose. And more on the importance of this event in his life. He repeatedly photographed the site of the event and remarked October 19 annually in his diary as anniversary day. So it's almost like he, instead of having him celebrating his birthday every year, he celebrates the day that he found his life's purpose. He dated the beginnings of both his interest in space travel and his scientific career from this experience and rated nearly every event of his life thereafter as very purposeful. This is the birth of his technological optimism. The very idea of interplanetary travel lit a fire in him. He reread Verne and Wells many times and never shook off the sense of infinite possibilities that they inspired. "if the human mind conceive of such things," the young Goddard wondered, "could it not also figure out a way to do them?" And after the realization of his dream or his purpose in life, he realized, hey, I don't actually have enough knowledge on how to do this. So he winds up being able to enroll in high school. So it says he realized that he had been floundering in ignorance, trying to solve problems without knowing what he was doing. "This made me realize that if a way to navigate space were to be discovered or invented, it would be the result of a knowledge of physics and mathematics." So that's what he's going to dedicate his life to studying. He enrolled in high school as a sophomore in 1901, just before his 19th birthday. Goddard was eager to learn, and he was even more eager to do.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

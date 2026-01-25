@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So let's go back to this. "He was fired by an inner strength and self-belief, almost impossible to imagine in this feckless age. While I could never lay claim to the genius of a man like that, I have tried to be as confident in my vision as he was." And it's the most important, I think, sentence that Dyson ever writes about Brunel. "And at times in my life when I have encountered difficulty and self-doubt, I have looked at his example to fire me on." Skipping ahead a little bit, and he says, "I have told myself when people try to make me modify my ideas that the Great Western Railway could not have worked as anything but the vision of a single man." We're going to go into more of Brunel's obsession with having complete control over every single project. "Pursued with dogged determination, there was nothing less an obsession. Throughout my story, I will try to return to Brunel and to other designers and engineers to show how identifying with them and seeing parallels with every stage of my own life enabled me to see my career as a whole and to know that it will all turn out the way it has." Okay. So let's go back to the biography of Brunel. The book starts out with the story. This guy named Charles Macfarlane, who's traveling with Brunel, doesn't know him. They're traveling in the winter from France to England. And so they have to go -- they had to cross the channel in a small boat. They wind up being pulled in like this horse-drawn carriage. And I'm going to skip that entire story. I just want to pull out one sentence because I thought this is a fantastic description of Brunel's personality. But again, most of my highlights is just going to focus not on what he accomplished but who he was as a person. And so Macfarlane was talking about as like, "Who is this guy"? And his impression of a young Brunel. Brunel is in his early 20s at this point in his life. He said he was one whose high spirit seemed quite impervious to cold and discomfort. So they wind up striking a conversation. They start to become friends on this little journey. And Brunel invites Macfarlane. He is like, "Hey, I'm going to my dad's house. Do you want to come with me?"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

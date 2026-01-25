@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So he goes home and his daughter, Margery, tells us what happens. "Margery Durant recalled that she saw her father immediately after. He came home and for the first time, gave way to his emotions. He put his arms around me, and I could feel his body tremble and tears were running down his cheeks." Louis Kaufman said in 1927 that if Durant had not become involved in the market, he would have been worth $500 million and still in charge of GM. But Durant had not created his empire by being prudent or practical or listening to others. He had been daring, impulsive, erratic. He won big and he lost big. But on balance, he created what became the largest industrial corporation in history. And I'll leave the story there. I highly recommend reading the book. That is 120 books done, 1,000 to go. If you want to read the book, buy the book using the link that's in the show notes. And by doing so, you'll be supporting the podcast at the same time. I will talk to you again soon.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

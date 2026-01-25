@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Since man is a moment in time, a transient guest of the earth, a spore of his species, a Saiyan of his race, a composite of body, character and mind, a member of a family and a community, a believer or a doubter of a faith, a unit in an economy, perhaps a citizen in a state or a soldier in an army. We may ask under the corresponding heads, astronomy, geology, geography, biology, biography, ethnology psychology, morality, religion, economics, politics, and war, what history has to say about the nature, conduct and prospects of man. It is a precarious enterprise and only a fool would try to compress 100 centuries into 100 pages of hazardous conclusions, yet we proceed.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

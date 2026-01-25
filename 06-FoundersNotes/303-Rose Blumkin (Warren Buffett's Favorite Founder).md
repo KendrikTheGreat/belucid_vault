@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The tale of Rose Blumkin is a quintessential immigrant success story. She was born in a village near Minsk, Russia. She and her seven siblings lived in a two-room log cabin and had to sleep on straw mats. Her father was a rabbi and spent his days in religious study. Her mother ran a small general store. “My father was so religious”, she said, “that my mother had to support us. He only prayed”. Rose never attended school. She started helping her mother in the store at the age of six. She once woke up in the middle of the night and saw her mother washing clothes and baking bread for the next day. Rose said, “When I grow up, you're not going to work so hard. I can't stand it, the way you have to work day and night”. When Rose was 13, she left home walking barefoot for 18 miles to get to a train. She stowed away on the train and got off 300 miles away at a small town near the Ukrainian border. She went from shop to shop looking for a job and a place to stay. “You're just a kid”, one store owner said. “I'm not a beggar”, Rose shot back. With only $0.04 in her pocket, she asked to sleep in the house that night. “Tomorrow, I go to work”, she said. The owner relented, and Rose got up before dawn the next morning and cleaned the store.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Hemingway talks about one of the worst things to happen to them when he winds up having to get electric shock therapy, going through depression, his inability to read, which was -- his love, the love of his life was reading. I mean, you see that 7,500 books. Go back -- let's go back to the what he liked about Cuba. "The American writer like the choices and the freedom," remember, this is 1940s, he is living in Cuba for, let's say, 1940, maybe -- the '40s and '50s. This is wild, wild west. There's -- you got a small corrupt dictator for sure. This is before Castro, you've got the mafia, you've got U.S. businesses. It's a wild place. So he says, the American writer like , and that's what -- just like Key West, that's why he like the Keys. He like this like pirate kind of lifestyle. "The American writer like the choices and the freedom that this island offered, the well-to-do expatriate. Life in Cuba was more colorful and exciting than life at home. The rules were different. That is when there were any rules at all." Talks about some of the stuff he was into. "There was the superb fishing. There was also the shooting club. Cockfighting already illegal in many American states and Cuban Baseball." These are some of the things he loved. So I told you before, my father was actually born in Cuba, he fled almost the same exact time. My grandparents fled Cuba, the exact same year actually. No, maybe two years before Hemingway did. They fled in '59 or maybe '60. But the reason I bring that up is because I remember, and I don't understand the appeal at all, but I remember my dad taking me to illegal cockfighting to watch illegal cockfighting. When I was like five or six years old. I have no idea why Cubans like this the idea of cockfighting. I guess they do. They make a lot of money off it because they gamble stuff, but that is just something that followed as the people, hundreds of thousands, maybe I don't even know the number, it's the large number would flee Cuba for the United States, and they brought cockfighting with them.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

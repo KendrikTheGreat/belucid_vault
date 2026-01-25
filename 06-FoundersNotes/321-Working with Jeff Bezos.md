@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Not long after the launch, my boss, Steve took me aside. He told me that he had an interesting meeting with Jeff, who made it very clear that setting and insisting on high standards was an essential part of Steve's job. To make his point, Jeff asked Steve if he had ever seen the movie, The Aviator, the story of Howard Hughes, the business tycoon, aviator, and film director. Jeff described a scene in which Hughes played by Leonardo DiCaprio, visits one of his aircraft manufacturing facilities to check on the progress of his latest project, the Hughes H-1 Racer, which is a sleek single-passenger plane designed to set new speed records." "Hughes examines the plane closely, running his fingers along the surface of the fuselage. His team watches anxiously. Hughes is not satisfied. Not enough, he says, not enough. These rivets have to be completely flush. I want no air resistance on the fuselage. She's got to be cleaner. Cleaner. Do you understand? The team leader nods. Back to the drawing board. Jeff had told Steve that it was his job to be like Howard Hughes. From then on, Steve had to run his fingers over each new Amazon product, checking for anything that might reduce the quality and insisting that his team maintain the highest standards." "Steve was telling me the story for two reasons. First, it was a heads-up. He wanted me to know, as one of his senior team members, that he would be sending me and my team back to the drawing board if our product didn't measure up. Second, he was telling me that I, too, was responsible for setting high standards for our products. He was telling me that I had to be more like Howard Hughes."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

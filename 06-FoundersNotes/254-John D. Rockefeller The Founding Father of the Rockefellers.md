@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Now I never doubted it. And part of the reason he believes that is because even though it was broken up as a monopoly, which I'll get to later just made him richer. The point is a lot of the ideas I use to build Standard Oil are now very commonplace 30 years later in the business. And he describes that as a principle of centralization. The principles of centralization savings and service have operated as we always believed they would, so he is like, oh, I knew this was going to happen. I demonstrated now all the other businesses are realizing that for the benefit of the whole people and those detract detractors have now faded away. So basically saying you guys were criticizing what I was doing at the time. Now, fast forward a decade or two, and all these other businesses are centralizing, they're vertically integrating, they're cooperating. Not to the, obviously, degree the Standard Oil did, but he's like now all the people that were criticizing me now are just doing the exact same thing that I did. And then this is just great writing that describes the Standard Oil company right before the monopoly was broken up and keep in mind, it's something that always shocks me. And I even forget, and even though I've read so much about this is you freak out how young Rockefeller was. I think he's like 40. He might be 46 at this point, but it is just like, he accomplished so much at such a young age. The Standard Oil company was not a nation, but it had enough of the attributes of one. It was a government of men, not laws. It was ruled by an oligarchy of 41 major stockholders. The domain was divided into territories, managed by men whose powers exceeded those of state governors at the time. That's insane. Its contracts, resembled treaties. It had its own espionage system, its own secret codes. Its employees work to promote the fortunes of the ruling oligarchy and their loyalty to the company approach that of citizens to a country.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

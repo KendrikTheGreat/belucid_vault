@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And I'll get to Steve's idea of the Apple experience, which you and I can use in our businesses. It will make sense in 1 second, let me go to Ken. Ken says, "We all own devices that had too many ill-considered overlapping and inscrutable features, making the product nearly impossible to understand or use. Apple's whole identity was bound up in not having this problem. Over time," -- and this is an important part, "designing an excellent user experience was as much about preventing negative experiences," meaning how frustrating would it be if you were using a device that had what he just called ill-considered, overlapping and inscrutable features. You're going to be angry, like temporarily frustrated, right? You don't want to lose your customers. "Designing an excellent user experience was as much about preventing negative experiences as facilitating positive ones. Great products make people happy almost all the time and do the opposite rarely, if at all." Why is that important? Or more importantly, why did Steve think that was important because Steve said, every interaction a customer has, increases or decreases the opinion of the company. He calls this idea, which I'm about to read to you comes from Becoming Steve Jobs, the Apple experience. It is brilliant. And it's simple, too. "The simple transaction of buying song and handing over a credit card to Apple in order to do so, became part of what Steve had begun calling the Apple experience. As a great marketer, Steve understood that every interaction a customer had with Apple could increase or decrease his or her respect for the company. As he put it, 'A corporation could 'accumulate or withdraw' credits from its reputation, which is why he worked so hard to ensure that every single interaction a customer might have with Apple, from using a Mac, to calling customer support, to buying a single from the iTunes store and then getting billed for it was excellent.'" Why? Because one bad experience might undo dozens or 100 positive experiences that a customer previously had with your company.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

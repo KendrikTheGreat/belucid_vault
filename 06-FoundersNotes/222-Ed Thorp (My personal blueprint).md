@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So he's sitting there thinking. He's like, “I can spin up another hedge fund, I can make a ton of money. But I'm already rich, I have more money than I could spend. I have this great investment in Berkshire Hathaway. I'm the first LP in Citadel”. He's got investments in all these different hedge funds. He's like, no, and he still works. And so he winds up spinning up another hedge fund, but it's completely different. It's now -- I'm going to read this. He's got an entire chapter on this, but I'm just going to read one paragraph, which gives you an idea because I really feel this is the future of work. And what I mean by that is like clearly, the optimal size for a company is shrinking, right? Because we are in the age of infinite leverage. And so I think the future of work is highly automated, lean, and profitable operations. And so he winds up -- let me just read this, I'm going to run a real point. So it's called Ridgeline and XYZ. It's these -- this is like an automated hedge fund almost. This is the way to think about that. So he goes to work every day, but he's only there for a few hours, has lunch with his wife every day, spends time with his kids, working out constantly, like he's doing his thing. And he says, “Between Ridgeline and XYZ, we manage as much as $400 million in statistical arbitrage and another $70 million on other strategy”. So he's running almost $500 million here, while PNP's peak was $272 million. Compared with PNP's maximum of 80 employees. So he had 80 employees and all those headaches in PNP. He only has -- there's 6 total, him being one of them. “There are 6 of us”. So it's him, his partner, and I think, 4 employees, “Of us at Ridgeline, who faced our formidable competitors”. “Several of the competitors had hundreds of employees, including scores of PhDs in mathematics, statistics, computer science, physics, finance and economics. We were a highly automated, lean, and profitable operation”. So I think that's the future of work, highly automated and lean and profitable.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

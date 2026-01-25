@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Imagine one of the coldest little countries in the world. Think of the most barren part of that country. See in front of you a godforsaken place deep in the forest. This book is about a man who grew up in this harsh environment, which was to mark his whole life and fundamentally color the philosophy with which he built his vast empire consisting of thousands of employees and millions of customers all over the world. The country is Sweden. The man is Ingvar Kamprad, furniture dealer. He aims to give his business eternal life. It's a long way to the country where an empire was built. Where he was born, loneliness, silence, and reserve prevail. The cottages have always been small. Survival has never been taken for granted. It was here that the dream of IKEA first grew. This is where the rough outline of the whole concept began to be written by a dyslexic boy on a farm, two empty hands. The myth says he built an empire from nothing. But what are two empty hands? And what is really meant by nothing? Do love and encouragement, innate energy, desire for revenge, imagination, and curiosity all count for nothing? What about the vanity of one day showing your father and your mother and the whole world what you could do? Of course they count. This is not a book about a man starting out empty-handed. On the contrary, it is a book about a man with his hands full of resolute dreams, a heart tormented by inadequacy and self-pity, and a stubborn and inquisitive enterprise—a strange mixture of a social animal and an eccentric. The book is equally about a business in which he realized, through which he lived out all of these circumstances for good or for bad. It is about an outstanding and natural genius, an incorrigible capitalist so relentlessly obsessed by the lure of profit and power that he used a thousand tricks to endow his creation with eternal life. Others will recognize themselves in his story. For all of us bear within us the embryo of a miracle.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

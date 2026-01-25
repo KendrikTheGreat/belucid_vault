@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He felt this way in the, let's say, this 1950s we are in now. There's people in present day that feel their way and in 150 years from now, there will still be people that feel the same way. It's really like sometimes when I feel anxiety or I'm unsure, like I pause and I'm like David, this is not just happening to you. This feeling you're having is part of the human condition. It's been happening in the past; it will happen in the future. So don't let it freak you out, calm down, write out your feelings if you need to write down like what's bothering you? And then I love that Henry Kaiser quote, "Like problems are just opportunities in work clothes." Like but feeling miserable about it is not helping anything. I understand it's like natural. It's a natural like part of being human. But I feel like that -- looking at things like stepping outside myself and looking back and like, okay, oh, I'm anxious. Okay. Well, most humans are anxious, and they always will be, most likely. So what are we going to do about it? I mean this guy is calling himself. I was only a moderately successful hack. So why I mean if he feels that way, why wouldn't we, right? Waiting for some elusive big break and the chance to get out of comics and into the real world. This is such an important sentence coming up. What I didn't understand at that point in my life was that comics were the real world to me. And he's not going to understand that for quite some time. We're still early in the book. Okay. We are like in the middle of the book. Okay. And that's funny. I didn't even -- a few pages later. I'm looking at the note that I left myself, you ever feel like you're wasting your life Stan lee felt that way, too. And so we're going to see more of that here. As time went by, one problem that kept nodding at me had nothing to do with the comic book characters or plots, but rather with the plot of my own life. I was still feeling more and more frustrated and discouraged. I realized that was almost 40 years old and still doing comic books.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

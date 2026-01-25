@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 In 1984, Oprah was riding high. She was already Chicago's most popular TV talk show personality, and the local ABC affiliate that produced her show was paying her $230,000 a year. Her agent had negotiated a 4-year contract with annual salary increases of $30,000 a year. She was pleased at first, but then began having second thoughts. “3 separate ABC people stopped me to tell me what a great guy my agent was,” Oprah said. “And that didn't make sense to me.” Oprah's natural skepticism was aroused, and she fired her agent. She replaced him with a Chicago lawyer named Jeffrey Jacobs. "'I had heard Jeff is a piranha,” Oprah said. "'I like that. Piranha is good.” That key decision turned Oprah from employee to capitalist and vaulted her out of the ranks of the merely well-paid into the Forbes 400. Her show now airs on more than 200 stations in the United States and in 117 foreign countries. Oprah earns more than $70 million a year. It is ownership that has made her rich. Oprah owns not only her show, but also the studio in which it is produced, and she owns a big stake in King World Productions, the company that distributes her show. Oprah's previous agent had given the local ABC station the rights to syndicate the Oprah show. No wonder they loved him.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 To be honest, I have no idea. All you can see are the plate tectonic trends. The trend is that computers will move from primarily being a computational device to being primarily a communications device." Think about the device that he is going to create in this environment within the next decade that has changed all of our lives. "The trend is that computers will move from primarily being a computational device to primarily a communications device. We've known that, that was coming. The Internet is certainly doing it on a larger scale than some people had imagined. But what this all means yet, I don't know. I think there's room for a lot more breakthroughs." This is why I love reading these older books because this is the perspective in '97. The mindset was there, right? He had -- the idea, the kernel of the idea is right there. I know something is going to change. I know the future is going to be different from the present. And I know I have all these other transformative technologies that I can take advantage of. So how can I combine these and how can I make -- how can I take advantage of that, right? "I think there's room for a lot more `breakthroughs. I think when they happen, they might spread very quickly, much like the worldwide web did," meaning -- how dead on was he about this? This is crazy. Meaning, "That in a period of five years, things could be very different. But it's hard to say exactly what they're going to be. It's very hard." Okay. So that was just one interview. And that interview with Steve Jobs was absolutely amazing. I absolutely loved it. Highly recommend you reading the whole thing. I'm going to -- this is going to be a long podcast, man. Oh, man. Okay. So I'm going to go on to this guy. I didn't even know -- what I love -- I get a lot of feedback from listeners, is like, "You've introduced me to so many people I didn't know exist." It's the same for me. I probably didn't know 80% of the people existed before I started reading about them.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

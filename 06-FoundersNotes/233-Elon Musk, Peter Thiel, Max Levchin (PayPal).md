@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He has this idea that sounds counterintuitive to other people that are not entrepreneurs, and he says, "Listen, only the arrogant are self-confident enough to push their creative ideas on others." And he said, "Steve believed that he was always right. And he was willing to push harder and longer than other people who might have had equally good ideas, but who caved under pressure." And so we've seen an example of that. Of the 4 executives at the top, Levchin, Musk, Thiel and himself. Harris would say with a laugh, this guy was forced out. He was the CEO for a couple of months. Harris would say with a laugh, 4 guys and not a single one of us had an ego that would fit in a large gymnasium. And one thing they disagreed on is that he wanted to bring in like these older people to -- people with experience. And this is what -- this is Elon on the value of being a young whippersnapper, which I thought was funny. He was -- so Elon is saying, "He was going to tame us young whippersnappers," that's his words, "With these like seasoned financial executives or whatever." And we're like, these are the same seasoned executives of these banks who can't do Jack s_*_, who can't compete with us. "Doesn't make sense," Musk said. He believed that whippersnappers like Peter, who's loss troubled Musk because Musk -- so again, a lot of stories I have to omit. Peter is not getting along with this Harris guy and Musk isn't either.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

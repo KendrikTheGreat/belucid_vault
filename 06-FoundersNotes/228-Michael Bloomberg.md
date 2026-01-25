@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But in general, he repeats over and over again. He's like, "Listen, just build it yourself. It's more fun, it's less risky, and you can do it exactly how you want to do it from the very beginning." Okay, so now he's full on, on this idea. This is going to be this gigantic customer acquisition strategy for him. I'm going to read this to you. Really, the note I left myself. So when I go back and reference these ideas in the future, I need to understand instead of reading this whole page what is the compressed idea here. "Each news story is a product demo. More demos lead to more revenue. More revenue leads to more stories and then even more revenue." This is what I meant. Like this is really my favorite idea in the book. "I handed him a 3-page list of what Bloomberg News should be doing. Our purpose was to do more than just collect and relay the news. It should also advertise the analytical and computational powers of the Bloomberg Terminal by highlighting its capabilities in each news story. Each news story is a product demo. This is wild. With our Terminal functions included each of our new stories would be more informative than the competition's, and more people would want access to them, which meant more revenue, which in turn meant we could afford more reporters and have more news and so on and so on. Each news story is a product demo. More demos lead to more revenue, more revenue leads to more stories and then even more revenue." And then he just gives us a simple like formula. "As an entrepreneur, I've learned to know what I don't know to get access to the people who do know and then study hard." And then he goes back to this idea of knowing what you -- like what is the purpose of your business? What is the actual product or service that you provide to your customers? So I referenced this earlier, let's go over it again. "When we first began, we manufactured computers and keyboards because we had to. Personal computers didn't really exist in order to deliver our product. So we made them because that's how we delivered our product.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

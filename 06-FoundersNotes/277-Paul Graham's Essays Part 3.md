@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Let me read -- I'm going to read this again. “Because painters leave a trail of work behind them, you can watch them learn by doing. If you look at the work of a painter in chronological order, you'll find that each painting builds on things learned in previous ones. I think most makers work this way”. And so that's the learning by doing part. Then he's saying, "Hey, you learn from other examples." Really, I think that's what Founders podcast is for us, that's what reading these books is, right? “The other way makers learn is from examples. To a painter, a museum is a reference library of techniques”. It's exactly what a biography of an entrepreneur is. “For hundreds of years, it has been part of the traditional education of painters to copy the works of the great masters because copying forces you to look closely at the way a painting is made”. This is such a fantastic idea. “Writers do this, too. Benjamin Franklin learned to write by summarizing the points in the essays of Addison and Steele and then trying to reproduce them. Hackers, likewise, can learn to program by looking at good programs, not just to what they do, but at the source code. Another example we can take from painting is the way that painters are created -- excuse me, that paintings are created by gradual refinement. I think companies are created by gradual refinement as well. Now, we get to my absolute favorite idea in this entire book, and it can be summarized in 2 words, relentlessness wins. “This sounds like a paradox, but a great painting has to be better than it has to be”. So again, great painting for all purposes. We're talking about a product, right? “It sounds like a paradox, but a great product has to be better than it has to be”. What the hell does that mean? For example, when Leonardo da Vinci painted the portrait of Ginevra de' Benci, he put a juniper bush behind her head. In it, he carefully painted each individual leaf. Many painters might have thought this is just something to put in the background to frame her head. No one will look that closely at it, not Leonardo.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

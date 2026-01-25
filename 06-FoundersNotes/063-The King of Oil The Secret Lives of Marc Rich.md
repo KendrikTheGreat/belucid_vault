@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Marc Rich and his business partners were on the scene when these events happened. Marc Rich is the epochal pioneer of globalization. There's no way I pronounced that word correctly, by the way. The pioneer of globalization and an architect of the modern system of commodities trading. He is the inventor of the spot market, without which modern oil trading would be unthinkable. So they're going to now tell us a little bit about like what was the world like before this invention. So he made this invention before I was even born. So I've only grown up in a world after the innovation that Marc Rich created. And it says, at the time, only around 5% of the world's oil was freely traded according to the law of supply and demand, whereas the other 95% changed hands according to long-term contracts and at fixed prices. Since World War II, the global oil market had been dominated by the seven sisters, that's the name for the leading international oil companies at the time. And he says -- this is how the author describes what the seven sisters are -- or were, I guess. This cartel of multinational oil companies took its strongest beating from Marc Rich + Co., that's the name of Marc Rich's -- the main company. But I'll get into later how he -- he had a very like tangled web of -- and a way to hide like a lot of his activities. And again, a lot of the stuff he did was legal. But he definitely -- he definitely found the value in being secretive. Okay. So it says they took its strongest beating from Marc Rich + Co., a small company founded in the Swiss town of Zug in 1974. It is as if a small software company were to suddenly wrestle away Microsoft's market position. In next to no time, Marc Rich and his four business partners managed to achieve what all commodity traders admire and strive for. They created a new market for products that until then either had been traded in very small amounts or had not been traded at all. So it's kind of the holy grail in a lot of entrepreneurship actually, the creation of an entirely new market.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

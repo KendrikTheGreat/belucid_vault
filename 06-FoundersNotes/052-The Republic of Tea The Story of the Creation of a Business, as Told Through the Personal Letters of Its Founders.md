@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 In my view, all things are born to thrive. You cannot go wrong when you create something, be it a life or a business, if you take responsibility to see that it thrives. What makes a thing thrive? People thrive on happiness. There is nothing elusive about happiness. It's here always. The only problem is that sometimes we're not here for it. One sure way of not being here is to resist the uninvited, meaning, stuff we have no control of, things we can't plan, which is sadly what most people do most of the time. But happiness is the primal birthright of the man or woman who does not resist it. The common fallacy about happiness is that you have to do something to attain it. Not so. Happiness is built into our DNA. It's not an add-on option. Happiness needs no cause. It is an unspeakable great strategy of our times that so many people are desperately looking outside themselves for the source of happiness when it's already inside them waiting to be tapped. Now he's going to apply this to businesses. To make a business thrive, however, takes a little bit of effort. Business is about another kind of relationship, the one between you and me. When we conduct business together, we create a third entity, the business relationship. Unlike you and me, the business itself is not endowed with a natural innate happiness. It is our responsibility to make it happy, and that means making it thrive. What causes a business to thrive is the mutual agreement we make between us that we will both benefit from our business relationship. Fortunately, business guides us with an absolute way to measure its success. This is the key point here. Business always thrives on profit. So when everyone who has an association with a business, its investors, its employees, its vendors, and its customers, all realize a profit from that association, the business is happy. That is why if you start a business, you assume the responsibility to make it thrive. You will hire others who will join you in your cause and whose families as well as they will depend on you to captain their ship through the choppy waters of reality.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This remarkable sense of self-belief from the 34-year-old captain shows why De Gaulle's attitude must have seemed quite insufferable to his superiors. And what is he doing? He's systematically refuting the dogmatism of official teaching. And so his point, this is where it's also going to -- okay, so I just said Munger and Buffet definitely do that over and over again, right? If you've read their words and you've listened to them, you know that. But he's also -- this is where he's going to parallel Singleton again -- Henry Singleton, again. And so in this case, De Gaulle is like schooling his teachers. He's like, "Listen, you're not even deriving the right lessons from Napoleon." So it says, there was never -- he's talking about Napoleon. He definitely criticizes Napoleon quite a bit, too. But this is something that he thought Napoleon did right. “There was never a single corpus or doctrine in the army of the First Empire,” that's Napoleon. Seizing the circumstances, adapting to them, exploiting them, that was the basis of Napoleon's conduct. So seize the circumstance, adapt to them, exploit them, that's the basis of Napoleon conduct. This is something that De Gaulle believes his entire life that you have to adapt to ever-changing circumstances. Herb Kelleher, founder of Southwest Airlines, talks about this over and over again. He's like, "Listen, planning is orderly and logical. Reality is chaotic. Planning does not square well with realities." Herb Kelleher's advice to future entrepreneurs, right? And part of the reason he was able to build the only airline that was profitable for 40 straight years. That's insane. So what did Henry Singleton teach us. Often criticized for not having a business plan just like Herb Kelleher was, okay? Henry replied that he knew that a lot of people running companies -- remember, this is the person that had the most successful record in American business history. This is what he's telling us. And this is why he was so different from his peers at this point. This is like, I think, the 1960s is when he's saying this.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

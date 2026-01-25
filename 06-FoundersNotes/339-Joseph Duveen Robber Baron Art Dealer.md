@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Multiple times, it talks about that Duveen was aiming for monopoly on purpose. There's a great line where it says monopoly by Peter Thiel in Zero to One, where he says monopoly businesses capture more value than millions of undifferentiated competitors. This is what it sounds like if you have a monopoly. There had never before been anyone like Duveen, the exalted middleman, and he practically monopolized his field. 95 of the 115 paintings in the Mellon collection, right, which gets donated to the public, which I'll talk about why he did, this was also a genius move in a little bit, came to Mellon through Duveen. Mellon -- just think about that. At this point, Andrew Mellon, one of the largest art collectors in the United States, he might not be the largest, but he's on the short list. He might be the fifth, might be the second, might be the 10th. He's certainly sure as hell is not 100th, right? So one of the largest art collectors in America's time, 95 of the 115 paintings in this collection came from Duveen. That is he aimed for monopoly and he hit his target. Another fascinating thing that I've already mentioned, but is very obvious when you read about and you start studying Joseph Duveen, it's like, okay, this guy is super clever. And what makes him even more clever, right, so it talks about that, he enjoyed having the stupid side of his character emphasized in public dinner parties. He'd bring up his mistakes. Like most people, they're kind of embarrassed by their failures, embarrassed by their mistakes. They would, like, hide it. They're being ashamed of it. He wouldn't hide his mistakes. He'd bring them up himself. And this is the line writes. It says, "He enjoyed having the stupid side of his character emphasized. It constituted a disguise for his cleverness." That's how you know somebody is even more clever, the fact that they understand that it's clever to conceal your cleverness. And another thing that clever founders do is they're focused.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 You never realized that you're making a memory at the moment something is actually happening. Stranger still, the strongest memories are those who never dream to survive and would be inextricably linked to your future. Momentous happenings can lie buried in the past, while tiny needle sharp split seconds, sometimes stay with you forever. They happen in a moment, and they tug at your memory endlessly. They live always just below your consciousness. I remember the woman at the Florence Morris Beauty Salon, where I had my first cosmetics skin session. She was thoughtless and cool and will always remain that way in my mind. Maybe she was a catalyst for good in the end. Maybe I wouldn't have become Estée Lauder if it hadn't been for her. At the moment, she was cast in my memory, to last there forever. I despised her. Simply thinking about that incident brings back a twinge of pain. She was having her hair combed and she was lovely. I was very young and vulnerable, and I loved beauty. I felt I wanted to make contact with her in some small way. What a beautiful blouse you’re wearing, I complemented her. It's so elegant. Do you mind if I ask where you bought it? She smiled. What difference could it possibly make? She answered, looking straight into my eyes, you could never afford it. I walked away, heart-pounding, face burning never, never, never, will anyone say that to me again, I promised myself. Someday, I will have whatever I want.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

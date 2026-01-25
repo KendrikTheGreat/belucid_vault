@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So while she's living with him, she starts building -- she starts creating hats. And her first store is on the bottom floor of like this -- I don't know if it's a building that he owns or whatever the case is. But it's a high-traffic area where other people really high means have to go through. And so they stumble upon Coco, this crazy character with her crazy-looking hats. And again, that's where being different for the sake of it is beneficial, like I've never seen anything like this. And what she was doing? She was just buying hats really cheaply. She even like -- she's kind of mean sometimes, where she like ridicule these like rich -- she is calling like rich idiots for lack of a better word. Because let's say, I don't know the exact translation of the numbers between francs and everything, but let's say she could buy a hat for 10 cents, and then she'd add some feather. She’d sow something on it. She would do it with like minimal improvements and then sell it for like $15. Like that kind of high margin. So the point was like, she had immediately started making a lot of money right away. And that -- not only on hats, but on the clothing she was making too. So anyways, what I mean about that is she's just resourceful. She realized, “Hey, listen, this is my way out, and I'm not going to squander it. I'm not going to be like, oh, now I'm -- this guy, like he's just going to take care of me.” She's like -- she had a relationship with him. She loved him for a little bit, but she's like, "I -- you're in my way, I want to work." And she would leave men all the time anyway the guy in the way of her ability to like to maintain her independence, to make her money. She was extremely focused on work. As you could see, when I started the podcast with a quote at 71, where she's like, “It's okay that people don't compliment anymore, but they compliment like -- they don't have to compliment me, the person, but they compliment the work, and that's the only thing that counts.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

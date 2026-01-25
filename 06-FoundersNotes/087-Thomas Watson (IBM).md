@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Thomas Watson began his life at age 40 after Dayton, Ohio nearly ruined him. In Dayton, Watson experienced fantastic success and near destruction. All of it had to happen for IBM to exist at all and for Watson to take his place among history's great business figures."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

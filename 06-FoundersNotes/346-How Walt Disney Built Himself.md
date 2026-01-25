@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Walt Disney was the first to bundle television programs, feature animation, live action films, documentaries, theme parks, music, books, comics, character merchandise and educational films under one corporate umbrella. He created the first modern multimedia corporation. In the year of his death, 240 million people saw a Disney movie, 100 million people watched a Disney television show, 80 million people read a Disney book, 50 million people listened to Disney records, 80 million people brought Disney merchandise, 150 million people read a Disney comic strip and nearly 7 million people visited Disneyland. Walt Disney had changed the world. He had created a new art form and then produced several indisputable classics within it. He had advanced color films and then color television. He had reimagined the amusement park. He had encouraged and popularized conservation, space exploration, atomic energy, urban planning and a deeper historical awareness. He had built one of the most powerful empires in the entertainment world, one that would long survive him, yet all of these accumulated contributions paled before a larger one. He demonstrated how one could assert one's will on the world. Walt Disney had been not so much a master or fun or a reference or innocence, he had been a master of order.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

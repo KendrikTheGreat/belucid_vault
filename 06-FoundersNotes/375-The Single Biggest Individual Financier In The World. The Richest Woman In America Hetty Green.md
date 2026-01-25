@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I want to talk to you about two books today, the two biographies of Hetty Green that I've read. The first is "The Genius and Madness of America's First Female Tycoon" written by Charles Slack. And the second is "The Richest Woman in America: Hetty Green in the Gilded Age" by Janet Wallach. So you may not know who Hetty Green is, but in her day, she was one of the most famous and infamous financiers, investors, and entrepreneurs. She was by far the smartest woman on Wall Street. She's a financial genius, a railroad magnate, a real estate mogul, and she was also described as a Gilded Age renegade, which you and I will talk a lot about today. It's one of my favorite things about her, and shockingly, this is one of the things that blew my mind the most, is she was a reliable source of funds for city government. So on more than one occasion, Hetty, as a single individual, bailed out the city of New York. And the reason I think it was important to read two books on her is because we're dealing with a very singular individual here. You have to keep in mind, at a time when women weren't even allowed to vote, Hetty was the single biggest individual financier in the world. And so I just want to give you a brief overview before I go into her childhood, because I thought her childhood and the education she received from her family was very fascinating.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So let me give you a little bit more detail about that. And a note I left myself on this page is something I think about all the time, that bad boys move in silence. "Andy was intensely private, building his real estate fortune, banking business, and other interest without accessing public capital markets, making no more than the required minimum public financial disclosures and without quoting the press and drawing attention to himself." I love traits like that. I feel the very -- the same way. But it also -- when I came across that section, it reminded me of what Claude Shannon -- let me pull it up so I don't butcher this quote. It reminded me of what Claude Shannon said about Henry Singleton. Let me see if I could find the quote without wasting too much of your time. Okay, I found the quote. This is Claude Shannon on Henry Singleton. He says, "He always tries to work out the best moves. And maybe he doesn't like to talk too much because when you're playing a game, you don't tell anyone else what your strategy is." So we're seeing similarities between the way that Henry Singleton would conduct his business affairs and the way that Andy Beal does as well. Okay, so I'm going to fast forward to -- there's a series of games that have to happen over a several-year period before the high-stake poker game of all time takes place. And so I'm going to give you a little bit of background and draw some interesting parts from these games. And so at this point, Andy is coming to an end of one of his trips to Vegas, and he's talking to other professional poker players. And he has this idea. And he said, "'I want to play higher,' Andy told Todd. 'Okay,' Todd said, 'I'll play you higher.' 'No, no, no. Not this time. I want to come back and play a lot higher, like $10,000 to $20,000.' Todd didn't think he was serious." At the time they're playing a 400-800 game. "This 400-800 game was not particularly large by Todd's standards, but this guy wanted to play for 25 times as much. Todd thought, 'This guy must be full of s_*_.' It is so rare that a completely new player would play for such high stakes."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

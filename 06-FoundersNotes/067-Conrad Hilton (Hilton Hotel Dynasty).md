@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He was very -- this -- I mean, listen, everybody that we talk about, everybody in the world is weird if you get close enough, right? And especially these eccentrics that we study, like I'm not going to write a book about you if you're entirely normal. But he was very bizarre where for, I would say, I don't know, like 40 years of his life, he lived alone. He was wealthy by that time. So he had like servants, like maid, stuff like that. But even when he gets married, he gets married for the second time at 55 years old, I think he is 55, and then he gets married again when he's like 80. So he's married for like 3 or 4 years when he is 55. They get divorced. That's Zsa Zsa Gabor, I guess she is like -- according to the author, like one of the -- she is like the Kim Kardashian of her day, where she was just famous for being famous. She didn't really have like -- she was just well known for being well known. But anyways, like even when she moves in with him, he refuses to share a room with her, and like he won't -- she's forbid to go in his room. Like he was just extremely private weird dude. And then he -- I think he winds up sharing a bedroom later on a life because he gets married, like -- I think he is married for like 3 or 4 years right before he dies. So -- but this whole idea that he was, to a large extent, a private man, that's an understatement. All right. So he says -- so he's in -- now we're going to get inside of like -- he's an extremely driven man. He's got family, but he's also like kind of a lonely guy. So he's in New York City around New Year's Eve, checking out the Hotel Pierre for a potential deal. And this scene I'm bringing you into is just like, he's in a bar, it's New Year's Eve 1941, and he's depressed. And it says, "Because he was alone in a room full of happy strangers, this one somehow felt even more discouraging than the others. While he had previously done a lot with his life, all around him, it was glaringly obvious that others had somehow done what he hadn't."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This book is a selection of written and spoken quotes on a variety of subjects, grouped according to broad themes and designed to give the reader an insight into the mind of a man who combined energy of thought and energy of action to an exceptional degree. Napoleon was a manipulator of things and men. For Napoleon, each thought is a step to an action. In Napoleon was a radiant power of the mind that cut through speculation, stripping all problems down to their simplest elements, discarding all obstacles to action. To his mind, inaction was unbearable. Work, he said, is my element. I am born and built for work. I have known the limitations of my legs. I have known the limitations of my eyes. I have never been able to know the limitations of my working capacity. Long before he played any political role, he had discarded whatever illusions might have prevented him from playing it. He knows that men have always been the same, that nothing can change their nature. It is from the past that he will draw his lessons in order to shape the present. To Napoleon, men were weak, ineffectually selfish, and easily guided. The strong are good, only the weak are wicked, he once wrote. This maxim was to become a cardinal principle of his politics. As for the purpose of life, his answer was definite. We are born for the enjoyment of life. Happiness is merely the enjoyment of life in the manner that conforms best to our nature. All my life, I have sacrificed everything, comfort, self-interest, happiness to my destiny. Destiny must be fulfilled. That is my chief doctrine.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

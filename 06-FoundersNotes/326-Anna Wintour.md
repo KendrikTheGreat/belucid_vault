@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 It's obvious when you study the careers of Steve Jobs or Anna Wintour, they hold up the work as most important. Now this is not -- I don't think being direct or even really harsh or a dictator is a prerequisite to doing great work. I'm not saying everybody should do this, look what Steve Jobs did, you're an adult, you got to figure out how you want to manage your own company, right? No one should tell you that, no one should make that decision for yourself. It's definitely not prerequisite. Like John D. Rockefeller, arguably Charlie Munger will tell you, "He created the greatest company of all time." He was ruthless to his competitors. But inside of his office, the people worked for him, his partners love them. His employees would say, "He never said a crossword. He never raised his voice. He was never rude." So it's clearly not a prerequisite to building the right company. But the main point here is like putting up the work, right, the founders or the guardian of the company soul and what -- one of the things you're guarding of is to make sure that the work, the quality of the work is most important. And Anna definitely did that even if she could be harsh or said complaining to Anna was pointless because Anna would just say, "This is not a girl's boarding school. Deal with it yourself."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So when I first came across that paragraph, I thought it was really a reinforcement of why reading biographies is so important, all of the people that you and I are studying on this podcast created their own world within the world. And another way to think about that is they were the stars of their own movie. And in this case, he's using the metaphor, being the star in your own play. And then when I finished the book, I realized that's not a complete explanation of why this activity is so important. When I got to the end of the book and it sinks in, that the life story -- not only is the book over, but the life story of Edwin Land is over. He's no longer with us. His ideas live on. His story lives on. The author is no longer with us. I looked up and read his obituary right after I finished reading the book, and it just exacerbated this bittersweet melancholic feeling that I've talked about multiple times. You just realize that, that path lies before all of us. So the copy I hold in my hand, it's a signed copy by the author. He signed it on February 15, 1988, and I was flipping through my notes after reading his obituary, and it was like -- and it hit me again, I was like that person that wrote that no longer exists. And so I was sitting there trying to think of like, why -- I could sit here for 30 minutes listing -- reading quotes of people that we've studied that are doing the same thing that you and I do, right, that are reading biography. Some of the smartest, most productive people in the world find this activity so valuable that they take time away from their schedule to do it. And I think there's very practical things like you can download the learnings of somebody's entire career in a few hours by reading the book. You can be inspired by stories of people not giving up, of persevering, of being determined. And then I thought of this quote -- and it made me think of this quote from Steve Jobs, that's in the biography by Walter Isaacson that I think illustrates the point that I'm poorly making here.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

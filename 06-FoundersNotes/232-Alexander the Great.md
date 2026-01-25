@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “Alexander lived for 32 years and 8 months. He ruled for 12 years and 8 months. He was handsome, embraced hardship and had the sharpest of minds. He was extremely brave and dedicated himself to both honor and to taking risks. He had an insatiable appetite for glory. Even when circumstances were unclear, he was highly skilled in seeing what needed to be done.” “When it came to drawing up, arming and equipping his army, he was highly knowledgeable. He was able to raise morale among his soldiers to fill them with hopes and through his own fearlessness to dispel their fear in times of danger. At moments of uncertainty, he acted with the greatest courage.” “He kept his promises. It is true that passion or temper may have sometimes led Alexander astray that to some degree, he inclined towards arrogance, but Alexander was noble enough to repent for his errors. Whoever would reproach Alexander, should first weigh up his own personality and achievements against Alexander's. It is my opinion that at that time, there was no nation, no city, not even one man who had not heard the name of Alexander.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

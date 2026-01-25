@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "There is value in rethinking Claude Shannon, but not in the way we'd imagine. Consider him not only as a distant forefather of the digital era but as one of the great creative generalist of the 20th century, not solely as someone who laid the foundation of the information age but as someone who trained a powerful intellect on topics of deep interest and continue to do so beyond the point of short-term practicality. What can we learn from that Claude Shannon? For one thing, Shannon's body of work is a useful corrective to our era of unprecedented specialization. His work is wide ranging in the best sense and perhaps more than any 20th Century intellect of comparable stature, he resists easy categorization. Was he a mathematician? Yes. Was he an engineer? Yes. Was he a juggler, unicyclist, machinist, futurist, and gambler? Yes. Shannon never acknowledged the contradictions in his fields of interest. He simply went wherever his curiosity led him. So it was entirely consistent for him to jump from information theory to artificial intelligence, to chess, to juggling, to gambling. It simply didn't occur to him that investing his talents in a single field made any sense at all. There were links from field to field, of course, and it goes without saying that Shannon understood the bridges between his work and information theory and his work on robotics and investing and computer chess. Few have had a better intuitive sense of how the information revolution would fundamentally alter our world in all its aspects. But that sense led Shannon to choose exploration rather than specialization. This indifference to seeming contradictions extended to the way he lived his life. He had the options of worldwide fame, yet he preferred to remain largely anonymous."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

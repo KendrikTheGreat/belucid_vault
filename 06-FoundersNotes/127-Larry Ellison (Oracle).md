@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 You want to know what I think about Charlie Kane. Well, I suppose he had some private sort of greatness, but he kept it to himself, he never gave himself away. He never gave anything away. He just left you a tip. He had a generous mind. I don't suppose anybody ever had so many opinions, but he never believed in anything except Charlie Kane. He never had a conviction except Charlie Kane in his life.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

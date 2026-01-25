@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 It says, "One way of viewing Silicon Graphics in the mid-1980s is, if an extraordinary willful human being with great technical aptitude is permitted to create a large business organization, how will that organization behave? By 1984, everyone understood that it would behave like Jim Clark, which is to say that it would behave as no big, successful American company had ever behaved. It would be a loose collection of argumentative, brilliant, bullheaded engineers who might or might not make money but almost certainly would build something wonderful." I want to read that part one more time because I think this is very interesting. It's a collection of loose, argumentative, brilliant, bullheaded engineers who might or might not make money but most certainly would build something wonderful. And so from the Board of Directors, the people who own equity in the company, you can see their perspective. They're like, hey, we've got great technology. We're not making any money. We're going to keep the great technology. We don't necessarily have to improve the great technology. We're going to put this layer of people that actually know how to run a business, and the result is they wind up making a lot of money for a short amount of time until they get disrupted. But the point of this is you see both sides. If you're the founder, you're not going to want to work in this environment. You made a drastic mistake in the sense that you gave up way too much equity, and you gave up way too much control. And then you're surprised the people with the money and the equity and the control get to tell you what to do. This is why you and I, I feel talk about this a lot, where I really do believe that a lot of people think entrepreneurs are in it for the money. And I think if you ask them, the control, the independence, and the control, is worth a lot more than the money. And the kind of usually ego that are associated with founders and entrepreneurs, they probably think, hey, if I have the independence and the control, I'll get the money anyways.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

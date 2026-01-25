@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Now it gets even worse. Some people were sent off to concentration camps in the interior of the island. Few were more even gruesome, and this is -- I can't pronounce the name, but this is his aunt, so Socrates Onassis' sister and her husband, right? So that's -- that would be Aristotle's aunt and his child, which would be his niece, had sought sanctuary in a church. They're in a little Greektown a little ways away. 500 Greek men, women and children were held together in prayer when the Turk set the church on fire, every last man, woman, and child perish in the flame. So he's already lost, let's say, half a dozen family members and the war just began, they're dead immediately. Socrates Onassis says that his dad was arrested in lodge and prison. Now what he thinks is going to happen to him. Aristotle was filled with a nagging fear for his father's health and life. There was little he could do at the moment. He was now the only man in the family, and he was racking his brains for a way to cope with his new responsibilities. Aristotle was left on his own. He did not know where he would spend the night because it came and it would kick them out of the house and they started putting the Turkish soldiers into the house as previously occupied by not only Onassis' family, but everybody in the neighborhood. So now this is where he figures -- he starts acting almost entrepreneurial, right? The Turks wanted alcohol. They were the central command. I don't know what their version of, but let's say, in an American army, be like the general forbade, the Turkish soldiers to drink, right? So the Turkish soldiers wanted to get around that, they wanted alcohol. And Aristotle is like, well, if I can figure out, and it was really hard to get at the time. If I can figure out how to get it, I can ingratiate myself with them and maybe like I can show that I'm useful: one, they'll let me live; and two, I may be able to rescue my father, okay?
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

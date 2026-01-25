@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Socrates was the first person to demonstrate that life is open to philosophy at all times, in every part, among all kinds of people, and in every experience and activity. Often hailed as the founder of philosophy, Socrates taught and indeed strove to embody his credo that how each of us chooses to live and die has a great meaning. He influenced the way in which we think about moral choices, as well as the way we make them in our daily lives. In this brilliant biography, renowned historian, Paul Johnson, offers a fresh and fascinating portrait of a charismatic man whose ideas still shape our decision making, our ethics, and our ideas about the body and the soul."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

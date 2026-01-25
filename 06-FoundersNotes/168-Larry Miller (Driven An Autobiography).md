@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 It's clear at this point in the story, it's very clear that -- he did not get that. I was so busy working, I would have enjoyed things more along the way. Gail doesn't believe me. She thinks if I could do it all over again, I'd do it the same way. Maybe she is right. So now he's going to talk about what was happening in the hospital. I mean, he just -- this is just terrible. They have to first start amputating like three toes then they're eventually going to amputate both his legs. He has a heart attack. I mean, just -- says then the skin on my leg started to turn black and the ends of his legs -- I'm sorry, this is not him writing, this is the author writing, the co-author. Then the skin on his legs started to turn black and the ends of his legs were so painful that even to put the dressings over then were excruciating. That's -- this is -- so this is after they took the toes, then they took both legs below the knee. We realized that something was terribly wrong said Gail. Not only did his legs begin to black, but so did his fingers, three of his fingers actually died. Test revealed that he had calciphylaxis, there's no way for me to pronounce that word, and had it for some time. This is what it is. It's a rare disease in which blood vessels fill with calcium, preventing oxygen from reaching the tissue. So that's why his extremities are dying. This is why his legs were beginning to blacken, they were dying. Larry received this news on Thursday, February 12. This is after years of declining health being in and out of the hospital, heart attacks, all that stuff. He had months. This is what the doctors are telling him. He had months to live if you chose to continue the dialysis. Or five to nine days, if he chose not to continue it. So he's got to decide what he's going to do. He's just talking -- just right now, just him and his wife. We spent the day talking about what to do, says Gail. His biggest concern was how she's going to manage without him.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

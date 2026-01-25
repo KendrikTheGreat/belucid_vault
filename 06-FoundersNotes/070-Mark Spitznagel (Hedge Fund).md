@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so what that means is, undoubtedly, over the last few years, you've probably seen headlines such as, "Oh, hedge fund makes $1 billion in a day." And if you click on that article and read it, it's usually this guy because he profits when there's like miss price drawdowns in the market, which happen as he says, they're not even - they shouldn't even be called Black Swan because they're completely predictable. So I don't know how much of today's podcast I'm going to spend talking to you about that. But it is -- he talks about that at length in the book. So that's just a little bit about -- that's a strange niche to carve out for yourself. It's a strange way to make a living because it's so counterintuitive, like he was just saying Klipp's Paradox, it goes against our wiring, it goes against our humanness. And I'm fascinated by people that arrive at vastly different conclusions than the rest of us. I can call them misfits, as you've heard, outliers. What are you going to call them. And so I think they're worth studying because there's a value in not thinking like everybody else does. So I just want to tell you about -- because I didn't know -- even though I'm familiar with Taleb's work, I didn't know who Mark Spitznagel was until I actually saw a tweet from Taleb about a video that -- he tweeted out a link that was a video of Mark talking about his approach to the market. And it was -- by watching that video, I started researching Spitznagel that led me to this book. So anyways, let me jump into it because I think his ideas are interesting, and I just want to share as many of them with you as possible. All right, so it says, "At the outset, we must think of capital in a new way, as a verb, not a noun. Rather than an inanimate asset or piece of property, it constitutes an action, a means to an end, to build, to advance, to deploy the tools and instruments of a progressing economy. Indeed, capital is a process or a method or path. What the ancient Chinese called the Dao.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

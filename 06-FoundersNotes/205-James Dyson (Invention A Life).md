@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So he keeps going. "There's a whole new market in India of young professionals. Dyson has become as much an Asian as it is a British business, having started and consistently grown in Britain, we now sell over 95% of our products in our other global markets." And so that's the difference between the first book I read and this book. In those 20 years, he went from almost, I think, 100% of his -- nearly 100% of his sales were in Britain to now it's 5%. So then he talks about, like we're being dumb on every level, and nobody is doing anything about it. He talks about 60% of the people that go -- that get degrees in engineering in British universities are from outside the EU. And he says, "After their studies, what does Britain do with them? We chuck them out. Why on earth would you send engineering graduates, researchers, and doctors packing when they have valuable technology at their fingertips that they take back to countries like China and use to compete against us?" His point is like, why are we not employing them? Why are we not letting them stay here? What the hell is wrong with you? So then he talks about the process of like, "Okay, while I try to make things in Britain, and this is the reaction I get." So he says, "We need the government's help. I went to see Greg Clark, the Secretary of State for Business Energy and Industrial strategy. When we asked during the meeting, if he could help us in any way, he refused."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

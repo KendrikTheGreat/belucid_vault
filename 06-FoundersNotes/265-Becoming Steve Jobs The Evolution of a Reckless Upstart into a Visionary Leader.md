@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He shaped how I came to view the world. We were real strong-minded, but he had a fully formed aesthetic and I did not. It is hard enough to see what is already there, to remove the many impediments to a clear view of reality. But Steve's gift was even greater. He saw clearly what was not there, what could be there, and what had to be there. His mind was never a captive of reality. Quite the contrary. He imagined what reality lacked and set out to remedy it. His ideas were not arguments, but intuitions born of a true inner freedom. For this reason, he possessed an uncannily large sense of possibility. An epic sense of possibility. Steve's love of beauty and his impatience with ugliness pervaded our lives. No object was too small or insignificant to be exempt from Steve's examination of the meaning and the quality of its form. He looked at things and then created things from the standpoint of perfection. That could be an unforgiving standpoint, but over time I came to see its reasons, to understand Steve's unbelievable rigor, which he imposed first and most strenuous on himself. He was the most unfettered thinker I have ever known.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

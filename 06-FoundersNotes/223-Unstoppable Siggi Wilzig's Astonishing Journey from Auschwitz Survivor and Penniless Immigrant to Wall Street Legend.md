@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “When people ask me, how did you survive? I leave out a small thing, which isn't really a small thing. Any survivor who has a heart and brains lives with guilt, that they survived, and others didn't. My mother was sent straight to the gas chamber. My father was beaten to death. My sister, Martha, was murdered. My brothers, Willy and Martin and Louis, were murdered.” “And here I am, and they're all dead. Why them and not me. It was as if God had his hand on my shoulder to lead and guide me when I was all alone and in mortal danger. I remember everything since I was 3.5 years old. I can tell you the color of the stripes on my mother's sweater from when I was a little boy. It's good and bad, such a memory because everything stays with you and you can't shut it off.” “I remember where we went fishing as boys, but I also remember what the barracks look like in Auschwitz and the Kapo with a stick in his hand and everything he did and that memory is very, very bad. It never goes away. He reached down and rolled up the leg of his pants. Look, see, since the day of my liberation, I wear 2 pairs of socks. For the past 50 years, I've never left the house without 2 pairs of socks, that and a safety pin, 2 pairs of socks because in the camps, a pair of socks can make the difference between living and dying.” “The deficiency of the body, the dirt, the filth from a splinter, you would develop rotting flesh. One splinter from a wooden shoe and you would die. And why a safety pin? A little pin could save your life in the camps. If you need to hold up a piece of cloth as a bandage around your leg or keep your pants up. How did I remain alive for almost 2 years in Auschwitz? It wasn't by education. I didn't have any. It was the hand of the Almighty. I'm going to tell you something that I don't think I've ever said. As terrible as it sounds, I don't think I could live without the nightmares.” “It gives me a very ultrarealistic difference between life and death. It shows me what life is now, and I would never give that up, never, never, never.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

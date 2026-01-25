@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So it says that evening she'd chosen the sample. She winds up going out to dinner. She's at a fashionable restaurant. This struck me as hilarious. She's in Cannes in France. "As she dined, she sprayed the women who passed the table with her new perfume. 'You've got to be able to lead them by the nose,' she said, having done so with her original customers for N°5." She would start spraying it in her boutiques. So she had three or four boutiques, so she starts spraying it. People in fact -- it was funny. Later on in life, she lived at the hotel Ritz right across from her store in Paris. And they would, as she's leaving, "As you see her leaving the front door of the hotel, somebody would either call or run over to the boutique. And before she would walk through the door, they would insist that you would have to spray a bunch of N°5." So she walks through like -- it sprayed right before and then she like walks through it as if she sprayed it herself. Again, she's a hilarious person. Just completely over the top in so many ways than one, but I just thought that was hilarious. That was your job. Okay, well, here she comes. We've got to make sure we spray this. But that's obviously a long time in the future. This is the point she's just like I think I have something here, but let's see. She doesn't know yet. And so she's got to do these gorilla marketing tactics that she's doing spraying people randomly in the restaurant. So it says, "Even before" -- oh, she did something smart too. Before it was in mass production. She just had a bunch of samples. And so she would give little samples to her best clients in the boutique. And it says, "She would underplay her commercial ambitions, but suggest to her best clients that they were in on a secret long before anyone else." So it'd be way before it was for sale. It's like, this is what I'm working on, don't tell anybody, but here, you get to have it. You're a part of the play, you're a character in this whole brand that I'm building.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

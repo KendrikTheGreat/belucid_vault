@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “Dear Mr. Buffett, after 13 happy years of running the Nomad Investment Partnership, Zak and I have decided to close the fund. The process requires us to return cash to our investors and so, after many years as shareholders in Berkshire, we have recently sold our shares. It appears to all the world that the performance that Nomad has enjoyed over the years was created by Zak and me. That is not the case. As time goes by, the performance that our clients have received is the capitalization of the success of the firms in which we have invested. In other words, the real work is done by you and the good people at Berkshire. The purpose of this letter is to say a very big thank you, and let you know that you have made a real difference. Nomad was not a particularly large fund, but over the years, it did make around $2 billion for its clients, which were predominantly charities and educational endowments. Berkshire was a big part of that. That strikes us as capitalism working well. For our part, Zak and I are keen to leave the professional industry behind, and spend our time in more caring pursuits. Zak has his various charitable causes and I have in my mind to set up a center to provide respite care. Both of these activities will require long-term funding, and so whilst you'll lose us as professional investors, we will be able to repurchase our shares both privately and for the charities that we run. You don't get rid of us that easily. We will be keeping the office, and a new sign will be hung above our somewhat shabby front door. We look forward to seeing you at the next AGM, and extend an invitation to visit us at Burnsall Street. With the warmest regards, Nick Sleep.” And then Buffett writes back, “Dear Nick, thanks for sending along the update. You and Zak have made the right choice. I predict you will find life is just beginning. Best regards, Warren E. Buffett.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

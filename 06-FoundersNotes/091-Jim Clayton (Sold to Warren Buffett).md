@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Jim, this is Warren Buffett. I read your book over the weekend, and I enjoyed it very much. You did a good job on it. I followed your company for several years and congratulate you on taking it to the top of the industry. Give me a call. I'd like to get your views on the industry."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

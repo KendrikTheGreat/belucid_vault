@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 According to Warren Buffett, if you took the top 100 business school graduates and made a composite of their Triumphs, their record would not be as good as that of Singleton, who incidentally was trained as a scientist, not an MBA. Here's a direct quote from Buffett. "The failure of business schools to study men like Singleton is a crime." Buffett has also said that Henry Singleton has had the best operating and capital deployment record in American business. Charlie Munger has said, "Singleton's financial returns were a mile higher than anyone else, utterly ridiculous."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

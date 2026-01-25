@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This is just helpful in human relations in general, like our memories are flawed as human beings. I think last week, I talked about it, it's more -- the metaphor is more similar to like think of your memory is taking a photograph as opposed to recording a video. With a photograph, like you have a picture of what happened, but you lose a lot of context, especially with time as opposed if you had the whole video and you know what's going on. So he's saying he's going to tell you exact over and over and over again. And he also says, "Hey, I don't know if the same people are reading these letters all the time.” So he's got to kind of lay out his philosophies over and over again, in case you might be a new shareholder and maybe this is the first year that you're actually reading these letters. And here's another example of repetition. “Like 2000, this year will be a year of focus and execution. As I usually do, I've appended our 1997 letter. It gets more interesting every year that goes by, in part because so little has changed. I especially draw your attention to the section entitled, It Is All About The Long Term.” Okay. Moving ahead by another year. See what's the note. This might be -- so one of the most famous things Amazon is known for is the Amazon flywheel. In case you have -- you don't know what that's about, you can go back and listen to my podcast I did on The Everything Store. Or you just Google Amazon Flywheel, you'll see a picture of it. This may be the first mention of it. It takes a few years for him to use the term flywheel though. He says, “Focus on cost improvement makes it possible for us to afford to lower prices, which drives growth.” Okay. So lower prices drive growth. “Growth then, in turn, spreads fixed cost across more sales, which reduces our cost per unit, which then makes possible for more price reductions.” That's why they call it a flywheel. “Customers like this and it's good for shareholders. Please expect us to repeat this loop.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

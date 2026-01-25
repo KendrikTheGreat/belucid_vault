@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I've tried my best never to say something like, running is great, everybody should try it. If some people have an interest in long distance running, just leave them be and they'll start running on their own. If they're not interested in it, no amount of persuasion will make any difference. Nobody ever recommended or even desired that I'd be a novelist. In fact, some people tried to stop me. I had the idea to be one, and that is what I did. I love that. I'm obsessed with this idea. I do a lot of talks at companies and conferences and stuff, and there's a lot of Q&A, too, and I've been asked this question in various forms a bunch over the years, and it's like, how can we encourage more people to be entrepreneurs? I'm like, it's an inner thing. I'd be shocked if this wasn't the exact same experience you had, but the exact same experience that Murakami's saying, I had the idea to be one, and that's what I did. The greatest way, the funniest way, or most memorable way that I think about this idea is this, I don't even know if this is true, but there's a story about Mozart where a guy comes to him and says, "Mozart, how do you write a symphony?" And Mozart replies, "You're too young to write a symphony.' And the man goes, "'But you were writing symphonies when you were 10 years of age, and I'm 21." And Mozart goes, "Yes, but I didn't run around asking people how to do it." Murakami just said, "Not only did no one ever recommend that I be a novelist, they try to stop me, but it doesn't matter. I had the idea to be one and that's what I did." One of my favorite all-time quotes from Coco Chanel. It's exactly the same idea. She goes, “I decided who I want to be, and that is who I am.” And so there's something else that that's important to add to this, just because you love what you do, you have a passion for it, you want to do it for a long time, doesn't mean that you're going to want to feel like doing it every day. Obviously, it's impossible that every day of your life you're going to wake up like, I want to do this right now, I have to do this and so there's this great conversation that happens between Murakami and Olympic runner.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

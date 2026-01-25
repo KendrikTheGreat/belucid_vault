@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so I drive to the restaurant at the time I'm supposed to be there. And me and Rick agreed to meet like, I think, like 30 or 45 minutes or maybe even an hour in advance. And we went up having this really interesting conversation because he's got all these crazy interesting stories as well. He's got a really interesting career. And then he's telling me the story, and then he looks over my shoulder and he says, "Oh, there's Sam," and I turned around and it's Sam Zell, by himself. Like I was expecting like maybe an entourage or I don't even know what I was expecting, him to be carried in like an Egyptian pharaoh or something. And so he shakes my hand, he sits down right in front of me. And the first thing I say I was like, you're f Sam Zell and he just laughed and laughed and laughed. And so one of the first things I got to talk to him about was something that his family has in common with my family. Talking with Sam Zell If you read Sam's autobiography, you know that his father -- it was actually very interesting. I think his father was like a grain trader, if I remember correctly. And it's really inside information. He knew like the stuff that's going on with Hitler was not good. And so his father escapes with his wife, Sam's older sister. Sam was not born at this time. I think his mom is going to get pregnant on the way over because I think they're in America for like 90 days by the time Sam is born. So what we have in common is the fact that they had to escape like -- I mean, Hitler's way worse than Castro, but Castro is pretty bad, too. And so they leave on the last train of Poland and then the Nazis wind up bombing that train. They didn't know that. So what was interesting is how many people that Sam's father, he was trying to convince the rest of his family like this is bad, we need to get out of here. And imagine how difficult the decision that is, like you've lived in this country your whole life. You have family, friends, jobs and somebody is trying to convince like you have to get up and leave. So it just takes like a different kind of person.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

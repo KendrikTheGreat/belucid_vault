@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But the reason I bring that up is because when you're reading his letters, 90% of his letters or the letters that are reprinted in this book are to his mistress, Sofie. That's what they call her, mistress. I don't even know again what -- it's not at all clear to me what the extent of their relationship was, right? And 10% of the letters are letters she wrote back to him, okay? And so for the vast majority of this book, our point of view is that of Alfred writing to his mistress. We are in the perspective of Sofie. And this is not -- he had a problem. He wanted to have like a deep relationship with a woman. But the way he talks to her and the way he talks to other people, it's just like this is not the way to do it, man. So it says, "I'm spending almost a whole day at home, working. Time passes slowly because I feel very lonely. I have gotten out of the habit of participating in society life and am more and more shying away from contact with people." The reason I bring that up is because he reminds me of kind of an Ebenezer Scrooge from A Christmas Carol by Dickens, right? His letters are full with just complaints about his health, about his business. He's just whining over and over again. And at some point, I was like, I don't even want to read these letters anymore. You're depressing me. And if you're sending these letters to a woman that you're trying to seduce or trying to engage in a relationship, this is just not the way to do it, man. Like you sound like just a whiny brat, like an immature brat, which is really weird when you think about how gifted a mind he had. But again, gifted in business, gifted in numbers, but gifted with people, no way. So it says, "I can clearly" -- I'm just reading quotes from a couple of different letters. "I can clearly read between the lines that you're going well -- that things are going well for you and that my absence seems to give you more happiness than sorrow." See, he just got a tendency to complain constantly. It's very -- again, I shy away from pessimistic negative people. Life's too short.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

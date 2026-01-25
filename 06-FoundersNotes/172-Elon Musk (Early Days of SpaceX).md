@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so right after this, they wind up getting a contract from NASA. It's the first $278 million they get, and it really changed SpaceX forever. Obviously, they still would have went out of business because they hadn't put a rocket in orbit yet when they got the contract, but with that contract they at least weren't -- they knew, “Okay, as long as we solve the problem of getting into orbit we should at least survive for another few years”. I would say, though, one of the main benefits of reading this book is that you're constantly exposed to smart, dedicated people having to deal with failure. And it's just, again -- it doesn't matter what you do, you're going to run into this. And so when you see other people and you're reading the experience of other people how they deal with it, I think it is very inspiring, and you'll think back to these things in your own life when inevitably in the future like we're going to – “I'm going to try to do something that's going to fail in the future, 100%, you are as well. Like, okay, this is just something we have to deal with, let me see how other people deal with it”. "After the Merlin engine failed and the rocket tumbled towards the ocean, their excited shouts and chatter died. No one was quite sure what to say. I was in shock because we spent so much time putting that rocket together. And then to see it quickly break into pieces on the ground, it was shocking”. And what makes this even worse is they knew the problem. It's called sloshing. So as the rocket goes up, the fuel can move around. If it moves around too much, it's going to make the rocket like lose control. But the reason -- it's something is a risk they wanted to accept because Elon before this, he's like, “Give me your top like 10 risks that you think of”. For all the engineers, what are the top 10 things that we have to focus on, the problems we have to make sure they're solved that will cause a rocket to fail, right?
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

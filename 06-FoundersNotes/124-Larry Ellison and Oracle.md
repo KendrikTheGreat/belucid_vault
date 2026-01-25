@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "And what of Larry Ellison the man? Although much of my time with him coincided with a period of adversity for Oracle, I never once saw Ellison downcast. His unquenchable optimism and almost messianic self-belief never faltered. It is this aspect of Ellison that many people who either don't know him or know him only a little find most objectionable. For them, he is at best a bombastic showman; and at worst, a false prophet and even a self-serving liar. Yet I am more convinced than I was at the beginning of my journey with him that Ellison is an extraordinary person, quite different from and infinitely more interesting than the caricature beloved of the media. He's funny and entertaining but also highly serious, always interested in ideas and eager for new ones. Above all, Ellison is intense. There's a restlessness about him. Much about Ellison is paradoxical, even contradictory. He's enormously vain, intellectually dominating, and irrepressibly extroverted but he's also shy, has relatively few close friends, and is in constant need of the emotional reassurance that much of his life had been lacking. He is determinately useful, but he is never far from thoughts of mortality. He detests vulgarity and yearns for simplicity and naturalness, but he also derives straightforward pleasure from owning hugely expensive material status symbols. He desperately wants his wealth to do some good in the world, but he recoils at the very idea of altruism. He is ultra-confrontational in business, but he goes to almost any length to avoid confrontation on a personal level. He either delegates to the point of detachment or is obsessively controlling down to the last detail. He prides himself on never losing his temper but is manifestly driven by overwhelming passions. Ellison is nothing if not complicated. Aren't we all?"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

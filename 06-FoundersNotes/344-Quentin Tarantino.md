@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "So who exactly was this Floyd character I was referring to earlier. His name was Floyd Ray Wilson, and he was about 37. And for 1.5 years in the late 1970s, he lived in my house. He used to date my mom's best friend, Jackie. And years earlier, he would visit the apartment that my mom and I shared with her two roommates, Jackie and Lillian. And every time he came by, it was exciting because I thought Floyd was really cool, and I could talk movies with him. And since he was a hip guy who saw a lot of shit, he could keep up." "I remember when Jackie introduced us, I was 10 years old, and she said, Quentin, Floyd is who you should talk to about movies. He knows as much as you do. So I, a 10-year-old, started testing this grown ass man on his knowledge of movies. Finally, I was able to talk to somebody about movies who knew what the fuck I was talking about. Also during this time, I realized the hard way that Floyd was a flaky guy who couldn't be counted on." "On at least two occasions, he told me he'd come over next Saturday and take me to the movies, Oh, boy, I thought, not just talking about movies with Floyd, but actually going to the movies with Floyd. But when Saturday came, no Floyd, no call, no excuse, no apology, just no show. He either forgot or he didn't give a shit, and I was so excited too, as the hours passed, and I waited and I waited and I waited and it got later and later, I finally realized he wasn't coming." "I wasn't mad. I was heartbroken. I didn't even think of myself as a kid, but even I knew you didn't do that to a kid, but I forgave Floyd and played it cool the next time he came by. And a few visits later, he promised to take me out again. I made sure when he left that he remembered that we had plans, and I'd be waiting for him. And he said, "Of course, no problem. See you next Saturday. And the fucking guy did it to me again, but this time, I wasn't heartbroken." "I felt lousy, but not crushed. It was just now I knew who Floyd really was. He was an adult I couldn't count on". The Unlikely Influence of Floyd
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

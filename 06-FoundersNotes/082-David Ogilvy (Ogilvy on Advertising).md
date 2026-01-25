@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “I do not regard advertising as entertainment or an art form, but it's a medium of information. When I write an advertisement, I don't want you to tell me that you find it creative. I want you to find it so interesting that you buy the product. In my Confessions of an Advertising Man published in 1963, I told the story of how Ogilvy and Mather came into existence and set forth the principles on which our early success had been based. Our principles seem to work. But I'm now so old that a French magazine lists me as the only survivor among a group of men who contributed to the industrial revolution alongside Adam Smith, Edison, Karl Marx, Rockefeller, Ford, and Keynes. Does old age disqualify me from writing about advertising in today's world or could it be that, that perspective helps a man to separate the internal verities of advertising from its passing fads? Most of the advertising techniques, which worked when I wrote Confessions of an Advertising Man still work today. Consumers still buy products whose advertising promises them value for money, beauty, nutrition, relief from suffering, social status, and so on all over the world. In saying this, I run the risk of being denounced by the idiots who hold that any advertising technique, which had been in use for more than 2 years is ipso facto obsolete”.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

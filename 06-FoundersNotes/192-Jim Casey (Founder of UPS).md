@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And that was an excerpt from the book I'm going to talk to you about today, which is Big Brown: The Untold Story of UPS, and it's written by Greg Niemann. And I want to thank a misfit name, Christina. She's the one that turned me on to this book. I didn't even know it existed. All the way back on Founders #151, I covered the biography on Fred Smith, who actually founded FedEx, and that book was undoubtedly one of the craziest founding stories I've ever heard. Let me read -- I'm going to tell you how it ties into why I wanted to study UPS because these giant physical logistics companies are unbelievably difficult to build, and we'll go into that. Jim -- it took Jim almost 60 years to actually finally achieve his vision of nationwide delivery. So this is from -- again, this is Founders #151. The book is called Overnight Success: Federal Express and: Frederick Smith, Its Renegade Creator, and it has one of the craziest opening paragraphs of any book I've ever read, and I'm going to read to you right now. At the age 30, Frederick Wallace Smith was in deep trouble. His dream of creating Federal Express had become too expensive and was fast fizzling out.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

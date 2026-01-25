@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 We're literally learning from the life experiences of Thorp, which he spends 60 years accumulating and then writing it down, so we could benefit. Well, just as we're learning from Thorp, Thorp learned from Buffett. So this is a guy named Gerard. "ralph Gerard gave me copies of Buffett's letters to his partners and his partnership document, a simple 2-page affair." "It was clear from this that the ideal plan would be to pool my investing from myself and others in a single limited partnership, just as Warren had eventually done. So at the time, he was just doing all these separate agreements. He's like, well, this is stupid, why don't I just put in one like Warren did? Now this is a part of the unpredictability of life. We don't know how other -- how individuals are going to have lasting impact in our life. And just his decision to take this job at UC, Irvine, winds up leading him to reach -- to meet Gerard, who in turn leads him to meet Buffett. Ralph Gerard had a profound effect on the outcome of Ed Thorp's life. So he says, "The time I spent with him," meaning Gerard, "had 2 major effects on my life. It helped me move along to a path to my own hedge fund." This is what -- this is [ the deal ] that's going to make Thorp have more money than he can ever spend. "And it later led me to make a very profitable investment in Berkshire Hathaway." So what does that mean? Ed starts -- because he met Buffett and knows Buffett from Gerard, he starts buying Berkshire Hathaway stock at $900. Today, that single share is $300,000 per share. He's bought them at $900. It's bananas. All right, I'm going to run rapidly through his timeline here. Ed starts a hedge fund, right? So first, bets his own money, then he does these partnerships. And he's like, I think I have the hang of this. This takes about -- remember, he said in the summer of 64s when he first starts thinking about finance and studying it. And around, I think it was 1969 is when he starts his first hedge fund.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

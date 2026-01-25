@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He says, “I want to build things. What I'm best at doing is finding a group of talented people and making things with them. I want to make things.” And why this is so amazing is because at this point, the numbers I've seen have been varied, but they're somewhere in this range. He had about $70 million at that time, okay? So if you adjust for inflation in our present day, that's like being 30 years old and having $200 million today. He could have stayed retired. He could have become an investor. He could have taken it easy. And he didn't go. He couldn't. You could argue -- and I would argue -- this is the argument I would make, not that he didn't, he couldn't. He could not go that route because at his core, all he wanted to do was make great products. That is all he ever cared about. He cared about it when he was a young person, when he was five or six years old on that workbench with his dad that he was talking about earlier, cared about it when he started Apple when he was 20, cared about it when he was still making great products up until the day he died, and you see that idea right here in the text. He's 30 years old. He could go off into the sunset. Never hear from -- be a wealthy man for the rest of his life, live a life of leisure. He's like no, I want to build things, I want to make things, what I'm best at is finding a group of talented people and making great things with them. And then he talks about why. "The outside world looks at success from a numerical point of view. My yardstick might be quite different than that. My yardstick may be how every computer that's designed from here on out will have to be at least as good as a Macintosh. In other words, he's saying, "I want to put a dent in the universe. I already did it once, I'm going to do it again." Leaving Apple And so that's when the book goes into Part Two, from 1985 to 1986, Leslie Berlin gives us this really quick and fantastic overview about this point in his life. The years after Steve left Apple were among the toughest of his career and the most formative. Determined to build a new great computer company, he started NeXT with several members of the Macintosh team.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

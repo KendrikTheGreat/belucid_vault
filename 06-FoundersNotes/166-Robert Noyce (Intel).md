@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So it says, “Before joining Shockley, the group of 8 had between them, 3 years of transistor experience,” and that's the part -- they knew the product what they were going to do. They were going to build transistors. They had 3 years of transistor experience and all that experience resided in Bob Noyce. None of them -- at the time, transistors were made out of geranium, I think, is how you pronounce it, and they had the idea, hey, silicone is much -- is a better route to take here. So it says, “None of them have ever -- had ever worked with silicon. After less than 18 months with Shockley, however, the 8 were sufficiently competent to start a company that within the space of a decade,” this is the punchline here, “that within the space of a decade sold hundreds of millions of dollars of silicon semiconductor devices.” And let me quote Marc Andreessen, if you don't mind, again. One of my favorite quotes of his, “I'm a firm believer that most people who do great things are doing them for the first time.” They had no money, no experience, brand new industry. And after 18 months of Shockley they realized that hey, this is the wrong way, within a decade, they're going to sell hundreds of millions of dollars of this brand-new device. This is actually a great summary of what happened to Shockley, and why again, I find him so disgusting of a person. “In 1963, Shockley left the industry to join the faculty at Stanford where he taught for the next 2 decades. As he aged, bitterness and paranoia came to dominate his once brilliant mind. He became an outspoken eugenicist who donated” -- this is -- come on man. Who are we dealing with here? “He became an outspoken eugenicist who donated his sperm with the stipulation, it be supplied only to women who were members of Mensa.” So I forgot that's also in last week's book, there's a chapter on -- there's a guy that thought similar to Shockley. He’s like we had to save the human race by only letting smart people reproduce. We need to -- not use the [ knives ] -- that’s the wrong word. We need to make sure that essentially dumber people can't outproduce -- make more children than smarter people.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "You have to have a lot of passion for what you're doing. And it's totally true. And the reason is, is because it's so hard that if you don't, any rational person would give up. It's really hard, and you have to do it over a sustained period of time. So if you don't love it, if you're not having fun doing it, you don't really love it, you're going to give up. And that's what happens to most people actually. If you really look at the ones that ended up being "successful" in the eyes of society and the ones that didn't. Oftentimes, it's the ones that are successful love what they did so they could persevere when it got really tough. And the ones that didn't love it, quit because they're sane, right? Who would want to put up with this stuff if you don't love it? So it's a lot of hard work, and it's a lot of worrying constantly. And if you don't love it, you're going to fail. So you got a love it and you got a passion." So the reason how this relates is that when he's building his company, he's going to have to go -- Enzo that is, he just has to go through problem after problem after problem. It's not like a straight lineup. And I think what caused him to never quit is the fact that he -- there was no separation in his life between what he was doing at Ferrari and living. And so I'll get into that now. So let me go back and jump into the book. So I need to talk -- I think the passion of Enzo has something to do with the city that he lived in and the one that he would rarely want to leave. And let me just give you a description of the city in Italy. It's called Modena. I might be pronouncing that incorrectly. But it says, now speaking about the city. "Its true fame, however, was its craftsman, absurdly gifted artisans abound so that you can have almost anything made, made surprisingly well and so cheaply that you must never get used to that miracle. As in all Italian cities and towns, the Modenese held beauty in great esteem. In this city, an old world aesthetic was joined by modernity's defining ambition to harness power."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

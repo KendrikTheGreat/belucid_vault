@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And one main theme that runs through this entire story that's very obvious when you read about him, whether you read articles, a book, anything you come across, he has profound self-belief because when he’s 41, he quit his job and starts his first company and puts all of the money that he has in it, there’s not this like large buffer. He doesn't have a lot of money. And even from the very beginning, and the reason I think I say you have to have a profound self-belief because there's -- you can see brochures that he was like pitching people on about like the business. I think he might have been using this to try to raise money, but he says, there is no market for Red Bull. We will create one. And there's this great line in the English translation of this German biography, where it says, rarely in the world of business has such a bold announcement been implemented into reality like this one. And so creating your own market is also not only do you have to educate the potential customers, but then you have to deal with all the regulators. And so he tries to set up shop in Germany. And they didn't even know what the hell an energy drink was. And so he had -- he applied for what was going to be the first ever Europe-wide approval of a new type of indulgence, which is the energy drink, right? As you might imagine, European bureaucracy is not known for fast approval time. So he's waiting over a year to try to launch just in Germany. He gets extremely frustrated. So then he ends up packing his bags and going to Austria, like I'm just going to launch in Austria. There's a lot of benefits from that. But it also -- one of the main benefits is he launched in a single, small market. And for nearly five years, he was able to run experiments and really improve the product but also figure out the marketing and the messaging because he's only in a single, small market. So I think he launches in 1987 in Austria and doesn't launch to his second market till 1992.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

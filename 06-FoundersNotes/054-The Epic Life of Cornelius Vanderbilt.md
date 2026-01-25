@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But yes, probably -- I would say probably his greatest enemy. Or at least enough that the enemy was so profound and the war they had so crazy that they -- you could write an entire book on it. So that's what next week. And I'll put it on -- I'll put it, so you can see what book it is as well, like where I normally do, where you can just go to amazon.com/shop/founderspodcast. You could see every book that I've read so far for the podcast in one spot, which is kind of cool. If you scroll through, you can see all the covers at the same time. But also, you see the one that I'm going to do that we can advance. You can -- in case you want to read it this week before the next podcast comes out. Something else. If you made it this far in this podcast and to the end of other Founders Podcast, that's probably a good sign that you actually want more. And there, the Misfit Feed is a way to get more podcasts from me that are not available anywhere else. As you just saw, I delivered this entire podcast ad-free. So for the people that reach the end, I think this is the only time I'm going to start talking about this, kind of like a hidden feature that you have to get to the end of podcast to even know about, or maybe I'll bury it also on the show notes because people actually go through those. So the Misfit Feed is basically my private podcast feed. Right now, if you sign up, the link is in the show notes and it's on founderspodcast.com. You'll immediately unlock 18 podcasts that are available nowhere else right now. Actually, this week, I just covered. So what I was saying before is I was going to do an extra podcast every week for the people that subscribe to the Misfit Feed. Now I'm doing even more than that. I did 2 this past week. Another one is coming out tomorrow as well. I did -- it's kind of like my own personal audio journal for -- like repository of information I think is useful, like all centered around like building companies, managing companies to work, all that kind of stuff.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

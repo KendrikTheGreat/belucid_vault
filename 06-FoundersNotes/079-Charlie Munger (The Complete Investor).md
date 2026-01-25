@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I always say, like the genesis, the little kernel of idea that saved my mind for a year or two before I started this podcast and kind of influenced me to start it was, when I was listening to Elon Musk on another podcast and he was asked, you started a business really young. Did you -- how did you even think to learn about these things? Like did you read a bunch of business books? He's like, "No, I didn't read business books, I read biographies. And he thought they were really helpful. I talked last week in the first like 5 or 6 minutes of last week's podcast, how every single one of the entrepreneurs I've studied for this podcast are new, every single one. They do the exact same thing, whether it's Jeff Bezos setting Sam Walton or the founder of Costco, which Jeff talked about. Like I think he ate breakfast with him or something like that. The meeting he had with Jim Sinegal, I think, was life changing. So this is definitely a good idea for us to use. And what he's saying here, like I love what he says. He's like, "Listen, we just want to consider whether they have qualities, attributes, systems or approaches to life that we might want to emulate even in part." Okay. So let me skip ahead a little bit. And I love this idea, which I think applies to a lot in life, which is simple but not easy. And so as much of what is interesting about Munger is explained by this simple sentence, I observe what works and what doesn't and why? That's a direct quote from him. Life happens to Munger as it does to everyone. But unlike many people, he thinks deeply about why things happen and works hard to learn from that experience. So again, thinking just sitting down and thinking and analyzing, it's really simple, but for some reason, for our species, this is actually not easy for us to do. And if you're able to do that, you have an advantage over a long period of time. And I think I'll touch on this later, but just in case I don't, Charlie brings up a lot about the importance of leaving your -- like do not pack your schedule.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

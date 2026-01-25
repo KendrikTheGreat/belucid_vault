@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So let's go back to this. "There's no shortcuts. I've always believed in leading with action, not words. And I learned very early to follow my instincts." This is, again, these ideas he's going to repeat over and over again. "My standards have always been mine alone. I've never tried to live up to the expectations of others, and everybody knows the results. This book is about the process. The values that form the foundation of my playing career are the same values that define Brand Jordan. I truly believe those values never go out of style." So that he sets the very beginning of the book saying -- asking a question, will there be another Michael Jordan? "Sure. There is no doubt a player will come along who will be able to build on what I have accomplished just as I built on the example of great players before me." And then he talks a little bit about like the growth of the NBA and the game since he's retired. And that there's a -- obviously, it's way more successful as a business in general, a lot more fans. And so the rewards, the players are not only larger, but they come quicker. And he's not sure that's actually beneficial. So he's saying, "there wasn't a lot of corporations looking to invest in young NBA players in 1984. It's often the other way around today," meaning that you could have -- he had to prove that he had the ability to play and then he got the rewards. He's saying that they're being players today are being rewarded on future potential. And that -- this is his opinion on why that could be potentially detrimental. "It's often the other way around today, which makes it a lot harder for young NBA players to realize the depth of their potential. It's hard to spend all summer working on 1 aspect of your game when you've already received the payoff. I never had that problem." And so now he's going to go into, like, what motivated him. "I wanted to prove what I could do." This is something he repeats over and over again, too. "When my play started providing me with the rewards, then I wanted to prove, I deserve them.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

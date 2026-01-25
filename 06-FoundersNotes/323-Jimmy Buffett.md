@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 There was an inflection point in Mark Twain's world as well, where he's in Hawaii. He had already written like one viral hit, and there's this diplomat called ambassador Burlingame. And he gave Mark Twain -- he's much older than Mark Twain, Mark Twain is a young man at this point, and he gave him some advice that Mark Twain would use for the rest of his life. He had 44 years left to live, and he would use this advice that he got from ambassador Burlingame. And this was the advice, “What you need now is refinement of association, seek companionship among men of superior intellect and character, refine yourself and your work, never affiliate with inferiors, always climb”. Jimmy is doing that. Jimmy is climbing. He releases the next album after Margaritaville. There's another parallel with Mark Twain, they say it specifically. So he releases this album, this is really about his grandfather, right, Son of a Son of a Sailor. That's describing his grandfather, his dad and Jimmy. This album sold big with limited radio play and no-hit single, and Buffett was selling out shows across the country. He's become the Mark Twain of Southern music. And so he's constantly refining who's around him. It says, “Buffett had developed a disinclination to hang around with fucked-up people. Everyone wanted to show Jimmy what a wild partier they were because he was so famous for being a partier”, and he just hated that. Buffet liked to party, but he had his stuff together, and he wanted to be around other people who did too. And so remember when Buffett said, "Yes, I may be a narcissist”. He also understood something about himself, which I don't actually think is a negative. He realized, "Oh, I'm addicted to applause”. He would go out and go to the Caribbean, like take a vacation, whatever the case is. But then immediately he is like -- there was like a Yin and Yang to his life. He's like, "I have to take a break from the road, and then, I have to get back to the road because I miss it”. And he says explicitly this, “I have a thing for applause. I'm addicted to applause”. Now, using the word addicted, “I'm addicted to applause”. Evolution of the Business
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

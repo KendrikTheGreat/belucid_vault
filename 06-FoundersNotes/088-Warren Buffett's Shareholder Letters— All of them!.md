@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So then I had to start working from the -- I didn't want to like stop at 2014 if 2018 is available, right? So I get the Kindle version and it says, like estimated time to read, I don't know, like 17 hours. That is a lie. It was triple that, like it is insane how long this took. So -- but again, the benefit is it's -- I'm not complaining how long it takes to read. I don't want you to misunderstand what I'm saying. Like the fact that I had to go through a half a century of shareholder letters and see how they're applying their principles, even though they're very hard to stick to when everybody's panicking, it's like it was instructive. It's very -- it's something that's important to learn that realized like there's a benefit to not bending and to not paying attention to what everybody around you was doing. Doesn't mean you're ignorant. It just means you have a plan; you're going to stick to it because you've thought a lot about it. Okay. So I just read his principles, the four principles. This is -- Warren is describing -- these are my notes now, Warren is describing the subprime mortgage crisis that happened in manufactured homes almost 10 years earlier. Okay. So that book that I'm going to be reading the one that he bought the business on. They are like the large producer of manufactured homes, right? And they stayed out of -- there was a subprime mortgage crisis like, let's see, 10 years before the subprime mortgage prices -- there's a subprime mortgage crisis in manufactured homes 10 years before the one that played unconventional housing. And this is another example of how the human species fails to learn from history. So he's describing this. So he says, at that time, much of the industry employed sales practices that were atrocious. Writing about the period somewhat later, I described it as involving “borrowers -- remember, he's talking about, this is in the '90s. This is people borrowing to buy manufactured homes. So he describes it as borrowers who shouldn't have borrowed being financed by lenders, who shouldn't have lent.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

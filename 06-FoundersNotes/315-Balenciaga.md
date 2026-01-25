@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Of all the creative people I've come across, Balenciaga was easily the most dedicated to the business of making beautiful things. His work absorbed him totally and there was no room in his life for anything or anyone else. When the cultural revolution of the 1960s made it impossible, as he saw it, to produce work of the highest quality, he retired and quickly died of a broken heart. Among the masters of Parisian fashion, Balenciaga was the greatest. Indeed, many would rate him the most original and creative couturier in history. And he was a true couturier, not just a designer. That is, he could design, cut, sew, fit, and finish, and some of his finest dresses were entirely his own work.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Because that seems so obvious to us because we're on the outside. But when you're lost in the thick of things, it's very hard to think clearly. And so that's -- this huge like revelation that Berlekamp has leads to the Medallion fund starting to like really get on track and really generate the money that Simons is interested in. And it's interesting, it's -- the strategy was almost opposite of the person running it before. So it says, "He advocated for more short-term trades." This is what Medallion fund is known for. At the beginning, they'll trade two, three times a day. Eventually, they get to trading 150,000 to 300,000 times per day. And Berlekamp was -- the idea is like we're going to set up a fund like a casino setup. I'm going to -- this is a really interesting part of the book. So it says, "He advocated for more short-term trades. Too many of the firm's long-term moves had been duds, while Medallion's short-term trades had proved its biggest winners. It made sense to try to build on that success." Yes, absolutely. Let's go. So it says, “Berlekamp also argued that buying and selling” -- he's got really weird ideas, but these ideas are literally what their future success is built on. And I say weird because I don't think I would have come up with them, maybe you would have, but they're weird to me. "Berlekamp also argued that buying and selling infrequently magnifies the consequences of each move. Mess up a couple times, and your portfolio could be doomed. But if you make a lot of trades, each individual move is less important. Berlekamp hoped Medallion could resemble a gambling casino." So this metaphor really helped me understand what the hell they were doing because they can give you like ideas of what they're doing. They're not going to tell you, like they say this is -- they're not going to tell you exactly what they're doing. But this gives you -- like in my -- when I read this section, it really kind of like crystallize what's happening, okay? So it says, he wants it to resemble a gambling casino.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

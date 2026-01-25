@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so this is very important that he got this job because he starts to do research. He says, "In the course of my research on alternatives for Owl, we discovered 7-Eleven stores in Texas. There were none in California. Grocery stores intrigue me." And that's obviously very important because he's going to start Pronto as a copy for 7-Eleven. Pronto is going to morph into Trader Joe's, okay? So that's extremely important. And this is going to echo where David Shaw hires Jeff Bezos to do research about what kind of business makes sense in context of all this extremely fast growth on the Internet. And that's where they come up with the idea for The Everything Store. So in the meantime, Joe is going to actually quit. He goes to work for Hughes Aircraft, and Bud winds up recruiting him back 18 months with the opportunity to become an owner. So it says, "18 months after I quit, Bud called me. He persuaded me -- he persuaded Rexall" -- which is the parent company -- "to hire me back to clone 7-Eleven. And that's how at age 27, I became president of Pronto Markets." So he's 27, president of Pronto. He starts the book, he's 35, still running Pronto, and had greatly expanded it. So that's what he was doing from the age of 27 to the age of 35. Now how did he wind up buying Pronto? That was very fascinating. So there's this guy. He says he's famous. I've never heard him before. I guess he went on to be part of like the government, but his name is Justin Dart. So Justin Dart was the famous President of Rexall, and this is really fascinating. And so they own a bunch of drug and convenience stores and everything else. Justin gets this idea. He's like, "I'm going to buy the company Tupperware," right? And the reason I found this fascinating is because he did this against the unanimous -- his Board of Directors said -- unanimously said don't do this. So he says, "Justin Dart bought Tupperware against the unanimous vote of his Board of Directors." There's a quote from one of its directors. "Tupperware is nothing but a godd_*_ed party formula."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

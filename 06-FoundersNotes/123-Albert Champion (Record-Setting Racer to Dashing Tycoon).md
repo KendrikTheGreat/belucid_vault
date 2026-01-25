@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Albert grew impatient with Robert butting into his shop. Champion and the two elder Stranahan brothers had created the business before Robert joined their enterprise. But Robert felt entitled to learn the business that was co-founded by his brothers. A fistfight between Albert and Robert was inevitable." So think about where we're at in the story. The mother thinks you're immoral and you're causing like bad publicity to her family name. And now you're having fistfights with your partner's little brother. This situation cannot possibly last long. Luckily, this is where Champion meets Durant. Because Stranahan, one of the older Stranahan brother, owns a Buick dealership. So Durant is coming into town. While in Boston -- "While in the Boston Buick dealership, Durant was arranging the salesroom when Champion approached him with spark plug samples." So this is a really smart move by Champion, too. "Champion said, 'I can make spark plugs out of porcelain.' Durant paused. He realized at a glance that the samples were well made." Now, this next part tells you -- I mean, we kind of know on the two podcasts -- two or three podcasts I've done on Durant that he emphasized speed. So Durant recruits Champion to move from Boston to Flint the same day they meet. He says Durant sounded out Champion before nudging the focus towards recruiting him to Flint. This is Durant writing later on about the meeting with Albert Champion. "If he were quite sure that he could make a plug that would answer our purpose, I suggested we go to Flint. And if he liked the place and the layout, I would start an experimental plant. And he could make -- and if he could make good, I would give him an interest in the business." That interest in the business that he gets makes Albert unbelievably wealthy. "He had never been to Flint, knew nothing of the Buick or the plans I had for the future." So that statement is incredible when you realize that two days later, Champion's like, yes, let's -- I'm all in.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

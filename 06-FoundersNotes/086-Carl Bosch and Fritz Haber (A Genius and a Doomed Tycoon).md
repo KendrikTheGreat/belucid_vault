@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Okay. So that is an excerpt from the book that I read this week, and the one I'm going to talk to you about today, which is the Alchemy of Air: A Jewish genius, a Doomed Tycoon and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler, and it was written by Thomas Hager. So this is one of the most unique, complicated, engrossing stories I've ever read. I couldn't put the book down. It's like 300 pages long, and I read it in two days. And something happened to me, so I'm going to jump into the book in a minute, but I got to tell you what happened to me, which is unusual. This is the third try of me attempting to record this podcast. And the first two -- and I guess the odd thing is that I'm kind of nervous and I'm not usually nervous, and I couldn't figure out why, like why did I start recording two other podcasts and then stopped because it just didn't sound right, it didn't feel right. And I think it's because there's so much going on in this book that I don't know if I'm good enough to -- like to do the book justice. So I figured, you know what, let me just tell you that right up front, and hopefully, I'm able to create a podcast that you learn from and you actually enjoy, but I am nervous. I don't like that feeling.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

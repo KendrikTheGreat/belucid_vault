@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The original edition of The Essays of Warren Buffett was the centerpiece of a 1996 symposium that I organized. This gathering brought together hundreds of students for a 2-day dissection of all of the ideas in the letters, featuring a series of vibrant debates among some 30 distinguished scholars, investors and managers, with Warren Buffett and Charlie Munger participating throughout from their seats in the front row. In the decade since its initial publication, I have often taught this book in my classes and at seminars at 4 different universities. The book is adopted by scores of professors at other schools for classes, such as investment, finance and accounting. Investment firms have distributed copies to their professional employees and clients as part of training programs. All the letters are woven together into a fabric that reads as a complete and coherent narrative of a sound business and investment philosophy. Experienced readers of Warren Buffett's letters to the shareholders of Berkshire Hathaway have gained an enormously valuable informal education. The letters distill, in plain words, all the basic principles of sound business practices. The writings are broad in scope and long on wisdom.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

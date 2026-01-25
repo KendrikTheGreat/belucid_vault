@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Jesus was in terms of his influence the most important human being in history. He is also the most written about and discussed. The early surviving document dealing with him was circulated in the 50s of the First Century AD. Within half a century of his death, four biographies, written in Greek had been published and all have come down to us, meaning they survived. Since then, entire books about him have been published in growing quantity and in all languages. Today, there are over 100,000 printed biographies of Jesus in English alone. The religion which commemorates Jesus' teachings, death, and resurrection was well-established in half a dozen countries by AD 50, the first Christian place of worship dates from about AD 50, and now nearly one million chapels, churches, basilicas, abbeys, and cathedrals include many of the largest, most remarkable and beautiful buildings ever erected. In many ways and in cultural and moral respects, especially Jesus's life and the faith it created are the central events in the history of humanity. So far, we have considered the influence of Jesus as man, but I believe that he was, and is God too. It is futile for us to inquire about the nature of Jesus and God and his preexistence from the beginning since that is unknowable, let alone the future, which is still hidden from us. What we can do, however, is write about Jesus the man. The problem with writing about the life of Jesus the man is not so much the paucity of sources as their abundance and the difficulty in reaching behind the written text to the full meanings of sayings and episodes. This sketch that follows reflects many years of reading and historical study. My objects have been clarity and brevity and my desire are to convey the joy and nourishment that I receive in following Jesus footsteps and pondering his words.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

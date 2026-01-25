@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "He lives in a simple house in a small southern town. He's been married to the same woman for almost five decades. He drives a Chevy, dresses in store-bought clothes, and puts in long hours at his job. He also made for himself and his family over $9 billion, more than any other man in America. This extraordinary person is Sam Walton. And this fascinating, superbly researched book, pierces his carefully cultivated cloak of ordinariness to show what makes him tick and what made him succeed beyond the wildest dreams of wealth. It is a story, and a quest, that began in the dust bowl of Oklahoma in the Depression, where a small boy saw firsthand the razor-thin line between survival and disaster. It was a lesson that stood him in good stead when he took an $85-a-month job with J.C. Penney and learned the principles of putting customer satisfaction over profits. In 1945, he bought a five-and-dime store in Newport, Arkansas, and began to put his ideas on how to make money to the test. The first Walmart was born, and while the rest is history, the story of Sam Walton is also the story of those ideas and how they work through good times and bad, to create one of the greatest triumphs in the annals of American retailing. What is most heartening of all about Sam Walton's spectacular success in this era notorious for greed, fraud and financial shenanigans are his old-fashioned principles of doing business, virtues of honesty, and hard work. This rags-to-riches tale also reveals what others, both rivals and employees, boosters, and critics, think of the wealthiest man in America and his methods. And Sam Walton himself tells how he has coped not only with success but with setbacks, working 16-hour days to pursue his passion for business perfection while remaining true to himself and devoted to his family. For anyone looking for irresistible reading and a truly remarkable human being, meet Sam Walton, the plain folks genius who is utterly unique."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

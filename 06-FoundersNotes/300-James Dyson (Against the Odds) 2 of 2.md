@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This is devastating. On Episode 205, he's, what, 75, 76, something like that writing that book. His father is going to die from cancer when James is 9, right? So over 60 years later, in his second autograph, he's still talking about the impact that his father's death had on him. And so what I think, it was like from our vantage point, it's a reminder to how important we are to our kids and to take that job as a father and mother, don't take that job lightly because long -- many decades after you're gone, the impact that you have on your children will still be resonating. Listen to this. "My father died of cancer in 1956. I was only nine at the time. His death put me at a great disadvantage compared to the other boys. It made me feel like an underdog, someone who was always going to have things taken away from him. It made me feel that I was alone in this world. I had no one to help me through my boyish problems and no one to cite his own useful experiences as an example to me when I thought I might be troubled by something no one else had ever been through before. Life became something I had to make up as I went along, and I had to work everything out for myself. I suppose it made me a fighter. It also made me very competitive." And so the great thing about rereading this book so much is now that I get to see my past highlights, but I could also get to see my past notes that I have not thought about or maybe even forgotten. And so you get to this point where he's essentially saying, "Hey, I'm going to learn from my dad's experience, and I'm going to make a vow to myself to not wait to do work that I love." And I'm going to read this to you. Let me read James' words, and then I'll read the note that I left two years ago when I read this book. At the time of his death -- so his dad was a teacher, but what he really wanted to do was be an actor and to produce plays. And so it says, "At the time of his death, he had been about to join BBC Television but his move to change careers came too late.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

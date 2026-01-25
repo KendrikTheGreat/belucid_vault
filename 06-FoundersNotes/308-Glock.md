@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 You see this example. He objected to the Pentagon, so he's going to compete and then win at this. He objected to the Pentagon's insistence that the rights to manufacture the winning gun design would be open to competitive bidding. Glock intended to collect all profit from the production of his gun himself. It's fairly smart. Again, goes back to the advice from James Dyson, retention of total control. And so then this goes back to how if you go back in Glock’s life, even before he had a lot of financial success, he was obsessed with quality. In fact, there's a great line that comes somewhere later in the book where it says quality will always bring you more money. Glock demanded high quality. The motto of the company is perfection, GLOCK perfection to this day. It's like all on the walls and everything. But this is very interesting. This is the three-starred general in the Austrian Army and he's describing Glock at the early days of building this company. So Glock is still alive today, he’s like 93. I think he’s like 52 where we are in the book. He says, there's this interesting guy. He never in his life designed a field knife and he delivered the best quality samples among all the industry participating. And all those guys have been in the knife industry for hundreds of years. Then this interesting guy came back and sold a newly designed handgun to the Ministry of Defense. Quality will always bring you more money. Now what happens if you're able to make high quality in the simplest way, you have a company that's going to -- essentially you just created a money-printing machine. And this paragraph is really the benefit of a product with fewer moving parts and a company with fewer moving parts. They settled on a commercial wholesale price of $360 and a recommended retail price of $560. These levels undercut comparable American and European brands. Yet, they generated generous profits. Glock’s gross margins exceeded 65%.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

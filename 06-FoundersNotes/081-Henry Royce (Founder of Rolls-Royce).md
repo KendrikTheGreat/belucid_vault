@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The business that he eventually found is eight years away. And then figures another few years after that from success. So if he were to quit then, he you could have foreclosed the opportunity for the airplane engine, which is based on what I'm reading some of the highest quality airplane engines in manufacturing available today. Well, that opportunity is 15 years from the point that we are at in the story. So I just think it's extremely motivating to understand that everybody knows the name Rolls-Royce, even if you don't who Henry Royce was before you listened to this podcast. But not everybody -- and in the case of many of these founders that we talk about, not many people see the actual struggle. It's not, oh, I have this idea, I'm a freaking genius and it's going to work. That doesn't exist, not in the complex environment that we call life. So to me, hopefully, it's motivating to you because it's definitely motivating to me. Okay. So the note of myself -- well, I'll tell you what the note is after. So it says, "What the business needed was a steady stream of straightforward work to cover the overheads while Royce could give free range to his creative genius. Certainly, he became obsessed with work, often staying late into the night and even all through the night. On a number of occasions, those arriving next morning would find him at a work bench asleep with his head on his arms. By the end of the 1880s, the firm was sufficiently prosperous for Royce," and this is his partner Claremont, "to consider other matters beside the next item of production and the next source of income." So I don't think it's smart to deprive yourself of sleep. I think this is a clear reason that sleep is present and required in so many forms of life on this planet. So it's obviously nature's way of telling us, hey, this is really important. You shouldn't cut this off. But some people are going to take -- are going to be so obsessed, like in the case of Royce, and they're going to do this to themselves.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

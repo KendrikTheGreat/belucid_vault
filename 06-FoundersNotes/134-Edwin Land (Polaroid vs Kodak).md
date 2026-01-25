@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "To the extent this book may seem like an homage to him, it is not meant to canonize him in total disregard of his shortcomings, notably his enormous ego and his unrelenting stubbornness. Land's vision of himself does not take into account the possible imbalance between his all-consuming work and his personal life. And it does not include the perspective of some employees who find him difficult, overly demanding and miserly in direct praise." "He sees himself as determined, iron-willed, and hard-driving, a man who will not rest until he's conquered whatever problem is at hand. Land passed away on March 1, 1991, yet his legacy endures. The formula for accomplishment that he practiced throughout his life, creative wonderment and intellectual curiosity followed by inexhaustible effort remains a model that should inform and inspire us all, no matter the particular field of our endeavor."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

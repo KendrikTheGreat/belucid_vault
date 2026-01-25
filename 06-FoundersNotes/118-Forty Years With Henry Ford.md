@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So let me just read his part to you. "Once the workers voted for union, Ford was never the same. He was willing to give up the company and be done with the motor car business." So during this time, they're having a conversation and Charlie's -- he's saying, "Just give them the keys. I don't want to deal with this anymore. I give up." Charlie tells him, "Listen, we can't close the factory." This is early 1940s. "We can't close the factory, we have contracts with the government that we have to produce this machinery for the war." And Ford tells him something. He says, "Listen, the government can have the keys to the factory." They will be in the automobile industry when all this is over, and he will not. So he leaves Charlie and saying we're not going to -- he goes home, bid it a night, right before -- he goes home for the night rather, and says, "I'm not doing this. I'm not giving into the demands. I'd rather lose my entire business. I'd rather have somebody else run it than do this." The very next day, he confirms every single thing in the proposed union contract. And essentially, what happens there is Ford gave up all the power that he had wielded up in that point for 38 years over the Ford Motor Company. Why? Like it was shocking when you get to that part of the book. And so he doesn't say anything the next day. Charlie actually finds about it in the news that Ford signs a contract, right? A few days, maybe a few weeks later, he finally has a conversation with Charlie. He said he did it because when he went home, his wife didn't want to see any more bloodshed. So there's people being shot. We've seen -- we've covered this a lot in the Founders podcast. This time in history, it was very common for fights. There's an all-out war. If you go back to the podcast I did on Meet You in Hell, the book Meet You in Hell between -- the falling out between Andrew Carnegie and Henry Clay Frick, many people died. Same thing was happening at Ford plants. People were shooting. There'd be people getting their head bashed in.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

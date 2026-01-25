@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So Carnegie is adamant. He is like, "I'm not revaluing the company. If you want to do, you have to do that at book value." Well, that's not -- that's ridiculous. You're going to lose 90% of the value. Why would you do that? So they go and try to find buyers. Frick tries to a buyer for the whole company because he knew Carnegie would sell off for the right price. But this is also weird too, what he does here. So it says, "The impasse was finally broken in April 1899, when Frick informed Carnegie that he had been approached by a buyer willing to meet the $250 million price. Under the proposed terms, Carnegie would receive $157 million. After agreeing to the terms, Carnegie asks Frick who the prospective buyers were." This is the weirdest thing. Frick told Carnegie that he had been sworn to secrecy by the prospective suitor and that they were acting solely as intermediaries." What? That's ridiculous. Like tell him who the buyer is. "There was one thing as well. The buyer was asking for a 90-day option to prepare for this sizable transaction. Carnegie must have worked hard to conceal his incredulity. Just how naïve did his partners think he was? Yes, they were all friends and longtime associates, but this was business and very big business at that. For all he knew, there was no buyer and Frick could be asking him to sign an irrevocable agreement to sell at a fixed price." So he's like, listen, I'll give you -- I'll still go ahead even if I don't know who the -- who these people are. And I'll give you this option, but you have to pay me $2 million -- for that 90-day option, I'm going to charge you $2 million, and it's nonrefundable even if the deal falls through. Of that $2 million, $170,000 of it is Frick's, which is weird, too. So it winds up, leaks who the sellers are. Carnegie doesn't like these people. He's like, I'm not selling. This is not going to happen. And it winds up, they couldn't come up with the money in 90 days anyway.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

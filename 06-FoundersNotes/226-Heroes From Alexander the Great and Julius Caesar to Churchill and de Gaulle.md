@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so the importance of speed, again another idea that you and I talk about over and over again. I just want to quote from that book Invent and Wander. This is Jeff Bezos talking about that. You can -- so this quote is from Jeff Bezos talking about the importance of speeding up. And in this case, "You've got to make decisions fast, right? You can drive great people -- you could drive great people away by making the speed of decision-making really slow. Why would great people stay in an organization where they can't get things done? They look around, and after a while, they're like, "Look, I love the mission, but I can't get my job done because our speed of decision-making is too slow." And now, he's going to wrap up this section on Alexander saying, "He's both a hero and a monster. Alexander became the prototype hero because of the extent of his achievement and his personal courage. He left his mark in many ways. He founded 70 cities, many of them named after him. He thoroughly understood the art and technology of war and in its most advanced forms, but he had many other interests too, art, architecture, science, gastronomy, energy, energy sources, and many other curiosities. He poked his nose into everything." So this is the positive side. "Against this, Alexander's territorial greed, which was insatiable, and his love of war and the actual business of fighting, which was the passion of his life, set the worst possible example for future generations. Many evil and ambitious men took heart from his record. In truth, he was never content with his conquest, and he wanted to rule everybody. He was the first man to aim realistically at world rule at any cost." And so that is an example of what is in this book. Those highlights all came from about 10 pages -- each person has about 10 to 15 pages, where he gives his overview of these people's lives, which I thought was interesting. I want to jump into Julius Caesar now.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

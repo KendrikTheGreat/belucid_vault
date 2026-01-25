@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 They sought truth and accepted facts. Life could get better, they believed and theirs did. As the old order collapsed around them, they crafted a better one to replace it. One that has lasted for more than two centuries. They did not see it as perfect. The example of Franklin and Washington shows what individuals can do in times of faction, fracture, and failure, to address problems and improve the state of affairs. We will not be driven by fear. The legendary broadcast journalist Edward R. Murrow would later say about Americans. If we dig deep in our history and our doctrine and remember that we are not descended from fearful men, Murrow surely had the likes of Franklin and Washington in mind. And that is where I'll leave it. For the full story, I recommend buying the book. If you buy the book using the link that's on the show notes in your podcast player, you'll be supporting the podcast at the same time. The best way to support the podcast is by giving a gift subscription to a friend, family member, or colleague. There's a link down below to do that and it's always available at founderspodcast.com. That is 251 books down, 1000 ago. And I'll talk to you again soon.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

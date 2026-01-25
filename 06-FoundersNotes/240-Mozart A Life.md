@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Mozart often discussed with his father the way some of his pieces appealed to the many, some to the really knowledgeable, and a few to both. Some would make you sweat as he put it, and others were childishly easy. He did not judge, either by difficulty or popularity. Mozart was enormously broad-minded, tolerant, and omnivorous. The one thing he demanded though he never said so directly was good taste. It is an extraordinary fact that Mozart, despite his enormous output and the speed at which so much of it was composed is never guilty of a serious lapse of taste. He is the only great composer of whom this may be truthfully said. Mozart continually delights. He often moves us. He makes us think. He excites, he intrigues, and mystifies. He brings sadness as often as comfort. He produces melancholy and introspection. He gives us endless moments of joy and laughter, but he never once discussed. The world got him cheap in his day. He knew it. He had many misfortunes and many disappointments in the life of constant hard work, lived at the highest possible level of creative concentration, but his warm spirit always bubbled. He loved his God, his family, his friends, and above all, his work, which he equated with God's service. And that was all a reasonable man or an unreasonable one for that matter, could wish for, God bless him.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

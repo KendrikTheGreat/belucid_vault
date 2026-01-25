@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Every Saturday morning, Bernard Arnault spent a few hours checking in on his temples, devoted to handbags, couture, jewelry and watches. This 75-year-old Chairman and Chief Executive Officer is not there to shop. With a strict sensibility refined over decades, Arnault spots any incongruities that might disrupt the aura of opulence that he has carefully constructed. Then he reels off text and e-mails to his senior executives describing any perceived deficiencies in bullet points of obsessive details. A Comprehensive Database
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

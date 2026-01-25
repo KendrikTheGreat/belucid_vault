@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And if it's easy, there's going to be hundreds and hundreds of competitors naturally, because humans don't like doing hard things. The amount of people that like doing hard things is a tiny, tiny percentage of the overall population. It's probably a high percentage of population of people to listen to this. But in general, you can like -- and that's the weird thing being exposed these ideas all the time, like you become normal, I think like these excessive traits are normal? Are these uncommon traits are normal? Be a better way to put that. But when you -- I'm reminded that when you get on the general population, like, "Oh, like no one thinks about this". And just having that mind frame is such a huge advantage. So I don't know, I love that point. Okay. So the book is short. I'm going to close here. He's got the last chapter. I've told you before, I'm a sucker for aphorism. So I'm going to just read the aphorisms that he has in this book, some of them in his last chapter, some of them you heard before, and I'm not going to elaborate on all of them. I want you to just -- they can sit in your mind and you can take them wherever you want to go. First one, "I believe in the Scottish proverb, 'Hard work never killed a man. Men die of boredom, psychological conflict, and disease. They do not die of hard work.'" The second one, "Big ideas are usually simple ideas."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

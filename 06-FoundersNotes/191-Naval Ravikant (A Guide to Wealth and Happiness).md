@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Now just a random interesting thought that I highlighted, "Your real resume is just a catalog of all your suffering. If I ask you to describe your real life to yourself and you look back from your death bed at the interesting things you've done, it's all going to be around the sacrifices you made. The hard things you did." And I have no idea why when I read that, a thought popped into my mind, reminds me back on, I want to say, Founders #134, you know what I can just -- why am I guessing, David? Triumph Of -- yes, I was right. Okay, A Triumph of Genius: Edwin Land, Polaroid and the Kodak Patent War. Edwin Land, one of the most important -- my argument would be one of the most important entrepreneurs ever lived, especially when you consider all the entrepreneurs that he influenced. But he said something -- he was on trial and he said something that was very fascinating that what -- the products a company sells, especially when you're creating something new like he did, he created an entire new category, right? And so photography didn't exist before Polaroid. And to his point is like we're selling the results of our trial and error of all the failures that we had to endure through the experimentations, that result, which winds up being the solution that we found after the thousands of things that we tried that did not work is what we sell. And he said I'm butchering the quote and he's a lot more gifted speaker than I am. But that was like -- I'm trying to paraphrase that idea. And I like this idea of your real resume is just a catalog of all your suffering. Companies just -- all the experiments they ran, all the iterations that did not work with their product. They're now selling the results of these experiments. I think it's a really -- I've never heard anybody else describe a thought like that besides Edwin Land. Just a quote from a tweet here. "There is no shortcut to smart." There's an entire section on building judgment because he says, your judgment is so important. If you're in an age of infinite leverage and you have c*** judgment, you're going to have a c*** output, right?
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

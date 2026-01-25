@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Nobody is going to develop for us, right? We have to do it ourselves. "Buffett blamed the committee process and group-think that was prevalent on Wall Street." Quote from him. "'My perhaps jaundiced view is that it is close to impossible for outstanding investment management to come from a group of any size.'" Excellence comes from formidable individuals is the note that I left myself. That this whole section reminds me of the Apple design process that we learned about without Steve Jobs. And Jony -- I said it again. His name is Jony. Jony Ive, book 179, maybe. It was a couple of weeks ago. It's right there in your podcast player, but he talks about this. If you haven't listened to that podcast, go back and listen to it. The book's also fantastic, too. But he talks about the difference, the night and day difference between Apple's design process when it was led by a formidable individual like Steve Jobs as opposed to when it was led by just a committee after committee of just useless people. "Such decision via" -- now back to this book. "Such decision via consensus tended to produce a sameness from one fund to the next." We got one life to live, one shot at this experience of life. Do we want to do it just so we can build a business or a career that's the sameness from one fund to the next or one business to the next or one life to the next, no way? Back to Warren Buffett, "We derive no comfort because important people, vocal people or great numbers of people agree with us nor do we derive comfort if they don't." What is he saying? We think for ourselves. And he just constantly -- he's not -- I don't think he's being malicious when he says this. It is interesting to me, and he's got great wit in his writing as well, but he just constantly rails against all the way other people -- whether it's business schools or Wall Street, they're teaching their craft, their method of investing, he's like, I don't -- this is an example of that. He is like, I just don't agree with it. If you actually know what you're doing, don't diversify.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

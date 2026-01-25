@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "When he arrived in America in 1891 at age 14, Zemurray was tall, gangly, and penniless. When he died in the grandest house in New Orleans 69 years later, he was among the richest, most powerful men in the world. In between, he worked as a fruit peddler, a banana hauler, a dockside hustler, and the owner of plantations in Central America. He battled and conquered United Fruit, which was one of the first truly global corporations. Zemurray's life is a parable of the American Dream. Not history as recorded in the textbooks but the authentic version, a subterranean saga of kickbacks, overthrows, and secret deals, the world as it really works. This story can shock and infuriate us, and it does, but I found it invigorating too. It told me that the life of the nation was written not only by speech-making politicians but also by street corner boys, immigrant strivers crazed and driven, some with one good idea, some with thousands, willing to go to the ends of the earth to make their vision real. It meant anyone could write a chapter in that book, be part of the story, vanish into the jungle and reemerge as a figure of lore. If you want to understand the spirit of our nation, the good and the bad, you can enroll in college, sign up for classes, take notes and pay tuition. Or you can study the life of Sam the banana man."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

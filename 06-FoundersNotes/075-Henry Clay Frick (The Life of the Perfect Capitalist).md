@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So it says the panic of 1873, in many ways, built Frick and company. The recession was deep, but many of the steel companies kept their eyes on the future. Steel was a marvelous material that was stronger than wrought iron and more flexible than cast iron. Steel railroad rails were better than those of wrought iron. Steel was replacing wrought iron and steam boilers. Steel was being looked at for structural application and bridges. The world's greatest armament company, Krupp Steel, was producing large steel cannons to replace cast iron. Steel's strength changed the industrial world. So it's a fundamental technological development that changed the world. This company too, Krupp Steel. I had bought a book probably a few months ago, I haven't read it yet. It's like 900 pages. So it's going to be a while before I turn it into New Founders. But this company, the world's greatest armament company, it winds up being like a family dynasty that lasts like 400 years. And they do some crazy stuff. But eventually, I will do a podcast about Krupp Steel because I just think that's -- I mean that's -- when you see family dynasties that last 400 years, it's extremely rare. I mean that happened in real life. I think about like the Targaryen dynasty that's fake in Game of Thrones. That lasted 300 years. Like it's really interesting. But anyways, I thought about this part about -- thinking about steel as a deep technological development. I have this book that I have been like just grazing through. And it's kind of outside the scope of a normal Founders episode. But I think I'm going to turn it into like a bonus episode for misfits. And it's called Nuts and Bolts of the Past: A History of American Technology: 1776-1860. And to us -- like it's really hard for us to understand -- like we look back at their mode of living from 1776 to 1860, from the founding of the country, I guess, to right before the civil war. And we don't really think in terms of technology, but like they did have technology.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

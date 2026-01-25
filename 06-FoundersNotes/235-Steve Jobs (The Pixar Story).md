@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Steve Jobs had been hunting for a CFO of Pixar and reached out to Jordan, who agreed to meet Jobs for breakfast. "I showed up in my suit jacket," Jordan recalled, and Jobs walks in, in torn clothes 20 minutes late. Jobs had only two interview questions for Jordan. Question one, "You went to Stanford Business School in the late '80s, and then you're in the center of the company creation universe in the most exciting time in the world. And you became a f**_* management consultant?" Question two, "How could you work at Disney for eight years? Those guys are f_*** bozos." Jordan saw the questions for what they were: a Steve Jobs stress test. "I'll cop to the first one," Jordan said. "It took me 10 years to find my way back here, but I'm back and I'm here to stay." On the question of Disney, he pushed back hard. "You're wrong on Disney," he said. Then he explained that Disney Stores, which he was previously the CFO of, had higher consumer ratings than the Disney theme parks. Jobs seemed satisfied and pitched Jordan on Pixar. Jordan demurred. He had just been a CFO, and he was looking for something different. Jobs proposed that Jordan join Apple instead. "I have this new vision for Apple Stores," Jobs said and proceeded to outline a reimagined shopping experience from the ground up. Jordan thought Jobs was delusional and politely declined the offer. "Of course," Jordan said of Jobs' retail concept, "He nailed it."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

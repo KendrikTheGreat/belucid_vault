@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “One plan, no matter how well laid, couldn't possibly respond to all of these situations. This is why Kelleher does not put much stock in traditional strategic planning. His concern is that writing something down in a plan makes it gospel. When the plan becomes gospel, it's easy for people to become rigid in their thinking and less open to new, perhaps off-the-wall ideas. Kelleher explains it this way. Reality is chaotic. Planning is ordered and logical. The two don't square well with one another. When USAir pulls out of six cities in California, they don't call me and tell me they're going to do that. Now if we have established a big strategic plan that is approved by our officers and the Board of Directors, I would have to go to the officers and the Board and tell them that we want to deviate from this plan. They would want to know why I want to buy six more airplanes. The problem is we'd analyze it and debate its merits for three months instead of getting the airplanes, taking over the gates, and dominating California. The meticulous nitpicking that goes on in most strategic planning processes creates a mental straitjacket that becomes disabling in an industry where things change radically from one day to the next. When a financial analyst chided Kelleher about not having a strategic plan, he said, ‘we do have a plan.’ When she asked what it was, his response was vintage Kelleher, ‘It's called doing things.’”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And he talks about, even from a very early age, I'm going to get into -- and I think a large degree why he felt like a misfit, and that's his word, was because his dad tragically dies of cancer. James is 9 years old. I think they leave behind -- he's got 3 kids. So it's -- James is 9. I think it's 9, 12 and 14. So it's just devastating. So he says, "Misfits are not born, are made. They make themselves. And a stubborn opinionated child, desperate to be different and to be right, encounters only a small refraction of the problems he will experience, and he carries the weight of that dislocation forever. I have been a misfit throughout my professional life, and that seems to have worked to my advantage." So this is where we get to losing his father and how that makes him feel. The fact that because he didn't have this mentor, that somebody can show him the path that's in front of him, he has to wind up working out everything for himself. It winds up making him extremely competitive. He vowed -- and then he also has a really important lesson that I missed the first 2 times -- at least I think I did, the first 2 times I read the book, was the fact that the death of his father and the fact that his dad was going to make a career change right before he died to doing something he actually loved but didn't get the opportunity to do, James is like, "No, no, no, that's not going to happen to me." All right. So it says, "My father died of cancer in 1956. I was only nine at the time. His death put me at a great disadvantage compared to the other boys. It made me feel like an underdog, someone who was always going to have things taken away from him. It made me feel that I was alone in the world. "I had no one to help me through my boyish problems and no one to cite their own youthful experience as an example to me when I thought I might be troubled by something that no one else had ever been through before. Life became something I had to make up as I went along, and I had to work everything out for myself. I suppose it made me a fighter. This made me very competitive."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

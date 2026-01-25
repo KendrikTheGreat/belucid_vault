@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 He had, at the time, Dyson, he had one product, he was selling vacuums. It was only in one country, in England. Yet he was able to grow faster than any other vacuum manufacturer in history. He talked about that because he relied not on advertising, but on editorials. He said that one decent editorial counts for 1000 advertisements. And so that's why he directed his time and resources and the resources he had then was not a lot to getting editorials as opposed to just doing ads himself. So while Jay is running this map business and doing everything else, he's like, Okay, he's not the kind of person ever does one thing at a time. There was so many times in this book, and I mentioned this on the Rockefeller podcast, when they talk about all the partnership, the secret partnership between Rockefeller and Gould, and how I had read that chapter twice and still didn't understand it. There's a lot of that in the book because he's just so complex. He's got so many things going at once and they all kind of feed into each other. But even as a young man, he's like, "Oh, I'm not just going to focus on my surveying business. I'm going to build, There's all this, these contracts, these lucrative contracts because they're building roads for the first time in this part of the country."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

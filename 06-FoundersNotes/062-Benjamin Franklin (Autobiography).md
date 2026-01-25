@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Imagining it may be equally agreeable to you to know the circumstances of my life, many of which you are yet unacquainted with, I sit down to write them for you. Having emerged from the poverty and obscurity in which I was born and bred, to a state of affluence and some degree of reputation in the world and having gone so far through life with a considerable share of felicity – actually I had to look that word up, felicity means happiness. The conducing means I made use of my posterity may like to know, as they may find some of them suitable to their own situations, and therefore fit to be imitated.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

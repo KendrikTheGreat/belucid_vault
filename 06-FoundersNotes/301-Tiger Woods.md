@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So the reason I'm not going to get heavy into judging him is because this happens, I think as you get older. There was a lot of things my parents did that I did not understand. And I did not -- I was like why would you do this? And yet you get older, you start having your own kids. And then you just get a perspective with time. And then I go back and like, listen, I'm obviously I can't do that with my kids. I understand, I'm not excusing that behavior, but I understand it was like, well, imagine being raised by their parents. I had both sets of grandparents. My paternal grandfather, I never met. But the ones I did meet, the 3 I did meet were all terrible. And I just like -- the older I get, I was like, "Well, listen, I am not excusing my behavior, but imagine if that was like the environment you were raised in and like that was your parents." And then go back even further, like I wonder what their parents were like, they were probably not great people, right? But just imagine being told like you're going to be Gandhi, you're going to be Jesus, being forced to practice 2 hours a day when you're 2 years old. Like your mom, you're 10 years old. I can remember being 10. I had like -- I have a 10-year-old. She just turned 11. Like they are still kids. They are kids, man. This is crazy. And then later on, after Earl's dead saying, "Hey, he was soft. He cried and he forgave people. I don't cry and I don't know forgive anybody". And then you put the father of your son and your ex-husband in an unmarked grave. That is some crazy ruthless behavior. This is not -- I read a lot of biographies. You don't come across like this, especially in the mother. That's wild. So let me go into more on this level of training. They wanted to train not only Tiger's body, but his mind. His dad, man. Some of the stuff I'm not going to read you because it's crazy. It's insane. Tiger's dad is nuts. And so he actually has a psychologist that worked at the Naval Academy in Maryland, and he starts having him work with Tiger. Mentally and Physically Unstoppable
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

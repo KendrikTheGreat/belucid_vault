@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I'm not kidding. This is crazy. This book is -- what was it, 60-years-old, no, longer than that, 70-something years old, however old the book is. That line -- there's a line just like that in the James Cameron biography. There's a line just like that in the Christopher Nolan biography. It is spooky, how you and I are keep studying the same personality in different bodies, alive at different times, working in different industries. It's so crazy to me. So let me get to this point. "He would let no one but himself put the car through its paces. It was his from start to finish. He had been responsible for or had supervised the whole construction, he is 19, from the drawing board to the final assembly." So then he goes -- this goes back to this like Kanye West level of confidence that is very beneficial. "He goes and enters this into the very first international motor show, which was being organized in Milan. This is the year 1901." And so it's a car show based on like, obviously, how the cars look but actually how it performs, too. So then he takes it like around this track. And of course, he drives it himself. And yet again, we see more evidence that he was right, like he had stumbled upon this innate talent because he wins it. "He won first place at the first-ever international motor show." And so this idea that you have this gifted person, he's a perfectionist by nature, he wants to control everything. He's completely obsessed. He's keeping irregular hour, he's giving everything to this like new craft. By the time he's 19, so he wins the international motor show, right? Then there's this car manufacturing firm in Germany. It's called De Dietrich. They wind up offering Bugatti a contract to manufacture his car for them, and he's going to get paid a royalty fee. So he -- this is the first time he moves from Italy to Germany. And so because his daughter had access to his unfinished autobiography, we see how he writes about how he felt about his very first contract. I mean, he had a bunch of success up until this point, but this is like the turning point in his life.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

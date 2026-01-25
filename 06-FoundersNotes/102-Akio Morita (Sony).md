@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "40 years ago, a small group gathered in a burned-out department store building in the war devastated Downtown Tokyo. Their purpose was to found a new company and their optimistic goal was to develop the technologies that would help rebuild Japan's economy. In this early gathering was a young engineer, Akio Morita, then just 25 years old. Today, that company is one of the most powerful and respected multinational corporations in the world, Sony, and Akio Morita is its outspoken Chairman. The Sony story is one of consistently high-quality merchandise and phenomenally successful marketing strategies masterminded by Morita, who realized he would have to create the markets for Sony's unprecedented products. Morita is striking departure from the traditional Japanese business practice of making decisions by committee led to the spectacular success of the Sony Walkman, which was his own idea and perceiving that Sony's future would be intimately tied to that of the United States, Morita decided to found a U.S. subsidiary, Sony America, and he took the highly unusual step of moving his entire family to New York during its establishments. From his global perspective and as a friend and admirer of the U.S., Morita candidly discusses the differences between Japanese and American management practices. The often stormy trade relations between Japan and the West, the real reasons behind the hollowing out of American industry and the role of technology in preserving the future of mankind."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

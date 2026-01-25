@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So what I particularly love about reading this book is he spends a lot of time in like his thoughts, going back from when he was at Princeton in the 1950s, all the way up to when he started Vanguard. He was in his mid-to late 30s at the time. So that places it somewhere in the 1970s, mid-1970s. And so now today, I think it's widely known by a lot of people, index funds are massive. They're -- right at the time of recording this, I think Vanguard has something like $6 trillion of assets under management. But this industry literally did not exist in the 1970s. So it's really interesting to see the creation of a fundamentally brand-new product and then, of course, the predictable responses from the entrenched interests. Okay. So let me just give you -- in case you don't know, this is just a brief description of what Vanguard does and why it does it. The decades that followed, the name Vanguard, along with its unique structure and an unprecedented strategy built around the creation of the world's first index mutual fund -- so the company he started was Vanguard, the product he created, the invention, I would say, is the world's first index mutual fund -- would unquestionably change the nature of the mutual fund industry as we then knew it, call it creative destruction, call it disruptive innovation, call it luck. For surely, the passage of time would have eventually awakened the investment world to this fundamental truth, and this is what he built his entire company on. Before costs are deducted, the returns earned by investors as a group precisely equal the returns of the market itself. After those costs, therefore, investors earn lower than market returns -- he means actively manage. The irrefutable fact -- this is the irrefutable fact. The only way for the 100 million families, whom the mutual fund industry serves to maximize their share of the financial market returns they earn as a group is by minimizing their costs.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

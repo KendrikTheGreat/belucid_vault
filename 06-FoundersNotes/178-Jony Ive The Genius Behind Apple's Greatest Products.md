@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I just wanted a sound bite, but he launched into a passionate 20-minute soliloquy about his latest work. I could barely get a word in edgewise. He couldn't help himself. Design is his passion. This one was really hard, he said. He began telling me how keeping things simple was the overall design philosophy for the machine. We wanted to get rid of anything other than what was absolutely essential, but you don't see that effort. We kept going back to the beginning again and again. Do we need that part? Can we get it to perform the function of the other four parts? It became an exercise to reduce and reduce, but it makes it easier to build and easier for people to work with. Reduce and simplify. This wasn’t typical tech industry happy talk. In releasing new products, companies tended to add more bells and whistles, not take them away. But here was Jony saying the opposite. Not that simplifying was a new approach, it's design school 101, but it didn't seem like the real world in 2003. Only later did I realize that on that June morning in San Francisco, Jony Ive handed me a gigantic clue to the secret of Apple's innovation, to the underlying philosophy that would enable the company to achieve its breakthroughs and become one of the world's dominant corporations. Content to stand aside as Steve Jobs sold the public on their collaborations, including the iconic iMac, iPod, iPhone and iPad. Ive’s way of thinking and design has led to immense breakthroughs. As Senior Vice President of Industrial Design at Apple, he has become an unequaled force in shaping our information-based society, redefining the ways in which we work, entertain ourselves and communicate with one another. So how did an English art school grad with dyslexia become the world's leading technology innovator. In the pages that follow we’ll meet a brilliant but unassuming man, obsessed with design whose immense and influential insights have, no doubt, altered the pattern of your life.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

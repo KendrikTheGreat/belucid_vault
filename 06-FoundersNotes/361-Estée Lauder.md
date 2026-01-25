@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Business is not something to be tried on. It's not a distraction, not an affair, not a momentary fling. Business marries you, you sleep with it, eat with it, think about it much of your time. It is in a very real sense an act of love. If it isn't an act of love, it's merely work, not business. What makes a successful entrepreneur? Is it talent? Well, perhaps. Although I've known many enormously successful people who are not gifted in any outstanding way, not blessed with particular talent. Is it then intelligence? Certainly, intelligence helps, but it's not necessarily the education or the kind of intellectual reasoning needed to graduate from the Wharton School of Business that are essential. How many of your grandfathers came here from the old country and made a mark in America without the language, money or context? What then is the mystical ingredient? It's persistence. It's that certain little spirit that compels you to stick it out just when you're at your most tired. It's that quality that forces you to persevere, find the route around the stonewall. It's the immovable stubbornness that will not allow you to cave in when everyone says, give up. Just before we decided to commit ourselves to cosmetics full-time, our accountant and lawyer took us out to dinner. They had something grave to tell us. "Don't do it." That was the advice. The mortality rate in the cosmetics industry is high, and you'll rue the day that you invested your savings and your time into this impossible business. We beg of you, don't do it. We did it. We make the business decisions, no one else. We make them. Mark Twain once said, "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great, make you feel that you too can become great." Our first year sales amounted to about $50,000. Expenses ate up just about every dime. No matter, forward. Obsessed with Beauty
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

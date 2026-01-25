@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 To understand SpaceX, where it aspires to go, and why it just might succeed, one must voyage back to the Falcon 1 rocket and dig up the roots. The seeds for everything SpaceX has grown into today were planted during the early days of the Falcon 1 program by Elon Musk. Back then he sought to build the world's first low-cost orbital rocket. All of the aspirational talk about Mars would mean nothing if SpaceX could not put a relatively simple rocket like the Falcon 1 into orbit. And so, with a burning intensity, he pressed toward that goal. SpaceX began with nothing but an empty factory and a handful of employees. This small group launched its first rocket less than four years later and reached orbit in six. The story of how SpaceX survived those lean early years is a remarkable one. Many of the same people who made the Falcon 1 remain at SpaceX today. Some have moved on, but all have stories about those early formative years that remain mostly untold.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

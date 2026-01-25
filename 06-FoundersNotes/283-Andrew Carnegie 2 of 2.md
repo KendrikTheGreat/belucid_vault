@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Nothing stranger ever came out of the story of this poor Scotch boy who came to America and step-by-step, through many trials and triumphs became the great steel master, built up a colossal industry, amassed an enormous fortune and then deliberately and systematically gave away the whole of it for the enlightenment and betterment of mankind. Not only that, he established a gospel of wealth that can be neither ignored, nor forgotten and set a pace in distribution that succeeding millionaires have followed as a precedent."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

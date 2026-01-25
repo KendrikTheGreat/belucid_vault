@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "This book is not written as a personal history, but as a business story. I've tried to confine myself to matters of instructive interest. The chief object behind every episode is to offer helpful suggestions to those who will follow me and to save them some of the midnight groping, which I did. Any man who buys a lifetime of excessive application learns more about anything than others, owes a statement to successors." "The results of research should be recorded. Every pioneer should blaze his trail. That is all I've tried to do. My only claim for credit is that I have probably worked twice as long as anybody else in this field. I have lived for many years in a vortex of advertising. Naturally, I learned more from experience than those who've had a lesser chance." "Now I want that experience so far as possible to help others avoid the same difficult climb. I set down these findings solely for the purpose of aiding others to start far up the heights I scaled. There is nothing to be gained for myself, save the satisfaction. Had someone set down a record like this when I began, I would have blessed him for it. Then with the efforts I here describe, I might have attained some peaks in advertising beyond any of us now. May I live to see others do that?"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

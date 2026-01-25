@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This is not a book about computers. It is a story about people, a remarkable collection of individuals led by one man, Bill Gates, whose drive, genius, vision, and entrepreneurial spirit created one of the great success stories in the history of American business. At 35 years old, Gates is at the pinnacle of his young career. Microsoft, the company that he and Paul Allen had founded 16 years earlier, had become the first software company in history to sell more than $1 billion worth of products in a single year. Gates was the undisputed mastermind of that success. His company's astounding ascension had made him the youngest billionaire in the history of America. A most unlikely captain of industry, he looked as if he could have been 25 years old or younger. No one underestimated Bill Gates though. Too many people have done that in the past. Most people already knew Microsoft's history. In 1980, the company had sold the MS-DOS operating system to IBM. The revenue from that partnership gave Gates a guaranteed income stream and the push he needed to make his vision, Microsoft software on every desktop PC come true. Not long after he made the deal with IBM, the fiery, competitive Gates slammed his fist into his palm and vowed to put several of his major software competitors out of business. By 1991, many of those competitors were in full retreat.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

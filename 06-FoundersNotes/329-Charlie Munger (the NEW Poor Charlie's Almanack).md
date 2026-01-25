@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I first came across Poor Charlie's Almanack in my 20s when I was trying to learn everything I could about what made successful businesses tick. I found it to be a refreshing rebuttal of conventional financial wisdom delivered with unusual simplicity and candor. Never before had I heard a venerated businessperson express such trenchant insights about investing, finance and the world more broadly and with such chutzpah. One can't help but read a line like, without numerical fluency, you were like a one-legged man in an a**-kicking contest, and come away not only chuckling, but also a little bit wiser. I had the privilege of meeting Charlie at his home in Los Angeles. I was delighted to find that he is just as engaging and intellectually curious in person as he is on the page. He also, I discovered, had considerably more stamina than I do. More than four hours into our dinner, I was ready for bed while Charlie showed no signs of flagging. Our conversation that night was wide-ranging, touching on everything, from the economics of ski resorts, to raising children, to the evolution of the news industry. Witnessing Charlie's prodigious intellectual breadth and multidisciplinary mode of reasoning firsthand, only reinforced my admiration both for the man himself and for this book.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 David: Dad took me to buy a car. It was to be my first negotiation, an experience akin in his mind to losing one's virginity. He made a long list in preparation for this transaction, a catalog of features my first car had to have. Each characteristic of each candidate was given a value between one and 22. According to this list, the perfect vehicle for me was a used Honda Civic with less than 70,000 miles. We looked and looked and then amazingly he balked when we actually found it. "I don't get you," I said. "It checks every one of our boxes." "You haven't learned a thing." He said. "This car has all the what, but it is seriously deficient in the how." "What are you talking about?" "Did you see all that writing? The car was covered with names, red letters on the driver's door that said, 'Bobby', blue letters on the passenger door that said, 'Barry', yellow letters on the hood that said, 'Billy', this presumably being the name of the car itself." "So what?" I said. "We can have it repainted." "You're missing the point. He said. "A schmuck owned this car."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

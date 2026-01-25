@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But he was doing one of his famous product presentations. There happens to be a reporter in the audience watching him rehearse. And just -- they kept going over like one part of the presentation. What the lighting was for that? Like where it should be shown? And The Times reporter, I think it was a Times reporter, was just like, what does it matter? Why are you doing that? And I was like, that is the perfect illustration of the opposite of the standard, right? If Steve Jobs' mantra is, embrace the grind, the mantra of almost all of humanity is, huh, that's good enough. And if you can apply that embrace the grind philosophy over multiple decades, which Steve clearly did, you get -- you produce magic to use the term and the essay by Jacob. So let's go to the note I have left to myself, or I left on this page. Crystal-clear communication. I already mentioned it. That's the thing I admire maybe most about him. And this is talking about when they're the first people to realize, hey, you can sell music. Like you don't -- if you give people a better experience like Napster, Kazaa, all the other things that were the file share programs that we used when we we're younger, yes, you're getting it for free. But it's -- sometimes, you're getting viruses, it's kind of a pain in the a**. If I can deliver a better customer experience and I communicate the customer experience, like people will respond to that. And he really summarizes this by, "I'm going to give them a better experience for $1 a song." Anybody can understand that, right? "Why would somebody spend $1 a song when they could just get the same song for free?" Jobs' answer was, "The customer experience." And he says, "We don't see how you can convince people to stop being thieves, unless you can offer them a carrot, not just a stick. And the carrot is, we're going to offer you a better experience, and it's only going to cost you $1 a song. Jobs has said that the starting point should always be the user experience." And this is what he says about that.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

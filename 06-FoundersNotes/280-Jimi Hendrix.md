@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 To all intents and purposes, this book has been written by Jimi Hendrix. But since it has been compiled after his death, it seems only fair to offer an explanation as to how the final text was arrived at. It evolved out of a film biography of him that I was working on. Not wishing to put words into Jimi's mouth, we began experimenting with dialogue culled from records of things he had actually said. An enormous dossier was compiled from all the sources that could be definitively authenticated. There was a superabundance of material. Since during his four years in the spotlight, he was constantly giving interviews. He was also a compulsive writer, using hotel stationery, scraps of paper, cigarette cartons, napkins, anything that came to hand. Funny, Jay-Z did the exact same thing when he was young as well. That's Episode 238 if you haven't listened to the podcast I made on Jay-Z's autobiography. On reading through all the available material, it is clear that Jimi left behind his own remarkable and comprehensive account of himself. We felt it imperative that Jimi should be allowed to offer his own personal version of his life and music. The fact that Jimi's speech patterns are so rhythmic and his turns of phrase so visually rich served to enhance this approach. In a remarkable and haunting way, the book took on a life of its own. He always claimed that for him, life and music were inseparable. As the book progresses, it becomes less an account of external events and more an exploration of an internal journey.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

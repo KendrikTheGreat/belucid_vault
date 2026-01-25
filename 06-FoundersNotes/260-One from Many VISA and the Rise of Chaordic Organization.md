@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "It is 1993, nine years since I abruptly severed all connection with the business world for life on the land. It is still hard to believe. Turning my back on Visa in 1984 and walking away at the pinnacle of success was the hardest thing I have ever done. The reason is still difficult to explain, but it's not complicated. That inner voice that will not be denied once we learn to listen to it had whispered since the beginning, 'Business, power, and money are not what your life is about. Founding Visa and being its chief executive officer is something you needed to do, but it's only preparatory.' Each time, I resisted. 'You're crazy, preparatory for what and why?' There was no answer, only silence. In time, the voice became incessant and demanding. 'Visa's not an end. Give it up and the business world as well, completely, now. In time, you will understand.' It was frightening. It was maddening. I felt a damned fool to even think about it. A rational, conservative, 55-year-old businessman who had never smoked a joint or dropped a drug listening to inner voices? Absurd. Throw away a lifetime of work, success, money, power, prestige as though it had no value in the vague hope that life had more meaning? Madness, but the voice would not be silent. This was not my lifelong friend and companion, the rational old monkey mind, the certified expert of logic talking. This was another voice entirely and I knew it was right. I abruptly left Visa and severed all connections with the business world, offering the only possible explanation. I feel compelled to open my life to new possibilities. No one believed it. Why should they? I could scarcely believe it myself. I hadn't a clue what those possibilities might be, but I intended to be open to them. The nine years since I left Visa and opened my life to new possibilities have been good years filled with things I deeply love; family, nature, books, isolation, privacies, the infinities of imagination, more than enough to make a fine life. Life is not about control. It's not about getting. It's not about having. It's not about knowing. It's not even about being. It is a magnificent, mysterious odyssey to be experienced."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

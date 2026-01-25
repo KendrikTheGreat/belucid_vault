@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "When I die and go to hell, the devil is going to make me the Marketing Director for a cola company. I'll be in charge of trying to sell a product that no one needs, is identical to its competition and can't be sold on its merits. I'd be competing head on in the cola wars on price, distribution, advertising and promotion, which would indeed be hell for me."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

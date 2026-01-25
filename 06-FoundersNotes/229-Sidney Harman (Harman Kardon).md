@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 I'm 84 years old as I write this book. I do it because I believe, finally, that the time is right. I had not intended this to be an autobiography, but as it developed, the book has unavoidably taken on some of the characters of a memoir. Still, I feel that my 60 years in business have yielded some valuable lessons about management and people that are worth passing on. Those lessons debunk much of business orthodoxy, much of business dogma. I recognize that my life would be far less interesting were HARMAN International, a struggling company. In fact, it is very successful, combining sophisticated digital technology and creative marketing with unconventional attitudes and practices. And surprisingly, perhaps, in today's world, it does so while generating solid profits and consistent growth. Harman Kardon, our original division, is now celebrating its 50th anniversary. By most standards, that's a long time. I can honestly say that I do not feel that way, not about Harman Kardon and not about me. It has been an exciting and all too short journey. In this book, you'll find no secret formula for success. You may, however, find it useful as you think critically about what works for you and what does not, what matters to you and what does not. My hope is that the book will help you generate your own style, your own compass. Then it will help you find your own voice. Ideally, it should prompt you to ask, what do I believe in? How do I use the knowledge of who I am and what I believe in when managing my business? If the book is successful, it will be because of the lessons it helps you draw for yourself. Through this effort, I have learned once again that writing is not the simple transfer of fully formed intellectual inventory from brain to paper. Time and time again, I have found myself surprised, occasionally puzzled and often delighted at what has transpired. Writing is discovery. It is, as Dylan Thomas said, the blank page on which I read my mind. I hope that this book leads to discovery for you also.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

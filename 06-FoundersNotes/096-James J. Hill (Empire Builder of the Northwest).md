@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Something essential to success. I'll talk about over and over again. This is something I've been talking about a lot because it's something I want to improve in my life. I feel like having a focus in the age of information, maintaining your focus, not allowing yourself to be distracted by things that are not important to what's important to you is a superpower. Jim Hill had that superpower. He maintained his focus. He says, so they're talking about the financial success that SP&P have. He says, thus was born the great Hill fortune and the fortunes of his friends as well. Talk about some of his other partners, this guy name Stephen -- it's last name Stephen, another guy last name, Smith. Stephen and Smith would use their newly acquired riches to build the Canadian Pacific Railroad. Hill would join them for a while. He made investments into that. But the Manitoba, that's the Manitoba - his railroad has all different names depending on when you are at that point, SP&P, Manitoba, Great Northern, it's all the same thing. So I should just say the GN. He would join them for a while, but the Manitoba would always remain the focus of his career and his investments. So -- but he learned like he didn't just come to the conclusion that focus is important because he thought that in advance. He understood that through trial and error. He made a mistake. He spent time, money and energy trying to develop another railway where he's trying to do -- his first railway, let's call it railway A, is not complete. It's not running as best as it can, right? So what does he do? He decides, hey, A, is not done. Let me go invest time and money and energy into B. Then he realized, oh, this is stupid. I need to take care of A or there is no B. So he says for him, this venture represented a regrettable division. A diversion from what was becoming ever more clearly each life or -- each year that this was his life's mission, the building of the St. Paul, Minneapolis and Manitoba Railway and the GN.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

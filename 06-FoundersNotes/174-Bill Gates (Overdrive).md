@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "A few years earlier, there might have been great concern among Microsoft senior managers about the condition of Bill Gates when he showed up the next morning. After a restless night before the launch of Microsoft Excel in New York City in May 1985, Gates had shown up for the big event without sleep, without a shave and without a shower. He looked as bad as he smelled. There was no need to worry this time. Gates had been 29 years old that day in New York City. Now he was a couple of months shy of his 40th birthday. The computer geek, once ridiculed for his personal appearance, had cleaned up literally. The personal changes in Gates had been as dramatic as the increase in his wealth, which is now approaching a staggering $20 billion. Forbes had recently named him the world's richest individual. He was also one of the world's most powerful. He was so well known internationally that he conducted his own foreign policy, calling in China's President and other world leaders during business trips. He socialized with Warren Buffett. He played golf with the President. He wanted to be taken seriously as a visionary, as a statesman and as an adult. But for all the changes, he was still very much that intense young college dropout who had founded Microsoft at age 19. Neither marriage nor fame nor fortune had diminished the white-hot competitive fire that consumed him."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

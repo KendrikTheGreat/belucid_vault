@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Dear John, I have bad news to tell you. Mr. Benson passed away last night. Mr. Benson is an old rival and one of my few admired opponents. I am deeply impressed by his outstanding talent and his tenacious will. To this day, I still remember the joke that he made with me after our alliance. He said, "Mr. Rockefeller, you are a brilliant predator who is not soft. Losing to those bad guys would have made me very sad because it was like a robbery. But playing against people like you, whether I win or lose, makes me happy." I told him, Mr. Benson, if you can replace the word predator with the word conqueror, I think I will gladly accept your complement. He smiled. I admire the warriors who are still fighting bravely against their enemy. Mr. Benson is such a person. Before Benson became my enemy, I had just defeated the nation's largest railroad company, the Pennsylvania Railroad. And successfully subdued the nation's fourth and last railroad company, Baltimore and Ohio Railroad. Just like that, together with my most loyal allies, the Erie Railroad and the New York Central Railroad, the 4 major railway companies in the United States have all become tools for me to tame.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Determined to build a business, he began to look into the commercial possibilities of importing oriental tobaccos from south -- or into South America." So that's what I was referencing earlier. Like if you have a business, try to get your kids involved in any capacity, just for -- I mean, let's be frank. Like if you could -- under your tutelage in your business, your kid is going to learn a hell of a lot more doing that, real life skills than they are in school, right? And so Aristotle, the fact that he was able to work in his father's tobacco business, 8, 10, 12 years old, all the way up till the tragedy he endured, 16, 17 years old, that's going to lay the foundation because he's going to keep this stage off for a long time, but then he's going to start -- he's realizing, "Hey -- let me read this sentence to you. I'll get to my point. "Turkish tobaccos were unknown in Argentina at that time. 'Well, okay, people smoke tobacco all over the world, right,' Onassis realized that. 'Well, we have some -- we had access because of my family's business history. Like we had access to some of the best highest quality Turkish tobaccos. And if you can -- people will always pay for quality. So why don't I try to import them from -- like from using the contacts of my family, using the experience and the education I have into this new land that I'm in that's halfway across the world? No one else is doing this." And so exposing the fact that Socrates exposed Aristotle to that so young, he could have kept him in -- could have kept him just playing sports and going to school. He's like, "No, learn the business." This idea, and this business that Aristotle is about to start is what's going to make -- he's going to be a millionaire 6 years later, by the time he's 23 years old. How valuable was the education that has father taught him? Literally worth millions of dollars. And then if you think about the -- he becomes a billionaire, like -- that's the foundation for this future billionaire empire that Aristotle is going to do.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

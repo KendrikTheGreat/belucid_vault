@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Perhaps the only thing about Milton Hershey that is absolutely certain is that he believed in progress. As an industrialist, a philanthropist, and a social engineer, he was always moving forward. For this reason, the advances made by his company were true to his spirit. In his rare moments of open reflection, Milton Hershey showed his greatest affection for the little fellows, whom he hoped to save. Those were the children that he intended to rescue that came from fractured families. They were challenged by schoolwork. They knew loneliness, hunger, and want. In short, they were quite similar to the boy Milton Hershey had once been. His father had neglected him when he was young, never providing him any real security and comfort. His mother had struggled to feed her children. Milton had never been a good student. As an adult, Milton fulfilled his father's dream of success and acclaim by building a great industry. With the creation of a utopian town, he heeded his mother's admonitions about serving something higher than the accumulation of personal wealth. Then when it came to consider his legacy, he invested his fortune with a poignant flourish. He would save himself symbolically by rescuing little boys in the streets he knew as a child over and over again in perpetuity.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

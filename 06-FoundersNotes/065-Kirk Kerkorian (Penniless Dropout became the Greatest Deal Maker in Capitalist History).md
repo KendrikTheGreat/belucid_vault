@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 That is an excerpt from the book that I'm going to talk to you about today, which is, The Gambler: How Penniless Dropout Kirk Kerkorian Became the Greatest Deal Maker in Capitalist History. So let's start with his personality, his early life and some of his accomplishments. So it says, "Kirk was uncomfortable in crowds and dreaded the attention of strangers. His lifelong aversions to the trappings of celebrity would make him what he remains years after his death, one of the least known of America's richest men. He seemed to burst out of nowhere onto the American business scene in the late 1960s, a small businessman with a gambling habit and a junior high school education who struck at rich at the mature age of 50." He dropped out -- and we'll get to that too, but he dropped out in eighth grade. "He was a heroic wartime aviator who ferried factory-fresh bombers and fighter planes for the Royal Air Force over the treacherous North Atlantic in the era before navigational aids. He nursed a small charter air service through cycles of hard times after the war, until selling his company for a windfall fortune. But the gambler decided to bet it all in some kind of capitalistic trifecta. Suddenly, he was on business news pages across the country, risking huge sums in a puzzling range of eclectic markets."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

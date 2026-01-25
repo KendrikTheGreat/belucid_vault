@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Turner Advertising Company was already one of the largest billboard companies in the south when my father put together a deal that would make it the biggest. My father had developed a close relationship with a successful billboard operator in Minnesota, named Bob Nagel. And together, they hatched a deal. They would go in, purchase General Outdoor and then split it into 2 pieces. Nagel's company would take the properties in the north, while my father would own the markets in the south. This merger would quadruple our revenues overnight. To afford the deal, my father had to finance nearly all of the purchase price. When the dust settled on the General Outdoor acquisition, my father moved into our new headquarters as CEO of the biggest Outdoor Advertising Company in the south. Dad was elated. This was the most energized I had ever seen him. Unbeknownst to all of us, this upbeat behavior came just as he was approaching the brink of a collapse. Almost overnight, his behavior became significantly more erratic and unpredictable. One day, he'd be high as a kite and then next, he'd be in a state of abject depression. He had always been a fairly large man, but now he is putting on more weight and growing a big pot belly. After years of smoking 2 or 3 packs of cigarettes a day, he had developed a bad case of emphysema that combined with his drinking and his weight gain, took a heavy toll on him physically. It's clear to me now that reaching new heights in business and material wealth actually undermined his mental state. He told me a memorable story on this subject. He was preparing to enter Duke University just as The Great Depression hit. His parents lost nearly everything, and they struggled to tell him that they could no longer afford his tuition. At that young age, he consoled his mother saying, 'Don't worry, mom, when I grow up, I'm going to work really hard and I'm going to be a success. I'm going to be a millionaire. And I'm going to own a plantation and a yacht.'"
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

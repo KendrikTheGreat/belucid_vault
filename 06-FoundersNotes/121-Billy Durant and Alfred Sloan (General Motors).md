@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So he says -- like when they started like, okay, well, this is what I was thinking when I made this. Steve would cut him off. He's like, are you going to be there when the customer uses the device? And the person doing the demo is like, no. He's like, okay, you're not. So I'm going to -- Steve is saying, I'm going to go through your demo as the same way a customer would. Just like you're not going to be there over the shoulder of a customer explaining, I'm not going to allow you to do that here. So I think that's just a really good idea. Now going back to this idea that you need drive and focus. There seems to be a correlation between Billy being focused and Billy succeeding. So it says, "On November 1, 1904, Durant officially assumed manager responsibility of Buick and he abandoned his security office in New York and moved back to Flint full time. He was fully committed, fully focused, and fully energized." What is the result? A wild success. It's only when Billy takes his eye off the ball that he runs into this trouble. And obviously, he's got some kind of severe gambling speculation problem because -- it's one thing to make -- you can make a mistake, get caught slipping one time, but he makes the same mistake over and over again. And we see the same thing when he gets kicked out of -- so he gets kicked out of GM the first time and he goes and founds the company Chevrolet. And Chevrolet was widely successful because he focused on it. This is Sloan on -- he gives Durant credit that Durant was early. Remember, Durant built the GM of horse-drawn transportation before there was the GM of automobiles, right? And so Sloan is explaining what Billy tapped on that vertical integration is really important. Why was it so important in the automobile industry? Well, Durant had a huge advantage because he realized if it's important in horse-drawn transportation, why wouldn't it be important in automobile. So he says -- and this is Sloan explaining why.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 As the saga of early flight becomes more distant, it gains rather than lose its fascination. Air travel is now so commonplace, has been so widely experienced that those who risk their lives every time they took an airplane up, who flew an open aircraft totally exposed to the elements and without seat restraints, who took their machines to great heights in freezing cold or in pelting rain, who died and watched their friends die, pushing up against the limits of performance, have become almost mythical figures. They were that, of course, but they were also simply young and eager men and women embracing a new technology with the breathless zeal of youth. The fear of death would dissuade them no more than it did the first climber to summit Everest.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

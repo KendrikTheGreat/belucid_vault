@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 It is a winding journey of self-discovery filled with high adventure and low comedy as Twain dodges Indians and gunfighters, receives marriage advice from Brigham Young, burns down a mountain with a frying pan, narrowly avoids fighting a duel, hikes across the floor of an active volcano, becomes one of the first white men to try the ancient Hawaiian sport of surfing and writes his first great literary success. It is a fascinating, inspiring account of how an unemployed riverboat pilot, a failed prospector, a neophyte newspaper reporter reinvented himself as America's most famous and beloved writer.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

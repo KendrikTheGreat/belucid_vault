@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “A lot of folks ask me two related questions all the time. The first one is, could a Walmart-type story still occur in this day and age? My answer is, of course, it could happen again. Somewhere out there right now, there's someone, probably hundreds of thousands of someone, with good enough ideas to go all the way. It will be done again over and over, providing that someone wants it badly enough to do what it takes to get there. It's all a matter of attitude and the capacity to constantly study and question the management of the business.” “The second question is, if I were a young man or woman starting out today with the same sorts of talents and energies and aspirations that I had 50 years ago, what would I do? That answer is a little harder to figure out. I don't know exactly what I would do today, but I feel pretty sure I'd be selling something, probably some kind of specialty retail, something to do with computers maybe, or something like The Gap.” “Anyway, the next time, some overeager, slightly eccentric shopkeeper opens up a business in your neck of the woods, before you write them off too quickly, remember those two old people who gave me 60 days to last in my store down in Fayetteville. Go check the new store out. See what they got to offer. See how they treat you, and decide for yourself if you ever want to go back because this is what it's really all about. In this free country of ours, that shopkeeper's success is entirely up to you, the customer.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

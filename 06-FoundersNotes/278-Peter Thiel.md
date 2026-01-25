@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The note is the book this book exists to help you think through how to make new things. Why is that important? Every business is successful exactly to the extent that it does something others cannot. All happy companies are different. Each one earns a monopoly by solving a unique problem. All failed companies are the same. They failed to escape competition. And he does a great job of summarizing why aiming for monopoly and avoiding competition is a path to create wealth, a creative monopoly means new products that benefit everybody and sustainable profits for the creator. Competition means no profit for anybody -- referencing what he just wrote about over several paragraphs with the American airline industry. So competition means no profits for anybody, no meaningful differentiation and a struggle for survival. Then I want to skip ahead to his thoughts on the importance of durability. This is -- Charlie Munger is obviously a personal hero of mine. I think it was his son in Poor Charlies Almanac and the book Poor Charlie’s Almanack says that durability has always been a first-rate virtue in his dad's eyes. So in Charlie Munger's eyes, he thought durability was always a first-rate virtue. For Peter Thiel, Peter is like, well, listen, technology companies usually follow the opposite trajectory. So he was talking about the fact that like a popular night club or a popular restaurant in your city, successful ones are going to collect very healthy profits today. But usually their cash flows dwindle over the next few years or a decade from now because customers tend to move on to like the newer trendier alternative. And so Peter's point is, well, technology companies follow the opposite trajectory that all the value, most of the value is happening a decade, 2 decades from now. And so that is why he prioritizes durability. He says, technology companies follow the opposite trajectory. They often lose money for the first two years or first few years, rather.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

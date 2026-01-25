@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 One of these people that turned from peasant to unbelievably rich, they spend their money on hilarious things and one of them built this giant palace and at the beginning, it's shaped like a dragon and to get into the palace, you have to actually go through the entrances, the dragon’s jaws. I wish they had a picture of it because it sounded amazing. But Ludvig was very different from this. They were obviously very wealthy, but they didn't waste their time just throwing parties. He liked to work. Ludvig liked to work, and he was very proud that he was considered one of the very few -- they considered like the Baku oil industry completely dishonest. And so it says, "Ludvig was proud of his own particular guarantee and that of its company. If you can find in Baku any man who can prove that we have been dishonest, that we cheat or refuse to address any substantial grievances, we will face inquiry in your presence and if guilty make amends." From every report in this book, Ludvig was a great man. And unfortunately, he had severe health issues. He had issues with his lungs. He had heart disease. And at the early age of 57 years old, his heart fails and he dies. Now the business turns over to his son, Emanuel. A few years later, after Ludvig's death, both other brothers, Robert and then Alfred Nobel also died. Now Emanuel’s life story is also incredible because he's going to be one of the wealthiest people in Russia and he's the one that has to dress up as a peasant and leave, okay, that's going to happen about 15 years is the future, but he's also remarkable because if it wasn't for Emanuel, there would be no Nobel prize. He's the one -- Emanuel was the one, so this is Ludvig’s son, Alfred Nobel's nephew. He is the one that saves the Nobel prize because other people in the Nobel family wanted Alfred Nobel’s will overturned. They wanted his gigantic fortune. And so you have kids of the other brothers that are doing everything in their power to try to avoid Alfred’s will and keep that fortune in the family.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

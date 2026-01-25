@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 That was an excerpt from the book that I just reread and the one I'm going to talk to you about today, which is, Let My People Go Surfing: The Education of a Reluctant Businessman, and it was written by Yvon Chouinard. I first read this book over five years ago. It was originally Episode 18 of Founders. Out of the hundreds of founders that I have studied so far for the podcast, Yvon is definitely one of my favorite founders. You can tell just from that excerpt, like his insistence on living life and building a company that reflects his personality and his philosophies regardless of what other people think he should be doing is one of the most admirable traits that a founder can have. So I want to jump right into his early life. Most of the book is -- and I hope I can convince you to buy the book. It's absolutely excellent. Yvone's early life
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

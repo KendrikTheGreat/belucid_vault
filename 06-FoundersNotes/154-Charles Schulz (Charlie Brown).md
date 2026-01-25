@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “Charles Schulz was 20th century America's favorite and most highly respected cartoonist. His comic strip, Peanuts, appeared daily in over 2,000 newspapers. Compilations of the strip sold in the millions of copies. Thousands of toys and gift items continue to bear the likeness of Charlie Brown, Lucy, Snoopy and other characters who populate their world. Beginning with the first strip published on October 2, 1950, until the last published on Sunday, February 13, 2000, the day after his death, Schulz wrote, penciled, inked and lettered by hand every single one of the daily and Sunday strips to leave his studio, 17,897 in all for an almost 50-year run. Charlie Brown and his friends were preoccupied with what has possessed and continued to obsess us all. The relationship of the self to society, the need to establish our separate identities, anxiety over our neurotic behavior and an overwhelming desire to gain control of our destinies. Charlie Brown appeals to us because of his resilience. His ability to confront and humanize the impersonal forces around him and his unwavering faith in his ability to improve himself and his options in life. In his insecurities and defeats, his affirmations and small victories, Charlie is someone with whom we can identify. This has been Charles Schulz’s amazing gift to the world through his small drawings appearing daily in the buried pages of the comic section of the newspaper. Schulz's major writings have been gathered in this volume. Here, the reader will learn directly from the man himself, the facts of his early life and the development of his career. Here, he talks about a wide variety of topics. The sources of his creativity and inspiration, how Peanuts came to be, the meaning of each character in the strip, his daily routine, how to achieve a career in cartooning, the importance of his work in animation and television and his work ethic. The intent of this collection of Schulz's essays is to round out the portrait of the man as he saw himself. He speaks entirely for himself in these pieces, and the reader can experience directly the greatness of his mind and soul.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

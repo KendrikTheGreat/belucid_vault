@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "First comes the wish, then you must have the heart to have the dream, then you work and work and work. From where you sit, you can probably reach out with comparative ease and touch a life of serenity and peace. You can wait for things to happen and not get too sad when they don't. That's fine for some, but not for me. Serenity is pleasant, but it lacks the ecstasy of achievement. I have insisted on a long stretch rather than a gentle reach. I celebrate the sweet country. America the Beautiful has given me a life of infinite value and pleasure. Living the American dream has been intense, difficult work, but I couldn't have hoped for a more satisfying life. I believe that potential is unlimited. Success depends on daring to act on your dreams. How far do you want to go? Go the distance within each person is the potential to build the Empire of her wishes and don't allow anyone to say you can't have it all. I have always believed that if you stick to a thought and carefully avoid distraction along the way, you can fulfill a dream. My whole life has been about fulfilling dreams. I kept my eye on the target whatever that target was. I never allowed my eye to leave that particular target. Whether your target is big or small, grand or simple, ambitious or personal, I've always believed that success comes from not letting your eyes stray from the target. Anyone who wants to achieve a dream must stay strong, focused and steady. She must expect and demand perfection and never settle for mediocrity. If you push yourself beyond the furthest place you can go, you'll be able to achieve your heart’s dream."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

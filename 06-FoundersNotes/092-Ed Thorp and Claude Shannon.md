@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Again, I've kind of talked about this a lot over the past few weeks because Buffett mentions it over and over again in the shareholder letters. Munger talks about it. And we’ll getting into it here. It says, “’I'd be a bum in the street with a tin cup if the markets were efficient’, Warren Buffett once said. Buffett had already made a name for himself with a successful hedge fund and had founded Berkshire Hathaway, when Paul Samuelson (this is the guy that popularized efficient market theory) wrote that, ‘A loose version of the efficient market of random walk hypothesis accords with the facts of life’. The truth is -- this is Paul Samuelson still talking, the truth is -- and this is what he thinks. He says, ‘This truth, it must be emphasized, is a truth about New York, Chicago, and Omaha’. Samuelson apparently felt that Buffett’s success was best filed with a small minority of unexplained cases”. So this is my problem with Paul Samson is he had like -- the book says, “He had spirited advocacy for the efficient market hypothesis that swept the academic community in 1960s and '70s. He winds up winning a Nobel prize for this theory”. My problem is Samuelson was a liar because he's talking about -- he even is very condescending to people that don't agree with it. He calls them fools and everything else. And yet, he's talking about like this is stupid, like you're dump for believing this, and he is preaching that you should just -- you shouldn't even try. And -- but -- so that's what he's saying with his mouth. But what is he doing with his actions? He's buying Berkshire Hathaway stock. So that tells you he doesn't believe what he's saying. Buffett meant -- and it was interesting to me when I was reading his shareholder letters. Buffett kept mentioning a person who popularized EMT, which is efficient market theory, but who's also a Berkshire investor. It wasn't until I read Fortune's Formula that I knew who he was referring to.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

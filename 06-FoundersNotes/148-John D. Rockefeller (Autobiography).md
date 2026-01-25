@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "I still remember, in some measure, I've been associated with the most interesting people our country has produced, especially in business, men who have helped to build up the commerce of the United States and who have made known its products all over the world. These incidents, which come to my mind to speak of, seemed vitally important to me when they happened, and they still stand out distinctly in my memory."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

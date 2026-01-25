@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so when I had dinner at Charlie Munger's house, he told me that the week before that, Jeff Bezos was there. And I asked Munger what he thought of Bezos, and he said, "He is ferociously intelligent." That is one of my favorite ways I've ever heard another person described. And I think it speaks to why it's important for me to make this episode about this interview, for you to listen to the full interview, and for you to read as much as you can about Jeff Bezos. There's a few episodes of Founders that I'd recommend before I let you go. After this, I would listen to episode 321, which is called "Working with Jeff Bezos." And I would listen to episode 282, which is "Jeff Bezos Shareholder Letters." And if you want to listen to another episode I did like this on a rare interview, Episode 355 was on a rare Bernard Arnault interview that is 374 books down. 1000 to go and I'll talk to you again soon.  
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

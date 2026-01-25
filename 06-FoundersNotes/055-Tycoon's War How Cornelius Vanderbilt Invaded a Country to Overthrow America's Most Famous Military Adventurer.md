@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Vanderbilt was only interested in 2 things: making money and winning. Often, he temporarily subjugated the need for the former to achieve the latter. Vanderbilt had an unquestionable thirst for conquest. There was nothing he could not do, short of outright murder to conquer. Vanderbilt and Walker were like in several respects. Both were opportunists and both were prepared to suffer through short-term adversity to achieve long-term victory. Both Vanderbilt and Walker were loyal to those who were loyal to them, attracting lifelong allegiances from their closest associates. But there, the similarities ended. Walker, because of his limited resources, was prepared to give his trust too readily to achieve his ends, giving that trust to men who turned out to be liars, braggarts and fools. The cunning Vanderbilt was a much better judge of character and here is where the 2 men differed most. If you crossed Walker, he would banish you from his world. If you crossed Vanderbilt, he would set out to conquer you no matter how long it took. Ultimately, that conquest would be signified by a surrender and that surrender would usually take the form of a deal. At one time or another, Vanderbilt got into bed with all of his enemies if they were prepared to submit to him, and most, being businessmen, were. The exception was William Walker. He was not a businessman. He achieved his short-lived successes using war and the law as his tools. And unlike Vanderbilt's other adversaries, Walker was not afraid of the Commodore when he should have been.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And now you're having your girlfriend come in and start bossing us around, giving, telling us, no, like this is not the way to do it, requesting that you fire people that have worked for you for 12 years and screaming in the background, it's either me or him, when you're on the phone, and you comply with this. So from that perspective, like imagine coming into a company that's been running for a while. You're now the CEO or -- the director's kind of a CEO. I know it's not the greatest analogy, but you're coming in as a director, and then you just completely destroy everything that they worked on. The reason I want to preface everything I'm about to read you with, this is like the response from these people is completely predictable. Further response from the crew is completely predictable. And so they, obviously, say very bad things about it and this is an example. Her influence on the whole thing, it was Yoko Ono in The Beatles recording session. She didn't bring anything to the table. And this is where you just see terrible behavior by somebody you admire. He's about to fire one of his closest -- the people he worked with, a cameraman. They worked for him for 12 years. And this had to be devastating because this guy refused to be interviewed for this book. Tony called me a couple of times that night drunk. He -- back to drinking, smoking, doing all -- again, people around you are going to influence you. Asia was a terrible influence on him. He told me that I had to send Zach home that night, and I could hear her in the background just screaming, it's him or me. It's me or him. Pressuring this guy to fire one of his friends. Tony knew that this move, it's like, you can never see this person again. You have to f_*_ up his job, get him fired and make him embarrassed for the rest of his life. And so he does it and everybody talks about -- like everybody who is in the crew is now is like, wait a minute. If you're willing to fire this inevitable some kind of hierarchy and any kind of team organization.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

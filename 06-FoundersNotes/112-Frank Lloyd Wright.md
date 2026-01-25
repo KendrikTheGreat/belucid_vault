@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 But Wright typically had, had a different money idea. Could they not pay him the agreed-upon salary? So it's a five-year contract for $5,000, right? But also loan him an additional $5,000 right away so that he might build his own home. And then he says, "Could not weekly deductions be taken from his paycheck until the notary had been satisfied. The partners agreed." So he gets his contract and then borrows an additional $5,000 against the contract to build his own house. He's not going to last the five years of the contract, by the way. One of the conditions of the agreement, though had been that Wright would not do any moonlighting on his own residential commissions. Well, at the very beginning, we talked about, Wright did not believe rules applied to him at all. He said, "Rules were for ordinary people, I'm not ordinary. I will make it" And this is more of what a lot of people criticized him about is that he just would not honor his words. So it says, "Wright's honor had held for about a year and half, but the reckless spending -- but his reckless spending habits, not to say the arrival of all his children and step order had caught up. He needed more money." So he gets married around this time and they -- I think they have four kids within like the first like five or six years of marriage. Now this part is very interesting because you see a young raw talent, right? But he's not the Frank Lloyd Wright he becomes. He's not that person yet, right? But he's getting there. And you see that potential. Other people see it. So this is how Frank, and his work was seen by his closest friend who was also an architect at the time. Now at this point in the story, Frank is in his late 20s. He's -- I think he's already jumped out onto his own, okay? So this is his friend, writing to Frank. He says, "I found there's no joy in architecture for me, except as I see you do it." Da**. That's a hell of a statement. I'm -- you're so good at the craft that we're both doing that I'm not -- like I don't even get -- I don't get joy unless I see you do it.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

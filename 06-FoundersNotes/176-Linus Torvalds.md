@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 During the euphoria of the final years of the 20th century, a revolution was happening among all other revolutions. Seemingly overnight, the Linux operating system caught the world's attention. It had exploded from the small bedroom of its creator, Linus Torvalds, to attract a cultish following of near-militant geeks. Suddenly, it was infuriating the corporate powerhouses controlling the planet. From a party of one, it now counted millions of users on every continent, including Antarctica, and even outer space, if you count NASA outposts. Not only was it the most common operating system running server computers, dishing out all the content on the world wide web, but it's a very development model, an intricate web of its own, encompassing hundreds of thousands of volunteer computer programmers had grown to become the largest collaborative project in the history of the world. People wanted to learn more about the kid who, if he did not start at all, at least jumpstarted it and was in effect its leader. The trouble was the more successful Linux and open source became, the less he wanted to talk about it. The accidental revolutionary started Linux because playing on a computer was fun. Revolutionaries aren't born. Revolutions can't be planned. Revolutions can't be managed. Revolutions happen, and sometimes revolutionaries just get stuck with it.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

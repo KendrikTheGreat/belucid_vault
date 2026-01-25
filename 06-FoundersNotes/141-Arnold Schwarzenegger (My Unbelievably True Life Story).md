@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 “I always wanted to be an inspiration for people, but I never set out to be a role model in everything. How could I be when I have so many contradictions in my life? I'm a European who became an American leader. A businessman who makes his living as an action hero. A tremendously disciplined super achiever who hasn't always been disciplined enough. A fitness expert who loves cigars. An environmentalist who loves Hummers. A fun-loving guy with kid-like enthusiasm who is most famous for terminating people. How would anybody know what to imitate? I do want to set an example, of course, I want to inspire you to work out, to keep yourself fit, to create a vision, and use your will to accomplish it. In these ways, I'm very happy to take the torch and be a role model for others because I've always had great role models myself. But it's never been my goal to set an example in everything I do. Sometimes I prefer being way out there, shocking people. Rebelliousness is part of what drove me from Austria. I didn't want to be like everyone else. I thought of myself as special and unique and not average. No one could put me in a mold. Being different was right up my alley. But life is richer when we embrace the multitudes we all contain even if we aren't consistent and what we do doesn't always make sense even to us. When I talk to graduating classes, I always tell a brief version of the story of my life and try to offer lessons everybody can use. Have a vision, trust yourself, break some rules, ignore the naysayers. Don't be afraid to fail. Woven through the stories in this memoir are some of the principles of success that have worked for me.”
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

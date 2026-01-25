@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Ritz was not humiliated. He was furious. After all he had done for The Savoy, this was his thanks? To be cast out under a cloud of suspicion and false allegations, it was outrageous. Everything he had done had been for the betterment of the Savoy. Of course, he’d signed for checks and extended credit sometimes. That was his job as the manager, the host, the personification of the hotel and its generosity. All those who had been given credit would certainly be paying their bills. It was insulting to suggest otherwise. And as for his dealings with the backers of the Ritz Hotel syndicate, he had been perfectly aboard from the outset. Richard had always understood that Ritz maintained his independence and would be involved in outside projects. Indeed, from the very beginning, this freedom had been written into his contract with The Savoy. For Richard to be holding it against him now was nothing less than a betrayal, but it was what Richard had said that Ritz and Escoffier had forgot that they were servants and assumed the attitude of masters and proprietors. Those words echoed in his head even now. The idea that they should be seen as servants was the cruelest of insults. César Ritz, Auguste Escoffier servants.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

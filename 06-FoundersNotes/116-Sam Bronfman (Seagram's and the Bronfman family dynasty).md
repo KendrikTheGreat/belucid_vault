@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 Sam is a Canadian tail of rags to riches. The son of a laboring Jewish pioneer from Czarist Russia, he built a gigantic, worldwide company, renowned for the quality of its products and its business acumen. The story of Sam's rise to fame and fortune from a hard life on the Canadian frontier is inherently dramatic and yet touches a familiar nerve in a broad spectrum of the population. There is something in Sam's response to his disappointments that most people recognize in their themselves. Seagram's whisky empire rose spectacularly by taking advantage of the huge American markets after the repeal of U.S. prohibition in 1933. From that point, Sam's business and its profits grew by leaps and bounds. He was so successful that his American competitors denounced the Canadian interloper as imposing unfair, alien competition, and lobbied Washington for protection. Entering the newly opened United States market in the 1930s with millions of gallons of aging whisky stored in Canada, Sam undoubtedly had an advantage over his American counterparts at the time of repeal. But he also had raw talent that he knew how to use. Beating the biggest and the most powerful United States at their own game, Sam revealed a marketing genius that took the breath away from his Madison Avenue advertising agents. In a business environment where critics suggested that corners were always being cut, Sam was a fanatic for quality, and he took the most extraordinary care to see that his products were always the best, the buying public agreed and sought them out. Sam appears to us larger than life and also full of Paradox. Sam was a died-in-the-wool Victorian in his personal habits, his family relations, and his social attitudes.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

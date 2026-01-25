@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b54643e7018142d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Primordial Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Primordial Theory"
-            }
-          },
-          {
-            "id": "6dd9982a7298d54a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBT P.44-61.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MBT P.44-61"
-            }
-          },
-          {
             "id": "f2da9dede128c1c0",
             "type": "leaf",
             "state": {
@@ -65,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,7 +246,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MBT P.44-61.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MBT P.44-61"
+              "title": "Graph view"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -356,31 +306,31 @@
   "active": "82cc58494290ef52",
   "lastOpenFiles": [
     "The Primordial Theory.md",
-    "MBT P.44-61.md",
-    "Managing consciousness.md",
-    "The Hollow Phase (Transition Between Identities).md",
-    "06-FoundersNotes/050-Marc Andreessen's Blog Archive.md",
-    "06-FoundersNotes/049-Screw It, Let's Do It Lessons in Life by Richard Branson.md",
-    "06-FoundersNotes/048-Finding My Virginity The New Autobiography by Richard Branson.md",
-    "06-FoundersNotes/047-Losing My Virginity How I Survived, Had Fun, and Made a Fortune Doing Business My Way.md",
-    "06-FoundersNotes/046-I Love Capitalism An American Story.md",
-    "06-FoundersNotes/045-Built From Scratch How A Couple of Regular Guys Grew The Home Depot from Nothing to $30 Billion.md",
-    "06-FoundersNotes/044-A Memoir by the Cofounder of Microsoft.md",
-    "06-FoundersNotes/043-Ray Dalio Principles Life and Work.md",
-    "06-FoundersNotes/042-One From Many VISA and the Rise of Chaordic Organization.md",
-    "06-FoundersNotes/041-The Hard Thing About Hard Things Building a Business When There Are No Easy Answers.md",
-    "06-FoundersNotes/040-Insisting On The Impossible The Life of Edwin Land and Instant The Story of Polaroid.md",
-    "06-FoundersNotes/039-Walt Disney An American Original.md",
-    "06-FoundersNotes/038-The Space Barons Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos.md",
-    "06-FoundersNotes/037-The Fish That Ate The Whale The Life and Times of America's Banana King.md",
-    "06-FoundersNotes/036-Finding The Next Steve Jobs How to Find, Keep, and Nurture Talent.md",
-    "06-FoundersNotes/035-George Lucas A Life.md",
-    "06-FoundersNotes/034-Creativity Inc The Autobiography of the founder of Pixar.md",
-    "06-FoundersNotes/033-Levi Strauss The Man Who Gave Blue Jeans to the World.md",
-    "06-FoundersNotes/032-Alibaba The House That Jack Ma Built.md",
-    "06-FoundersNotes/031-Conspiracy Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue and Zero to One Notes on Startups, or How to Build the Future.md",
-    "06-FoundersNotes/030-Elon Musk Tesla, SpaceX, and the Quest for a Fantastic Future.md",
-    "06-FoundersNotes/029-The HP Way How Bill Hewlett and I Built Our Company.md",
+    "06-FoundersNotes/FoundersNotes MOC.md",
+    "06-FoundersNotes/383-GHA-test.md",
+    "06-FoundersNotes/381-I Had Dinner With Michael Ovitz.md",
+    "06-FoundersNotes/380-Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+    "06-FoundersNotes/379-Jerry Jones (Dallas Cowboys) 1.md",
+    "06-FoundersNotes/379-Jerry Jones (Dallas Cowboys).md",
+    "06-FoundersNotes/378-The Last Oil Baron Leon Hess.md",
+    "06-FoundersNotes/377-Expanding A Family Dynasty Marcus Wallenberg Jr..md",
+    "06-FoundersNotes/376-Jensen Huang Founder of Nvidia.md",
+    "06-FoundersNotes/375-The Single Biggest Individual Financier In The World. The Richest Woman In America Hetty Green.md",
+    "06-FoundersNotes/374-Rare Jeff Bezos Interview.md",
+    "06-FoundersNotes/373-Breakfast with Brad Jacobs + How To Make A Few Billion Dollars.md",
+    "06-FoundersNotes/372-Amancio Ortega The Genius Behind the Inditex Group.md",
+    "06-FoundersNotes/371-James J. Hill The Empire Builder.md",
+    "06-FoundersNotes/370-The Founder of IKEA Ingvar Kamprad.md",
+    "06-FoundersNotes/369-Elon Musk and The Early Days of SpaceX.md",
+    "06-FoundersNotes/368-Rockefeller's Autobiography.md",
+    "06-FoundersNotes/367-Inside the Contrarian Mind of Sam Zell.md",
+    "06-FoundersNotes/366-Mr. Beast Leaked Memo.md",
+    "06-FoundersNotes/365-Nick Sleep's Letters The Full Collection of the Nomad Investment Partnership Letters to Partners.md",
+    "06-FoundersNotes/364-Nick & Zak's Excellent Adventure How Nick Sleep and Qais Zakaria Built Their Investment Partnership.md",
+    "06-FoundersNotes/363-Li Lu and Charlie Munger and Warren Buffett.md",
+    "06-FoundersNotes/362-Li Lu.md",
+    "06-FoundersNotes/361-Estée Lauder.md",
+    "06-FoundersNotes/360-Robert Kierlin Founder of Fastenal.md",
     "Untitled 1.base",
     "Untitled.base",
     "01-Home",

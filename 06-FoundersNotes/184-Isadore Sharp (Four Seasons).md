@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 They're willing to buy your start-up, come work for us. Again, he's like, no, I'm not going to. "Name your salary, whatever I thought it was worth. You'll earn way more with us, I was told, than you'll ever earn on your own." Yes, right, that winds up being hilariously incorrect. Today, I think he has a net worth of somewhere like $500 million or $600 million. "I listened. I don't think the word tempted fully conveys my feelings at the time. Overwhelmed might be more accurate." This is such an important part of the book, man. "Here I was with just two small hotels, dealing with a company that owned hundreds. I didn't know what to say. I'll give it some thought is what I replied. The following morning, I rose early between 3 or 4 a.m., nothing stirred." "I sat down at my desk with pencil and paper and thought for a couple of hours, not writing a single sentence, just letting my thoughts about working for such a large organization sink in. I started to make a list of pros and cons as darkness faded. By dawn, I knew without further thought exactly what my answer would be. Strange as it was, this was the beginning of a generally beneficial habit when facing my most consequential decisions, one that I practice to this day. I then responded to ITT. Look, I said, I wouldn't be much value to you within your organization. I owe my success to my freedom. I think for me, independence has an incalculable value. So I'm honored by your request, but let's just continue as partners."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

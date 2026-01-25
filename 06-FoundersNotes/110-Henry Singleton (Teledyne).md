@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 They bootstrapped their start-up investment of $450,000 into a company with annual sales of over $450 million and an annual profit of some $20 million and a stock market value of $1.5 billion. That is insane. From $450,000 initial investment to sales over $450 million, profit of $20 million and a market cap of $1.5 billion in 8 years. That is bananas. That's also that 8-year period, they're talking about happened in 1960s. That's where he buys -- he takes advantage of his like the fact that conglomerates had favorable valuation to P/E and bought 130 companies. So that puts us around 1968. I think 1969 or 1970 is the last year he ever bought any company. And so that's why he goes back to the eulogy where he talks about he studied not only like how did Ford built this company, how did General Motors built their company, how did General Electric built their company, but also how do companies succeed through acquisition. Buffett talks about this in shareholders a lot, that most people don't succeed through acquisition. You talked about like you're kissing toads and hoping they turn into princess -- princesses. I don't know the -- I forgot the analogy there, but -- and usually, you are just left with like a graveyard of toads. So he thinks this is actually extremely hard to do. All right. So he says he’s a close lifelong friend of Dr. Singleton, I was a participant for many years in the development and management of Teledyne from its beginning as a small electronics firm into a diverse world-class corporation with peak annual sales of $3.5 billion. I would like to present the Teledyne story from my perspective inside the company during many of those years of the amazing accomplishments and achievements of Henry Singleton made as he conceived, created and nurtured his world-class corporation. These are my recollections of those interesting years. All right. So that -- once you read that introduction, it's very hard not to be excited about the book.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

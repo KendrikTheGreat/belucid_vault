@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 This is his father-in-law writing. "He is without exception, the hardest working man I know of. He generally rises at 5:00 or 6:00 in the morning and takes a ride across the river to see his garden, his farm and his brickmaking. Then he returns to get his breakfast and goes to his armory where he remains off until 7:00 or 8:00 at night. He must love work for its own sake, I think, and it really seems that the more he has to do, the more he enjoys himself." And so he passes away at 47 years old at home, and I'll close on this. "Colt's life was intense, his mind ever on the strain, his brain teeming with plans and hopes and enterprises, but Colt had made the most of what life gave him. He died a middle-aged man, but he had really lived far longer than those who vegetate to a more protracted period. Colt died no more tamely than he lived. His biggest idea was making the world aware that he was in it." For the full story, buy the book using the link that's in your show notes or got to founderspodcast.com, and you'll be supporting the podcast at the same time. That's 147 books down, 1,000 to go, and I'll talk to you again soon.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

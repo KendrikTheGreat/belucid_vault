@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 The photographer from New York Magazine was excited and more than a little nervous. In a matter of moments, he would enjoy a unique opportunity. The chance to snap the first unposted picture ever taken of the richest man in the world. The strange thing was that most Americans had never even heard of Daniel Keith Ludwig. It was hard to figure. How could a man any man in these days of mass media coverage and public obsession with world records manage to accumulate a $3 billion fortune with hardly anyone becoming aware of it? If it takes a 43-inch stack of $100 bills to make $1 million, then a stack equaling $1 billion with a tower over the Empire State Building. Ludwig's riches would be 3x as tall. Obsessed with privacy, Ludwig reportedly pays a major public relations firm fat fees to keep his name out of the papers. The New York Magazine photographer had learned that the world's richest man was living almost anonymously right in the middle of Manhattan and that he was in the habit of walking to work every day. The photographer waited for the billionaire to walk the few blocks from his penthouse apartment. Just as a photographer were starting to think something had gone wrong and Ludwig wasn't coming, he spied a gray-haired figure in a black overcoat walking briskly. As the old man drew close, the photographer raised his camera and aimed. Ludwig surprised, turned his head and looked up. The shutter clicked. The next instant, the world's richest man, 80 years old, but still fit and trim, charged a photographer and grabbed him in a half-nelson. He tried to wrestle into the sidewalk and take the camera, but the photographer twisted out of Ludwig's grasp and ran down the street. New York Magazine ran the photo with an accompanying article, the richest man in America walks to work. Once The Richest Person in the World
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Warren Buffett said, ‘Tom Murphy and Dan Burke were probably the greatest two-person combination in management that the world has ever seen or maybe ever will see.’ When he speaks to business school classes, Warren Buffett often compares the rivalry between Tom Murphy's company, Capital Cities Broadcasting and CBS to a transatlantic race between a rowboat and the QE2." QE2 is the Queen Elizabeth 2, it is this giant transatlantic liner, much, much larger than the Titanic. So he compares it to a transatlantic race between a rowboat and the QE2 to illustrate the tremendous effect management can have on long-term returns. "When Murphy became the CEO of Capital Cities in 1966, CBS was the dominant media business in the country with TV and radio stations in the country's largest markets, the top-rated broadcast network and valuable publishing and music properties. "In contrast, at that time, Capital Cities had five TV stations and four radio stations, all in small markets. CBS' market capitalization was 16 times the size of capital cities. But by the time Murphy sold his company to Disney 30 years later, Capital Cities was three times as valuable as CBS. In other words, the rowboat had won decisively."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 It wasn't until the second half of the 20th century that venture financing became a professional, large-scale industry. And the man who led that transformation was Georges Doriot. I can't recall exactly when I first came across the name of General Georges Doriot. But I do know that in 2002, when I looked into the Spare’s literature on the history of venture capital, his name kept popping up. I found a bunch of newspaper and magazine profiles, a chapter on him in a book or two and a short film but no full-length biography. He is the founder of the modern VC industry but there's been remarkably little written about him. He is the first person who basically ran an institutional venture capital fund, and he played a lead role in getting the VC community to see itself as a real industry. The venture capital industry began to take shape after World War II on the Northeastern seaboard, when in 1946, Doriot became president of the first public venture capital firm, Boston-based American Research and Development Corporation. The famous inventor Charles F. Kettering predicted ARD would go bust in 5 years but Doriot proved him wrong. Over the next 25 years, as his firm financed and nurtured more than 100 start-ups, many of which became huge successes that pushed the frontiers of technology and business. ARD companies led the way in developing computers, atom smashers, medical devices and new machines that desalinated brackish water. Doriot even backed George H. W. Bush's first company, Zapata Offshore. “He was very important because he was the first one to believe there was a future in financing entrepreneurs in an organized way. The more I research Doriot's life, my fascination with an idea transformed into a fascination with the man behind the idea. Doriot was one of the most charismatic characters I have ever come across. Though I've never met the man, I fell under his spell."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And then this part which is funny because this is human -- we have to -- like we're all temporary beings, like we have to enjoy this ride that we're on, and I find the behavior of human beings curious, yes, but also funny. This part is it's funny. It's not funny because it causes like pain, but it's a ridiculous belief like people should know better. The bankers during the -- right before the panic of 1907 it says the bankers weren't worried. It had become a cardinal doctor in an American banking circles, that panics like those of 1893 and 1873 would never again be witnessed in this country. That's a ridiculous statement. Now this is Hetty reflecting on the panic of 1907. It's humorous, I didn't explain that correctly. It's humorous the idea that we're so arrogant in what we think we know about a world that's way too complex for our tiny little human brains to understand that we think that we could ever cure. Like we've now entered the age where there's never going to be any more financial booms and bust, like that's ridiculous. How do you reflect on the panic of 1907? How do you believe the problems can be traced through another source? There's one reason why we have hard times. Well, there's probably multiple reasons, but this is her reason. Money easy, coming and easy going. “American children are not taught how to save money, but how to spend it.” These are direct quotes from her. Everything they want, give it to them as long as you know the price of the credit. That's the policy of the modern mother, and she's raising the nation of spend thrifts, whose one thought is to get what they want when they want it regardless of costs. So essentially, she is saying, they're just not disciplined financially. And then there's like this heard like tendency for humans to react all the same way in booms and bust. And Hetty makes money just by going against the herd. This is very interesting. So now we're -- she's much older.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

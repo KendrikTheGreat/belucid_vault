@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So it went undiagnosed, but they're pretty sure it was like syphilis, or they think it was syphilis. He says, so he's 20 years old, his father died and he was haunted by the fact that his dad turned into a shell of himself basically. It was a further source of unhappiness for Winston that he had seen so little of his father. First, his father was so busy, then he was so strict and he remembered every word of their few personal conversations he had had with them. And then we see the personality of the author, Paul Johnson shines through in his book, and we see an example of that here. How much Winston inherited from its father, good or bad, is a matter of opinion. Mine is not much. Indeed, there is a little of the Churchills in him. They were on a whole, an unremarkable lot. None achieved distinction. And they think he might -- so Churchill suffered from several periods of his life of like depression. And there is a family history of that. There is a bunch of pathological depression in his father’s side of the family. So it says Winston complained a periodic dark moods, which he called the Black Dog, but these were occasioned by actual reverses and were soon dispersed by vigorous activity. So this idea of being depressed, stressed, anxious, and eliminating that are mitigating the effects of that with vigorous physical activity. This is an idea that Winston Churchill shares with several other historical figures. Nelson Mandela talks about this in his autobiography, Teddy Roosevelt talks about this over and over again. And so we see Winston Churchill using that idea as well. So it says it was from his mother that Winston derived his salient characteristics, his energy, he was extremely high energy, love of adventure, his ambition, his intellect, his warm feelings, his courage and resilience, and a huge passion for life in all its aspects. And this is just fantastic traits to -- if you're going to send an example for other people, your children included, she believes that the sky was the limit that everything was possible, that tradition, precedence, and the “right way” of doing things could always be ignored when ambition demanded.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

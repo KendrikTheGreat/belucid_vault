@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "The cameraman was excited and more than a little nervous. In a matter of moments, he would enjoy a unique opportunity, the chance to snap the first unposed picture ever taken of the richest man in the world. The strange thing was that most Americans had never even heard of Daniel Keith Ludwig. It was hard to figure how could a man, any man in these days of mass media coverage and public obsession with world records managed to accumulate a $3 billion fortune with hardly anyone becoming aware of it. As the old man drew close, the photographer raised his camera and aimed. Ludwig surprised, turned his head and looked up, the shutter clicked. The next instant, the world's richest man, 80 years old but still fit and trim from daily swims, charged the startled newsman and grabbed him in a half nelson, presumably to wrestle him to the sidewalk and take the camera. But the photographer recovering from this unexpected attack, twisted out of Ludwig's grasp and ran down the street with his prized picture, leaving Daniel glaring angrily at his retreating back."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

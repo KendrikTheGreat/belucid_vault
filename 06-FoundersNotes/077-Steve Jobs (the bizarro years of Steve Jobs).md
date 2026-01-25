@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "When Jobs left Apple in 1985 to start another computer company from scratch, the NeXT in its name referred to Steve Jobs' next bid to shape history, to present to a grateful world the next big thing. Intermittently, the world had heard from him and his company in press releases or in staged events for the media. But though eight years had passed, and the fire of ambition burned as brightly as in Jobs as ever, another business miracle had yet to materialize. Reporters who wrote about NeXT would often forget when exactly NeXT had been founded." "And as late as 1992 would still refer to NeXT as a company that was two or three years old, an error that Jobs, of course, was happy to let stand uncorrected. The less attention paid to his failures to repeat at NeXT his earlier success at Apple, the more attention he could direct towards NeXT's future, clean and untarnished, always bright with possibility. Better to look anywhere but to the past record, where Jobs' attempt to build a profitable rival to Apple had led him from one strategy to another, from blunder to blunder, disaster to disaster." "What makes his NeXT story especially intriguing, however, is the gullibility of many others who lent money, careers and prestige to Steve Jobs' quest. The greater portion of investment capital came not from Jobs' own pocket but from that of others. The amount of money that was sunk into the NeXT venture made it a story for the history books, but not in the way that Jobs intended. Well over $250 million of capital and royalties disappeared in NeXT, without a penny of net profit to show for the investment. NeXT's dismal skein of business misjudgments threatened to go down in the books as the most expensive flop in the history of entrepreneurship."
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

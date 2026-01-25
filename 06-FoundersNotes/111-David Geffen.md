@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 And so when I read -- Tim inspired me when I read this post, and maybe I had an inkling of that idea somewhere, but he communicates it better than I can, that, wow, like, yes, that's not an accurate representation of reality. Humans are obsessed with themselves. And so in that sense, like lean into what makes you unique in -- I'm talking to myself now, I need to lean into what makes me unique, and I need to understand my own strengths. Yes, there's a lot of things about myself that I want to change, but I don't have control over. Like if you ever saw me in person, like I have a gigantic head like seriously, I was teased ruthlessly, an older brother and everybody -- my friends would come over in elementary school, right? And my brother would call me basketball head because I look a lollypop, because I was a skinny kid with this giant round head. And now -- like when I was a kid, it tormented me, but now I think it's funny because like maybe that's where I store all the stuff I read or like it just -- it just doesn't matter. And obviously, it grew into my head somewhat. But my point being is like when I was younger, I thought of it as a weakness. I wanted to change it. You're so -- you don't understand what you don't know when you're 8 or 10 or 12 years old and you're being teased about this stuff because I didn't finish, I thought -- my brother had said this in front of my friends and they took it back to school and then it just spread like wildfire. So then on, I was a basketball head. Now I think it's funny because I don't care, like I didn't control this. I didn't choose to have a giant head, but I do. So it is what it is. Like it's just silly to fret over things you can't control. And David, in large part, he also had a weird unbelievable belief in his talent and ability and yet at the same time, hated a lot of the stuff about himself. So this is why I'm so confused when I'm doing this podcast because this is a very confusing book and a very confusing person. So -- all right. Let's go back to more of its personality.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

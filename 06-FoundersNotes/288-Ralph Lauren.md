@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So this got Bill Blass and then Pierre Cardin, and they go over the numbers of just how different, like all the money was in licensing. "Bill Blass’s licensing business, for example, brought in $100 million in 1976. The collections that he made himself did no more than $25 million. And then this is a punchline, licensing would explain how the designers amassed such large fortunes so quickly. Ralph would show exactly how well he understood this when he signed, what would be one of the most lucrative licensing deals, a deal that a decade later was still producing royalties of more than $5 million a year." So I put $5 million a year into the -- like to adjust it for inflation, in today's dollars, that's $13 million a year. So let me just read that again in today's dollars. "So in 10 years from now, a deal that would still be producing --" this is just one single deal. He's got a ton of licensing agreements and now you can see how he afforded the Gulfstream and all the estates. "A deal that decade later was still producing royalties of more than $13 million a year. Ralph Lauren, designer would become Ralph Lauren perfume seller." And so the history of business is filled with these unbelievable deals that individuals and in many cases, two individuals come to mind, they're able to work out for themselves. So I think of Coco Chanel, and I think of Michael Jordan. Coco Chanel, I covered this on episode #199. She eventually gets, I think, 2% of gross sales worldwide for all the Coco Chanel perfumes, CHANEL N°5 being one of the most commercially successful products of all time. She was making like -- this made her reportedly the richest women alive when this deal was going on towards -- I forgot how old she was, but she was making the equivalent of -- so it's $25 million a year back then, which today's dollars, it'd be like somebody paying you $300 million a year, and her contract stipulated that the company had to pay for every single one of her living expenses. So she's got no bills and she's making $300 million a year.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 My professional likes seem destined to have one foot in Silicon Valley and the other in Hollywood. I first got into the film business in 1979. When flush from the success of Star Wars, George Lucas hired me to help him bring high technology into the film industry. Our offices were located about an hour's drive from Palo Alto, the heart of Silicon Valley. That proximity gave me a front-row seat from which to observe the many emerging hardware and software companies. I couldn't have arrived at a more dynamic and volatile time. I watched as many startups burn bright with success and then flamed out. My mandate at Lucas' film to merge moviemaking with technology meant that I rub shoulders with the leaders of places like Sun Microsystems and Silicon Graphics. I watch these guys closely, hoping to learn from the trajectories their companies followed, gradually a pattern emerged. Someone had a creative idea, obtained funding, brought on a lot of smart people, and developed and sold a product that got a boatload of attention. That initial success begets more success, luring the best engineers and attracting customers. As these companies grow, much was written about their paradigm-shifting approaches and their CEOs landed on the cover of magazines. But then those companies did something stupid, not just stupid and retrospect, but obvious at the time stupid. I wanted to understand why. What was causing smart people to make decisions that sent their companies off the rails. I didn't doubt that they believed they were doing the right thing, but something was blinding them and keeping them from seeing the problems that threatened to upend them. As a result, their companies expanded like bubbles and then burst.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 His mom -- he didn't really consider her a mom. She was more like a friend. She basically had no rules. She wasn't interested in growing up, his parents wind up getting to divorce and I’ll get into the bizarre story, just crazy story what his mom does. But then you have -- so on one hand, you have his mom who's kind of like a friend, right? And then his dad is this really gifted engineer that is highly recruited by the major technology companies of his day. So they move around from the East Coast to Phoenix to then he winds up in Silicon Valley, and his dad was a workaholic. So Steven winds up emulating his dad, but in Steven's movies, a lot of them has to do with like an absentee dad. So they wind up reconciling later on in life. But Steven had a really hard time with that. And Steven's dad also took a bad approach -- in my opinion, a bad approach, he kind of tried to direct what his son was going to do with his life, forced him into, hey, study math, then study engineering, be an engineer like me. And Steven did -- he just wasn't interested in that. He wasn't interested in school. He knew again, I'm going to be a director. Not only – not just I'm going to work in the film industry, I'm going to be a director. So he starts talking to his dad about wanting to be a director and his dad tries to -- what's the way to put this, he tries to make him think smaller. So this -- you'll see what I mean right here. So he says, he said, "I want to be a director.” And I said, "Well, if you want to be a director, you got to start at the bottom. You've got to be a gofer and work your way up.” And he said, “No dad. The first picture I do. I'm going to be a director,” and he was, that blew my mind. That takes guts. And here's another quote from a young Steven Spielberg, "Making movies grows on you. You can't shake it. I like directing movies above all. All I know for sure is I've gone too far to back out now." And so this idea there's no turning back. This obviously conflicts with a lot of conventional life advice, but it appears over and over again in these biographies.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

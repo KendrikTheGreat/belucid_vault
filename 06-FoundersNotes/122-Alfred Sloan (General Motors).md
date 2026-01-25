@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 So of course, you can't really understand Alfred Sloan if you don't understand Billy Durant and vice versa. So he's going to talk a lot about Durant in this book. His book was published about 20 years after Durant died. So he says, Durant's pioneer work has yet to receive the recognition it deserves," he's writing that in 1963, still the case today. Most people don't know who the Founder of General Motors is. Everybody knows who the founder of Ford is. "His philosophy was an emerging one in the Model T era and it was afterwards to be realized, not by him but by others, including myself." So what is he saying in that paragraph? Durant came up with the idea, I executed it. This is Sloan on Durant and Ford building personality-driven companies. He says, "They were a generation of what I might call personal types of industrialists. That is they injected their personalities, their genius as a subjective factor into their operations without the discipline of management by methods and objective facts." So the first half of that sentence is, Sloan giving him credit to what he feels were their best attributes. The second half was what they didn't do well, and what he feels he did well. Now this is also interesting because when I read that section, it made me think of this quote by Charlie Munger that I never forgot. He says that you must follow your natural drift. And he talks about he graduated from law school. He started practice as an attorney. A lot of his other clients are business people. And he's like, "I'm not suited to be an attorney. I don't want to do this. I want to invest in businesses, and I want to be a business person. I want to be an entrepreneur and I want to be an investor." And he talked about like this plenty of -- like he just had to be who he was. That's what he means by following your drift. So Sloan is talking about they're injecting their personality into their businesses. I think everybody injects their personality into their craft. I just think the people who are the best are the ones that lean into whatever makes them unique.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

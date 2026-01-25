@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 At age 36, Bill Gates has become the most powerful and feared player in the computer industry and in the process, the richest man in America. Revenues of his Microsoft Corporation topped out at $1.8 billion in 1991. His operating system has become standard in computing operating systems, and his software dominates much of the industry. Now worth over $7 billion, Chairman Bill has revolutionized the software business. Hailed as a computer genius and a brilliant entrepreneur by some and a bully by others, Gates' aggressive management style and fiery spirit can intimidate competitors and employees alike. Hard Drive, chronicles Gates’ rise in the industry from computer whiz kid to software giant. His early years as a high school entrepreneur, his creation at age 19 with Paul Allen of the world's first computer language for a personal computer, and Microsoft's rocky decade-long marriage to IBM. Part entrepreneur, part salesman. Gates is a brilliant, some say manipulative businessmen who according to friends and foes alike simply must win. Gates has emerged as the undisputed leader of the computer software industry, and Hard Drive examines what kind of leader he is.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

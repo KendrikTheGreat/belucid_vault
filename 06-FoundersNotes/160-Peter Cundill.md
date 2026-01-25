@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 "Knowing is better than remembering. We are born unequal. We die equal. To govern is to serve not to rule." That's the end of the quotes from Seneca. "Be passionate but avoid zealotry. Be politically correct. Be a Bubba. Use Bill Clinton as a role model. Wear sackcloth and enjoy pain. Lead an opulent lifestyle." Those are a series of contradictions there, right? "Own a house, enjoy hotel rooms. Travel to extremes. Consider each resting place a sanctuary and a home. Strive for high levels of awareness. Enjoy brain moments. Be responsible, but remember that the ultimate freedom is the other absence of obligation." Wow, that sentence hits really hard now that I finished the book. "Ultimate freedom is the other absence of obligation." I think that's sort of what he was seeking out. "Be highly principled, but be flexible and above all fair. Be optimistic or be pessimistic, but above all be realistic. Seek order. Confront chaos. Retreat from the maelstrom. Be open, but you can keep a few dark secrets. Be a historian, be a prophet, be deductive, be inductive. The stock market is almost always wrong. Once in a while, it is right. God is infinity. Don't question any further. This is an absolute truth. Don't own a car, ride a bike, use the subway, hire limos. Remember that in life, one is both a participant and an observer." That's good.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)

@@ -1,3 +1,11 @@
+---
+ingest: false
+type: foundersnote
+up: "[[FoundersNotes MOC]]"
+number:
+date: ""
+tags:
+---
 During my 44 years as a CEO and a serial entrepreneur, I have made every possible mistake in business. I've overpaid for acquisitions and botched integrations. I've run operations for cash when I should have invested for growth. I have delegated tasks I should have done myself. I've hired the wrong people. I made strategic bets that didn't pay off. And yet, my teams and I have managed to create tens of billions of dollars of value for our shareholders. This book is about what I've learned from my blunders and how you can replicate our successes. I'm what's called a moneymaker. I've started five companies from scratch, seven if you include two spin-offs and turn them all into 1 billion or multibillion-dollar enterprises. My teams and I have completed approximately 500 acquisitions. In total, these ventures have created hundreds of thousands of jobs and raised about $30 billion in outside capital. My career began in 1979 when I started a privately owned oil brokerage company called Amerex Oil Associates. I was 23, with just a few thousand bucks and no experience. Within four years, my partners and I had $4.7 billion in annual brokerage volume with offices worldwide. We sold Amerex in 1983, and I moved from New York to London to start an oil trading company called Hamilton Resources. Hamilton generated about $1 billion a year in revenue, and we made this money through an opportunistic combination of crude oil trading, counter trade, prefinance, and refinery processing deals. In 1989, so six years later, I moved back to the United States and entered a new sector, the rapidly expanding field of solid waste management. I called my new venture, United Waste Systems and took it public in 1992. So founded the company in 1989, takes it public in '92, is going to sell it in '97. We became the industry's fifth largest player.
 
 ![](https://www.foundersnotes.com/static/images/new_icons/chevron-down-alt-thin.svg)
