@@ -151,7 +151,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -352,7 +353,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6dd9982a7298d54a",
+  "active": "82cc58494290ef52",
   "lastOpenFiles": [
     "The Primordial Theory.md",
     "MBT P.44-61.md",
