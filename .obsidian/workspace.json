@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "f4c9ca9b04c932c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "1dc6d92d43c7d0e1",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,7 +340,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "755204f2a9e6c454",
+  "active": "f4c9ca9b04c932c4",
   "lastOpenFiles": [
     "The Primordial Theory.md",
     "06-FoundersNotes/FoundersNotes MOC.md",
