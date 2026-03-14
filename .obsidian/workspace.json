@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suicide.md",
+                "file": "Suicide weekly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suicide"
+              "title": "Suicide weekly"
             }
           },
           {
@@ -307,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Suicide.md",
+                "file": "Suicide weekly.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -335,7 +335,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Suicide"
+              "title": "Graph of Suicide weekly"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -367,7 +367,7 @@
   },
   "active": "fdbc0fccef7cd84f",
   "lastOpenFiles": [
-    "Suicide.md",
+    "Suicide weekly.md",
     "The Primordial Theory.md",
     "06-FoundersNotes/FoundersNotes MOC.md",
     "06-FoundersNotes/383-GHA-test.md",
