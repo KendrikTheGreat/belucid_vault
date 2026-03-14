@@ -42,6 +42,30 @@
             }
           },
           {
+            "id": "fdbc0fccef7cd84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suicide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Suicide"
+            }
+          },
+          {
             "id": "1dc6d92d43c7d0e1",
             "type": "leaf",
             "state": {
@@ -54,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,6 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Suicide.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +335,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Suicide"
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -340,8 +365,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f4c9ca9b04c932c4",
+  "active": "fdbc0fccef7cd84f",
   "lastOpenFiles": [
+    "Suicide.md",
     "The Primordial Theory.md",
     "06-FoundersNotes/FoundersNotes MOC.md",
     "06-FoundersNotes/383-GHA-test.md",
@@ -367,7 +393,6 @@
     "06-FoundersNotes/363-Li Lu and Charlie Munger and Warren Buffett.md",
     "06-FoundersNotes/362-Li Lu.md",
     "06-FoundersNotes/361-Estée Lauder.md",
-    "06-FoundersNotes/360-Robert Kierlin Founder of Fastenal.md",
     "Untitled 1.base",
     "Untitled.base",
     "01-Home",

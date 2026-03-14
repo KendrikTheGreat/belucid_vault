@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Suicide",
+      "path": "Suicide.md"
+    },
+    {
       "basename": "The Primordial Theory",
       "path": "The Primordial Theory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "336-How To Lose A Few Billion Dollars Samuel Insull",
       "path": "06-FoundersNotes/336-How To Lose A Few Billion Dollars Samuel Insull.md"
-    },
-    {
-      "basename": "335-How To Make A Few Billion Dollars Brad Jacobs",
-      "path": "06-FoundersNotes/335-How To Make A Few Billion Dollars Brad Jacobs.md"
     }
   ],
   "omittedPaths": [],
